@@ -1,0 +1,21 @@
+<map id="src/3rdparty/hiir/hiir/StageProc8F64Avx512.hpp" name="src/3rdparty/hiir/hiir/StageProc8F64Avx512.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="344,5,526,46"/>
+<area shape="rect" id="Node000002" href="$d5/d89/StageProc8F64Avx512_8h.html" title=" " alt="" coords="350,94,519,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,62,437,94,432,94,432,62"/>
+<area shape="rect" id="Node000003" href="$da/dea/Downsampler2x8F64Avx512_8hpp.html" title=" " alt="" coords="5,183,219,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,142,186,185,185,180,346,137"/>
+<area shape="rect" id="Node000005" href="$da/dc9/HalfBand8F64Avx512_8hpp.html" title=" " alt="" coords="243,183,418,223"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="401,147,356,184,352,180,398,143"/>
+<area shape="rect" id="Node000007" href="$d0/d9d/PhaseHalfPi8F64Avx512_8hpp.html" title=" " alt="" coords="443,183,637,223"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="472,143,518,180,515,184,468,147"/>
+<area shape="rect" id="Node000009" href="$de/d58/Upsampler2x8F64Avx512_8hpp.html" title=" " alt="" coords="661,183,859,223"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="524,137,687,180,685,185,523,142"/>
+<area shape="rect" id="Node000004" href="$d0/d8f/Downsampler2x8F64Avx512_8h.html" title=" " alt="" coords="12,271,212,312"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,239,115,271,109,271,109,239"/>
+<area shape="rect" id="Node000006" href="$df/d50/HalfBand8F64Avx512_8h.html" title=" " alt="" coords="250,271,411,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,239,333,271,328,271,328,239"/>
+<area shape="rect" id="Node000008" href="$d2/d0e/PhaseHalfPi8F64Avx512_8h.html" title=" " alt="" coords="450,271,630,312"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="543,239,543,271,537,271,537,239"/>
+<area shape="rect" id="Node000010" href="$da/d7c/Upsampler2x8F64Avx512_8h.html" title=" " alt="" coords="668,271,852,312"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="763,239,763,271,757,271,757,239"/>
+</map>

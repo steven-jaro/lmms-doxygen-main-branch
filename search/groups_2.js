@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['2_200_0',['Porting from FLAC 1.1.4 to 1.2.0',['../group__porting__1__1__4__to__1__2__0.html',1,'']]],
-  ['2_20interface_1',['FLAC/metadata.h: metadata level 2 interface',['../group__flac__metadata__level2.html',1,'']]],
-  ['2_20to_201_201_203_2',['Porting from FLAC 1.1.2 to 1.1.3',['../group__porting__1__1__2__to__1__1__3.html',1,'']]]
+  ['data_0',['Reading and writing MIDI data',['../d1/d91/group__MIDIAPI.html',1,'']]],
+  ['determining_20latency_1',['Managing and determining latency',['../d7/dc4/group__LatencyFunctions.html',1,'']]]
 ];

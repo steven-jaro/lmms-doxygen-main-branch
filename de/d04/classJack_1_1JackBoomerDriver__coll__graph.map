@@ -1,0 +1,37 @@
+<map id="Jack::JackBoomerDriver" name="Jack::JackBoomerDriver">
+<area shape="rect" id="Node000001" title="The Boomer driver." alt="" coords="220,3222,371,3898"/>
+<area shape="rect" id="Node000069" href="$da/de7/classJack_1_1JackBoomerDriver_1_1JackBoomerDriverInput.html" title=" " alt="" coords="5,3969,180,4112"/>
+<area shape="poly" id="edge16_Node000069_Node000001" title=" " alt="" coords="222,3662,185,3719,149,3783,116,3852,92,3923,87,3953,82,3952,87,3922,111,3850,144,3781,181,3716,218,3660"/>
+<area shape="rect" id="Node000070" href="$d6/da6/classJack_1_1JackBoomerDriver_1_1JackBoomerDriverOutput.html" title=" " alt="" coords="284,3969,469,4112"/>
+<area shape="poly" id="edge19_Node000070_Node000001" title=" " alt="" coords="290,3898,304,3944,308,3953,303,3955,299,3946,285,3899"/>
+<area shape="rect" id="Node000002" href="$db/d8b/classJack_1_1JackAudioDriver.html" title="The base class for audio drivers: drivers with audio ports." alt="" coords="781,2617,972,3131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="774,3001,373,3472,369,3468,770,2997"/>
+<area shape="rect" id="Node000003" href="$d7/d4c/classJack_1_1JackDriver.html" title=" " alt="" coords="1046,1241,1201,2568"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1045,2224,944,2618,939,2617,1040,2223"/>
+<area shape="rect" id="Node000004" href="$d6/d2e/classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="816,554,1007,621"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="922,635,1049,1422,1043,1423,916,636"/>
+<area shape="rect" id="Node000007" href="$d0/d9b/classJack_1_1JackLockedEngine.html" title="Locked Engine, access to methods is serialized using a mutex." alt="" coords="1030,107,1216,1068"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="1126,1068,1126,1224,1121,1224,1121,1068"/>
+<area shape="rect" id="Node000011" href="$dc/d8c/classJack_1_1JackGraphManager.html" title="Graph manager: contains the connection manager and the port array." alt="" coords="1241,5,1422,1170"/>
+<area shape="poly" id="edge5_Node000003_Node000011" title=" " alt="" coords="1244,1161,1206,1397,1201,1396,1238,1160"/>
+<area shape="rect" id="Node000042" href="$d2/d73/classJack_1_1JackAndroidSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="1446,422,1628,753"/>
+<area shape="poly" id="edge6_Node000003_Node000042" title=" " alt="" coords="1521,753,1488,954,1465,1063,1437,1170,1386,1322,1328,1472,1267,1612,1211,1734,1206,1732,1263,1610,1323,1470,1381,1320,1432,1169,1460,1062,1483,953,1515,752"/>
+<area shape="rect" id="Node000033" href="$d3/de2/structJack_1_1JackEngineControl.html" title="Engine control in shared memory." alt="" coords="1652,138,1821,1038"/>
+<area shape="poly" id="edge7_Node000003_Node000033" title=" " alt="" coords="1686,1038,1667,1106,1643,1171,1600,1266,1549,1359,1493,1450,1434,1536,1316,1690,1214,1810,1210,1806,1312,1687,1430,1533,1488,1447,1544,1357,1595,1263,1638,1169,1662,1104,1681,1037"/>
+<area shape="rect" id="Node000063" href="$da/d57/structJack_1_1JackClientControl.html" title="Client control possibly in shared memory." alt="" coords="1845,422,1992,753"/>
+<area shape="poly" id="edge8_Node000003_Node000063" title=" " alt="" coords="1923,753,1917,851,1902,958,1876,1067,1857,1120,1835,1171,1773,1281,1698,1386,1615,1485,1529,1576,1442,1658,1358,1731,1216,1841,1213,1837,1354,1727,1438,1654,1525,1572,1611,1481,1694,1383,1768,1278,1830,1168,1852,1118,1870,1066,1897,957,1911,850,1918,752"/>
+<area shape="rect" id="Node000064" title=" " alt="" coords="435,547,594,628"/>
+<area shape="poly" id="edge9_Node000003_Node000064" title=" " alt="" coords="517,628,521,726,534,863,546,939,562,1017,582,1094,609,1169,652,1264,702,1357,758,1447,817,1533,934,1687,1037,1806,1032,1810,930,1690,813,1536,754,1450,698,1360,647,1266,604,1171,577,1096,557,1018,541,940,529,863,516,726,512,628"/>
+<area shape="rect" id="Node000065" title=" " alt="" coords="618,539,792,636"/>
+<area shape="poly" id="edge10_Node000003_Node000065" title=" " alt="" coords="712,635,723,734,742,867,769,1018,807,1169,859,1322,920,1474,982,1615,1041,1737,1036,1740,978,1618,915,1476,854,1324,802,1170,764,1019,736,868,717,734,706,636"/>
+<area shape="rect" id="Node000066" href="$de/d1b/classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="217,2617,374,3131"/>
+<area shape="poly" id="edge11_Node000001_Node000066" title=" " alt="" coords="298,3130,298,3205,293,3205,293,3130"/>
+<area shape="rect" id="Node000067" href="$dc/d11/classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="218,1609,372,2199"/>
+<area shape="poly" id="edge12_Node000066_Node000067" title=" " alt="" coords="298,2214,298,2617,293,2617,293,2214"/>
+<area shape="rect" id="Node000068" href="$d3/daf/classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="207,524,384,651"/>
+<area shape="poly" id="edge13_Node000067_Node000068" title=" " alt="" coords="298,651,298,1592,293,1592,293,651"/>
+<area shape="poly" id="edge15_Node000069_Node000068" title=" " alt="" coords="273,666,212,877,176,1020,139,1181,105,1355,77,1536,58,1721,51,1903,51,3561,55,3673,63,3785,85,3969,80,3970,58,3785,50,3674,46,3562,46,1903,53,1721,72,1536,100,1354,134,1180,171,1018,207,875,268,665"/>
+<area shape="poly" id="edge18_Node000070_Node000068" title=" " alt="" coords="318,664,368,876,428,1180,456,1355,478,1537,494,1721,499,1903,499,3561,504,3672,510,3759,508,3801,502,3844,489,3892,467,3946,453,3971,449,3968,462,3944,484,3890,497,3843,503,3800,504,3759,499,3672,494,3562,494,1903,488,1721,473,1537,450,1355,423,1181,363,877,313,666"/>
+<area shape="poly" id="edge14_Node000001_Node000069" title=" " alt="" coords="130,3968,142,3944,211,3784,216,3786,147,3946,135,3971"/>
+<area shape="poly" id="edge17_Node000001_Node000070" title=" " alt="" coords="362,3970,353,3915,358,3914,368,3969"/>
+</map>

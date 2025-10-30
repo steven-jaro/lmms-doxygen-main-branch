@@ -1,0 +1,28 @@
+var classlmms_1_1ProjectJournal =
+[
+    [ "CheckPoint", "d4/d3d/structlmms_1_1ProjectJournal_1_1CheckPoint.html", "d4/d3d/structlmms_1_1ProjectJournal_1_1CheckPoint" ],
+    [ "CheckPointStack", "dc/d5c/classlmms_1_1ProjectJournal.html#a7abce9e8072400ecdf6c396a005f2a15", null ],
+    [ "JoIdMap", "dc/d5c/classlmms_1_1ProjectJournal.html#a509b072ff454f48b7718efa381d42209", null ],
+    [ "ProjectJournal", "dc/d5c/classlmms_1_1ProjectJournal.html#ad862ddc21296516f03d7d9854438f5db", null ],
+    [ "~ProjectJournal", "dc/d5c/classlmms_1_1ProjectJournal.html#adcee25a4d2cadb7fab82e90dbb987927", null ],
+    [ "addJournalCheckPoint", "dc/d5c/classlmms_1_1ProjectJournal.html#a794fdbaf4d89db71ce93123da7fa6ebb", null ],
+    [ "allocID", "dc/d5c/classlmms_1_1ProjectJournal.html#afbdb719f230c727b94099c25e19a575c", null ],
+    [ "canRedo", "dc/d5c/classlmms_1_1ProjectJournal.html#af7969ef296f5adf75d6dc12169ad3418", null ],
+    [ "canUndo", "dc/d5c/classlmms_1_1ProjectJournal.html#ad7341ecdc39c6a572c02e42f7434cafe", null ],
+    [ "clearJournal", "dc/d5c/classlmms_1_1ProjectJournal.html#adf780d8b629af353fa9b12f394c88264", null ],
+    [ "freeID", "dc/d5c/classlmms_1_1ProjectJournal.html#a2deb3eac3ecb0f816d90ff180eeb2673", null ],
+    [ "idFromSave", "dc/d5c/classlmms_1_1ProjectJournal.html#a906b0e0f02fc9ae6af761d414a6d6a4a", null ],
+    [ "idToSave", "dc/d5c/classlmms_1_1ProjectJournal.html#acfdaa59cd8ab14b7f1653b67fecdc7ff", null ],
+    [ "isJournalling", "dc/d5c/classlmms_1_1ProjectJournal.html#ab2a117c7c3d2a5e5b4dcb938c1d500ac", null ],
+    [ "journallingObject", "dc/d5c/classlmms_1_1ProjectJournal.html#a58b920e67d1fcade7e110cc5cffa333e", null ],
+    [ "reallocID", "dc/d5c/classlmms_1_1ProjectJournal.html#a9d036add291e64e2cff1c055fa652416", null ],
+    [ "redo", "dc/d5c/classlmms_1_1ProjectJournal.html#abbeab464cc1139da6e0f82a0272915d4", null ],
+    [ "setJournalling", "dc/d5c/classlmms_1_1ProjectJournal.html#ab2091fb1e8827164170061fcddfb9964", null ],
+    [ "stopAllJournalling", "dc/d5c/classlmms_1_1ProjectJournal.html#a8a9f81fd3b55ec33cef1f4f7ed59f1a9", null ],
+    [ "undo", "dc/d5c/classlmms_1_1ProjectJournal.html#a84ca8f8e7b0502fd5989ae0992c4ced8", null ],
+    [ "m_joIDs", "dc/d5c/classlmms_1_1ProjectJournal.html#ab5e5cf0c7f06b483b0a9e43cfc9411c8", null ],
+    [ "m_journalling", "dc/d5c/classlmms_1_1ProjectJournal.html#afbb0ea4acf7861b8b427512713fcaaed", null ],
+    [ "m_redoCheckPoints", "dc/d5c/classlmms_1_1ProjectJournal.html#aaa2f0b3f421594b623437c1ccfd4a931", null ],
+    [ "m_undoCheckPoints", "dc/d5c/classlmms_1_1ProjectJournal.html#ae51f98f882046d5e7ad38c5c8ee06a8a", null ],
+    [ "MAX_UNDO_STATES", "dc/d5c/classlmms_1_1ProjectJournal.html#afc6f9ff7a8580acd30d119a603b673b6", null ]
+];

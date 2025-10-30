@@ -1,9 +1,0 @@
-<map id="dsp::convert_periodic" name="dsp::convert_periodic">
-<area shape="rect" id="Node000001" title=" " alt="" coords="419,60,562,86"/>
-<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1pulsator__audio__module.html#afeecff8b21c36e0a5fbfe9bdddf40ccb" title="Called when params are changed (before processing)." alt="" coords="214,5,371,61"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,59,371,52,372,46,409,54"/>
-<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1vintage__delay__audio__module.html#a7ee2e4bacce5a3066ba21e1304fcb752" title="Called when params are changed (before processing)." alt="" coords="217,85,368,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="409,92,369,100,368,95,408,87"/>
-<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1pulsator__audio__module.html#a1fa950a57d304cf0f7c399d3ac7def59" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,13,166,54"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,36,166,36,166,30,198,30"/>
-</map>

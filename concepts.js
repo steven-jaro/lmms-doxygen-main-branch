@@ -1,7 +1,7 @@
 var concepts =
 [
-    [ "lmms", "namespacelmms.html", [
-      [ "SampleType", "conceptlmms_1_1SampleType.html", null ],
-      [ "AudioBufferView", "conceptlmms_1_1AudioBufferView.html", null ]
+    [ "lmms", "d1/dfd/namespacelmms.html", [
+      [ "AudioBufferView", "db/d47/conceptlmms_1_1AudioBufferView.html", null ],
+      [ "SampleType", "da/d31/conceptlmms_1_1SampleType.html", null ]
     ] ]
 ];

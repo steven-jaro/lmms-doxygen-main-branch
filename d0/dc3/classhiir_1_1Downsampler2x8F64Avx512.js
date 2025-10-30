@@ -1,0 +1,25 @@
+var classhiir_1_1Downsampler2x8F64Avx512 =
+[
+    [ "DataType", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a967c009adfe2583843941c7fa9cc0eab", null ],
+    [ "Filter", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a99c5dab96d292309a8df5947e6f863eb", null ],
+    [ "Downsampler2x8F64Avx512", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#ad83bf1f6800f266a0217fd121860e4c5", null ],
+    [ "Downsampler2x8F64Avx512", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#af7312c0649ebf92a181f6da010de8c21", null ],
+    [ "Downsampler2x8F64Avx512", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a68b6daee979657e448a306b50fc63ccc", null ],
+    [ "~Downsampler2x8F64Avx512", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#abe1fe85fcb7a0fb63486a20ab4583d97", null ],
+    [ "clear_buffers", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#ad15479422179052a93c2be0457d043d2", null ],
+    [ "operator!=", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a4f3a989a6e2d9f4f838e46303758298a", null ],
+    [ "operator=", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a99be3c48fa0fcc75a445c1e44cf123a7", null ],
+    [ "operator=", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a17b95dad36207c74e72bf29d2cdfea93", null ],
+    [ "operator==", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a9b0e75cfefe414953b75c54250af6947", null ],
+    [ "process_block", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a754300edabe99668e5452ed18f5d30db", null ],
+    [ "process_block_split", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#ab9556dc69e8d22385f5e2fa3fa7f11e9", null ],
+    [ "process_sample", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#ad769aa7a14a7e12d03bb15ec334e5be3", null ],
+    [ "process_sample", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#af4916bef93bc219667a26b9af790e762", null ],
+    [ "process_sample_split", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a1b652962e15d39adb74b300537951acc", null ],
+    [ "process_sample_split", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a96896ee7ca744c5765f3630229f79ee2", null ],
+    [ "set_coefs", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#ada7267f6ba5c4d48710f09e028b03bcc", null ],
+    [ "_delay", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a91c54734f0be5c7d2a511862f9df110a", null ],
+    [ "_filter", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a3bb51577a3628962a2fb801037e6b61c", null ],
+    [ "_nbr_chn", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#ad92adb989ea25eaf5363af67f91f2188", null ],
+    [ "NBR_COEFS", "d0/dc3/classhiir_1_1Downsampler2x8F64Avx512.html#a605cc63a5487d34855f55dee57201035", null ]
+];

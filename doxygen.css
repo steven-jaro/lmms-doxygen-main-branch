@@ -2472,6 +2472,13 @@ details[open]>summary::before {
 	font-size: 80%;
 }
 
+
+html {
+--timestamp: 'Thu Oct 30 2025 17:19:21';
+}
+span.timestamp { content: ' '; }
+span.timestamp:before { content: var(--timestamp); }
+
 :root {
     scrollbar-width: thin;
     scrollbar-color: var(--scrollbar-thumb-color) var(--scrollbar-background-color);

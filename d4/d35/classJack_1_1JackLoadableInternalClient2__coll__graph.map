@@ -1,0 +1,22 @@
+<map id="Jack::JackLoadableInternalClient2" name="Jack::JackLoadableInternalClient2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="546,3076,749,3218"/>
+<area shape="rect" id="Node000002" href="$d7/dc8/classJack_1_1JackLoadableInternalClient.html" title=" " alt="" coords="476,2842,672,2984"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,2997,628,3075,623,3077,598,2999"/>
+<area shape="rect" id="Node000003" href="$d5/d67/classJack_1_1JackInternalClient.html" title="Internal clients in the server." alt="" coords="421,2583,570,2771"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="534,2784,553,2841,548,2843,529,2786"/>
+<area shape="rect" id="Node000004" href="$d0/d05/classJack_1_1JackClient.html" title="The base class for clients: share part of the implementation for JackInternalClient and JackLibClient..." alt="" coords="5,5,209,2512"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,2502,224,2510,243,2536,265,2559,316,2598,371,2628,422,2650,420,2655,368,2633,313,2602,261,2563,239,2539,220,2513,215,2505"/>
+<area shape="rect" id="Node000017" href="$da/d57/structJack_1_1JackClientControl.html" title="Client control possibly in shared memory." alt="" coords="234,1093,381,1424"/>
+<area shape="poly" id="edge4_Node000003_Node000017" title=" " alt="" coords="317,1424,344,1912,366,2211,395,2511,397,2535,402,2558,414,2580,410,2583,398,2560,391,2536,390,2512,361,2212,338,1912,311,1424"/>
+<area shape="rect" id="Node000020" href="$dc/d8c/classJack_1_1JackGraphManager.html" title="Graph manager: contains the connection manager and the port array." alt="" coords="405,676,586,1841"/>
+<area shape="poly" id="edge5_Node000003_Node000020" title=" " alt="" coords="498,1840,498,2566,493,2566,493,1840"/>
+<area shape="rect" id="Node000040" href="$d3/de2/structJack_1_1JackEngineControl.html" title="Engine control in shared memory." alt="" coords="610,808,778,1708"/>
+<area shape="poly" id="edge6_Node000003_Node000040" title=" " alt="" coords="740,1708,739,1913,732,2021,721,2131,703,2242,679,2351,648,2457,608,2560,583,2601,578,2599,604,2557,643,2456,674,2349,698,2241,715,2131,727,2021,733,1913,734,1708"/>
+<area shape="rect" id="Node000048" href="$d7/df7/structjack__driver__desc__t.html" title="A struct for describing a jack driver." alt="" coords="709,2603,828,2751"/>
+<area shape="poly" id="edge7_Node000002_Node000048" title=" " alt="" coords="711,2751,645,2831,641,2827,707,2748"/>
+<area shape="rect" id="Node000049" href="$d4/dff/structjack__driver__param__desc__t.html" title="A driver parameter descriptor." alt="" coords="802,1185,965,1332"/>
+<area shape="poly" id="edge8_Node000048_Node000049" title=" " alt="" coords="886,1332,883,1542,872,1846,861,2020,847,2200,827,2382,802,2559,797,2587,791,2586,797,2558,822,2381,841,2199,856,2019,867,1846,878,1542,881,1332"/>
+<area shape="rect" id="Node000053" href="$df/df0/struct__JSList.html" title=" " alt="" coords="696,2880,751,2946"/>
+<area shape="poly" id="edge9_Node000001_Node000053" title=" " alt="" coords="715,2947,678,3061,673,3059,710,2945"/>
+<area shape="poly" id="edge10_Node000053_Node000053" title=" " alt="" coords="752,2891,769,2895,776,2902,778,2913,776,2924,770,2931,766,2928,771,2922,772,2913,771,2905,767,2899,751,2896"/>
+</map>

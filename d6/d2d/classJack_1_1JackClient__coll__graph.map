@@ -1,0 +1,28 @@
+<map id="Jack::JackClient" name="Jack::JackClient">
+<area shape="rect" id="Node000001" title="The base class for clients: share part of the implementation for JackInternalClient and JackLibClient..." alt="" coords="486,1769,690,4275"/>
+<area shape="rect" id="Node000002" href="$dc/df7/classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="5,1197,162,1345"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,1359,136,1537,184,1744,257,2007,336,2270,488,2731,483,2732,331,2271,251,2008,178,1746,131,1538,96,1360"/>
+<area shape="rect" id="Node000003" href="$d3/daf/classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="151,5,328,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,148,229,204,223,389,223,534,228,864,221,1094,210,1272,207,1358,208,1450,214,1554,228,1677,249,1818,277,1961,343,2242,417,2505,488,2731,483,2733,412,2507,338,2244,271,1962,244,1819,222,1678,209,1555,202,1450,201,1358,204,1272,215,1093,222,864,218,534,217,389,224,204,228,147"/>
+<area shape="rect" id="Node000007" href="$dc/d11/classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="239,204,393,793"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="253,132,263,186,258,187,248,133"/>
+<area shape="rect" id="Node000004" href="$d9/d82/struct__jack__position.html" title=" " alt="" coords="418,1027,584,1515"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,1515,527,1752,522,1752,510,1515"/>
+<area shape="rect" id="Node000005" href="$d4/da9/struct__jack__session__event.html" title=" " alt="" coords="608,1187,741,1355"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="673,1355,653,1752,648,1752,668,1355"/>
+<area shape="rect" id="Node000006" href="$de/d1b/classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="237,1014,394,1528"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="358,1527,486,2348,480,2349,353,1528"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="318,808,318,1014,313,1014,313,808"/>
+<area shape="rect" id="Node000008" href="$df/dd1/classJack_1_1detail_1_1JackClientChannelInterface.html" title="Inter process channel for server/client bidirectionnal communication : request and (receiving) notifi..." alt="" coords="765,864,963,1678"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="802,1678,695,2358,690,2357,797,1677"/>
+<area shape="rect" id="Node000009" href="$d2/d73/classJack_1_1JackAndroidSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="987,1106,1170,1436"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1040,1437,977,1678,833,2194,697,2662,692,2660,827,2193,972,1677,1035,1436"/>
+<area shape="rect" id="Node000010" href="$d9/d65/classJack_1_1detail_1_1JackSynchro.html" title="An inter process synchronization primitive." alt="" coords="1000,333,1157,664"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1081,679,1081,1106,1076,1106,1076,679"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1194,1230,1310,1312"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1251,1312,1230,1473,1211,1576,1185,1678,1133,1837,1075,1997,1011,2155,945,2308,814,2589,700,2817,695,2815,810,2587,940,2306,1006,2153,1070,1995,1128,1835,1180,1677,1206,1575,1225,1473,1246,1311"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1211,465,1292,532"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1254,547,1254,1231,1249,1231,1249,547"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1242,36,1261,102"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1254,102,1254,448,1249,448,1249,102"/>
+</map>

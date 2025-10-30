@@ -1,6 +1,22 @@
 var searchData=
 [
-  ['half_5for_5ffull_5ft_0',['half_or_full_t',['../classasio_1_1detail_1_1null__fenced__block.html#a21c66218b4c10beb58f227cc40b655df',1,'asio::detail::null_fenced_block']]],
-  ['handshake_5ftype_1',['handshake_type',['../classasio_1_1ssl_1_1stream__base.html#a2f18813d3860bc8aee99249834d7c320',1,'asio::ssl::stream_base']]],
-  ['hosttype_2',['HostType',['../classjuce_1_1PluginHostType.html#a177830e408982c1688b2c7645b921ff0',1,'juce::PluginHostType::HostType'],['../classNativePlugin.html#ae577b30a55c9747d61af8c3b85bf086c',1,'NativePlugin::HostType']]]
+  ['jack_5fclient_5fstate_5ft_0',['jack_client_state_t',['../d2/d34/JackTypes_8h.html#aad550c0e5bb50b03ecffca24ce139d28',1,'JackTypes.h']]],
+  ['jack_5fdriver_5fparam_5ftype_5ft_1',['jack_driver_param_type_t',['../de/dfe/driver__interface_8h.html#ac6aa82caa2dafb5ca8f82d342f66c594',1,'driver_interface.h']]],
+  ['jack_5fdriver_5ftype_5ft_2',['jack_driver_type_t',['../de/dfe/driver__interface_8h.html#a88b7de1c139900cc7a78a3e79466db9c',1,'driver_interface.h']]],
+  ['jack_5fposition_5fbits_5ft_3',['jack_position_bits_t',['../d9/d49/types_8h.html#a64608154318de05af9e763bfb5fb8529',1,'types.h']]],
+  ['jack_5fproperty_5fchange_5ft_4',['jack_property_change_t',['../de/d99/group__Metadata.html#ga5119741a63b2fc47c8f8f7a5cb84143c',1,'jack_property_change_t:&#160;metadata.h'],['../d0/d13/JackMetadata_8h.html#a5119741a63b2fc47c8f8f7a5cb84143c',1,'jack_property_change_t:&#160;JackMetadata.h']]],
+  ['jack_5fshmtype_5ft_5',['jack_shmtype_t',['../dd/d94/shm_8h.html#afab9bf9b6697892c5ed2f6a0994f9e1d',1,'shm.h']]],
+  ['jack_5ftimer_5ftype_5ft_6',['jack_timer_type_t',['../d2/d34/JackTypes_8h.html#a7aa0e5ef99529cf23e69ff98727ceddc',1,'JackTypes.h']]],
+  ['jack_5ftransport_5fbits_5ft_7',['jack_transport_bits_t',['../d9/d49/types_8h.html#a230191365921fd425c389ed5eab18eef',1,'types.h']]],
+  ['jack_5ftransport_5fstate_5ft_8',['jack_transport_state_t',['../d9/d49/types_8h.html#a66e50952a88eb087867922bfe3d0bd72',1,'types.h']]],
+  ['jackctl_5fdriver_5ftype_5ft_9',['jackctl_driver_type_t',['../d9/d02/control_8h.html#a3a160c9609a226c2f769fe27f59ca642',1,'jackctl_driver_type_t:&#160;control.h'],['../d0/d62/JackControlAPI_8h.html#a3a160c9609a226c2f769fe27f59ca642',1,'jackctl_driver_type_t:&#160;JackControlAPI.h']]],
+  ['jackctl_5fparam_5ftype_5ft_10',['jackctl_param_type_t',['../d9/d02/control_8h.html#ac71832cf5445a694a178d15345d67840',1,'jackctl_param_type_t:&#160;control.h'],['../d0/d62/JackControlAPI_8h.html#ac71832cf5445a694a178d15345d67840',1,'jackctl_param_type_t:&#160;JackControlAPI.h']]],
+  ['jacklatencycallbackmode_11',['JackLatencyCallbackMode',['../d9/d49/types_8h.html#a6e99aa9141e9ee146a56cf53b96964d8',1,'types.h']]],
+  ['jacknetencoder_12',['JackNetEncoder',['../d7/d97/net_8h.html#a8c68d541c1d1cc52726d0f24d47be8fe',1,'JackNetEncoder:&#160;net.h'],['../d0/d0a/JackNetAPI_8cpp.html#a8c68d541c1d1cc52726d0f24d47be8fe',1,'JackNetEncoder:&#160;JackNetAPI.cpp'],['../df/d79/namespaceJack.html#a9105ef2ee11e172eaa9ca769e886baea',1,'Jack::JackNetEncoder']]],
+  ['jackoptions_13',['JackOptions',['../d9/d49/types_8h.html#a396617de2ef101891c51346f408a375e',1,'types.h']]],
+  ['jackportflags_14',['JackPortFlags',['../d9/d49/types_8h.html#acbcada380e9dfdd5bff1296e7156f478',1,'types.h']]],
+  ['jacksessioneventtype_15',['JackSessionEventType',['../d8/d5c/group__SessionClientFunctions.html#ga5616b829095cc341cee4610aba992a4d',1,'JackSessionEventType:&#160;session.h'],['../d4/daa/JackSession_8h.html#a5616b829095cc341cee4610aba992a4d',1,'JackSessionEventType:&#160;JackSession.h']]],
+  ['jacksessionflags_16',['JackSessionFlags',['../d8/d5c/group__SessionClientFunctions.html#ga596a05b8e9be60e04ee3f8d434c5d8f8',1,'JackSessionFlags:&#160;session.h'],['../d4/daa/JackSession_8h.html#a596a05b8e9be60e04ee3f8d434c5d8f8',1,'JackSessionFlags:&#160;JackSession.h']]],
+  ['jacksessionreply_17',['JackSessionReply',['../df/d79/namespaceJack.html#afacb877c1e8ba598de8cfc2c100bc6f1',1,'Jack']]],
+  ['jackstatus_18',['JackStatus',['../d9/d49/types_8h.html#aaf80297bce18297403b99e3d320ac8a8',1,'types.h']]]
 ];

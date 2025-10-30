@@ -1,0 +1,25 @@
+<map id="lmms::Plugin" name="lmms::Plugin">
+<area shape="rect" id="Node000001" title="Abstract representation of a plugin." alt="" coords="477,1159,617,1490"/>
+<area shape="rect" id="Node000002" href="$d1/d62/classlmms_1_1Model.html" title=" " alt="" coords="5,808,158,1017"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,1028,150,1059,172,1087,207,1121,245,1154,327,1211,408,1257,478,1292,476,1296,406,1262,324,1216,242,1158,203,1125,168,1090,146,1062,127,1031"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="52,519,111,585"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,600,84,809,79,809,79,600"/>
+<area shape="rect" id="Node000004" href="$dd/d8d/classlmms_1_1JournallingObject.html" title=" " alt="" coords="182,737,387,1088"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="397,1085,479,1213,475,1216,393,1088"/>
+<area shape="rect" id="Node000005" href="$d7/d28/classlmms_1_1SerializingObject.html" title=" " alt="" coords="313,437,459,666"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="352,681,336,738,331,737,347,680"/>
+<area shape="rect" id="Node000006" href="$de/dc9/classlmms_1_1SerializingObjectHook.html" title=" " alt="" coords="411,849,588,976"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="376,666,384,712,391,724,401,736,460,833,455,836,397,739,387,727,379,714,370,667"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="495,850,487,773,479,731,467,691,463,680,468,678,472,689,484,730,492,772,500,849"/>
+<area shape="rect" id="Node000007" href="$dc/d8b/structlmms_1_1Plugin_1_1Descriptor.html" title="Descriptor holds information about a plugin &#45; every external plugin has to instantiate such a Descrip..." alt="" coords="582,458,731,646"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="652,646,633,850,602,1089,592,1143,587,1142,597,1088,628,849,647,646"/>
+<area shape="rect" id="Node000012" href="$da/d98/structlmms_1_1Plugin_1_1Descriptor_1_1SubPluginFeatures_1_1Key.html" title="Key reference a Plugin::Descriptor, and, if the plugin has sub plugins, also reference its sub plugin..." alt="" coords="746,791,917,1035"/>
+<area shape="poly" id="edge12_Node000012_Node000007" title=" " alt="" coords="704,645,768,775,763,777,699,647"/>
+<area shape="rect" id="Node000008" href="$da/de7/classlmms_1_1PixmapLoader.html" title=" " alt="" coords="476,181,608,328"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="573,327,617,441,612,443,568,329"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="508,5,575,72"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="544,71,544,164,539,164,539,71"/>
+<area shape="rect" id="Node000011" href="$d7/de7/classlmms_1_1Plugin_1_1Descriptor_1_1SubPluginFeatures.html" title="Access to non&#45;key&#45;data of a sub plugin." alt="" coords="632,143,803,366"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="698,367,682,442,677,441,692,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="764,1036,729,1090,630,1225,626,1222,725,1087,759,1033"/>
+</map>

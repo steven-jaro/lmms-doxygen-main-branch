@@ -1,0 +1,25 @@
+var classhiir_1_1Downsampler2x4Sse =
+[
+    [ "DataType", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a396b84fc2291480b8f48b875855d0b6d", null ],
+    [ "Filter", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a4d073e4ec323693bd71bb159dafd2481", null ],
+    [ "Downsampler2x4Sse", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a9741a4bfcc9a38c25c6f3a1b92779246", null ],
+    [ "Downsampler2x4Sse", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#aa54480b2dc38f7002d5b5ad04e71ca71", null ],
+    [ "Downsampler2x4Sse", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#aac406d376c13567faf4cd2cec7db0444", null ],
+    [ "~Downsampler2x4Sse", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a4f6c5e0a446c3c0a31de37b67fe85195", null ],
+    [ "clear_buffers", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#aec4c134dc2bbd11a4b092e8a3691d505", null ],
+    [ "operator!=", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a4ebe48ee2d5853b7436066bdb3c26dc4", null ],
+    [ "operator=", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a907225d37428fe44e1736173b0cee104", null ],
+    [ "operator=", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#af79a2bcce279a3d7a36f60eef3d761cb", null ],
+    [ "operator==", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a4d8d210f25fd45fb0d934f1d7f71884f", null ],
+    [ "process_block", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#aef057d2331c2d3c6882648031e39162a", null ],
+    [ "process_block_split", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a1da1e1294c88118e11d57f5d52310145", null ],
+    [ "process_sample", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#ab957aabe4ff5a07b530236e9c9ac8a1b", null ],
+    [ "process_sample", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a06b71ae1f1e2d66baa1ce3333a8a6f3c", null ],
+    [ "process_sample_split", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a4f1c9872e112388abaab0a974a02b729", null ],
+    [ "process_sample_split", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#ada8d0cdaec923e45b6c67d3e5438597d", null ],
+    [ "set_coefs", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a0b6964ea5f8ea22918ce2c524440a0b8", null ],
+    [ "_delay", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#ab20f4bbf3b5a73e59576c0b64754da7d", null ],
+    [ "_filter", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a6d3c80f14b399b794bb4893bf54114bc", null ],
+    [ "_nbr_chn", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a6d3e0a49db1c016094626c649a6f17d0", null ],
+    [ "NBR_COEFS", "d5/d5f/classhiir_1_1Downsampler2x4Sse.html#a0aaf99527fe1c553debd0432662e5a30", null ]
+];

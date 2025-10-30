@@ -1,0 +1,17 @@
+<map id="Jack::detail::JackSynchro" name="Jack::detail::JackSynchro">
+<area shape="rect" id="Node000001" title="An inter process synchronization primitive." alt="" coords="433,5,590,336"/>
+<area shape="rect" id="Node000002" href="$d2/d73/classJack_1_1JackAndroidSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="5,414,188,745"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,220,367,252,310,291,253,336,201,386,177,416,173,413,197,382,249,332,306,287,365,248,419,216"/>
+<area shape="rect" id="Node000004" href="$d7/dbd/classJack_1_1JackFifo.html" title="Inter process synchronization using Fifo." alt="" coords="212,414,331,745"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="426,271,384,326,346,385,330,416,325,414,341,383,379,323,422,268"/>
+<area shape="rect" id="Node000005" href="$da/d93/classJack_1_1JackLinuxFutex.html" title="Inter process synchronization using Linux futex." alt="" coords="356,384,491,776"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="475,351,468,385,463,384,470,350"/>
+<area shape="rect" id="Node000006" href="$d9/d17/classJack_1_1JackMachSemaphore.html" title="Inter process synchronization using using Mach semaphore." alt="" coords="515,394,686,766"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="553,350,563,394,558,395,548,351"/>
+<area shape="rect" id="Node000007" href="$dd/de4/classJack_1_1JackPosixSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="710,425,881,735"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="601,260,652,319,700,382,726,424,721,426,696,386,648,322,597,263"/>
+<area shape="rect" id="Node000008" href="$dc/d7a/classJack_1_1JackWinSemaphore.html" title="Inter process synchronization using system wide semaphore." alt="" coords="904,435,1065,725"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="605,202,674,232,751,272,827,322,862,351,895,382,932,434,928,437,891,386,859,355,824,327,748,277,672,237,603,207"/>
+<area shape="rect" id="Node000003" href="$d6/da9/classJack_1_1JackWinEvent.html" title="Inter process synchronization using system wide events." alt="" coords="33,824,160,1134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,759,99,824,94,824,94,759"/>
+</map>

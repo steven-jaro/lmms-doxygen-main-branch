@@ -1,0 +1,26 @@
+var struct__ffado__driver =
+[
+    [ "capture_channels", "d7/d8b/struct__ffado__driver.html#a5b7aae8a6d13b42812381d611d6d52b7", null ],
+    [ "capture_frame_latency", "d7/d8b/struct__ffado__driver.html#a1e47e5b201838259a18cbe88357e48d9", null ],
+    [ "capture_nchannels", "d7/d8b/struct__ffado__driver.html#a39b78f22ef69fbf60de9916786e419e7", null ],
+    [ "client", "d7/d8b/struct__ffado__driver.html#a4d4a3c83030b1d988e1e260496519ae8", null ],
+    [ "dev", "d7/d8b/struct__ffado__driver.html#aeb56e42ca34f7e3b237c4754ce13cae6", null ],
+    [ "device_info", "d7/d8b/struct__ffado__driver.html#a08cd7bd3e4481943dadf752a3784cf96", null ],
+    [ "device_options", "d7/d8b/struct__ffado__driver.html#a45e3b847630ca3e565a73c1c9e25735b", null ],
+    [ "JACK_DRIVER_NT_DECL", "d7/d8b/struct__ffado__driver.html#ae9f1c3141958f6012ebb80a6161be18f", null ],
+    [ "nullbuffer", "d7/d8b/struct__ffado__driver.html#a63f5c415730844bf4feb5e2ea9a17d4b", null ],
+    [ "period_size", "d7/d8b/struct__ffado__driver.html#aad0ac795363911181b9ed6a5d59ee09b", null ],
+    [ "playback_channels", "d7/d8b/struct__ffado__driver.html#a52fd129bb553a3d81f28c059ce71bcd9", null ],
+    [ "playback_frame_latency", "d7/d8b/struct__ffado__driver.html#aba03caba343d4837f4ab4080e199930c", null ],
+    [ "playback_nchannels", "d7/d8b/struct__ffado__driver.html#aa6b8ca861f3aefcfa5969bb0c09eed41", null ],
+    [ "process_count", "d7/d8b/struct__ffado__driver.html#a008039eb2391da23b9cff6ea6261ef6c", null ],
+    [ "sample_rate", "d7/d8b/struct__ffado__driver.html#a096f69f883c427901957a45b158fd26b", null ],
+    [ "scratchbuffer", "d7/d8b/struct__ffado__driver.html#a295480b0abe1988191bcfaaf03102f1c", null ],
+    [ "settings", "d7/d8b/struct__ffado__driver.html#a45f5d5593031edbeae149111a325f229", null ],
+    [ "wait_last", "d7/d8b/struct__ffado__driver.html#a0cbb02044fa01ea2f25ecf4004ac1836", null ],
+    [ "wait_late", "d7/d8b/struct__ffado__driver.html#a157df46279254d7865345ace4e57fa4c", null ],
+    [ "wait_next", "d7/d8b/struct__ffado__driver.html#ae23db780033fbee1844d2e1d49c43c3b", null ],
+    [ "wait_time", "d7/d8b/struct__ffado__driver.html#a05b9916ee866c746bcb79f09e1873723", null ],
+    [ "xrun_count", "d7/d8b/struct__ffado__driver.html#ab062c396c4595a077a55c306cf2459e3", null ],
+    [ "xrun_detected", "d7/d8b/struct__ffado__driver.html#a35a3bf1d2b0aa25e73af4cf7a4c6ca18", null ]
+];

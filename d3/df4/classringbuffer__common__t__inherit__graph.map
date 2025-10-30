@@ -1,0 +1,13 @@
+<map id="ringbuffer_common_t" name="ringbuffer_common_t">
+<area shape="rect" id="Node000001" title="common variables for both reader and writer" alt="" coords="108,5,261,112"/>
+<area shape="rect" id="Node000002" href="$d6/d20/classringbuffer__base.html" title=" " alt="" coords="8,160,173,425"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,127,146,162,141,160,155,125"/>
+<area shape="rect" id="Node000004" href="$d4/dca/classringbuffer__reader__base.html" title=" " alt="" coords="198,229,360,356"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,125,256,228,251,230,209,127"/>
+<area shape="rect" id="Node000003" href="$d1/dac/classringbuffer__t.html" title="TODO: specialization for only one reader." alt="" coords="5,496,176,760"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,439,94,496,88,496,88,439"/>
+<area shape="rect" id="Node000005" href="$da/d2d/classringbuffer__reader__t.html" title=" " alt="" coords="205,473,353,783"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,371,282,473,276,473,276,371"/>
+<area shape="rect" id="Node000006" href="$d6/d39/classlmms_1_1LocklessRingBufferReader.html" title="Wrapper for lockless ringbuffer reader." alt="" coords="186,831,372,953"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="282,798,282,831,276,831,276,798"/>
+</map>

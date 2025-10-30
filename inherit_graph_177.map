@@ -1,3 +1,39 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$struct__UzpVer2.html" title=" " alt="" coords="5,5,84,31"/>
+<area shape="rect" id="Node000000" href="$d2/d2c/classJack_1_1JackMidiReadQueue.html" title="Interface for objects that MIDI events can be read from." alt="" coords="5,82,181,108"/>
+<area shape="rect" id="Node000001" href="$d2/dde/classJack_1_1JackMidiAsyncQueue.html" title="This is a MIDI message queue designed to allow one thread to pass MIDI messages to another thread (th..." alt="" coords="239,164,420,189"/>
+<area shape="poly" id="edge138_Node000000_Node000001" title=" " alt="" coords="168,111,182,117,206,133,230,149,263,160,262,165,227,153,203,137,179,121,166,116"/>
+<area shape="rect" id="Node000004" href="$de/d0d/classJack_1_1JackMidiBufferReadQueue.html" title="Wrapper class to present a JackMidiBuffer in a read queue interface." alt="" coords="244,99,416,139"/>
+<area shape="poly" id="edge140_Node000000_Node000004" title=" " alt="" coords="196,103,244,108,244,113,196,108"/>
+<area shape="rect" id="Node000005" href="$db/df3/classJack_1_1JackMidiReceiveQueue.html" title="Implemented by MIDI input connections." alt="" coords="234,49,426,74"/>
+<area shape="poly" id="edge141_Node000000_Node000005" title=" " alt="" coords="195,78,234,72,234,78,196,83"/>
+<area shape="rect" id="Node000002" href="$dc/dc5/classJack_1_1JackMidiAsyncWaitQueue.html" title="This is an asynchronous wait queue that allows a thread to wait for a message, either indefinitely or..." alt="" coords="485,164,692,189"/>
+<area shape="poly" id="edge139_Node000001_Node000002" title=" " alt="" coords="436,174,484,174,484,179,436,179"/>
+<area shape="rect" id="Node000006" href="$df/df8/classJack_1_1JackALSARawMidiReceiveQueue.html" title=" " alt="" coords="481,71,696,111"/>
+<area shape="poly" id="edge142_Node000005_Node000006" title=" " alt="" coords="442,72,481,76,480,81,441,77"/>
+<area shape="rect" id="Node000007" href="$da/d69/classJack_1_1JackFFADOMidiReceiveQueue.html" title=" " alt="" coords="490,5,688,46"/>
+<area shape="poly" id="edge143_Node000005_Node000007" title=" " alt="" coords="441,44,488,37,489,42,442,49"/>
+<area shape="rect" id="Node000003" href="$de/d3a/classJackMidiReadQueue.html" title="Interface for objects that MIDI events can be read from." alt="" coords="22,132,164,157"/>
+<area shape="poly" id="edge144_Node000003_Node000001" title=" " alt="" coords="180,153,239,161,238,167,179,159"/>
+<area shape="poly" id="edge145_Node000003_Node000004" title=" " alt="" coords="179,133,244,126,244,131,179,138"/>
+<area shape="poly" id="edge146_Node000003_Node000005" title=" " alt="" coords="166,124,179,118,203,101,227,85,261,73,263,78,230,89,206,106,182,123,168,129"/>
+<area shape="rect" id="Node000008" href="$d7/d85/classJack_1_1JackMidiWriteQueue.html" title="Interface for classes that act as write queues for MIDI messages." alt="" coords="5,262,181,288"/>
+<area shape="poly" id="edge147_Node000008_Node000001" title=" " alt="" coords="126,251,173,225,228,199,265,187,266,192,230,204,176,229,129,256"/>
+<area shape="rect" id="Node000009" href="$d7/da1/classJack_1_1JackMidiBufferWriteQueue.html" title="Wrapper class to present a JackMidiBuffer in a write queue interface." alt="" coords="244,393,416,434"/>
+<area shape="poly" id="edge148_Node000008_Node000009" title=" " alt="" coords="177,293,182,297,200,318,207,339,214,360,230,380,247,391,244,395,227,384,210,362,202,341,195,320,179,301,174,298"/>
+<area shape="rect" id="Node000011" href="$d5/d7b/classJack_1_1JackMidiRawInputWriteQueue.html" title="This queue enqueues raw, unparsed MIDI packets, and outputs complete MIDI messages to a write queue." alt="" coords="234,213,426,254"/>
+<area shape="poly" id="edge149_Node000008_Node000011" title=" " alt="" coords="185,256,233,248,234,253,186,262"/>
+<area shape="rect" id="Node000012" href="$d8/ddc/classJack_1_1JackMidiRawOutputWriteQueue.html" title="This queue enqueues valid MIDI events and modifies them for raw output to a write queue." alt="" coords="229,279,431,319"/>
+<area shape="poly" id="edge150_Node000008_Node000012" title=" " alt="" coords="196,283,228,286,228,291,196,288"/>
+<area shape="rect" id="Node000013" href="$da/d0e/classJack_1_1JackMidiSendQueue.html" title="Implemented by MIDI output connections." alt="" coords="242,344,418,369"/>
+<area shape="poly" id="edge151_Node000008_Node000013" title=" " alt="" coords="168,291,182,297,206,313,230,329,263,340,262,345,227,333,203,317,179,301,166,296"/>
+<area shape="rect" id="Node000014" href="$d0/da9/classJack_1_1JackALSARawMidiSendQueue.html" title=" " alt="" coords="490,365,688,406"/>
+<area shape="poly" id="edge152_Node000013_Node000014" title=" " alt="" coords="433,365,490,372,489,377,432,371"/>
+<area shape="rect" id="Node000015" href="$db/d8a/classJack_1_1JackFFADOMidiSendQueue.html" title=" " alt="" coords="479,316,698,341"/>
+<area shape="poly" id="edge153_Node000013_Node000015" title=" " alt="" coords="432,343,478,338,479,343,433,348"/>
+<area shape="rect" id="Node000010" href="$d4/db8/classJackMidiWriteQueue.html" title="Interface for classes that act as write queues for MIDI messages." alt="" coords="22,312,164,337"/>
+<area shape="poly" id="edge154_Node000010_Node000001" title=" " alt="" coords="175,301,179,298,190,287,196,275,202,250,208,225,215,212,227,200,247,187,250,192,230,204,219,215,213,227,207,251,201,277,194,290,182,302,178,306"/>
+<area shape="poly" id="edge155_Node000010_Node000009" title=" " alt="" coords="138,341,230,379,261,390,260,395,228,384,136,346"/>
+<area shape="poly" id="edge156_Node000010_Node000011" title=" " alt="" coords="166,304,179,298,203,282,227,265,257,252,259,257,230,269,206,286,182,303,168,309"/>
+<area shape="poly" id="edge157_Node000010_Node000012" title=" " alt="" coords="179,313,228,307,229,312,179,318"/>
+<area shape="poly" id="edge158_Node000010_Node000013" title=" " alt="" coords="179,333,242,342,241,347,178,338"/>
 </map>

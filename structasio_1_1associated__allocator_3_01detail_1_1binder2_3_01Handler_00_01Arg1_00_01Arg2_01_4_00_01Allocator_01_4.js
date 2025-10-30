@@ -1,5 +1,0 @@
-var structasio_1_1associated__allocator_3_01detail_1_1binder2_3_01Handler_00_01Arg1_00_01Arg2_01_4_00_01Allocator_01_4 =
-[
-    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1binder2_3_01Handler_00_01Arg1_00_01Arg2_01_4_00_01Allocator_01_4.html#a7382bec3c6a4d51f6f795bc3a4d7b491", null ],
-    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1binder2_3_01Handler_00_01Arg1_00_01Arg2_01_4_00_01Allocator_01_4.html#a52575e45e477ce6f77a4a028f4b6be7b", null ]
-];

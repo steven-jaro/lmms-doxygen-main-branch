@@ -1,9 +1,0 @@
-<map id="dsp::sine_multi_lfo::get_value" name="dsp::sine_multi_lfo::get_value">
-<area shape="rect" id="Node000001" title="Get LFO value for given voice, returns a values in range of [&#45;65536, 65535] (or close)." alt="" coords="5,47,134,88"/>
-<area shape="rect" id="Node000002" href="$unzipfx-carla-control_2unzip_8h.html#a6146ec4ac32d62cf01b4c4c6587d5131" title=" " alt="" coords="233,5,271,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,48,217,25,218,30,135,53"/>
-<area shape="rect" id="Node000003" href="$classdsp_1_1fixed__point.html#ac15cafaf61a0ad283deec4c854c92f22" title="return integer part" alt="" coords="182,55,322,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,65,166,65,166,70,134,70"/>
-<area shape="rect" id="Node000004" href="$classdsp_1_1fixed__point.html#add896346a0ff32a8b1e7a626bb8f04cd" title=" " alt="" coords="184,104,320,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,85,172,97,170,102,133,90"/>
-</map>

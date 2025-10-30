@@ -1,0 +1,27 @@
+var classJack_1_1JackNetMasterManager =
+[
+    [ "JackNetMasterManager", "d6/df5/classJack_1_1JackNetMasterManager.html#a16c718e1467d91ab071d61ad98e73522", null ],
+    [ "~JackNetMasterManager", "d6/df5/classJack_1_1JackNetMasterManager.html#a94e3cb92a5944f4fc7fccd971e0ded4d", null ],
+    [ "CountIO", "d6/df5/classJack_1_1JackNetMasterManager.html#a7d98cb26848e629885c9a4c7ad93c212", null ],
+    [ "FindMaster", "d6/df5/classJack_1_1JackNetMasterManager.html#a875081ff2172c575c80cd164b84b25a2", null ],
+    [ "InitMaster", "d6/df5/classJack_1_1JackNetMasterManager.html#a2fafcbb85599ee760ef34e922f68c59f", null ],
+    [ "KillMaster", "d6/df5/classJack_1_1JackNetMasterManager.html#a201f9190acf64f3edafc5b2aa060553c", null ],
+    [ "NetManagerThread", "d6/df5/classJack_1_1JackNetMasterManager.html#acde9f37d4a09357993ceed52c744d4ba", null ],
+    [ "Run", "d6/df5/classJack_1_1JackNetMasterManager.html#ab4d483768e2f3f1d4678ef888506bb43", null ],
+    [ "SetShutDown", "d6/df5/classJack_1_1JackNetMasterManager.html#acaf8d4a595f256fb40bb6ec90d68b576", null ],
+    [ "SetSyncCallback", "d6/df5/classJack_1_1JackNetMasterManager.html#abe660c5cedc6a5270dc71d1511038285", null ],
+    [ "ShutDown", "d6/df5/classJack_1_1JackNetMasterManager.html#a49a293a487ea493fd1f9861d7cdee87f", null ],
+    [ "SyncCallback", "d6/df5/classJack_1_1JackNetMasterManager.html#a72e402638eec2f27c64383d30c6a6baf", null ],
+    [ "JackNetMaster", "d6/df5/classJack_1_1JackNetMasterManager.html#a1d4121e4d93cf2685e80fbe007403feb", null ],
+    [ "fAutoConnect", "d6/df5/classJack_1_1JackNetMasterManager.html#ab715d92b63bea1393d9f88bfe94b817e", null ],
+    [ "fAutoSave", "d6/df5/classJack_1_1JackNetMasterManager.html#acbd82387c72a6ef9e656405363af98c1", null ],
+    [ "fClient", "d6/df5/classJack_1_1JackNetMasterManager.html#ab3961955fcb3f450c5bdb36725700c9e", null ],
+    [ "fGlobalID", "d6/df5/classJack_1_1JackNetMasterManager.html#a99b7d6a829528419d9b551472e4c5158", null ],
+    [ "fMasterConnectionList", "d6/df5/classJack_1_1JackNetMasterManager.html#af6cc7cdce9237fca9194929871f068df", null ],
+    [ "fMasterList", "d6/df5/classJack_1_1JackNetMasterManager.html#a9879714f7e0613c086c3a482cd1b1b36", null ],
+    [ "fMulticastIP", "d6/df5/classJack_1_1JackNetMasterManager.html#ac624ee9137471f05fe6ee9f8e2c2cab2", null ],
+    [ "fName", "d6/df5/classJack_1_1JackNetMasterManager.html#a8db952c176613d880875c36f97567e17", null ],
+    [ "fRunning", "d6/df5/classJack_1_1JackNetMasterManager.html#a4691b23a77b3d148c9bc858ac4c5b134", null ],
+    [ "fSocket", "d6/df5/classJack_1_1JackNetMasterManager.html#adfd6c35fc6522d2410fcf56df9f830a4", null ],
+    [ "fThread", "d6/df5/classJack_1_1JackNetMasterManager.html#a3ba9036353780eb7247343444c4ee322", null ]
+];

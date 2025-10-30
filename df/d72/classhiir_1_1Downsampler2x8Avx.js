@@ -1,0 +1,25 @@
+var classhiir_1_1Downsampler2x8Avx =
+[
+    [ "DataType", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a99ae168366e4f4a93553e73b36ac9988", null ],
+    [ "Filter", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a1b82d33c83e9745e25243c1f45c01872", null ],
+    [ "Downsampler2x8Avx", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a961d8b9efdd4dbdc72b8418cfbfc0bd9", null ],
+    [ "Downsampler2x8Avx", "df/d72/classhiir_1_1Downsampler2x8Avx.html#ab5a384c98fd39cbb698d6f0d6f231f96", null ],
+    [ "Downsampler2x8Avx", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a30e2e39adea0e45c3b0900b71abe28eb", null ],
+    [ "~Downsampler2x8Avx", "df/d72/classhiir_1_1Downsampler2x8Avx.html#aaac5b93ff0cf510bcb182972fc7d1b21", null ],
+    [ "clear_buffers", "df/d72/classhiir_1_1Downsampler2x8Avx.html#ab625b4a4e5ddc8e8dd2639eb3ccec553", null ],
+    [ "operator!=", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a58881e97a1cf4621a726dff4af8f761f", null ],
+    [ "operator=", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a1bc295da4ef4f0a6caa968913c1bcd6d", null ],
+    [ "operator=", "df/d72/classhiir_1_1Downsampler2x8Avx.html#afb66831d27539a6cc590ff5e87b86309", null ],
+    [ "operator==", "df/d72/classhiir_1_1Downsampler2x8Avx.html#affc25c9900815ccf8fd7470023e8a9cc", null ],
+    [ "process_block", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a85ebde49cc3967fcd5ea50380c24101f", null ],
+    [ "process_block_split", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a7302a220c6675781f50851c8b0fc44d2", null ],
+    [ "process_sample", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a2b4b457582f11f56e7da8db47173bef8", null ],
+    [ "process_sample", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a28df73c4d7fb9097d3062813798f87ea", null ],
+    [ "process_sample_split", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a26478783ea1e21496eb0e544def8941e", null ],
+    [ "process_sample_split", "df/d72/classhiir_1_1Downsampler2x8Avx.html#ad356c3f4d97af0e979ea8b1d7b53ec90", null ],
+    [ "set_coefs", "df/d72/classhiir_1_1Downsampler2x8Avx.html#af7fb080caaa7b44c4608ef17b8f814fc", null ],
+    [ "_delay", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a956658614525eb9bf40034915d4783a1", null ],
+    [ "_filter", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a4073ce3df338ee05aed74d1a20e481ad", null ],
+    [ "_nbr_chn", "df/d72/classhiir_1_1Downsampler2x8Avx.html#ae37c95df983df25942fd691a9c620dab", null ],
+    [ "NBR_COEFS", "df/d72/classhiir_1_1Downsampler2x8Avx.html#a095dca77c91dcf67f95cfe34b9c2949c", null ]
+];

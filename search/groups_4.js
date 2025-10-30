@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['4_0',['Porting from FLAC 1.1.3 to 1.1.4',['../group__porting__1__1__3__to__1__1__4.html',1,'']]],
-  ['4_20to_201_202_200_1',['Porting from FLAC 1.1.4 to 1.2.0',['../group__porting__1__1__4__to__1__2__0.html',1,'']]]
+  ['for_20a_20session_20manager_0',['API for a session manager.',['../db/dc3/group__JackSessionManagerAPI.html',1,'']]],
+  ['for_20clients_1',['Session API for clients.',['../d8/d5c/group__SessionClientFunctions.html',1,'']]],
+  ['for_20newer_20older_20versions_20of_20jack_2',['Managing support for newer/older versions of JACK',['../d9/dcc/group__WeakLinkage.html',1,'']]],
+  ['for_20starting_20and_20controlling_20a_20jack_20server_3',['The API for starting and controlling a JACK server',['../d3/df9/group__ControlAPI.html',1,'']]]
 ];

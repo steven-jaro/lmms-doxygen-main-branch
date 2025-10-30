@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['fixedsizefunction_0',['FixedSizeFunction',['../classjuce_1_1dsp_1_1FixedSizeFunction_3_01len_00_01Ret_07Args_8_8_8_08_4.html#ad085f6f3acb5dc21e3c3cfb5a4c08a5a',1,'juce::dsp::FixedSizeFunction&lt; len, Ret(Args...)&gt;']]],
-  ['flangereffect_1',['FlangerEffect',['../classlmms_1_1FlangerControls.html#a246257a1aae1bcc37c1131afc53d3ab9',1,'lmms::FlangerControls']]],
-  ['function_5fcompositor_3c_20t_20_3e_2',['function_compositor&lt; T &gt;',['../structexprtk_1_1expression_1_1control__block.html#a3d0ee7bd11879a4cd8dc5fbfedd39d72',1,'exprtk::expression::control_block::function_compositor&lt; T &gt;()'],['../classexprtk_1_1expression.html#a3d0ee7bd11879a4cd8dc5fbfedd39d72',1,'exprtk::expression::function_compositor&lt; T &gt;()']]]
+  ['instrumenttrack_0',['InstrumentTrack',['../de/d63/classlmms_1_1InstrumentFunctionArpeggio.html#a913141cab24ce2c3baf40e2e799de654',1,'lmms::InstrumentFunctionArpeggio']]],
+  ['instrumenttrackview_1',['InstrumentTrackView',['../d3/dbf/classlmms_1_1gui_1_1InstrumentTrackWindow.html#ae47c0dacde6aa2b57c11c66241982405',1,'lmms::gui::InstrumentTrackWindow']]],
+  ['instrumenttrackwindow_2',['InstrumentTrackWindow',['../d7/dce/classlmms_1_1gui_1_1InstrumentTrackView.html#a2747d4108ce26072f97129035220f84e',1,'lmms::gui::InstrumentTrackView']]],
+  ['instrumentview_3',['InstrumentView',['../d3/dbf/classlmms_1_1gui_1_1InstrumentTrackWindow.html#a0e2718172c1b5bbaf2318e3118b3a65e',1,'lmms::gui::InstrumentTrackWindow']]]
 ];

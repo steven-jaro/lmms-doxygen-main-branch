@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sampletype_0',['SampleType',['../conceptlmms_1_1SampleType.html',1,'lmms']]]
+  ['sampletype_0',['SampleType',['../da/d31/conceptlmms_1_1SampleType.html',1,'lmms']]]
 ];

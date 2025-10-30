@@ -1,0 +1,21 @@
+<map id="Jack::JackTimedDriver" name="Jack::JackTimedDriver">
+<area shape="rect" id="Node000001" title="The timed driver." alt="" coords="165,2199,308,2407"/>
+<area shape="rect" id="Node000007" href="$d1/d6c/classJack_1_1JackDummyDriver.html" title="The dummy driver." alt="" coords="76,2455,227,2562"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="190,2422,176,2456,171,2454,185,2420"/>
+<area shape="rect" id="Node000008" href="$dc/d67/classJack_1_1JackWaiterDriver.html" title=" " alt="" coords="250,2455,394,2562"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="288,2420,303,2454,298,2456,283,2422"/>
+<area shape="rect" id="Node000002" href="$db/d8b/classJack_1_1JackAudioDriver.html" title="The base class for audio drivers: drivers with audio ports." alt="" coords="141,1637,332,2151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,2166,239,2199,234,2199,234,2166"/>
+<area shape="rect" id="Node000003" href="$d7/d4c/classJack_1_1JackDriver.html" title=" " alt="" coords="159,120,314,1589"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,1604,239,1637,234,1637,234,1604"/>
+<area shape="rect" id="Node000004" href="$d6/d2e/classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="141,5,332,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,86,239,120,234,120,234,86"/>
+<area shape="rect" id="Node000009" href="$dd/d92/classJack_1_1JackNetDriver.html" title="\Brief This class describes the Net Backend" alt="" coords="5,2610,217,3246"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="259,2575,232,2612,220,2634,215,2631,228,2609,255,2572"/>
+<area shape="rect" id="Node000010" href="$dc/ddf/classJack_1_1JackNetOneDriver.html" title="\Brief This class describes the Net Backend" alt="" coords="242,2702,402,3154"/>
+<area shape="poly" id="edge7_Node000008_Node000010" title=" " alt="" coords="325,2577,325,2702,319,2702,319,2577"/>
+<area shape="rect" id="Node000011" href="$df/d99/classJack_1_1JackRestarterDriver.html" title="A restartable driver." alt="" coords="426,2864,586,2992"/>
+<area shape="poly" id="edge8_Node000008_Node000011" title=" " alt="" coords="390,2572,416,2609,447,2674,471,2742,488,2808,499,2864,494,2865,483,2809,466,2744,442,2676,412,2612,386,2575"/>
+<area shape="rect" id="Node000012" href="$d1/d1c/classJack_1_1JackProxyDriver.html" title="\Brief This class describes the Proxy Backend" alt="" coords="394,3294,618,4479"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="509,3007,509,3294,503,3294,503,3007"/>
+</map>

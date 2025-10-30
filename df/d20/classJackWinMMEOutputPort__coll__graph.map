@@ -1,0 +1,28 @@
+<map id="JackWinMMEOutputPort" name="JackWinMMEOutputPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="282,1469,464,1841"/>
+<area shape="rect" id="Node000002" href="$d3/dcd/classJack_1_1JackWinMMEPort.html" title=" " alt="" coords="5,1027,154,1256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,1269,139,1334,169,1397,223,1481,284,1557,280,1560,219,1484,164,1400,134,1336,111,1271"/>
+<area shape="rect" id="Node000003" href="$d3/daf/classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="232,16,410,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,156,357,177,370,288,380,434,388,787,386,1159,381,1470,375,1470,381,1159,382,787,374,434,365,289,352,177,347,158"/>
+<area shape="rect" id="Node000010" href="$dc/d11/classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="181,224,335,814"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="295,143,284,178,278,208,272,207,279,176,290,142"/>
+<area shape="rect" id="Node000004" href="$de/d0d/classJack_1_1JackMidiBufferReadQueue.html" title="Wrapper class to present a JackMidiBuffer in a read queue interface." alt="" coords="691,1060,877,1223"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="740,1224,686,1311,622,1400,551,1483,478,1558,474,1554,547,1479,618,1397,682,1308,736,1221"/>
+<area shape="rect" id="Node000005" href="$d2/d2c/classJack_1_1JackMidiReadQueue.html" title="Interface for objects that MIDI events can be read from." alt="" coords="736,476,901,562"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="818,577,791,1061,785,1060,813,577"/>
+<area shape="rect" id="Node000011" href="$d2/dde/classJack_1_1JackMidiAsyncQueue.html" title="This is a MIDI message queue designed to allow one thread to pass MIDI messages to another thread (th..." alt="" coords="437,1017,608,1266"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="807,577,775,689,752,753,726,815,681,886,599,1018,595,1016,676,883,721,812,747,751,770,687,802,576"/>
+<area shape="rect" id="Node000006" href="$d6/d3a/structJack_1_1JackMidiBuffer.html" title=" " alt="" coords="925,404,1056,633"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="966,634,916,814,872,935,828,1045,823,1043,867,933,910,813,961,633"/>
+<area shape="rect" id="Node000007" href="$d1/d41/structJack_1_1JackMidiEvent.html" title=" " alt="" coords="803,5,1177,153"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="993,153,993,387,988,387,988,153"/>
+<area shape="rect" id="Node000008" href="$d1/dfe/struct__jack__midi__event.html" title="A Jack MIDI event." alt="" coords="600,465,712,572"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="667,572,722,860,763,1043,758,1044,717,861,662,573"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="657,572,652,626,641,689,621,754,590,815,581,824,572,828,564,832,557,839,539,877,527,917,520,959,516,1000,511,1000,514,958,522,916,534,875,552,836,560,827,570,823,578,819,586,812,616,752,636,688,647,625,652,572"/>
+<area shape="rect" id="Node000009" href="$de/d1b/classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="179,885,335,1398"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="298,1397,309,1445,311,1452,306,1453,304,1446,293,1399"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="260,829,260,885,255,885,255,829"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="489,1267,434,1454,429,1453,484,1265"/>
+<area shape="rect" id="Node000012" href="$d7/d85/classJack_1_1JackMidiWriteQueue.html" title="Interface for classes that act as write queues for MIDI messages." alt="" coords="411,465,575,572"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="499,587,519,1017,514,1017,493,587"/>
+</map>

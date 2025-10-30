@@ -1,5 +1,0 @@
-var structasio_1_1associated__allocator_3_01detail_1_1buffered__flush__handler_3_01WriteHandler_01_4_00_01Allocator_01_4 =
-[
-    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1buffered__flush__handler_3_01WriteHandler_01_4_00_01Allocator_01_4.html#a9e36eda0f8a050cd973070e577a7351c", null ],
-    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1buffered__flush__handler_3_01WriteHandler_01_4_00_01Allocator_01_4.html#ad871e90248c1bbaa4f170a7936577e92", null ]
-];

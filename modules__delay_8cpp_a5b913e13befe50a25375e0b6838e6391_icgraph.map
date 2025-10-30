@@ -1,6 +1,0 @@
-<map id="delayline_impl" name="delayline_impl">
-<area shape="rect" id="Node000001" title="Single delay line with feedback at the same tap." alt="" coords="205,44,307,70"/>
-<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1vintage__delay__audio__module.html#ae22c8b0eff6c8c3e0335839b39479e5b" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,29,157,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,60,157,60,157,54,189,54"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="108,16,98,10,81,8,66,10,56,14,52,21,51,29,46,29,46,19,53,10,64,5,81,3,99,5,111,12"/>
-</map>

@@ -1,5 +1,0 @@
-var searchData=
-[
-  ['zyn_20implementation_0',['Zyn Implementation',['../classDSSIaudiooutput.html#autotoc_md7',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md8',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md9',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md10',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md11',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md12',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md13',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md14',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md15',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md16',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md17',1,'Zyn Implementation'],['../classDSSIaudiooutput.html#autotoc_md18',1,'Zyn Implementation']]],
-  ['zynaddsubfx_1',['General notes on Memory Allocation Within ZynAddSubFX',['..//home/archuser/Desktop/lmms-compile-tries/test1/lmms/plugins/CarlaBase/carla/source/native-plugins/external/zynaddsubfx/Misc/Allocator.h#autotoc_md2',1,'']]]
-];

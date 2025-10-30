@@ -1,26 +1,5 @@
 var searchData=
 [
-  ['debug_0',['debug',['../structableton_1_1util_1_1NullLog.html#a0b69079b6e3b7eb4f64bb6a4c191cbf5',1,'ableton::util::NullLog::debug()'],['../structableton_1_1util_1_1StdLog.html#aaee23d710e5279b6ba52d43dc689bd12',1,'ableton::util::StdLog::debug()'],['../structableton_1_1util_1_1Timestamped.html#a53cab3ae730c72139d8a009e7381c22f',1,'ableton::util::Timestamped::debug()']]],
-  ['delayeffect_1',['DelayEffect',['../classlmms_1_1DelayControls.html#a965b8a93c78fbaf57de3c643995be395',1,'lmms::DelayControls']]],
-  ['deletedatshutdown_2',['DeletedAtShutdown',['../classjuce_1_1Desktop.html#a66ca5fe10d82041860ba76363345fddd',1,'juce::Desktop']]],
-  ['dependencyfinderscope_3',['DependencyFinderScope',['../classjuce_1_1RelativeCoordinatePositionerBase.html#a2a701565af1bb69bfbe1d22c5f6f4ef9',1,'juce::RelativeCoordinatePositionerBase']]],
-  ['desktop_4',['Desktop',['../classjuce_1_1Displays.html#a64b53215e12b57b18e3259620a91aa51',1,'juce::Displays::Desktop()'],['../classjuce_1_1MouseInputSource.html#a64b53215e12b57b18e3259620a91aa51',1,'juce::MouseInputSource::Desktop()']]],
-  ['detail_3a_3acoroutine_5fref_5',['coroutine_ref',['../classasio_1_1coroutine.html#a481da3cf2fa1764180915143c632eb2e',1,'asio::coroutine']]],
-  ['details_3a_3adisable_5ftype_5fchecking_6',['disable_type_checking',['../classexprtk_1_1parser.html#ad5210b2081009cf2c5f24bf933236d8e',1,'exprtk::parser']]],
-  ['details_3a_3areturn_5fenvelope_5fnode_3c_20t_20_3e_7',['return_envelope_node&lt; T &gt;',['../classexprtk_1_1results__context.html#a797a7abd289659ef0b45ea8e682444a4',1,'exprtk::results_context']]],
-  ['details_3a_3areturn_5fnode_3c_20t_20_3e_8',['return_node&lt; T &gt;',['../classexprtk_1_1results__context.html#ad42003d7a2a4058825f76e494a9b2fb7',1,'exprtk::results_context']]],
-  ['directoryiterator_9',['DirectoryIterator',['../classwater_1_1DirectoryIterator_1_1NativeIterator.html#ae63907c37399ddb1ac7a104c3fe64423',1,'water::DirectoryIterator::NativeIterator']]],
-  ['dispatch_5fprinted_5fmessages_10',['dispatch_printed_messages',['../classrtosc_1_1savefile__dispatcher__t.html#ac18cf9395fd45ed38b681c39f7e24a2c',1,'rtosc::savefile_dispatcher_t']]],
-  ['dispersioncontrols_11',['DispersionControls',['../classlmms_1_1DispersionEffect.html#ac1b25f2ffb16b67fe80653465ce7d1f8',1,'lmms::DispersionEffect']]],
-  ['dispersioneffect_12',['DispersionEffect',['../classlmms_1_1DispersionControls.html#a3cf154c551d8357a8bece8d6812edf9c',1,'lmms::DispersionControls']]],
-  ['displays_13',['Displays',['../classjuce_1_1Desktop.html#af2aa5afb6ba8acb24e156284fc503bd9',1,'juce::Desktop']]],
-  ['distrho_5fnamespace_3a_3apluginapplication_14',['PluginApplication',['../classApplication.html#a883b722c934d56ad3fd6758b74fa4f4d',1,'Application']]],
-  ['distrho_5fnamespace_3a_3apluginwindow_15',['PluginWindow',['../classWindow.html#ae5ac3e5f1ea74ab1efb29bf36b527ef9',1,'Window']]],
-  ['distrhouiprom_16',['DistrhoUIProM',['../classDistrhoPluginProM.html#aa1364a56e896a9ffb135983010de0972',1,'DistrhoPluginProM']]],
-  ['drawablecomposite_17',['DrawableComposite',['../classjuce_1_1Drawable.html#a9333f36a48075aced62cc7156550630a',1,'juce::Drawable']]],
-  ['drawableshape_18',['DrawableShape',['../classjuce_1_1Drawable.html#a568e951fba4719288ef2182fb137f55c',1,'juce::Drawable']]],
-  ['dualfiltercontrols_19',['DualFilterControls',['../classlmms_1_1DualFilterEffect.html#ab7043e402cc2d064fd5f85c732088dce',1,'lmms::DualFilterEffect']]],
-  ['dualfiltereffect_20',['DualFilterEffect',['../classlmms_1_1DualFilterControls.html#a9e71bdb5f51a7d5966ed063cfd1b4bc8',1,'lmms::DualFilterControls']]],
-  ['dynproccontrols_21',['DynProcControls',['../classlmms_1_1DynProcEffect.html#a8a59658fd5b6f11de68792fdefad32ca',1,'lmms::DynProcEffect']]],
-  ['dynproceffect_22',['DynProcEffect',['../classlmms_1_1DynProcControls.html#a2ac1953a642c64a32992b95bafb9db4c',1,'lmms::DynProcControls']]]
+  ['effectchain_0',['EffectChain',['../d5/d4a/classlmms_1_1Effect.html#a25ecd0b014e89e2e478749d34e6e3a52',1,'lmms::Effect']]],
+  ['engine_1',['Engine',['../d9/d2b/classlmms_1_1AudioEngine.html#a3e1914489e4bed4f9f23cdeab34a43dc',1,'lmms::AudioEngine::Engine()'],['../d7/d2a/classlmms_1_1ConfigManager.html#a3e1914489e4bed4f9f23cdeab34a43dc',1,'lmms::ConfigManager::Engine()'],['../d0/df3/classlmms_1_1Ladspa2LMMS.html#a3e1914489e4bed4f9f23cdeab34a43dc',1,'lmms::Ladspa2LMMS::Engine()'],['../d1/d62/classlmms_1_1Song.html#a3e1914489e4bed4f9f23cdeab34a43dc',1,'lmms::Song::Engine()']]]
 ];

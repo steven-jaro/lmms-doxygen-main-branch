@@ -1,0 +1,55 @@
+<map id="src/3rdparty/jack2/common/JackAudioAdapterFactory.cpp" name="src/3rdparty/jack2/common/JackAudioAdapterFactory.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="396,5,648,46"/>
+<area shape="rect" id="Node000002" href="$d8/df2/JackAudioAdapter_8h.html" title=" " alt="" coords="304,94,441,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,49,410,89,408,84,484,44"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="120,315,183,341"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="396,33,335,40,270,52,205,70,143,96,82,130,55,149,33,169,17,190,9,213,11,238,23,266,39,284,60,298,106,316,104,321,58,303,36,288,19,268,5,239,4,212,12,188,29,165,52,145,79,126,141,92,203,65,269,47,334,35,395,28"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="32,241,92,267"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="396,38,318,53,236,78,195,95,157,116,121,140,90,169,74,197,67,226,61,225,69,195,85,166,118,136,154,111,193,90,234,73,317,48,395,33"/>
+<area shape="rect" id="Node000029" href="$d7/deb/JackPlatformPlug_8h.html" title=" " alt="" coords="754,94,888,120"/>
+<area shape="poly" id="edge12_Node000001_Node000029" title=" " alt="" coords="597,44,761,87,759,92,596,49"/>
+<area shape="rect" id="Node000031" href="$dc/d2f/JackArgParser_8h.html" title=" " alt="" coords="613,94,730,120"/>
+<area shape="poly" id="edge14_Node000001_Node000031" title=" " alt="" coords="561,44,636,84,634,89,558,49"/>
+<area shape="rect" id="Node000039" title=" " alt="" coords="912,94,980,120"/>
+<area shape="poly" id="edge29_Node000001_Node000039" title=" " alt="" coords="645,44,898,91,897,96,644,49"/>
+<area shape="rect" id="Node000003" href="$d5/d54/JackAudioAdapterInterface_8h.html" title=" " alt="" coords="100,168,288,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="343,123,240,164,238,159,341,118"/>
+<area shape="rect" id="Node000024" href="$de/dfe/driver__interface_8h.html" title=" " alt="" coords="313,168,433,193"/>
+<area shape="poly" id="edge7_Node000002_Node000024" title=" " alt="" coords="375,120,375,152,370,152,370,120"/>
+<area shape="rect" id="Node000004" href="$d5/d30/JackResampler_8h.html" title=" " alt="" coords="116,241,237,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="194,194,186,227,181,226,189,193"/>
+<area shape="rect" id="Node000008" href="$de/d52/JackFilters_8h.html" title=" " alt="" coords="261,241,356,267"/>
+<area shape="poly" id="edge4_Node000003_Node000008" title=" " alt="" coords="215,192,278,230,275,235,212,196"/>
+<area shape="poly" id="edge6_Node000003_Node000023" title=" " alt="" coords="173,196,99,236,96,231,170,192"/>
+<area shape="poly" id="edge5_Node000008_Node000022" title=" " alt="" coords="283,270,193,311,191,306,281,265"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="380,241,443,267"/>
+<area shape="poly" id="edge8_Node000024_Node000025" title=" " alt="" coords="382,192,400,226,395,229,377,195"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="656,241,714,267"/>
+<area shape="poly" id="edge9_Node000024_Node000026" title=" " alt="" coords="427,191,641,240,640,245,425,197"/>
+<area shape="rect" id="Node000015" href="$d0/d2a/JackCompilerDeps_8h.html" title=" " alt="" coords="769,241,910,267"/>
+<area shape="poly" id="edge10_Node000024_Node000015" title=" " alt="" coords="434,189,445,191,754,238,754,243,444,196,433,194"/>
+<area shape="rect" id="Node000027" href="$d1/d6b/JackSystemDeps_8h.html" title=" " alt="" coords="466,241,599,267"/>
+<area shape="poly" id="edge11_Node000024_Node000027" title=" " alt="" coords="401,191,493,232,491,237,399,196"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="1108,168,1264,193"/>
+<area shape="poly" id="edge13_Node000029_Node000030" title=" " alt="" coords="884,118,1110,162,1109,167,883,123"/>
+<area shape="poly" id="edge16_Node000031_Node000024" title=" " alt="" coords="621,123,439,166,438,161,620,118"/>
+<area shape="poly" id="edge15_Node000031_Node000026" title=" " alt="" coords="732,116,775,134,795,148,811,166,817,180,815,194,808,205,796,216,765,232,730,245,728,240,763,228,793,211,804,202,810,192,811,181,807,169,791,152,773,138,730,121"/>
+<area shape="poly" id="edge17_Node000031_Node000015" title=" " alt="" coords="720,118,786,139,814,152,832,166,840,180,845,196,846,226,841,226,839,197,835,182,828,169,811,157,784,144,719,123"/>
+<area shape="rect" id="Node000032" href="$d8/d2b/JackError_8h.html" title=" " alt="" coords="922,168,1008,193"/>
+<area shape="poly" id="edge18_Node000031_Node000032" title=" " alt="" coords="722,118,907,162,905,168,721,123"/>
+<area shape="rect" id="Node000034" title=" " alt="" coords="1031,168,1085,193"/>
+<area shape="poly" id="edge22_Node000031_Node000034" title=" " alt="" coords="731,115,1017,165,1016,170,730,120"/>
+<area shape="rect" id="Node000035" title=" " alt="" coords="457,168,531,193"/>
+<area shape="poly" id="edge23_Node000031_Node000035" title=" " alt="" coords="642,123,539,164,537,159,640,118"/>
+<area shape="rect" id="Node000036" title=" " alt="" coords="555,168,612,193"/>
+<area shape="poly" id="edge24_Node000031_Node000036" title=" " alt="" coords="658,122,612,160,608,156,655,118"/>
+<area shape="rect" id="Node000037" title=" " alt="" coords="636,168,707,193"/>
+<area shape="poly" id="edge25_Node000031_Node000037" title=" " alt="" coords="674,120,674,152,669,152,669,120"/>
+<area shape="rect" id="Node000038" title=" " alt="" coords="731,168,796,193"/>
+<area shape="poly" id="edge26_Node000031_Node000038" title=" " alt="" coords="689,118,738,156,735,160,685,122"/>
+<area shape="poly" id="edge21_Node000032_Node000015" title=" " alt="" coords="945,196,875,236,872,231,942,192"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="933,241,996,267"/>
+<area shape="poly" id="edge19_Node000032_Node000019" title=" " alt="" coords="967,194,967,226,962,226,962,194"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="1020,241,1080,267"/>
+<area shape="poly" id="edge20_Node000032_Node000033" title=" " alt="" coords="981,192,1026,229,1023,233,978,196"/>
+</map>

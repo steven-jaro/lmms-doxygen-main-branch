@@ -1,0 +1,17 @@
+<map id="Jack::JackExternalClient" name="Jack::JackExternalClient">
+<area shape="rect" id="Node000001" title="Server side implementation of library clients." alt="" coords="208,1042,360,1210"/>
+<area shape="rect" id="Node000002" href="$dc/df7/classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="5,732,162,880"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,892,177,970,225,1041,220,1044,172,973,126,894"/>
+<area shape="rect" id="Node000003" href="$de/d46/classJack_1_1JackSocketNotifyChannel.html" title="JackNotifyChannel using sockets." alt="" coords="186,742,381,870"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,869,286,1025,281,1025,281,869"/>
+<area shape="rect" id="Node000004" href="$df/d7d/classJack_1_1JackClientSocket.html" title="Client socket." alt="" coords="210,259,357,570"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,570,286,726,281,726,281,570"/>
+<area shape="rect" id="Node000005" href="$dd/d6f/classJack_1_1detail_1_1JackClientRequestInterface.html" title=" " alt="" coords="184,5,383,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="286,203,286,259,281,259,281,203"/>
+<area shape="rect" id="Node000008" href="$da/d57/structJack_1_1JackClientControl.html" title="Client control possibly in shared memory." alt="" coords="405,641,552,971"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="407,952,395,973,358,1030,353,1027,391,970,403,950"/>
+<area shape="rect" id="Node000009" href="$d0/dea/classJack_1_1JackShmMemAble.html" title="A class which objects possibly want to be allocated in shared memory derives from this class." alt="" coords="401,341,556,488"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="481,503,481,641,476,641,476,503"/>
+<area shape="rect" id="Node000010" href="$d2/dcd/struct__jack__shm__info.html" title="a structure holding information about shared memory allocated by JACK." alt="" coords="428,23,529,171"/>
+<area shape="poly" id="edge7_Node000009_Node000010" title=" " alt="" coords="481,170,481,323,476,323,476,170"/>
+</map>

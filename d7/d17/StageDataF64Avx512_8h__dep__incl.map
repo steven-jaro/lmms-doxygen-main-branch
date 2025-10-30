@@ -1,0 +1,27 @@
+<map id="src/3rdparty/hiir/hiir/StageDataF64Avx512.h" name="src/3rdparty/hiir/hiir/StageDataF64Avx512.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,5,588,46"/>
+<area shape="rect" id="Node000002" href="$d0/d8f/Downsampler2x8F64Avx512_8h.html" title=" " alt="" coords="242,360,442,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,53,326,83,232,128,187,157,145,191,107,229,76,273,69,292,76,310,101,328,141,343,243,364,241,369,140,348,98,333,72,314,64,292,72,270,103,226,141,187,184,153,230,124,324,78,411,48"/>
+<area shape="rect" id="Node000003" href="$df/d50/HalfBand8F64Avx512_8h.html" title=" " alt="" coords="5,360,167,401"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,39,313,60,262,76,213,96,154,129,113,164,97,185,84,209,63,272,61,295,64,318,78,359,73,360,59,319,56,295,58,271,79,207,93,182,109,161,151,125,210,92,260,71,312,54,411,34"/>
+<area shape="rect" id="Node000004" href="$d2/d0e/PhaseHalfPi8F64Avx512_8h.html" title=" " alt="" coords="844,360,1024,401"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="604,38,695,59,743,74,788,92,859,128,887,150,919,181,948,212,970,240,981,272,977,313,966,339,952,361,947,358,961,336,971,311,976,273,966,243,944,215,915,185,883,154,856,132,786,96,741,79,693,64,603,44"/>
+<area shape="rect" id="Node000005" href="$dd/d0b/StageProc8F64Avx512_8hpp.html" title=" " alt="" coords="416,94,598,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="510,62,510,94,505,94,505,62"/>
+<area shape="rect" id="Node000011" href="$da/d7c/Upsampler2x8F64Avx512_8h.html" title=" " alt="" coords="584,360,767,401"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="604,46,693,76,741,97,790,122,838,151,882,185,921,225,954,270,962,292,954,314,941,325,924,334,878,350,823,362,768,371,767,366,822,357,877,345,922,329,938,320,949,310,956,292,949,273,917,228,879,189,835,155,788,126,739,102,691,81,602,52"/>
+<area shape="rect" id="Node000006" href="$d5/d89/StageProc8F64Avx512_8h.html" title=" " alt="" coords="423,183,592,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="510,150,510,182,505,182,505,150"/>
+<area shape="rect" id="Node000007" href="$da/dea/Downsampler2x8F64Avx512_8hpp.html" title=" " alt="" coords="286,271,499,312"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="471,235,420,273,417,269,468,231"/>
+<area shape="rect" id="Node000008" href="$da/dc9/HalfBand8F64Avx512_8hpp.html" title=" " alt="" coords="86,271,262,312"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="417,230,250,273,249,268,416,225"/>
+<area shape="rect" id="Node000009" href="$d0/d9d/PhaseHalfPi8F64Avx512_8hpp.html" title=" " alt="" coords="745,271,939,312"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="599,225,767,268,765,273,598,230"/>
+<area shape="rect" id="Node000010" href="$de/d58/Upsampler2x8F64Avx512_8hpp.html" title=" " alt="" coords="523,271,721,312"/>
+<area shape="poly" id="edge12_Node000006_Node000010" title=" " alt="" coords="547,231,598,269,594,273,544,235"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="376,327,356,361,351,358,371,324"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="145,325,108,361,104,358,141,321"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="876,321,915,358,911,362,872,325"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="644,324,666,358,661,361,640,327"/>
+</map>

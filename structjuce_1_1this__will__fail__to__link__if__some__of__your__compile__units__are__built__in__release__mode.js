@@ -1,4 +1,0 @@
-var structjuce_1_1this__will__fail__to__link__if__some__of__your__compile__units__are__built__in__release__mode =
-[
-    [ "this_will_fail_to_link_if_some_of_your_compile_units_are_built_in_release_mode", "structjuce_1_1this__will__fail__to__link__if__some__of__your__compile__units__are__built__in__release__mode.html#a036fde5bc5d35497f305f25c6d49b3a7", null ]
-];

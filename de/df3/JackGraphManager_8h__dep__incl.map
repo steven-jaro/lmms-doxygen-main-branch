@@ -1,0 +1,103 @@
+<map id="src/3rdparty/jack2/common/JackGraphManager.h" name="src/3rdparty/jack2/common/JackGraphManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="4607,5,4810,46"/>
+<area shape="rect" id="Node000002" href="$da/d32/JackGoldfishDriver_8cpp.html" title=" " alt="" coords="2125,102,2329,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4592,30,4128,33,3478,42,3139,51,2822,62,2549,78,2342,97,2302,104,2302,98,2341,91,2548,72,2822,57,3139,46,3478,37,4128,28,4592,25"/>
+<area shape="rect" id="Node000003" href="$d9/d5b/JackOpenSLESDriver_8cpp.html" title=" " alt="" coords="2353,102,2576,142"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="4592,31,4172,36,3593,47,3012,66,2771,80,2588,97,2546,104,2545,98,2587,91,2770,75,3012,61,3593,41,4172,30,4592,25"/>
+<area shape="rect" id="Node000004" href="$d8/d8c/JackAPI_8cpp.html" title=" " alt="" coords="2600,102,2753,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="4592,30,4205,34,3679,44,3155,64,2938,78,2773,97,2740,103,2739,98,2772,91,2937,73,3155,58,3679,38,4205,28,4592,25"/>
+<area shape="rect" id="Node000005" href="$df/dd3/JackAudioDriver_8cpp.html" title=" " alt="" coords="5,294,204,334"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="4592,30,4232,32,3750,41,3503,49,3273,61,3075,76,2925,97,2880,109,2846,124,2811,139,2765,152,2565,188,2382,214,2212,232,2055,243,1906,248,1765,249,1493,242,1222,232,931,230,772,235,602,245,417,263,216,289,178,296,177,291,215,284,416,258,601,240,772,229,931,224,1222,226,1493,236,1765,243,1906,243,2054,238,2212,227,2381,209,2564,183,2764,147,2809,134,2843,119,2878,104,2924,91,3074,71,3272,55,3503,44,3750,35,4232,26,4592,24"/>
+<area shape="rect" id="Node000006" href="$da/d20/JackClient_8cpp.html" title=" " alt="" coords="4772,198,4936,238"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="4735,57,4841,196,4837,199,4730,60"/>
+<area shape="rect" id="Node000007" href="$dd/d2c/JackDriver_8cpp.html" title=" " alt="" coords="227,294,392,334"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="4592,31,4222,38,3742,50,3301,70,3142,82,3048,97,2992,116,2951,138,2862,200,2838,222,2827,232,2811,241,2745,256,2645,268,2517,276,2365,281,2008,286,1612,285,857,278,574,279,472,283,405,289,372,296,370,291,404,284,472,278,573,274,857,273,1612,279,2008,281,2365,276,2517,271,2645,262,2744,251,2809,236,2824,228,2835,218,2859,196,2948,133,2989,111,3047,91,3141,77,3301,64,3742,45,4222,33,4592,26"/>
+<area shape="rect" id="Node000008" href="$db/d4d/JackEngine_8h.html" title=" " alt="" coords="3540,102,3696,142"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="4592,40,3697,116,3696,111,4592,34"/>
+<area shape="rect" id="Node000016" href="$d6/d1e/JackInternalClient_8cpp.html" title=" " alt="" coords="417,294,624,334"/>
+<area shape="poly" id="edge37_Node000001_Node000016" title=" " alt="" coords="4592,32,4391,38,4126,50,3828,69,3527,97,3353,111,3216,121,3151,129,3082,144,3007,167,2919,200,2902,210,2891,221,2879,232,2861,241,2800,254,2708,264,2448,277,2118,282,1752,283,1053,279,792,281,635,289,596,296,595,291,635,284,792,276,1053,274,1752,277,2118,277,2448,272,2707,259,2799,249,2860,236,2876,227,2888,217,2899,206,2917,195,3005,162,3081,139,3150,124,3215,115,3352,106,3527,91,3828,63,4126,44,4391,33,4592,27"/>
+<area shape="rect" id="Node000019" href="$d9/df7/JackMidiDriver_8cpp.html" title=" " alt="" coords="3736,390,3926,431"/>
+<area shape="poly" id="edge45_Node000001_Node000019" title=" " alt="" coords="4715,61,4730,161,4744,208,4752,225,4761,236,4783,250,4811,259,4883,266,4969,263,5062,255,5155,248,5240,247,5278,250,5311,257,5339,268,5360,284,5370,299,5373,314,5370,329,5360,344,5338,354,5296,362,5159,377,4969,388,4746,396,4280,407,3926,411,3926,406,4280,402,4745,391,4969,382,5159,371,5295,357,5336,349,5356,340,5365,327,5368,314,5365,301,5356,288,5336,273,5310,262,5277,256,5240,252,5155,254,5063,261,4969,268,4883,271,4810,264,4780,255,4757,240,4748,228,4739,210,4725,162,4709,62"/>
+<area shape="rect" id="Node000027" href="$d5/d43/JackNetOneDriver_8cpp.html" title=" " alt="" coords="4254,294,4464,334"/>
+<area shape="poly" id="edge46_Node000001_Node000027" title=" " alt="" coords="4639,55,4600,73,4562,96,4502,147,4449,202,4375,295,4371,292,4445,199,4499,143,4559,92,4597,69,4637,50"/>
+<area shape="rect" id="Node000031" href="$da/d24/JackServer_8cpp.html" title=" " alt="" coords="4488,294,4657,334"/>
+<area shape="poly" id="edge47_Node000001_Node000031" title=" " alt="" coords="4635,55,4610,73,4589,96,4577,120,4569,147,4562,202,4565,254,4571,293,4565,294,4559,254,4557,202,4563,146,4572,118,4585,92,4606,69,4632,51"/>
+<area shape="rect" id="Node000032" href="$d8/dcf/JackServerAPI_8cpp.html" title=" " alt="" coords="4681,294,4872,334"/>
+<area shape="poly" id="edge48_Node000001_Node000032" title=" " alt="" coords="4653,57,4632,74,4616,95,4599,134,4592,167,4598,200,4616,237,4631,255,4648,269,4690,291,4688,296,4645,274,4627,258,4612,240,4593,202,4587,167,4594,132,4612,93,4628,70,4650,52"/>
+<area shape="rect" id="Node000034" href="$d7/d28/JackAlsaDriver_8cpp.html" title=" " alt="" coords="4896,294,5092,334"/>
+<area shape="poly" id="edge50_Node000001_Node000034" title=" " alt="" coords="4685,60,4667,95,4654,136,4645,171,4648,203,4655,219,4667,237,4690,260,4713,273,4736,279,4761,280,4818,278,4850,278,4885,284,4914,291,4913,296,4884,289,4849,284,4818,283,4761,286,4736,284,4711,278,4686,264,4662,240,4650,222,4642,204,4640,170,4649,135,4662,93,4680,58"/>
+<area shape="rect" id="Node000035" href="$dd/db1/JackFFADODriver_8cpp.html" title=" " alt="" coords="5116,294,5346,334"/>
+<area shape="poly" id="edge51_Node000001_Node000035" title=" " alt="" coords="4700,61,4692,101,4688,149,4695,196,4704,217,4717,236,4746,256,4789,268,4841,275,4899,278,5015,279,5103,284,5141,291,5140,296,5103,289,5015,285,4899,284,4841,281,4788,274,4744,261,4713,240,4699,220,4690,197,4683,149,4686,101,4695,60"/>
+<area shape="rect" id="Node000038" href="$d6/d69/JackEngineControl_8cpp.html" title=" " alt="" coords="5026,102,5237,142"/>
+<area shape="poly" id="edge34_Node000001_Node000038" title=" " alt="" coords="4813,47,5013,91,5044,98,5043,104,5012,97,4812,52"/>
+<area shape="rect" id="Node000039" href="$d9/dd5/JackEngineProfiling_8cpp.html" title=" " alt="" coords="5260,102,5477,142"/>
+<area shape="poly" id="edge35_Node000001_Node000039" title=" " alt="" coords="4825,36,5024,58,5249,91,5285,98,5284,104,5248,97,5023,64,4825,41"/>
+<area shape="rect" id="Node000040" href="$d4/d13/JackGraphManager_8cpp.html" title=" " alt="" coords="5500,102,5717,142"/>
+<area shape="poly" id="edge36_Node000001_Node000040" title=" " alt="" coords="4825,30,5127,50,5308,68,5489,91,5527,98,5526,104,5488,97,5307,73,5126,55,4825,35"/>
+<area shape="rect" id="Node000041" href="$d5/d01/JackLibGlobals_8h.html" title=" " alt="" coords="4822,102,5001,142"/>
+<area shape="poly" id="edge38_Node000001_Node000041" title=" " alt="" coords="4766,50,4870,99,4868,103,4763,55"/>
+<area shape="rect" id="Node000046" href="$df/d1a/JackLoopbackDriver_8cpp.html" title=" " alt="" coords="5741,102,5964,142"/>
+<area shape="poly" id="edge44_Node000001_Node000046" title=" " alt="" coords="4825,27,5001,32,5226,44,5477,63,5729,91,5769,98,5768,104,5728,97,5477,68,5226,49,5000,38,4825,32"/>
+<area shape="rect" id="Node000047" href="$d0/de2/freebsd_2oss_2JackOSSDriver_8cpp.html" title=" " alt="" coords="5988,102,6200,142"/>
+<area shape="poly" id="edge49_Node000001_Node000047" title=" " alt="" coords="4825,24,5040,27,5327,36,5650,57,5815,72,5976,91,6015,98,6014,103,5975,97,5814,77,5649,62,5326,42,5040,32,4825,29"/>
+<area shape="rect" id="Node000048" href="$d2/d1c/JackIIODriver_8cpp.html" title=" " alt="" coords="6223,102,6399,142"/>
+<area shape="poly" id="edge52_Node000001_Node000048" title=" " alt="" coords="4825,26,5132,33,5532,46,5925,65,6088,77,6212,91,6246,98,6245,104,6211,97,6087,82,5925,70,5532,51,5132,38,4825,32"/>
+<area shape="rect" id="Node000049" href="$d8/d1b/JackBoomerDriver_8cpp.html" title=" " alt="" coords="6424,102,6647,142"/>
+<area shape="poly" id="edge53_Node000001_Node000049" title=" " alt="" coords="4825,26,5627,47,6080,66,6268,78,6412,91,6453,98,6452,103,6411,97,6268,83,6080,71,5627,52,4825,32"/>
+<area shape="rect" id="Node000050" href="$d9/d98/solaris_2oss_2JackOSSDriver_8cpp.html" title=" " alt="" coords="6671,102,6877,142"/>
+<area shape="poly" id="edge54_Node000001_Node000050" title=" " alt="" coords="4825,25,5215,31,5745,42,6273,62,6493,75,6660,91,6699,98,6698,104,6659,97,6492,80,6273,67,5744,47,5215,36,4825,31"/>
+<area shape="rect" id="Node000051" href="$d8/dd4/JackPortAudioDriver_8cpp.html" title=" " alt="" coords="6900,94,7090,150"/>
+<area shape="poly" id="edge55_Node000001_Node000051" title=" " alt="" coords="4825,25,5256,28,5852,38,6162,46,6451,58,6700,73,6889,91,6900,93,6900,98,6888,97,6700,78,6451,63,6161,51,5852,43,5256,33,4825,30"/>
+<area shape="rect" id="Node000009" href="$d4/d4e/JackLockedEngine_8h.html" title=" " alt="" coords="2930,198,3130,238"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="3525,141,3130,203,3129,198,3524,135"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="2915,233,2810,241,2557,249,2242,251,1511,249,1136,250,781,255,467,267,332,277,216,289,177,296,176,291,215,284,332,271,467,262,781,250,1136,244,1511,244,2242,246,2556,243,2810,236,2914,228"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="2915,236,2861,241,2621,250,2323,252,1631,249,1275,248,940,253,643,266,515,276,405,289,372,296,370,291,404,284,515,270,643,260,939,248,1275,243,1631,243,2323,247,2621,245,2860,236,2914,231"/>
+<area shape="rect" id="Node000010" href="$de/d68/JackSapaProxy_8cpp.html" title=" " alt="" coords="4045,294,4230,334"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="3145,218,3318,222,3540,233,3787,252,4034,284,4069,291,4068,296,4033,289,3787,258,3540,238,3318,227,3145,223"/>
+<area shape="rect" id="Node000011" href="$d3/daa/JackSapaProxyIn_8cpp.html" title=" " alt="" coords="648,294,844,334"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="2915,241,2911,241,2748,254,2599,262,2334,267,2100,262,1882,252,1665,244,1432,244,1168,257,1019,270,857,289,819,296,818,291,856,284,1019,265,1167,251,1432,238,1665,239,1883,247,2100,256,2334,262,2599,257,2748,249,2911,236,2914,235"/>
+<area shape="rect" id="Node000012" href="$d6/d13/JackSapaProxyOut_8cpp.html" title=" " alt="" coords="868,294,1074,334"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="2915,241,2911,241,2634,260,2398,266,2191,262,1997,255,1804,249,1597,249,1362,261,1086,289,1046,296,1046,291,1085,284,1362,255,1597,243,1804,243,1997,249,2191,257,2398,260,2634,255,2911,236,2914,235"/>
+<area shape="rect" id="Node000013" href="$d5/d60/JackControlAPI_8cpp.html" title=" " alt="" coords="1098,294,1292,334"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="2915,241,2911,241,2667,258,2460,263,2277,261,2107,254,1936,250,1754,251,1548,262,1305,289,1267,296,1266,291,1304,284,1547,257,1754,245,1936,244,2107,249,2277,255,2460,258,2667,253,2911,236,2914,235"/>
+<area shape="rect" id="Node000014" href="$d2/d7d/JackEngine_8cpp.html" title=" " alt="" coords="1317,294,1487,334"/>
+<area shape="poly" id="edge15_Node000009_Node000014" title=" " alt="" coords="2915,241,2911,241,2696,257,2514,261,2353,258,2203,252,2053,248,1893,250,1712,262,1498,289,1465,296,1464,291,1497,284,1711,257,1893,245,2053,243,2203,247,2353,252,2514,255,2696,251,2911,236,2914,235"/>
+<area shape="rect" id="Node000015" href="$d4/dfd/JackFreewheelDriver_8cpp.html" title=" " alt="" coords="1510,294,1736,334"/>
+<area shape="poly" id="edge16_Node000009_Node000015" title=" " alt="" coords="2915,241,2911,241,2735,255,2585,261,2329,260,2206,259,2074,262,1925,271,1749,289,1707,296,1706,291,1748,284,1924,265,2074,256,2206,254,2329,255,2585,256,2734,250,2911,236,2914,235"/>
+<area shape="poly" id="edge17_Node000009_Node000016" title=" " alt="" coords="2915,241,2911,241,2689,254,2414,259,1772,259,1443,258,1132,261,857,271,636,289,596,296,595,291,635,284,856,265,1132,256,1443,253,1772,253,2414,254,2689,248,2911,236,2914,235"/>
+<area shape="rect" id="Node000017" href="$d0/d58/JackInternalSessionLoader_8cpp.html" title=" " alt="" coords="1760,286,1958,342"/>
+<area shape="poly" id="edge18_Node000009_Node000017" title=" " alt="" coords="2915,241,2911,241,2768,253,2647,259,2440,259,2233,262,2113,272,1970,289,1958,291,1958,286,1969,284,2112,266,2233,257,2440,254,2647,253,2768,248,2911,236,2914,235"/>
+<area shape="rect" id="Node000018" href="$d9/d67/JackMidiDriver_8h.html" title=" " alt="" coords="2193,294,2368,334"/>
+<area shape="poly" id="edge19_Node000009_Node000018" title=" " alt="" coords="2915,241,2911,241,2762,255,2645,261,2529,268,2381,289,2349,296,2348,291,2380,284,2528,263,2645,255,2762,250,2911,236,2914,235"/>
+<area shape="rect" id="Node000025" href="$d9/d9b/JackNetDriver_8cpp.html" title=" " alt="" coords="1982,294,2168,334"/>
+<area shape="poly" id="edge21_Node000009_Node000025" title=" " alt="" coords="2915,241,2911,241,2800,251,2706,257,2545,260,2385,265,2291,274,2181,289,2146,296,2145,291,2180,284,2291,269,2385,260,2545,254,2706,251,2800,246,2911,236,2914,235"/>
+<area shape="rect" id="Node000026" href="$d1/d46/JackNetManager_8cpp.html" title=" " alt="" coords="2393,294,2595,334"/>
+<area shape="poly" id="edge22_Node000009_Node000026" title=" " alt="" coords="2916,240,2912,241,2759,263,2608,289,2575,296,2574,291,2607,284,2758,258,2911,236,2915,235"/>
+<area shape="poly" id="edge23_Node000009_Node000027" title=" " alt="" coords="3145,217,3352,220,3625,229,3933,250,4090,265,4244,284,4282,291,4281,296,4243,289,4090,270,3933,255,3625,235,3351,225,3145,222"/>
+<area shape="rect" id="Node000028" href="$d2/d58/JackProfiler_8cpp.html" title=" " alt="" coords="2619,294,2790,334"/>
+<area shape="poly" id="edge24_Node000009_Node000028" title=" " alt="" coords="2948,246,2773,296,2772,291,2946,241"/>
+<area shape="rect" id="Node000029" href="$d7/d40/JackProxyDriver_8cpp.html" title=" " alt="" coords="2814,294,3011,334"/>
+<area shape="poly" id="edge25_Node000009_Node000029" title=" " alt="" coords="2996,250,2938,296,2935,291,2992,246"/>
+<area shape="rect" id="Node000030" href="$db/d5b/JackRequestDecoder_8cpp.html" title=" " alt="" coords="3035,294,3262,334"/>
+<area shape="poly" id="edge26_Node000009_Node000030" title=" " alt="" coords="3068,246,3126,291,3122,296,3064,250"/>
+<area shape="poly" id="edge27_Node000009_Node000031" title=" " alt="" coords="3145,219,3442,226,3826,238,4202,257,4358,269,4477,284,4510,291,4509,296,4476,289,4358,275,4202,262,3826,243,3442,231,3145,224"/>
+<area shape="poly" id="edge28_Node000009_Node000032" title=" " alt="" coords="3145,218,3478,225,3918,237,4353,256,4533,269,4670,284,4707,291,4706,296,4669,289,4533,274,4352,262,3917,242,3477,230,3145,224"/>
+<area shape="rect" id="Node000033" href="$da/d54/JackServerGlobals_8cpp.html" title=" " alt="" coords="3286,294,3499,334"/>
+<area shape="poly" id="edge29_Node000009_Node000033" title=" " alt="" coords="3121,240,3317,291,3316,296,3120,245"/>
+<area shape="poly" id="edge30_Node000009_Node000034" title=" " alt="" coords="3145,218,3517,223,4019,235,4519,254,4727,268,4885,284,4922,291,4921,296,4884,289,4727,273,4519,260,4019,240,3517,228,3145,223"/>
+<area shape="poly" id="edge31_Node000009_Node000035" title=" " alt="" coords="3145,218,3557,223,4122,235,4689,255,4925,268,5103,284,5147,291,5146,296,5103,289,4924,273,4688,260,4122,240,3557,229,3145,223"/>
+<area shape="rect" id="Node000036" href="$dd/db8/JackSocketServerChannel_8cpp.html" title=" " alt="" coords="3523,294,3760,334"/>
+<area shape="poly" id="edge32_Node000009_Node000036" title=" " alt="" coords="3145,231,3318,254,3512,284,3549,291,3548,296,3511,289,3317,259,3144,236"/>
+<area shape="rect" id="Node000037" href="$dc/dbe/JackWinNamedPipeServerChannel_8cpp.html" title=" " alt="" coords="3785,286,4021,342"/>
+<area shape="poly" id="edge33_Node000009_Node000037" title=" " alt="" coords="3145,223,3431,245,3602,262,3773,284,3785,286,3784,291,3772,289,3602,267,3431,250,3145,228"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="2361,336,2381,339,2503,354,2664,366,3052,385,3444,398,3736,405,3736,410,3444,403,3052,390,2664,371,2503,359,2380,345,2360,341"/>
+<area shape="poly" id="edge39_Node000041_Node000006" title=" " alt="" coords="4894,157,4868,199,4863,196,4889,154"/>
+<area shape="rect" id="Node000042" href="$d0/daa/JackLibAPI_8cpp.html" title=" " alt="" coords="5468,198,5640,238"/>
+<area shape="poly" id="edge40_Node000041_Node000042" title=" " alt="" coords="4997,144,5014,147,5138,165,5234,173,5331,180,5456,195,5468,197,5467,202,5455,200,5331,185,5234,179,5137,171,5013,152,4996,149"/>
+<area shape="rect" id="Node000043" href="$d1/df8/JackLibClient_8cpp.html" title=" " alt="" coords="5664,198,5846,238"/>
+<area shape="poly" id="edge41_Node000041_Node000043" title=" " alt="" coords="4996,143,5014,147,5110,161,5192,169,5332,175,5472,179,5651,195,5664,197,5663,202,5651,200,5472,184,5332,180,5192,174,5110,166,5013,152,4995,149"/>
+<area shape="rect" id="Node000044" href="$da/ddf/JackPosixServerLaunch_8cpp.html" title=" " alt="" coords="4960,198,5185,238"/>
+<area shape="poly" id="edge42_Node000041_Node000044" title=" " alt="" coords="4960,148,5040,195,5037,199,4957,153"/>
+<area shape="rect" id="Node000045" href="$db/dcc/JackWinServerLaunch_8cpp.html" title=" " alt="" coords="5208,198,5444,238"/>
+<area shape="poly" id="edge43_Node000041_Node000045" title=" " alt="" coords="5001,144,5014,147,5230,194,5229,200,5013,152,5000,149"/>
+</map>

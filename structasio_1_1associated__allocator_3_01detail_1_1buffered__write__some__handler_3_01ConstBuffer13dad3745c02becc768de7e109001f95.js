@@ -1,5 +1,0 @@
-var structasio_1_1associated__allocator_3_01detail_1_1buffered__write__some__handler_3_01ConstBuffer13dad3745c02becc768de7e109001f95 =
-[
-    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1buffered__write__some__handler_3_01ConstBuffer13dad3745c02becc768de7e109001f95.html#af81cebbd59db333a52343dee00afe7ca", null ],
-    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1buffered__write__some__handler_3_01ConstBuffer13dad3745c02becc768de7e109001f95.html#ac70e0f8dd31ddc93eb6443e198a19406", null ]
-];

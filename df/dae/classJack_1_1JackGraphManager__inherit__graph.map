@@ -1,0 +1,11 @@
+<map id="Jack::JackGraphManager" name="Jack::JackGraphManager">
+<area shape="rect" id="Node000001" title="Graph manager: contains the connection manager and the port array." alt="" coords="83,741,264,1946"/>
+<area shape="rect" id="Node000002" href="$d3/d41/classJack_1_1JackShmMem.html" title="The base class for shared memory management." alt="" coords="22,455,151,623"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,638,111,741,106,742,95,638"/>
+<area shape="rect" id="Node000003" href="$d0/dea/classJack_1_1JackShmMemAble.html" title="A class which objects possibly want to be allocated in shared memory derives from this class." alt="" coords="5,87,160,234"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,249,88,456,83,456,81,249"/>
+<area shape="rect" id="Node000004" href="$dd/d4f/classJack_1_1JackAtomicState.html" title=" " alt="" coords="182,387,357,692"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,707,248,742,243,741,247,706"/>
+<area shape="rect" id="Node000005" href="$dd/d4f/classJack_1_1JackAtomicState.html" title="A class to handle two states (switching from one to the other) in a lock&#45;free manner." alt="" coords="185,5,359,316"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,330,273,387,268,387,268,330"/>
+</map>

@@ -1,5 +1,0 @@
-var structasio_1_1associated__executor_3_01detail_1_1buffered__fill__handler_3_01ReadHandler_01_4_00_01Executor_01_4 =
-[
-    [ "type", "structasio_1_1associated__executor_3_01detail_1_1buffered__fill__handler_3_01ReadHandler_01_4_00_01Executor_01_4.html#a3bccedafb8320610cb414dff89ae212b", null ],
-    [ "get", "structasio_1_1associated__executor_3_01detail_1_1buffered__fill__handler_3_01ReadHandler_01_4_00_01Executor_01_4.html#a32a4245494ea6d754bb0eaab2cb2108a", null ]
-];

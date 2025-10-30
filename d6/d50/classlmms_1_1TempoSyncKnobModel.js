@@ -1,0 +1,36 @@
+var classlmms_1_1TempoSyncKnobModel =
+[
+    [ "SyncMode", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9", [
+      [ "None", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "DoubleWholeNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9af0576dcbdf8066d720c8c41b9a00b631", null ],
+      [ "WholeNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9a8eee9bedbcdf4d681bf0e198ef546ab1", null ],
+      [ "HalfNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9a791c7e02f9d7efce9a1d47228c9ca727", null ],
+      [ "QuarterNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9aac9ca32f5639e26b29ae5195112e82e9", null ],
+      [ "EighthNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9a2239c8420f5941f2973a63e12a26baf4", null ],
+      [ "SixteenthNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9ae83cf3c220aaa22bfb0291e1b16c3be0", null ],
+      [ "ThirtysecondNote", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9a6c19c42c05e7e8b7f79502c1a2beedf1", null ],
+      [ "Custom", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4118bdb96ab68bf423c234757c16e2e9a90589c47f06eb971d548591f23c285af", null ]
+    ] ],
+    [ "TempoSyncKnobModel", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a67eb98fa0c383029c5a9121b4c689d70", null ],
+    [ "~TempoSyncKnobModel", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#ab0eb2dff8fe62848b1945432f3ae97b2", null ],
+    [ "calculateTempoSyncTime", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a1cfb01dc9041398427befac1707e1497", null ],
+    [ "disableSync", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a9e203654a97c6c23e973e4ec30a58f38", null ],
+    [ "getCustomMeterModel", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a2b2ac24fe0f4ea7302492062f85b53ee", null ],
+    [ "getCustomMeterModel", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a1976ed27cf4d123e17bead5c173c77a9", null ],
+    [ "loadSettings", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#aa09c8cbf7d088bb5fb63dae267ec3ae3", null ],
+    [ "saveSettings", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a8ac80affcaaec61bf957fc2749a27074", null ],
+    [ "scale", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a895f9863fcc2cde207864062994fda49", null ],
+    [ "scaleChanged", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#afecaa0cf041f010df0215b2778a3acb3", null ],
+    [ "setScale", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#af58eb08fca1f87ad9c2883ac8630d60e", null ],
+    [ "setSyncMode", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a5468bd0edfd06598494ba3a232566c00", null ],
+    [ "setTempoSync", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#af806dad3fc4ed194117f3842db12ffa7", null ],
+    [ "setTempoSync", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a9e066d60b16c3ff00168c4fcb30f092a", null ],
+    [ "syncMode", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a4793d921011ca1d57737b982d717016c", null ],
+    [ "syncModeChanged", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a99e36b23befe27c49375bfb20f0487b5", null ],
+    [ "updateCustom", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#ae369b7daa7a90c3832222dd98fab5cc2", null ],
+    [ "gui::TempoSyncKnob", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#aea5a8d4f5af5ed5b8fb9fa2380b354eb", null ],
+    [ "m_custom", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a47019660ddf91c5d6f34dcbd9b901ff7", null ],
+    [ "m_scale", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a401d83033d59c7062bb0629443595578", null ],
+    [ "m_tempoLastSyncMode", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a8186976ef337e92dec977be1686aeef1", null ],
+    [ "m_tempoSyncMode", "d6/d50/classlmms_1_1TempoSyncKnobModel.html#a7ba6400c0e262a09aa78ad029f4b2db0", null ]
+];

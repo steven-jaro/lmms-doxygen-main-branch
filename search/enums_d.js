@@ -1,30 +1,6 @@
 var searchData=
 [
-  ['machinetype_0',['MachineType',['../namespacePE.html#a72ef278331e39b76b651a0c1bf11b2bf',1,'PE']]],
-  ['mapping_5fmode_1',['mapping_mode',['../classcalf__plugins_1_1mod__matrix__metadata.html#a74e4cff5d15000cfff65a04365434916',1,'calf_plugins::mod_matrix_metadata']]],
-  ['masks_2',['Masks',['../structSteinberg_1_1Vst_1_1Chord.html#a19cee6aafe8a856a97baa7ae198b40ad',1,'Steinberg::Vst::Chord']]],
-  ['mbcodepage_3',['MBCodePage',['../namespaceSteinberg.html#ab31f294dce838ce8767d7401880c0804',1,'Steinberg']]],
-  ['mediatypes_4',['MediaTypes',['../namespaceSteinberg_1_1Vst.html#a824e5129bad36c3d9da5f76cbcfb272a',1,'Steinberg::Vst']]],
-  ['menuselectiondirection_5',['MenuSelectionDirection',['../structjuce_1_1PopupMenu_1_1HelperClasses_1_1MenuWindow.html#a810511ec9c16684143c5aeb51f23ddb7',1,'juce::PopupMenu::HelperClasses::MenuWindow']]],
-  ['messageboxicontype_6',['MessageBoxIconType',['../namespacejuce.html#a564581792127c08482527ce9ef861a7a',1,'juce']]],
-  ['method_7',['method',['../classasio_1_1ssl_1_1context__base.html#ac37d498266e3b13607f011ace6417525',1,'asio::ssl::context_base']]],
-  ['midi_5ftype_8',['midi_type',['../namespacezyncarla.html#a760ca9fc75bfc23356d54cb97e14376c',1,'zyncarla::midi_type'],['../ZynAddSubFx_2zynaddsubfx_2src_2Nio_2InMgr_8h.html#a7aed6c80e4b36939c91e31a94f22baa5',1,'midi_type:&#160;InMgr.h']]],
-  ['midicontrollerregisteredparameternumbers_9',['MidiControllerRegisteredParameterNumbers',['../namespacelmms.html#a3ac49534a645af797dabf2ab3b34e83e',1,'lmms']]],
-  ['midicontrollers_10',['MidiControllers',['../namespacezyncarla.html#a2a9bc7b8857464c6ebcf62483791dd95',1,'zyncarla::MidiControllers'],['../ZynAddSubFx_2zynaddsubfx_2src_2globals_8h.html#ad38d1da3c718c9d95c2cf68dc1969f30',1,'MidiControllers:&#160;globals.h']]],
-  ['midieventtypes_11',['MidiEventTypes',['../namespacelmms.html#ab891d4ab39c69c5445b91fd7fc5c3f38',1,'lmms']]],
-  ['midimachinecontrolcommand_12',['MidiMachineControlCommand',['../classjuce_1_1MidiMessage.html#a827fd0caac6fb3b99e1b8a0746b34710',1,'juce::MidiMessage::MidiMachineControlCommand'],['../classwater_1_1MidiMessage.html#a56b99c84b013f5c50888956979ceafbe',1,'water::MidiMessage::MidiMachineControlCommand'],['../classMidiMessage.html#a56b99c84b013f5c50888956979ceafbe',1,'MidiMessage::MidiMachineControlCommand']]],
-  ['midimetaeventtypes_13',['MidiMetaEventTypes',['../namespacelmms.html#a587bdb6ff9ef6076d36ace615c51050b',1,'lmms']]],
-  ['midiprotocol_14',['MidiProtocol',['../namespacejuce_1_1universal__midi__packets.html#a87d29aa31b614d28f9704c638581f2c7',1,'juce::universal_midi_packets']]],
-  ['midistandardcontrollers_15',['MidiStandardControllers',['../namespacelmms.html#adde15ff3884c6e976fac1b6e04fe420e',1,'lmms']]],
-  ['mimetype_16',['MimeType',['../namespacelmms_1_1Clipboard.html#a60429938a582399cfa5bd2e001eaff49',1,'lmms::Clipboard']]],
-  ['misc_5ferrors_17',['misc_errors',['../namespaceasio_1_1error.html#ade61a402d1dfb10b1c223906f5ea7847',1,'asio::error']]],
-  ['mode_18',['Mode',['../classlmms_1_1AudioResampler.html#a2ff4d221025e469bc517e42c683778d6',1,'lmms::AudioResampler::Mode'],['../classlmms_1_1MidiPort.html#a6608f29ffaca2416f75388fbfbba2748',1,'lmms::MidiPort::Mode']]],
-  ['modeenum_19',['modeEnum',['../classBrowseFile__State.html#a82b6af475a6873fe82e7f308a8467243',1,'BrowseFile_State']]],
-  ['modifier_20',['Modifier',['../Base_8hpp.html#a80f90997871cd543ddb0bf8d282becdd',1,'Base.hpp']]],
-  ['modulationalgo_21',['ModulationAlgo',['../classlmms_1_1Oscillator.html#ac3b9a82e8e11ff423d0d9d06963e6a04',1,'lmms::Oscillator']]],
-  ['monitor_5fdpi_5ftype_22',['Monitor_DPI_Type',['../namespacejuce.html#a529b9c99170c8e9cfbe9f373ef567c38',1,'juce']]],
-  ['mousebutton_23',['MouseButton',['../Base_8hpp.html#ac1ec3647c005eacad401b06e7e18f711',1,'Base.hpp']]],
-  ['mousebuttons_24',['MouseButtons',['../namespacejuce_1_1Keys.html#ac042ede7fc64c445f0e9e601d4bca7da',1,'juce::Keys']]],
-  ['mousecursor_25',['MouseCursor',['../Base_8hpp.html#a1d321f70023d9a5dbd2a2add15ac6e6b',1,'Base.hpp']]],
-  ['moving_5fdirections_26',['moving_directions',['../namespacecalf__plugins.html#ae2158376fff063bc13c4c1b3138d28bc',1,'calf_plugins']]]
+  ['octave_0',['Octave',['../d1/dfd/namespacelmms.html#a9a510ed868b1c2de8135207cc188db89',1,'lmms']]],
+  ['operationmode_1',['OperationMode',['../df/d8e/classlmms_1_1AudioEngineWorkerThread_1_1JobQueue.html#ae9278d6fd10b011d181e18ab9fba1534',1,'lmms::AudioEngineWorkerThread::JobQueue']]],
+  ['origin_2',['Origin',['../d1/d3d/classlmms_1_1NotePlayHandle.html#ae017b0896dabb5ec8933fb55c720a1e9',1,'lmms::NotePlayHandle']]]
 ];

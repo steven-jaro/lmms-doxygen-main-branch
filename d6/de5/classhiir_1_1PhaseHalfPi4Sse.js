@@ -1,0 +1,25 @@
+var classhiir_1_1PhaseHalfPi4Sse =
+[
+    [ "DataType", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a830c0d1609cebc8a58f8d11f5cbec4a4", null ],
+    [ "Filter", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a7ddc9726b87071c89e72bcf0e75b3c95", null ],
+    [ "FilterBiPhase", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#aa11d8583774e63fbd1b3f11b3eb2450e", null ],
+    [ "PhaseHalfPi4Sse", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#aa1247017d547b7212fd43c43bece47e6", null ],
+    [ "PhaseHalfPi4Sse", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a6ee1085ba6b82310bb081be7de92016f", null ],
+    [ "PhaseHalfPi4Sse", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#aa390b5c62648e15b69fb75e3ecae17fd", null ],
+    [ "~PhaseHalfPi4Sse", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#af1f1da2ec15beaf723c7851af3306e8a", null ],
+    [ "clear_buffers", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#ab20fa9892411d0b749510cbe3697087c", null ],
+    [ "operator!=", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a868e7b8e669b0482d13e1be22bd54354", null ],
+    [ "operator=", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a18f5240faca7cb6036a7497ed7cb6e77", null ],
+    [ "operator=", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a2466c820008e92ecc4fdf5aed04f3bc8", null ],
+    [ "operator==", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#ad6e9279802c7fb788f6b7c7e198c7f78", null ],
+    [ "process_block", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#aba193dba41eb27e6069388c4afe3d4bf", null ],
+    [ "process_sample", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#abb2fab340d74c250cfc9b346f966af2b", null ],
+    [ "set_coefs", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a929e322e7573701c4cd8e2fd6fb0c0fd", null ],
+    [ "_bifilter", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a3e415918e37d2b55e510892e0c4cdcf1", null ],
+    [ "_delay", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#af4816352bb8d32625350cf867b1c6ca5", null ],
+    [ "_nbr_chn", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#abc3df57b9cdbcbc70488e24cf9792c0e", null ],
+    [ "_nbr_phases", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a379b4fa22e79b6fa35001620110129a6", null ],
+    [ "_phase", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a26da5e4c2f2ea2121286c2e00c1110fd", null ],
+    [ "_prev", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#aa7edc4087e358f001055e04013989f3f", null ],
+    [ "NBR_COEFS", "d6/de5/classhiir_1_1PhaseHalfPi4Sse.html#a383a3af053577c8fbce7647851aaae79", null ]
+];

@@ -1,0 +1,9 @@
+<map id="JackMidiAsyncQueue" name="JackMidiAsyncQueue">
+<area shape="rect" id="Node000001" title="This is a MIDI message queue designed to allow one thread to pass MIDI messages to another thread (th..." alt="" coords="194,183,360,433"/>
+<area shape="rect" id="Node000002" href="$d2/d2c/classJack_1_1JackMidiReadQueue.html" title="Interface for objects that MIDI events can be read from." alt="" coords="5,16,170,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,112,197,198,193,201,127,115"/>
+<area shape="rect" id="Node000003" href="$d7/d85/classJack_1_1JackMidiWriteQueue.html" title="Interface for classes that act as write queues for MIDI messages." alt="" coords="195,5,359,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,127,280,183,274,183,274,127"/>
+<area shape="rect" id="Node000004" href="$d1/dfe/struct__jack__midi__event.html" title="A Jack MIDI event." alt="" coords="384,5,496,112"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,113,370,171,365,168,403,110"/>
+</map>

@@ -17,13 +17,6 @@
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/searchdata.js"></script>
 <script type="text/javascript" src="search/search.js"></script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  extensions: ["tex2jax.js"],
-  jax: ["input/TeX","output/HTML-CSS"],
-});
-</script>
-<script type="text/javascript" async="async" src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js"></script>
 <link href="doxygen.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -35,7 +28,7 @@ MathJax.Hub.Config({
   <td id="projectalign">
    <div id="projectname">LMMS
    </div>
-   <div id="projectbrief">Linux MultiMedia Studio - Complete Codebase</div>
+   <div id="projectbrief">Linux MultiMedia Studio</div>
   </td>
  </tr>
  </tbody>
@@ -99,137 +92,19 @@ $(function(){initNavTree('globals_func_h.html','',''); });
 <div class="textblock">Here is a list of all functions with links to the files they belong to:</div>
 
 <h3 class="doxsection"><a id="index_h" name="index_h"></a>- h -</h3><ul>
-<li>handle_carla_add_plugin()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a4c6d9be6c215f031f6ecfac15eadd6d3">carla-host.cpp</a></li>
-<li>handle_carla_clone_plugin()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a67acdec60fb492310a79fbcd8209ecf1">carla-host.cpp</a></li>
-<li>handle_carla_engine_close()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa781e3e2ac044b51488138d9299e8f1c">carla-host.cpp</a></li>
-<li>handle_carla_engine_init()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a2c8113169192f260b31290872aa195ef">carla-host.cpp</a></li>
-<li>handle_carla_export_plugin_lv2()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a36e000a4a94550467097f55f36f5152f">carla-host.cpp</a></li>
-<li>handle_carla_get_audio_port_count_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a97d0740b9e0b8fcb07ace2ead5960c62">carla-host.cpp</a></li>
-<li>handle_carla_get_buffer_size()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa5bd4cb7214684e93c0636af87502b29">carla-host.cpp</a></li>
-<li>handle_carla_get_cached_plugin_count()&#160;:&#160;<a class="el" href="carla-utils_8cpp.html#a452d87f2175d5f340b40727ec33320ff">carla-utils.cpp</a></li>
-<li>handle_carla_get_cached_plugin_info()&#160;:&#160;<a class="el" href="carla-utils_8cpp.html#abdce15e661c4f9336dad59249cb61015">carla-utils.cpp</a></li>
-<li>handle_carla_get_chunk_data()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a0992557f95456fa75d720b39b9b1df71">carla-host.cpp</a></li>
-<li>handle_carla_get_complete_license_text()&#160;:&#160;<a class="el" href="carla-utils_8cpp.html#aa57aaab07ca1dd0fab3a2dbe8241c0af">carla-utils.cpp</a></li>
-<li>handle_carla_get_current_midi_program_index()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a02df346e10af44426b1dc4b38ec8fdd7">carla-host.cpp</a></li>
-<li>handle_carla_get_current_parameter_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a418e313d3056c6022b5a6b4cf22d0653">carla-host.cpp</a></li>
-<li>handle_carla_get_current_plugin_count()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aeb74852bdd4967f809cbaf2a6c5c32f1">carla-host.cpp</a></li>
-<li>handle_carla_get_current_program_index()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a8c736a582a79f456e606e47b18736bd6">carla-host.cpp</a></li>
-<li>handle_carla_get_current_transport_frame()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ac9edbb965ce0ab240805b7e53df634f3">carla-host.cpp</a></li>
-<li>handle_carla_get_custom_data()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a74d1709c4430ba8c23a376cb910395b7">carla-host.cpp</a></li>
-<li>handle_carla_get_custom_data_count()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a183f93058301474fe4bd7923be348f59">carla-host.cpp</a></li>
-<li>handle_carla_get_custom_data_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aea285c6a6245c9cd5df579483fd8e914">carla-host.cpp</a></li>
-<li>handle_carla_get_default_parameter_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a4ad29a8092624839e18fc2e211d145af">carla-host.cpp</a></li>
-<li>handle_carla_get_engine_driver_count()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a34723e9584093ad183a2a3f1e0915bd8">carla-host.cpp</a></li>
-<li>handle_carla_get_engine_driver_device_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a58bccfd44c131a5f12050c51116b295a">carla-host.cpp</a></li>
-<li>handle_carla_get_engine_driver_device_names()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ad4b7db1d1d3e0ce723be723fbc06d47b">carla-host.cpp</a></li>
-<li>handle_carla_get_engine_driver_name()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a8d9594cde43eb5acab84d959ec0fb5c0">carla-host.cpp</a></li>
-<li>handle_carla_get_host_osc_url_tcp()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ae62059d09e87d4624e183e906ff90c77">carla-host.cpp</a></li>
-<li>handle_carla_get_host_osc_url_udp()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a888be50848acfb8585b7b5371c79be76">carla-host.cpp</a></li>
-<li>handle_carla_get_input_peak_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ade3ebf134c77291ccef29b3cc3af7db7">carla-host.cpp</a></li>
-<li>handle_carla_get_internal_parameter_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a965a3d8abffb521116b8e112d627fa60">carla-host.cpp</a></li>
-<li>handle_carla_get_last_error()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a818830fdfb9251f70269235438028280">carla-host.cpp</a></li>
-<li>handle_carla_get_max_plugin_number()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aad28075011dcca6ac6ac6c99081359f9">carla-host.cpp</a></li>
-<li>handle_carla_get_midi_port_count_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aca25ad55227a37107a76cf8f6af3ef41">carla-host.cpp</a></li>
-<li>handle_carla_get_midi_program_count()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a05b706c23b8e2a57f3459e9c38858c78">carla-host.cpp</a></li>
-<li>handle_carla_get_midi_program_data()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a4b0891ea7ce67dd737c2974f5aaa1790">carla-host.cpp</a></li>
-<li>handle_carla_get_midi_program_name()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aea8c6b42056fed8cb620797485d2ed03">carla-host.cpp</a></li>
-<li>handle_carla_get_output_peak_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a6b59c99e10337123340098f2e95af705">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_count()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a849f63af07f658b781ec188f26f464c4">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_count_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ae4e87aa2c5242a760bac054277276a0c">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_data()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a48bc45b2c13e2cba80b1f0c4a0a68782">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a50d9606b2da0a8500d6d08df799400b1">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_ranges()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a1b1ec981fd26f884eb3b93c9086e03ef">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_scalepoint_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ac1d969723a39086eacc2e4c6050f87c5">carla-host.cpp</a></li>
-<li>handle_carla_get_parameter_text()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#afc7c6554f629b3d198b68d441113ef48">carla-host.cpp</a></li>
-<li>handle_carla_get_plugin_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a935a0c081f6b6fc24da2ec5ac226f224">carla-host.cpp</a></li>
-<li>handle_carla_get_program_count()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a1f0230bb437b9e6a86ed40239b8b93e7">carla-host.cpp</a></li>
-<li>handle_carla_get_program_name()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a2a846b08f8ac123567b9718dbd4bf67c">carla-host.cpp</a></li>
-<li>handle_carla_get_real_plugin_name()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a56dd94409e47d3b886c2f0cdfb4b3ae2">carla-host.cpp</a></li>
-<li>handle_carla_get_sample_rate()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a7a945188dd425e5b18cbedb40799c68c">carla-host.cpp</a></li>
-<li>handle_carla_get_supported_features()&#160;:&#160;<a class="el" href="carla-utils_8cpp.html#a0d172d25b3eade6e1d84ddf5140e7a89">carla-utils.cpp</a></li>
-<li>handle_carla_get_supported_file_extensions()&#160;:&#160;<a class="el" href="carla-utils_8cpp.html#a20093b542fb20f3dc4f35228b970e0f1">carla-utils.cpp</a></li>
-<li>handle_carla_get_transport_info()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a43db5e7d6259daf997e8ccc4db55e4ce">carla-host.cpp</a></li>
-<li>handle_carla_is_engine_running()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a5bb80bac17557d20f53bc36581a7ca6d">carla-host.cpp</a></li>
-<li>handle_carla_load_file()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ab98244e98b8411e8ca549df313d6cbe4">carla-host.cpp</a></li>
-<li>handle_carla_load_plugin_state()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a8006836d355882894f8cf030cf3b0bbb">carla-host.cpp</a></li>
-<li>handle_carla_load_project()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a6a186404e15fe0d8c029ae7c78d3d3c8">carla-host.cpp</a></li>
-<li>handle_carla_patchbay_connect()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a2be56b05feb7e9c456ea3f3c5ef06565">carla-host.cpp</a></li>
-<li>handle_carla_patchbay_disconnect()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a599b9df6a13ac472b35d8cd01c2e6559">carla-host.cpp</a></li>
-<li>handle_carla_patchbay_refresh()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa8625bfcf04d58b7aa6ecdf0567df30d">carla-host.cpp</a></li>
-<li>handle_carla_prepare_for_save()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aba6015dd02e0e9e0cb63abbfc1c24c54">carla-host.cpp</a></li>
-<li>handle_carla_randomize_parameters()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a3c68810c30b3322a8a9e943987ebbe00">carla-host.cpp</a></li>
-<li>handle_carla_remove_all_plugins()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a11404a9aff67a5a8547fb37dcf6ff0e7">carla-host.cpp</a></li>
-<li>handle_carla_remove_plugin()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ace4db873da2878f39d5bbcfc34fd472a">carla-host.cpp</a></li>
-<li>handle_carla_rename_plugin()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a3fb5e7467a5b7c52eb1254a4878309fd">carla-host.cpp</a></li>
-<li>handle_carla_replace_plugin()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a332c52fb66b0c738641c2e0b49501078">carla-host.cpp</a></li>
-<li>handle_carla_reset_parameters()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a896ff612a556fa4fa073c8d247b79025">carla-host.cpp</a></li>
-<li>handle_carla_save_plugin_state()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aaf9e20fc5e5ad450b56da275c9c407df">carla-host.cpp</a></li>
-<li>handle_carla_save_project()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa9f233cad85fb0eb88d538126fce20f3">carla-host.cpp</a></li>
-<li>handle_carla_send_midi_note()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a113685487adb84ad47781f72318b46d7">carla-host.cpp</a></li>
-<li>handle_carla_set_active()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a70bab1c8f5c3c984103c4742587ee15c">carla-host.cpp</a></li>
-<li>handle_carla_set_balance_left()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a26f6b202a47cc0443ba6f27db0c04269">carla-host.cpp</a></li>
-<li>handle_carla_set_balance_right()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a3f25416b78a1527666ccc1002e1fc7b6">carla-host.cpp</a></li>
-<li>handle_carla_set_chunk_data()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a8318ec514eb61cae9417174a70d4db5f">carla-host.cpp</a></li>
-<li>handle_carla_set_ctrl_channel()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a1f2a4ae989e4fda1397b8e96ad857b14">carla-host.cpp</a></li>
-<li>handle_carla_set_custom_data()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a2e383526edaefe706a79c4678ecbe456">carla-host.cpp</a></li>
-<li>handle_carla_set_drywet()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a8cb5b93953f4a7af5f0e9375c0077fea">carla-host.cpp</a></li>
-<li>handle_carla_set_engine_about_to_close()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa29d3eb24321017ac575cd1ffbf267ff">carla-host.cpp</a></li>
-<li>handle_carla_set_engine_option()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a9ee17c4a88a0a4458f0f3c8fed1e310a">carla-host.cpp</a></li>
-<li>handle_carla_set_midi_program()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#af78ebf3e46bd6dbff01156da3f83be41">carla-host.cpp</a></li>
-<li>handle_carla_set_option()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ae2bf44d59deccbd574575c2361441fbe">carla-host.cpp</a></li>
-<li>handle_carla_set_panning()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa7faf55e48c8bef2c80d68f764bd74e8">carla-host.cpp</a></li>
-<li>handle_carla_set_parameter_midi_cc()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a404be5a65abbf15d17fa03bf584bdbf3">carla-host.cpp</a></li>
-<li>handle_carla_set_parameter_midi_channel()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a599b6a7676a46a373d7fd033b0bdea73">carla-host.cpp</a></li>
-<li>handle_carla_set_parameter_value()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ad90a90b4f4f684b62be49c85a519d705">carla-host.cpp</a></li>
-<li>handle_carla_set_program()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#aa9a471028a6d9e0ab1bdd51a6dc632ce">carla-host.cpp</a></li>
-<li>handle_carla_set_volume()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a5dc14741142e4959bb6b570da5bcbac7">carla-host.cpp</a></li>
-<li>handle_carla_switch_plugins()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a3359497d1560e5f0fef9c51c1232e2a1">carla-host.cpp</a></li>
-<li>handle_carla_transport_bpm()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a70cf04881a844fcdf360800b9ff67cf4">carla-host.cpp</a></li>
-<li>handle_carla_transport_pause()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#ad00f9923dba2f39fad46de8f911e8366">carla-host.cpp</a></li>
-<li>handle_carla_transport_play()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a2d2fccbb2ca2009d5f1f2f0587c0700b">carla-host.cpp</a></li>
-<li>handle_carla_transport_relocate()&#160;:&#160;<a class="el" href="carla-host_8cpp.html#a3361f8fc2d8cf7fc8d3151855479063c">carla-host.cpp</a></li>
-<li>handle_error()&#160;:&#160;<a class="el" href="cpp__basics_8cpp.html#a315a092c2b6be0b17e5e66b3c17aa026">cpp_basics.cpp</a>, <a class="el" href="FreeBoy_2game-music-emu_2player_2player_8cpp.html#ab84fc6f95c461c669c5520f63756a2ed">player.cpp</a></li>
-<li>handleInitialCommandLineArguments()&#160;:&#160;<a class="el" href="carla__shared_8cpp.html#acf7076ee2a3c40637b6cf5d530282ccb">carla_shared.cpp</a>, <a class="el" href="carla__shared_8hpp.html#acf7076ee2a3c40637b6cf5d530282ccb">carla_shared.hpp</a></li>
-<li>handler_function()&#160;:&#160;<a class="el" href="guimain_8cpp.html#ab27efda650303e6c10abcde20c1b9488">guimain.cpp</a></li>
-<li>has()&#160;:&#160;<a class="el" href="ports_8cpp.html#aa55a08864d506df0e4cb80bca7b17e22">ports.cpp</a></li>
-<li>has2()&#160;:&#160;<a class="el" href="midimapper_8cpp.html#aa4441010dedcbaecd56457e3b641fbb3">midimapper.cpp</a></li>
-<li>has_t()&#160;:&#160;<a class="el" href="midimapper_8cpp.html#a2093acbb01696c11d580b2ac02b24df0">midimapper.cpp</a></li>
-<li>hasStrings_isNonWordChar()&#160;:&#160;<a class="el" href="has__strings_8h.html#ac4f423f3b5a9b0194fc1322b3d3b7efc">has_strings.h</a></li>
-<li>have_libjack()&#160;:&#160;<a class="el" href="weak__libjack_8h.html#ac350e8d3eff506e309a917ba95eb2f17">weak_libjack.h</a></li>
-<li>HDC_VALID()&#160;:&#160;<a class="el" href="swell-gdi-internalpool_8h.html#a86fdc2d8c669ee11dd0ac213922bfc88">swell-gdi-internalpool.h</a></li>
-<li>Header_GetItem()&#160;:&#160;<a class="el" href="swell-wnd-generic_8cpp.html#a0c68ef7d338911691fe0c801e79549f4">swell-wnd-generic.cpp</a></li>
-<li>Header_GetItemCount()&#160;:&#160;<a class="el" href="swell-wnd-generic_8cpp.html#aea37e65d20c5be66a32858a273786d6a">swell-wnd-generic.cpp</a></li>
-<li>Header_SetItem()&#160;:&#160;<a class="el" href="swell-wnd-generic_8cpp.html#a7c8593a6f318b81a9332d7e0e63eabca">swell-wnd-generic.cpp</a></li>
-<li>HGDIOBJ_VALID()&#160;:&#160;<a class="el" href="swell-gdi-internalpool_8h.html#ab0ed5dc954dbfbe819c512a2df207f5c">swell-gdi-internalpool.h</a></li>
-<li>hlist_add_after()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a15ceaf3edb7fab6f0b2289cb8c0771c4">list.h</a></li>
-<li>hlist_add_after_rcu()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a8b7158efe3d004dcc2d715ef5a782478">list.h</a></li>
-<li>hlist_add_before()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a254a79dcc8e7dd5662a4e67fcd04ed10">list.h</a></li>
-<li>hlist_add_before_rcu()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a61e46ef2f8d6a41b72cc05817f10a82b">list.h</a></li>
-<li>hlist_add_head()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#ad7a242949abf03ff2ae417686a4451cd">list.h</a></li>
-<li>hlist_add_head_rcu()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#ad16ef5ef2d6e154c3e770176d8a6b5fd">list.h</a></li>
-<li>hlist_del()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#aa7bb9806633e74fad4c0f4ba8d3ac850">list.h</a></li>
-<li>hlist_del_init()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a2e00d6f98de0c25c46a7645a0b6f4d5f">list.h</a></li>
-<li>hlist_del_rcu()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a0f031846dfd044009602871bd965561c">list.h</a></li>
-<li>hlist_empty()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#af610dde21167bf116937c81c393a229f">list.h</a></li>
-<li>hlist_replace_rcu()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a1e3d1584400cab651e87f47e40bf179f">list.h</a></li>
-<li>hlist_unhashed()&#160;:&#160;<a class="el" href="src_23rdparty_2jack2_2dbus_2list_8h.html#a7f946d296ab41ce808e96d529a4106d6">list.h</a></li>
-<li>host_dispatcher()&#160;:&#160;<a class="el" href="carla-lv2-export_8cpp.html#a3127e21370eee6165be011981c179d3d">carla-lv2-export.cpp</a></li>
-<li>host_getBufferSize()&#160;:&#160;<a class="el" href="carla-lv2-export_8cpp.html#accc8cd0e263da6589a2e027acab76abd">carla-lv2-export.cpp</a></li>
-<li>host_getSampleRate()&#160;:&#160;<a class="el" href="carla-lv2-export_8cpp.html#ac837b4f75ee3fd57f9277a84b212b41f">carla-lv2-export.cpp</a></li>
-<li>host_isOffline()&#160;:&#160;<a class="el" href="carla-lv2-export_8cpp.html#aba3cbae23a6d7595752bbf3b36a226dd">carla-lv2-export.cpp</a></li>
-<li>hp_set_params()&#160;:&#160;<a class="el" href="swh_2ladspa_2util_2biquad_8h.html#ab1ccdd1b36e93cd3edf4ec0a08e1f414">biquad.h</a>, <a class="el" href="tap__reverb_8h.html#ab1ccdd1b36e93cd3edf4ec0a08e1f414">tap_reverb.h</a>, <a class="el" href="tap__utils_8h.html#ab1ccdd1b36e93cd3edf4ec0a08e1f414">tap_utils.h</a></li>
-<li>hs_set_params()&#160;:&#160;<a class="el" href="swh_2ladspa_2util_2biquad_8h.html#a431fd3084c899d3578a6528c0283bbc6">biquad.h</a>, <a class="el" href="tap__utils_8h.html#a431fd3084c899d3578a6528c0283bbc6">tap_utils.h</a></li>
-<li>human_readable()&#160;:&#160;<a class="el" href="giface_8cpp.html#ad567459305ce06cfdd29f77cbf11071b">giface.cpp</a></li>
-<li>hylia_cleanup()&#160;:&#160;<a class="el" href="hylia_8cpp.html#a5184369fb6f53d4a2490b3cc4434d017">hylia.cpp</a>, <a class="el" href="hylia_8h.html#a5184369fb6f53d4a2490b3cc4434d017">hylia.h</a></li>
-<li>hylia_create()&#160;:&#160;<a class="el" href="hylia_8cpp.html#adb376b3d7e18268a04225d3ed8d009ec">hylia.cpp</a>, <a class="el" href="hylia_8h.html#adb376b3d7e18268a04225d3ed8d009ec">hylia.h</a></li>
-<li>hylia_enable()&#160;:&#160;<a class="el" href="hylia_8cpp.html#ad773878224286032f534366ca17f3296">hylia.cpp</a>, <a class="el" href="hylia_8h.html#ad773878224286032f534366ca17f3296">hylia.h</a></li>
-<li>hylia_process()&#160;:&#160;<a class="el" href="hylia_8cpp.html#ae8d40a3c0dcff44619f5e98b9b23fd4d">hylia.cpp</a>, <a class="el" href="hylia_8h.html#ae8d40a3c0dcff44619f5e98b9b23fd4d">hylia.h</a></li>
-<li>hylia_set_beats_per_bar()&#160;:&#160;<a class="el" href="hylia_8cpp.html#a28145ca546e28f56f88da3a5acebd912">hylia.cpp</a>, <a class="el" href="hylia_8h.html#a28145ca546e28f56f88da3a5acebd912">hylia.h</a></li>
-<li>hylia_set_beats_per_minute()&#160;:&#160;<a class="el" href="hylia_8cpp.html#ad3bb8ebb8fc345b0f750b91b45f1f283">hylia.cpp</a>, <a class="el" href="hylia_8h.html#ad3bb8ebb8fc345b0f750b91b45f1f283">hylia.h</a></li>
-<li>hylia_set_output_latency()&#160;:&#160;<a class="el" href="hylia_8cpp.html#ada1fa22ff2269bcb2b9fd65dc0a84f86">hylia.cpp</a>, <a class="el" href="hylia_8h.html#ada1fa22ff2269bcb2b9fd65dc0a84f86">hylia.h</a></li>
-<li>hylia_set_start_stop_sync_enabled()&#160;:&#160;<a class="el" href="hylia_8cpp.html#a12b3ee4f410271d641b98e7a49db3c0f">hylia.cpp</a>, <a class="el" href="hylia_8h.html#a12b3ee4f410271d641b98e7a49db3c0f">hylia.h</a></li>
-<li>hylia_start_playing()&#160;:&#160;<a class="el" href="hylia_8cpp.html#a8cca851064977514e2573eccf4338091">hylia.cpp</a>, <a class="el" href="hylia_8h.html#a8cca851064977514e2573eccf4338091">hylia.h</a></li>
-<li>hylia_stop_playing()&#160;:&#160;<a class="el" href="hylia_8cpp.html#ad95467bbc7b043c3fbbca2f9d9dc2d38">hylia.cpp</a>, <a class="el" href="hylia_8h.html#ad95467bbc7b043c3fbbca2f9d9dc2d38">hylia.h</a></li>
+<li>have_libjack()&#160;:&#160;<a class="el" href="de/d57/weak__libjack_8h.html#ac350e8d3eff506e309a917ba95eb2f17">weak_libjack.h</a></li>
+<li>hlist_add_after()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a15ceaf3edb7fab6f0b2289cb8c0771c4">list.h</a></li>
+<li>hlist_add_after_rcu()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a8b7158efe3d004dcc2d715ef5a782478">list.h</a></li>
+<li>hlist_add_before()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a254a79dcc8e7dd5662a4e67fcd04ed10">list.h</a></li>
+<li>hlist_add_before_rcu()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a61e46ef2f8d6a41b72cc05817f10a82b">list.h</a></li>
+<li>hlist_add_head()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#ad7a242949abf03ff2ae417686a4451cd">list.h</a></li>
+<li>hlist_add_head_rcu()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#ad16ef5ef2d6e154c3e770176d8a6b5fd">list.h</a></li>
+<li>hlist_del()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#aa7bb9806633e74fad4c0f4ba8d3ac850">list.h</a></li>
+<li>hlist_del_init()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a2e00d6f98de0c25c46a7645a0b6f4d5f">list.h</a></li>
+<li>hlist_del_rcu()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a0f031846dfd044009602871bd965561c">list.h</a></li>
+<li>hlist_empty()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#af610dde21167bf116937c81c393a229f">list.h</a></li>
+<li>hlist_replace_rcu()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a1e3d1584400cab651e87f47e40bf179f">list.h</a></li>
+<li>hlist_unhashed()&#160;:&#160;<a class="el" href="da/d23/list_8h.html#a7f946d296ab41ce808e96d529a4106d6">list.h</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -237,7 +112,7 @@ $(function(){initNavTree('globals_func_h.html','',''); });
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.15.0 </li>
+    <li class="footer">Generated on <span class="timestamp"></span> for LMMS by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.15.0 </li>
   </ul>
 </div>
 </body>

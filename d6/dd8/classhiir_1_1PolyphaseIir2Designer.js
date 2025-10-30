@@ -1,0 +1,35 @@
+var classhiir_1_1PolyphaseIir2Designer =
+[
+    [ "ResCode", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a1e905bb70e3629af081cdae9599219ae", [
+      [ "ResCode_FAIL_CONV", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a1e905bb70e3629af081cdae9599219aea2efde3fca1f6607c48a39dccea4f97bc", null ],
+      [ "ResCode_FAIL_ATTEN", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a1e905bb70e3629af081cdae9599219aead33a9842c65ee0b513acae5ed4d79d11", null ],
+      [ "ResCode_FAIL_GD_TBW", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a1e905bb70e3629af081cdae9599219aea7dcaa144514fb4be2d0eb09505d68556", null ],
+      [ "ResCode_OK", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a1e905bb70e3629af081cdae9599219aea4083c19a85f01bf635e527f9aed58343", null ]
+    ] ],
+    [ "PolyphaseIir2Designer", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ad872a40670634014eddb31d06ed04aca", null ],
+    [ "~PolyphaseIir2Designer", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a53e4f08ad022f61e259a38c8e54db832", null ],
+    [ "PolyphaseIir2Designer", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a852c0361a609f77f14243fba9732fb43", null ],
+    [ "PolyphaseIir2Designer", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ae38646b6862e30be5869aae24b5bb5c8", null ],
+    [ "compute_acc_den", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a5eae526c6522b0f4de84086b543ab417", null ],
+    [ "compute_acc_num", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a11b98123eda8415cadf39a8644263930", null ],
+    [ "compute_atten", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ab2478619b2019ff087cca05665e12d09", null ],
+    [ "compute_atten_from_order_tbw", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a6b75f5ffba20cc56630ee627a5bc6715", null ],
+    [ "compute_coef", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#abed0f7e520f5ab8cc5c25f34c2ff7ac0", null ],
+    [ "compute_coefs", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a125b9bbd906e33683a472751294caf82", null ],
+    [ "compute_coefs_spec_order_delay", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a3bfc19593863a9686a925b0d8b3b3e22", null ],
+    [ "compute_coefs_spec_order_gdly", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ae608a677afc130499bdaaf8c6884e20e", null ],
+    [ "compute_coefs_spec_order_pdly", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a2376f08761fa70fa8a816fd3b326b025", null ],
+    [ "compute_coefs_spec_order_tbw", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ac5bf90a34b7414b31d761976e735a111", null ],
+    [ "compute_group_delay", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#aa64fb1ad83b4b3a36fd0c7405c06bc95", null ],
+    [ "compute_nbr_coefs_from_proto", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a3a26dfa1769fc25ecc25328300bd9e50", null ],
+    [ "compute_order", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#af618977c5d6d12dea42867d6fd6a8a7b", null ],
+    [ "compute_phase_delay", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ac8134cf49b856e0bb9bbc4d19178f577", null ],
+    [ "compute_transition_param", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a0701746a300225feb49b6580d0912ee6", null ],
+    [ "compute_unit_group_delay", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a26dc7fedd6dedb6546e0a66cbc908fff", null ],
+    [ "compute_unit_phase_delay", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a0c2ec1caf0ec537bd2db76a25cac747e", null ],
+    [ "operator!=", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a2da3950708952d7f7339fed1a191e4ef", null ],
+    [ "operator=", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a7d483a3ce1f2c8a7be23b110ab2aff1b", null ],
+    [ "operator=", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#ad0a83f3fb0afb5413323dc7e50758a05", null ],
+    [ "operator==", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a933740fb5c37b485703396642d470d72", null ],
+    [ "_max_order", "d6/dd8/classhiir_1_1PolyphaseIir2Designer.html#a5e617035df4c72838a026ef50687302e", null ]
+];

@@ -1,0 +1,28 @@
+var classAEffect =
+[
+    [ "float", "d6/d61/classAEffect.html#a0f7bfe56262d80709edfca837ac6ca16", null ],
+    [ "intptr_t", "d6/d61/classAEffect.html#af370e6ce6818f3b0e3e5a1dceffe1351", null ],
+    [ "void", "d6/d61/classAEffect.html#a66d2797bed7a053659a9827af473fd96", null ],
+    [ "void", "d6/d61/classAEffect.html#a0bcdb36f8847d337131c2262dbd397e8", null ],
+    [ "void", "d6/d61/classAEffect.html#afb4fb1ab184b62d7b5987e8bec02b216", null ],
+    [ "empty3", "d6/d61/classAEffect.html#ae2c3a7480934957d97a042ee9369ed57", null ],
+    [ "flags", "d6/d61/classAEffect.html#a0a142f0e2b3f85ce6469b4733a4552fd", null ],
+    [ "float", "d6/d61/classAEffect.html#a1796e01678585a6421f389750a19c891", null ],
+    [ "float", "d6/d61/classAEffect.html#a5ec0f108fbec350bbdb54e0826833770", null ],
+    [ "int", "d6/d61/classAEffect.html#a7de76d28b0aad81feb72c86a085589ba", null ],
+    [ "int32_t", "d6/d61/classAEffect.html#acac2e26c6ffd1f9a131febafcd94cf40", null ],
+    [ "int32_t", "d6/d61/classAEffect.html#a5c7a2e7330426118b7337c5b474deccb", null ],
+    [ "intptr_t", "d6/d61/classAEffect.html#aa37f861dabdb792cbc6b19504bf3d585", null ],
+    [ "magic", "d6/d61/classAEffect.html#a7c8c6a2182181c621bb945c25807aece", null ],
+    [ "numInputs", "d6/d61/classAEffect.html#a8a6e1978e6c7a084eb025b046c66a2f5", null ],
+    [ "numOutputs", "d6/d61/classAEffect.html#a20708b94eb702cd65eca3916e96c3141", null ],
+    [ "numParams", "d6/d61/classAEffect.html#ad01aeba349ab475da5640fc4f1869f16", null ],
+    [ "numPrograms", "d6/d61/classAEffect.html#ad5fcf43058e23fb3581598c0f3bfed8c", null ],
+    [ "ptr1", "d6/d61/classAEffect.html#a1acdc1cf1f6e217bbaecdd6e5227c49a", null ],
+    [ "ptr2", "d6/d61/classAEffect.html#a0f6b5b9b80ea1e911ea5e96b940e4f63", null ],
+    [ "ptr3", "d6/d61/classAEffect.html#a1466e69ea4be20365c021ee250edcab0", null ],
+    [ "uniqueID", "d6/d61/classAEffect.html#a91cc3890b73363e04b792f62a8826616", null ],
+    [ "unknown1", "d6/d61/classAEffect.html#a68e710d35a1fc65cec985eb7ac898426", null ],
+    [ "unknown_float", "d6/d61/classAEffect.html#a27957b1dc212ee4b7a749a93c150fe58", null ],
+    [ "user", "d6/d61/classAEffect.html#aee5789fd3f0301cbfc91c97760291783", null ]
+];

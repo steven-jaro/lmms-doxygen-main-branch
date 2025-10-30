@@ -1,9 +1,0 @@
-<map id="calf_plugins::sidechainlimiter_audio_module::set_srates" name="calf_plugins::sidechainlimiter_audio_module::set_srates">
-<area shape="rect" id="Node000001" title=" " alt="" coords="501,39,687,79"/>
-<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1sidechainlimiter__audio__module.html#aa2fce7fc5e1cbb2a3243ad80613f151b" title="Called when params are changed (before processing)." alt="" coords="240,5,453,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,47,453,43,454,37,486,42"/>
-<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1sidechainlimiter__audio__module.html#a37be6f7dcf09528926437a3ae64241f2" title="Set sample rate for the plugin." alt="" coords="241,71,452,111"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,76,452,80,451,75,485,70"/>
-<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1sidechainlimiter__audio__module.html#a439cba8ac9165082c15444c40820ee27" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,5,192,46"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,28,192,28,192,23,224,23"/>
-</map>

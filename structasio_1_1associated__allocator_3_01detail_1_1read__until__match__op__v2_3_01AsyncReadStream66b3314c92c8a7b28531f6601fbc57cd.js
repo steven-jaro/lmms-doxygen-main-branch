@@ -1,5 +1,0 @@
-var structasio_1_1associated__allocator_3_01detail_1_1read__until__match__op__v2_3_01AsyncReadStream66b3314c92c8a7b28531f6601fbc57cd =
-[
-    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1read__until__match__op__v2_3_01AsyncReadStream66b3314c92c8a7b28531f6601fbc57cd.html#ab09f5448d11c2ca0baf7c64c37ad015a", null ],
-    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1read__until__match__op__v2_3_01AsyncReadStream66b3314c92c8a7b28531f6601fbc57cd.html#a0f47db262ae383f765282f314c63104f", null ]
-];

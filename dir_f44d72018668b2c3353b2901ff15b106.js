@@ -1,4 +1,0 @@
-var dir_f44d72018668b2c3353b2901ff15b106 =
-[
-    [ "tap-plugins", "dir_76890cc47874d214ee26c8d42784d99e.html", "dir_76890cc47874d214ee26c8d42784d99e" ]
-];

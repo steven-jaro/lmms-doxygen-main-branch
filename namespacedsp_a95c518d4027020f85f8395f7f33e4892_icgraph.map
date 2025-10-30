@@ -1,9 +1,0 @@
-<map id="dsp::clip11" name="dsp::clip11">
-<area shape="rect" id="Node000001" title="Clip a double to [&#45;1.0, +1.0]." alt="" coords="674,20,757,46"/>
-<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1monosynth__audio__module.html#a368f6e137ce1a346a11884cba8f52669" title="Run oscillators." alt="" coords="460,5,626,61"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="659,36,627,36,627,30,659,30"/>
-<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1monosynth__audio__module.html#ac2dfd7179be6c6913a81a2e189a80a8e" title="Calculate control signals and produce step_size samples of output." alt="" coords="214,13,412,54"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,36,413,36,413,30,444,30"/>
-<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1monosynth__audio__module.html#a2a0e2dbbbc905e5ed59ba56c70f806f1" title="Main processing function." alt="" coords="5,13,166,54"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="198,36,166,36,166,30,198,30"/>
-</map>

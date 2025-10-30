@@ -1,0 +1,19 @@
+<map id="Jack::JackDriverInterface" name="Jack::JackDriverInterface">
+<area shape="rect" id="Node000001" title="The base interface for drivers." alt="" coords="413,5,570,641"/>
+<area shape="rect" id="Node000002" href="$d6/d2e/classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="396,689,587,755"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,656,494,689,489,689,489,656"/>
+<area shape="rect" id="Node000003" href="$d7/d4c/classJack_1_1JackDriver.html" title=" " alt="" coords="317,803,472,2273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,770,474,890,469,889,483,770"/>
+<area shape="rect" id="Node000027" href="$d0/d97/classJack_1_1JackThreadedDriver.html" title="The base class for threaded drivers using a &quot;decorator&quot; pattern." alt="" coords="599,1149,760,1927"/>
+<area shape="poly" id="edge6_Node000002_Node000027" title=" " alt="" coords="505,769,602,1189,597,1190,500,770"/>
+<area shape="rect" id="Node000004" href="$db/d8b/classJack_1_1JackAudioDriver.html" title="The base class for audio drivers: drivers with audio ports." alt="" coords="5,2321,196,2834"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="315,1828,176,2322,170,2320,310,1827"/>
+<area shape="rect" id="Node000022" href="$d8/d83/classJack_1_1JackFreewheelDriver.html" title="The FreeWheel driver : run Jack engine at full speed." alt="" coords="220,2463,387,2692"/>
+<area shape="poly" id="edge4_Node000003_Node000022" title=" " alt="" coords="331,2288,316,2464,311,2463,326,2287"/>
+<area shape="rect" id="Node000023" href="$da/d26/classJack_1_1JackMidiDriver.html" title="The base class for MIDI drivers: drivers with MIDI ports." alt="" coords="410,2422,556,2733"/>
+<area shape="poly" id="edge5_Node000003_Node000023" title=" " alt="" coords="461,2287,473,2422,468,2423,456,2287"/>
+<area shape="rect" id="Node000028" href="$d8/d2d/classJack_1_1JackRestartThreadedDriver.html" title="Restart a driver after an exception is thrown." alt="" coords="581,2516,778,2638"/>
+<area shape="poly" id="edge7_Node000027_Node000028" title=" " alt="" coords="682,1942,682,2517,677,2517,677,1942"/>
+<area shape="rect" id="Node000029" href="$d9/d35/classJack_1_1JackWaitThreadedDriver.html" title="Wrapper for a restartable threaded driver (e.g." alt="" coords="802,2504,989,2651"/>
+<area shape="poly" id="edge8_Node000027_Node000029" title=" " alt="" coords="765,1939,883,2503,878,2504,760,1940"/>
+</map>

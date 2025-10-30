@@ -1,25 +1,8 @@
 var searchData=
 [
-  ['g_0',['G',['../classlmms_1_1NoteKey.html#a30e2d4163e434ec361cde024a0ca34dbadfcf28d0734569a6a693bc8194de62bf',1,'lmms::NoteKey::G'],['../namespacelmms.html#a5a7967ec5e8673b2edcfa289b8c1e22cadfcf28d0734569a6a693bc8194de62bf',1,'lmms::G']]],
-  ['gain_5fbits_1',['gain_bits',['../structSPC__Filter.html#a1d130039daf51abb7af10a9814d2453bafadb28c2586d84b0f4f4869705ddd41a',1,'SPC_Filter']]],
-  ['gain_5fstep_2',['gain_step',['../structcalf__plugins_1_1equalizer30band__metadata.html#a4914f2a143133b5bdaca63f413bbf7f0a1d28f1d12c7bd8c28f67e35f1bdd3205',1,'calf_plugins::equalizer30band_metadata']]],
-  ['gain_5funit_3',['gain_unit',['../structSPC__Filter.html#a3b8be37dc11eeba2eac2cd2c8b2b7d81a6c375f73040b6347b994bdaf8d482d16',1,'SPC_Filter']]],
-  ['gainreduction_4',['GainReduction',['../structjuce_1_1AudioProcessor_1_1CurveData.html#a07af8ebb8054b255b3815abd766d83f3a301b5ee318f25aa3fc3773e07f3d6312',1,'juce::AudioProcessor::CurveData']]],
-  ['generalsettings_5',['GeneralSettings',['../classlmms_1_1gui_1_1SetupDialog.html#a67969fd5d9d612538f382c7bab835fafa0c62557971b9ee8947ec0f78a08e499f',1,'lmms::gui::SetupDialog']]],
-  ['genericparameter_6',['genericParameter',['../classjuce_1_1AudioProcessorParameter.html#a66f674c6a196ac997e4d664f022221afaa3b5f4aa2687d5e903df6b0dc9841b5e',1,'juce::AudioProcessorParameter']]],
-  ['german_7',['German',['../namespacelmms.html#a494ec99576500fae0240dd45ee8f5933a86bc3115eb4e9873ac96904a4a68e19e',1,'lmms']]],
-  ['ges_8',['Ges',['../namespacelmms.html#a5a7967ec5e8673b2edcfa289b8c1e22ca3af1a2642071079ebd038bde42633813',1,'lmms']]],
-  ['gis_9',['Gis',['../namespacelmms.html#a5a7967ec5e8673b2edcfa289b8c1e22cab10bf73f533cba869627da5de6e55aef',1,'lmms']]],
-  ['giveidle_10',['GiveIdle',['../classlmms_1_1RemoteVstPlugin.html#a1cd844c12c2ba225e6cc713238db9604ae862fdbe3e5e25abdbfbc3e5fcab09db',1,'lmms::RemoteVstPlugin']]],
-  ['globalapplicationsdirectory_11',['globalApplicationsDirectory',['../classjuce_1_1File.html#a6efe0648697f59af5952171d5e7b0317a1e7f13e85a8aaa5fc36e1a18d4c9ceb1',1,'juce::File']]],
-  ['gme_5finfo_5fonly_12',['gme_info_only',['../gme_8h.html#a4689f3d5e1b8889c01b02bf24bccc6cba370762324d1317f165a922b42db54b30',1,'gme.h']]],
-  ['gme_5fmax_5ffield_13',['gme_max_field',['../Gme__File_8h.html#a4a50fe9f7d71235cf8546f5443c26d65a9bc10e85e0eeb00384fd7f4ed71188fd',1,'Gme_File.h']]],
-  ['graph_5fparam_5fcount_14',['graph_param_count',['../classcalf__plugins_1_1equalizerNband__audio__module.html#a1166e410f5f3b0aa51ed6d8b667c44aba184e67a6c79242c1fdbfd8b786b27c22',1,'calf_plugins::equalizerNband_audio_module']]],
-  ['green_15',['GREEN',['../classLEDButton.html#a74f2a8ae522022564e3592de659eeb4ea451221aecc1944f40420ad88b2a1ccf8',1,'LEDButton']]],
-  ['green_16',['Green',['../classlmms_1_1gui_1_1LedCheckBox.html#a18e3340d86281cd25743992ca33222f8ad382816a3cbeed082c9e216e7392eed1',1,'lmms::gui::LedCheckBox']]],
-  ['group_17',['group',['../namespacejuce.html#af1df29c6f2a82ee84dcfe4e7cd4ff60aadb0f6f37ebeb6ea09489124345af2a45',1,'juce']]],
-  ['gtk_5fwindow_5ftoplevel_18',['GTK_WINDOW_TOPLEVEL',['../CarlaBridgeToolkitGtk_8cpp.html#af07f8c777f2901d6c9afd5fa25b2c53da292aa5345755652dd59a0a6f757d522e',1,'CarlaBridgeToolkitGtk.cpp']]],
-  ['gym_5frate_19',['gym_rate',['../classGym__Emu.html#a3106e5e74b7f88ab181951d41be550bba44c7d70387150c40df5da600af1bd945',1,'Gym_Emu']]],
-  ['gzipdecompbuffersize_20',['gzipDecompBufferSize',['../classjuce_1_1GZIPDecompressorInputStream_1_1GZIPDecompressHelper.html#affc84160638a58d60f7903d07c82900faf09ab9324748f5eeb7d6f5ca4d36a7cd',1,'juce::GZIPDecompressorInputStream::GZIPDecompressHelper']]],
-  ['gzipformat_21',['gzipFormat',['../classjuce_1_1GZIPDecompressorInputStream.html#a625c61dffe17f8d32239ab59ad351beeac7d94066b13b3f58882e8222e3ae7b30',1,'juce::GZIPDecompressorInputStream']]]
+  ['g_0',['G',['../d1/dfd/namespacelmms.html#a5a7967ec5e8673b2edcfa289b8c1e22cadfcf28d0734569a6a693bc8194de62bf',1,'lmms']]],
+  ['generalsettings_1',['GeneralSettings',['../d9/de3/classlmms_1_1gui_1_1SetupDialog.html#a67969fd5d9d612538f382c7bab835fafa0c62557971b9ee8947ec0f78a08e499f',1,'lmms::gui::SetupDialog']]],
+  ['ges_2',['Ges',['../d1/dfd/namespacelmms.html#a5a7967ec5e8673b2edcfa289b8c1e22ca3af1a2642071079ebd038bde42633813',1,'lmms']]],
+  ['gis_3',['Gis',['../d1/dfd/namespacelmms.html#a5a7967ec5e8673b2edcfa289b8c1e22cab10bf73f533cba869627da5de6e55aef',1,'lmms']]],
+  ['green_4',['Green',['../dc/d11/classlmms_1_1gui_1_1LedCheckBox.html#a18e3340d86281cd25743992ca33222f8ad382816a3cbeed082c9e216e7392eed1',1,'lmms::gui::LedCheckBox']]]
 ];

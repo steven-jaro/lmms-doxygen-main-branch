@@ -1,0 +1,22 @@
+<map id="Jack::JackWinMMEInputPort" name="Jack::JackWinMMEInputPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,844,392,1175"/>
+<area shape="rect" id="Node000002" href="$d3/dcd/classJack_1_1JackWinMMEPort.html" title=" " alt="" coords="5,534,154,763"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,774,217,865,213,868,156,777"/>
+<area shape="rect" id="Node000003" href="$d3/df8/structjack__midi__event__t.html" title="A Jack MIDI event." alt="" coords="178,595,294,702"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,701,270,820,271,827,266,828,265,821,243,702"/>
+<area shape="rect" id="Node000004" href="$d2/dde/classJack_1_1JackMidiAsyncQueue.html" title="This is a MIDI message queue designed to allow one thread to pass MIDI messages to another thread (th..." alt="" coords="317,524,488,773"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="371,774,356,829,351,828,366,773"/>
+<area shape="rect" id="Node000005" href="$d2/d2c/classJack_1_1JackMidiReadQueue.html" title="Interface for objects that MIDI events can be read from." alt="" coords="157,295,322,382"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,393,339,523,335,525,266,396"/>
+<area shape="rect" id="Node000006" href="$d7/d85/classJack_1_1JackMidiWriteQueue.html" title="Interface for classes that act as write queues for MIDI messages." alt="" coords="483,285,647,392"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="548,407,531,454,510,501,490,536,485,533,505,499,526,452,543,405"/>
+<area shape="rect" id="Node000008" href="$d7/da1/classJack_1_1JackMidiBufferWriteQueue.html" title="Wrapper class to present a JackMidiBuffer in a write queue interface." alt="" coords="512,557,698,740"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="576,407,596,557,591,558,571,407"/>
+<area shape="rect" id="Node000007" href="$d1/dfe/struct__jack__midi__event.html" title="A Jack MIDI event." alt="" coords="346,285,458,392"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="405,392,405,508,400,508,400,392"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="531,742,405,892,401,888,527,738"/>
+<area shape="rect" id="Node000009" href="$d6/d3a/structJack_1_1JackMidiBuffer.html" title=" " alt="" coords="672,224,802,453"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="691,454,653,543,648,540,686,452"/>
+<area shape="rect" id="Node000010" href="$d1/d41/structJack_1_1JackMidiEvent.html" title=" " alt="" coords="550,5,924,153"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="740,153,740,207,734,207,734,153"/>
+</map>

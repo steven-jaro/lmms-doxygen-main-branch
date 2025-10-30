@@ -1,0 +1,23 @@
+<map id="Jack::JackNetExtMaster" name="Jack::JackNetExtMaster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="611,2226,769,2475"/>
+<area shape="rect" id="Node000002" href="$db/de1/classJack_1_1JackNetMasterInterface.html" title="\Brief This class describes the Net Interface for masters (NetMaster)" alt="" coords="430,1722,614,2155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,2167,642,2225,637,2227,613,2169"/>
+<area shape="rect" id="Node000003" href="$d9/d5b/classJack_1_1JackNetInterface.html" title="\Brief This class describes the basic Net Interface, used by both master and slave." alt="" coords="443,915,601,1673"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,1688,524,1722,519,1722,519,1688"/>
+<area shape="rect" id="Node000004" href="$df/d5e/structJack_1_1__session__params.html" title="This structure contains master/slave connection parameters, it&#39;s used to setup the whole system." alt="" coords="5,198,158,631"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,630,138,728,174,823,230,929,298,1030,368,1120,434,1196,430,1200,364,1124,294,1033,226,932,169,825,133,730,108,631"/>
+<area shape="rect" id="Node000005" href="$dd/d4b/classJack_1_1JackNetUnixSocket.html" title=" " alt="" coords="183,5,344,824"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="346,776,359,823,398,947,440,1068,435,1070,393,949,354,825,341,778"/>
+<area shape="rect" id="Node000006" href="$df/d21/structJack_1_1__packet__header.html" title="\Brief This structure is a complete header" alt="" coords="368,280,505,550"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="452,549,486,898,481,898,447,549"/>
+<area shape="rect" id="Node000007" href="$df/d7d/structJack_1_1__net__transport__data.html" title="\Brief This structure contains transport data to be sent over the network" alt="" coords="529,361,688,468"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="606,468,566,892,565,899,560,898,561,891,601,468"/>
+<area shape="rect" id="Node000009" href="$d6/ddd/classJack_1_1NetMidiBuffer.html" title="\Brief Midi buffer and operations class" alt="" coords="713,219,875,610"/>
+<area shape="poly" id="edge7_Node000003_Node000009" title=" " alt="" coords="775,611,750,750,714,892,666,1018,611,1136,606,1133,661,1016,709,891,745,749,769,610"/>
+<area shape="rect" id="Node000012" href="$d2/deb/classJack_1_1NetAudioBuffer.html" title=" " alt="" coords="899,107,1078,722"/>
+<area shape="poly" id="edge8_Node000003_Node000012" title=" " alt="" coords="945,723,917,810,882,893,854,941,823,987,754,1075,682,1153,615,1217,612,1213,678,1149,750,1072,819,984,850,938,877,890,912,808,939,721"/>
+<area shape="rect" id="Node000013" href="$d8/df5/structjack__master__t.html" title=" " alt="" coords="638,1824,741,2053"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="692,2053,692,2209,687,2209,687,2053"/>
+<area shape="rect" id="Node000014" href="$d1/dd9/classJack_1_1JackRingBuffer.html" title="Base class for RingBuffer in frames." alt="" coords="765,1804,898,2073"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="805,2074,787,2138,766,2203,762,2211,757,2209,761,2201,782,2137,800,2072"/>
+</map>

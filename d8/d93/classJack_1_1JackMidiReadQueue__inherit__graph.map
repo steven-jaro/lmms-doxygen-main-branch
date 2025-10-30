@@ -1,0 +1,15 @@
+<map id="Jack::JackMidiReadQueue" name="Jack::JackMidiReadQueue">
+<area shape="rect" id="Node000001" title="Interface for objects that MIDI events can be read from." alt="" coords="224,5,389,92"/>
+<area shape="rect" id="Node000002" href="$d2/dde/classJack_1_1JackMidiAsyncQueue.html" title="This is a MIDI message queue designed to allow one thread to pass MIDI messages to another thread (th..." alt="" coords="18,140,189,410"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,103,203,142,191,155,187,152,199,138,239,100"/>
+<area shape="rect" id="Node000004" href="$de/d0d/classJack_1_1JackMidiBufferReadQueue.html" title="Wrapper class to present a JackMidiBuffer in a read queue interface." alt="" coords="213,173,399,376"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,106,309,173,304,173,304,106"/>
+<area shape="rect" id="Node000005" href="$db/df3/classJack_1_1JackMidiReceiveQueue.html" title="Implemented by MIDI input connections." alt="" coords="424,242,605,308"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="373,100,414,138,458,191,495,240,491,243,454,194,410,142,369,104"/>
+<area shape="rect" id="Node000003" href="$dc/dc5/classJack_1_1JackMidiAsyncWaitQueue.html" title="This is an asynchronous wait queue that allows a thread to wait for a message, either indefinitely or..." alt="" coords="5,475,202,664"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,425,106,476,101,476,101,425"/>
+<area shape="rect" id="Node000006" href="$df/df8/classJack_1_1JackALSARawMidiReceiveQueue.html" title=" " alt="" coords="310,478,548,661"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="503,323,458,479,453,477,498,322"/>
+<area shape="rect" id="Node000007" href="$da/d69/classJack_1_1JackFFADOMidiReceiveQueue.html" title=" " alt="" coords="572,458,785,681"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="542,320,619,457,614,459,537,322"/>
+</map>

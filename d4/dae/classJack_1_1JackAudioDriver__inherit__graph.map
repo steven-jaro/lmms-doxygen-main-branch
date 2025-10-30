@@ -1,0 +1,44 @@
+<map id="Jack::JackAudioDriver" name="Jack::JackAudioDriver">
+<area shape="rect" id="Node000001" title="The base class for audio drivers: drivers with audio ports." alt="" coords="994,2321,1185,2834"/>
+<area shape="rect" id="Node000006" href="$d2/dc5/classJack_1_1JackAlsaDriver.html" title="The ALSA driver." alt="" coords="5,3238,176,3874"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="979,2584,898,2590,802,2601,697,2620,587,2648,476,2687,370,2738,320,2768,273,2803,230,2841,190,2884,162,2922,139,2963,119,3006,103,3052,82,3145,72,3239,66,3238,77,3144,98,3050,114,3005,134,2961,158,2919,186,2881,226,2838,270,2799,317,2764,368,2733,474,2682,585,2643,696,2615,802,2596,897,2584,979,2578"/>
+<area shape="rect" id="Node000007" href="$d1/d3b/classJack_1_1JackBoomerDriver.html" title="The Boomer driver." alt="" coords="200,3177,352,3935"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="980,2594,836,2622,754,2644,668,2674,583,2712,502,2759,429,2816,396,2849,366,2884,325,2950,294,3023,274,3100,261,3178,256,3177,268,3098,289,3021,320,2948,362,2881,392,2845,425,2812,499,2755,581,2708,666,2669,752,2639,835,2616,979,2588"/>
+<area shape="rect" id="Node000008" href="$d8/d2b/classJack_1_1JackCoreAudioDriver.html" title=" " alt="" coords="377,2936,568,4176"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="981,2615,882,2655,772,2713,718,2748,667,2788,621,2834,581,2884,549,2937,545,2935,577,2881,617,2830,664,2784,715,2744,770,2708,880,2650,979,2610"/>
+<area shape="rect" id="Node000009" href="$da/d61/classJack_1_1JackFFADODriver.html" title="The FFADO driver." alt="" coords="592,3269,742,3843"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="984,2648,923,2693,860,2749,802,2812,777,2847,756,2884,717,2976,689,3073,672,3173,663,3269,657,3268,667,3172,684,3072,712,2974,751,2881,773,2844,798,2809,857,2745,919,2689,980,2643"/>
+<area shape="rect" id="Node000010" href="$db/d91/classJack_1_1JackGoldfishDriver.html" title="The goldfish driver." alt="" coords="766,3452,920,3660"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="990,2750,959,2816,933,2883,912,2958,895,3035,870,3191,855,3334,848,3452,842,3452,850,3334,864,3190,890,3034,907,2957,928,2882,954,2814,985,2748"/>
+<area shape="rect" id="Node000011" href="$df/d59/classJack_1_1JackIIODriver.html" title="The Linux Industrial IO (IIO) subsystem driver for Jack." alt="" coords="943,3452,1068,3660"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1069,2849,1017,3452,1012,3452,1064,2849"/>
+<area shape="rect" id="Node000012" href="$d8/dba/classJack_1_1JackLoopbackDriver.html" title="The loopback driver : to be used to &quot;pipeline&quot; applications connected in sequence." alt="" coords="1092,3472,1255,3640"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1115,2849,1169,3472,1164,3473,1110,2849"/>
+<area shape="rect" id="Node000013" href="$dc/df2/classJack_1_1JackOSSDriver.html" title="The OSS driver." alt="" coords="1280,2882,1425,4230"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1195,2746,1229,2813,1257,2881,1282,2965,1277,2967,1252,2883,1224,2815,1190,2749"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1195,2709,1243,2792,1281,2881,1282,2884,1277,2886,1276,2883,1238,2794,1191,2712"/>
+<area shape="rect" id="Node000014" href="$d7/d7a/classJack_1_1JackOpenSLESDriver.html" title="The OpenSLES driver." alt="" coords="1449,3452,1621,3660"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1199,2641,1262,2687,1328,2743,1389,2808,1415,2844,1439,2881,1472,2953,1498,3028,1517,3106,1530,3184,1543,3330,1544,3452,1538,3452,1538,3331,1525,3184,1511,3107,1492,3030,1467,2955,1434,2884,1411,2847,1385,2811,1324,2747,1259,2691,1196,2645"/>
+<area shape="rect" id="Node000015" href="$db/d57/classJack_1_1JackPortAudioDriver.html" title="The PortAudio driver." alt="" coords="1645,3320,1811,3792"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1200,2606,1307,2644,1366,2670,1426,2702,1485,2738,1541,2780,1591,2827,1634,2881,1664,2931,1689,2984,1708,3039,1723,3096,1741,3211,1747,3320,1742,3320,1736,3211,1718,3097,1703,3041,1684,2986,1660,2933,1630,2884,1587,2831,1537,2784,1482,2742,1423,2706,1364,2675,1305,2649,1199,2611"/>
+<area shape="rect" id="Node000016" href="$d0/d87/classJack_1_1JackTimedDriver.html" title="The timed driver." alt="" coords="1836,3452,1978,3660"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1200,2588,1346,2615,1430,2638,1517,2668,1603,2706,1686,2754,1761,2811,1795,2845,1825,2881,1867,2948,1897,3021,1918,3097,1930,3176,1935,3253,1936,3326,1926,3452,1921,3452,1930,3326,1930,3253,1925,3176,1912,3099,1892,3022,1862,2950,1821,2884,1791,2848,1757,2815,1683,2758,1601,2711,1515,2673,1428,2643,1344,2620,1199,2593"/>
+<area shape="rect" id="Node000002" href="$d7/d4c/classJack_1_1JackDriver.html" title=" " alt="" coords="1012,803,1167,2273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1092,2287,1092,2321,1087,2321,1087,2287"/>
+<area shape="rect" id="Node000003" href="$d6/d2e/classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="994,689,1185,755"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1092,770,1092,803,1087,803,1087,770"/>
+<area shape="rect" id="Node000004" href="$db/df9/classJack_1_1JackDriverInterface.html" title="The base interface for drivers." alt="" coords="920,5,1078,641"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1077,655,1085,688,1080,690,1072,656"/>
+<area shape="rect" id="Node000005" href="$dc/df7/classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="1102,249,1258,397"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1163,412,1099,690,1094,689,1158,411"/>
+<area shape="rect" id="Node000017" href="$d1/d6c/classJack_1_1JackDummyDriver.html" title="The dummy driver." alt="" coords="1746,4278,1897,4385"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1896,3676,1830,4278,1825,4278,1891,3675"/>
+<area shape="rect" id="Node000018" href="$dc/d67/classJack_1_1JackWaiterDriver.html" title=" " alt="" coords="1920,4278,2064,4385"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="1923,3675,1989,4278,1984,4278,1917,3676"/>
+<area shape="rect" id="Node000019" href="$dd/d92/classJack_1_1JackNetDriver.html" title="\Brief This class describes the Net Backend" alt="" coords="1676,4433,1888,5068"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1930,4397,1902,4434,1890,4456,1885,4453,1898,4431,1925,4394"/>
+<area shape="rect" id="Node000020" href="$dc/ddf/classJack_1_1JackNetOneDriver.html" title="\Brief This class describes the Net Backend" alt="" coords="1912,4525,2072,4976"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="1995,4400,1995,4525,1990,4525,1990,4400"/>
+<area shape="rect" id="Node000021" href="$df/d99/classJack_1_1JackRestarterDriver.html" title="A restartable driver." alt="" coords="2096,4687,2256,4814"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="2060,4394,2086,4431,2117,4496,2141,4565,2158,4630,2169,4686,2164,4688,2153,4631,2136,4566,2112,4498,2082,4434,2056,4397"/>
+</map>

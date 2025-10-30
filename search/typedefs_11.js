@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['qfunc_5ft_0',['qfunc_t',['../structexprtk_1_1details_1_1functor__t.html#acbcaab40d0c361932086d897ea73767d',1,'exprtk::details::functor_t::qfunc_t'],['../classexprtk_1_1details_1_1exprtk__final.html#add5eb0d4d4d579923a302779e78925cc',1,'exprtk::details::exprtk_final::qfunc_t']]],
-  ['qli_5ft_1',['qli_t',['../namespacezyncarla.html#a4eb6e6dd28444f9ae581d0a1e975e618',1,'zyncarla']]],
-  ['quaternary_5ffunctor_5ft_2',['quaternary_functor_t',['../structexprtk_1_1details_1_1sf__base.html#aa6e9281b51b7219cd233beffc1a74fb7',1,'exprtk::details::sf_base::quaternary_functor_t'],['../classexprtk_1_1parser.html#a48b7f5a609688c36d619b23dc2cd38fb',1,'exprtk::parser::quaternary_functor_t']]],
-  ['quaternary_5fnode_5ft_3',['quaternary_node_t',['../classexprtk_1_1parser.html#ade7ea8701040cb6fae60f2b1aea59a11',1,'exprtk::parser']]],
-  ['query_4',['query',['../classasio_1_1ip_1_1basic__resolver.html#a1b81b8c26c503497c4dc0c67f0ceedf1',1,'asio::ip::basic_resolver']]],
-  ['query_5ftype_5',['query_type',['../classasio_1_1detail_1_1resolve__query__op.html#ab7019e432a1bab500d408335b583818b',1,'asio::detail::resolve_query_op::query_type'],['../classasio_1_1detail_1_1resolver__service.html#a3200fbe0279811d68ebacc1bd28d4418',1,'asio::detail::resolver_service::query_type']]]
+  ['rd_5fdevice_0',['rd_device',['../d7/d9e/reserve_8h.html#a93279aabb81dbf7d5828b30ccb936257',1,'reserve.h']]],
+  ['rd_5frequest_5fcb_5ft_1',['rd_request_cb_t',['../d7/d9e/reserve_8h.html#adcaea3dafdf8ddbdfcfd23f99ae92440',1,'reserve.h']]],
+  ['readcopyfunction_2',['ReadCopyFunction',['../d5/d6e/alsa__driver_8h.html#af8dd58e581cb3981f378462500dc89d6',1,'alsa_driver.h']]],
+  ['reference_3',['reference',['../d3/d50/classlmms_1_1ArrayVector.html#aaba563ebfd6d0c38aaa1ececc6cca14a',1,'lmms::ArrayVector::reference'],['../df/d2a/classlmms_1_1SampleBuffer.html#a159eed6c06194643862195cc743b4447',1,'lmms::SampleBuffer::reference']]],
+  ['resourcesmap_4',['ResourcesMap',['../de/d43/classlmms_1_1DataFile.html#aa3710fa7243961e083a1180b9a82f51f',1,'lmms::DataFile']]],
+  ['reverse_5fiterator_5',['reverse_iterator',['../d3/d50/classlmms_1_1ArrayVector.html#a5861627b9dd33bc02fb1123ade1fe7e9',1,'lmms::ArrayVector::reverse_iterator'],['../df/d2a/classlmms_1_1SampleBuffer.html#aed83fc9836a5094ab5612e35d8e7d803',1,'lmms::SampleBuffer::reverse_iterator']]]
 ];

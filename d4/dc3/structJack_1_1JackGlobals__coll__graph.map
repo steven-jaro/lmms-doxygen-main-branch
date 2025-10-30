@@ -1,0 +1,30 @@
+<map id="Jack::JackGlobals" name="Jack::JackGlobals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="389,4367,527,4535"/>
+<area shape="rect" id="Node000002" href="$d8/dae/classJack_1_1JackPosixMutex.html" title=" " alt="" coords="322,2948,462,3096"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,3096,378,3309,373,3618,377,3794,386,3978,402,4162,427,4342,428,4350,423,4351,422,4343,397,4163,381,3978,371,3794,368,3618,373,3309,384,3096"/>
+<area shape="rect" id="Node000003" href="$d0/d05/classJack_1_1JackClient.html" title="The base class for clients: share part of the implementation for JackInternalClient and JackLibClient..." alt="" coords="486,1769,690,4275"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="549,4276,529,4343,526,4352,521,4350,524,4342,544,4274"/>
+<area shape="rect" id="Node000004" href="$dc/df7/classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="5,1197,162,1345"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,1360,75,1452,78,1503,87,1556,100,1609,120,1658,147,1704,183,1743,206,1754,241,1758,328,1753,415,1749,450,1754,475,1767,488,1781,484,1784,471,1771,448,1759,415,1755,328,1759,241,1763,205,1759,179,1747,143,1707,115,1661,95,1610,81,1557,73,1504,69,1452,71,1360"/>
+<area shape="rect" id="Node000005" href="$d3/daf/classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="132,5,310,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="219,148,200,497,183,979,181,1218,186,1428,193,1515,201,1588,213,1642,227,1676,267,1693,350,1721,433,1749,475,1767,488,1784,484,1788,471,1771,431,1754,348,1726,265,1698,223,1680,208,1644,196,1589,187,1516,181,1428,176,1218,178,979,195,497,213,147"/>
+<area shape="rect" id="Node000009" href="$dc/d11/classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="239,204,393,793"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="237,132,250,187,244,188,232,133"/>
+<area shape="rect" id="Node000006" href="$d9/d82/struct__jack__position.html" title=" " alt="" coords="418,1027,584,1515"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="516,1515,527,1752,522,1752,510,1515"/>
+<area shape="rect" id="Node000007" href="$d4/da9/struct__jack__session__event.html" title=" " alt="" coords="608,1187,741,1355"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="673,1355,653,1752,648,1752,668,1355"/>
+<area shape="rect" id="Node000008" href="$de/d1b/classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="237,1014,394,1528"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="359,1527,381,1603,409,1676,422,1697,442,1721,462,1746,475,1768,483,1787,478,1789,471,1770,458,1750,438,1725,418,1700,404,1679,375,1605,353,1529"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="318,808,318,1014,313,1014,313,808"/>
+<area shape="rect" id="Node000010" href="$df/dd1/classJack_1_1detail_1_1JackClientChannelInterface.html" title="Inter process channel for server/client bidirectionnal communication : request and (receiving) notifi..." alt="" coords="765,864,963,1678"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="802,1678,695,2358,690,2357,797,1677"/>
+<area shape="rect" id="Node000011" href="$d2/d73/classJack_1_1JackAndroidSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="987,1106,1170,1436"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="1040,1437,977,1678,833,2194,697,2662,692,2660,827,2193,972,1677,1035,1436"/>
+<area shape="rect" id="Node000012" href="$d9/d65/classJack_1_1detail_1_1JackSynchro.html" title="An inter process synchronization primitive." alt="" coords="1000,333,1157,664"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1081,679,1081,1106,1076,1106,1076,679"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1194,1230,1310,1312"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="1251,1312,1230,1473,1211,1576,1185,1678,1133,1837,1075,1997,1011,2155,945,2308,814,2589,700,2817,695,2815,810,2587,940,2306,1006,2153,1070,1995,1128,1835,1180,1677,1206,1575,1225,1473,1246,1311"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1211,465,1292,532"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1254,547,1254,1231,1249,1231,1249,547"/>
+</map>

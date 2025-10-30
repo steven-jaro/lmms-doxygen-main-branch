@@ -1,8 +1,4 @@
 var searchData=
 [
-  ['graphical_20user_20interface_0',['Graphical User Interface',['../group__pluginGUI.html',1,'']]],
-  ['graphics_1',['Graphics',['../group__graphics.html',1,'']]],
-  ['group_20hints_2',['Patchbay Port Group Hints',['../group__PatchbayPortGroupHints.html',1,'']]],
-  ['groups_3',['Port Groups',['../group__port-groups.html',1,'']]],
-  ['guide_20for_20new_20versions_4',['Porting Guide for New Versions',['../group__porting.html',1,'']]]
+  ['ports_0',['ports',['../de/d5e/group__PortFunctions.html',1,'Creating &amp; manipulating ports'],['../de/d33/group__PortSearching.html',1,'Looking up ports']]]
 ];

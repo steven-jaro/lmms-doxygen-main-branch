@@ -1,0 +1,25 @@
+<map id="lmms::gui::FileBrowser" name="lmms::gui::FileBrowser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,2501,377,3178"/>
+<area shape="rect" id="Node000002" href="$da/db4/classlmms_1_1gui_1_1SideBarWidget.html" title=" " alt="" coords="5,1960,163,2311"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,2324,207,2546,202,2547,137,2326"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="54,1449,114,1516"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,1531,87,1960,82,1960,82,1531"/>
+<area shape="rect" id="Node000004" href="$df/d25/classlmms_1_1gui_1_1FileBrowserTreeWidget.html" title=" " alt="" coords="187,1861,394,2410"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,2410,294,2484,288,2484,288,2410"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="162,1449,249,1516"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,1530,258,1861,252,1862,209,1531"/>
+<area shape="rect" id="Node000006" href="$d4/dd2/classlmms_1_1PlayHandle.html" title=" " alt="" coords="273,1175,420,1790"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="323,1790,318,1844,313,1844,318,1790"/>
+<area shape="rect" id="Node000007" href="$d2/d4c/classlmms_1_1ThreadableJob.html" title=" " alt="" coords="194,188,337,397"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="264,412,261,725,267,914,280,1103,289,1174,283,1175,275,1104,261,915,256,725,258,412"/>
+<area shape="rect" id="Node000014" href="$dc/d1b/classlmms_1_1AudioBusHandle.html" title="Job between PlayHandle and MixerChannel." alt="" coords="289,651,444,1104"/>
+<area shape="poly" id="edge9_Node000014_Node000007" title=" " alt="" coords="289,411,330,651,325,652,283,412"/>
+<area shape="rect" id="Node000011" href="$d4/dff/classlmms_1_1SampleFrame.html" title=" " alt="" coords="387,5,571,580"/>
+<area shape="poly" id="edge7_Node000006_Node000011" title=" " alt="" coords="525,579,533,715,530,861,523,935,513,1009,497,1081,476,1152,467,1165,457,1176,429,1233,425,1231,453,1173,463,1161,471,1150,492,1080,507,1008,518,934,525,860,527,715,520,580"/>
+<area shape="poly" id="edge10_Node000014_Node000011" title=" " alt="" coords="419,580,414,604,408,635,403,634,409,604,414,579"/>
+<area shape="poly" id="edge8_Node000006_Node000014" title=" " alt="" coords="352,1104,351,1128,350,1158,345,1158,346,1128,347,1103"/>
+<area shape="rect" id="Node000038" href="$df/dea/classlmms_1_1gui_1_1FileSearchJob.html" title="The FileSearchJob class allows for searching for files on the filesystem." alt="" coords="419,2062,574,2209"/>
+<area shape="poly" id="edge11_Node000001_Node000038" title=" " alt="" coords="497,2209,486,2336,475,2408,459,2478,426,2573,387,2665,382,2662,421,2571,454,2477,470,2407,481,2335,492,2209"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="467,1449,526,1516"/>
+<area shape="poly" id="edge12_Node000038_Node000018" title=" " alt="" coords="499,1531,499,2062,494,2062,494,1531"/>
+</map>

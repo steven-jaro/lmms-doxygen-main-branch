@@ -1,3 +1,61 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structableton_1_1discovery_1_1Deserialize_3_01std_1_1array_3_01T_00_01Size_01_4_01_4.html" title=" " alt="" coords="5,5,131,61"/>
+<area shape="rect" id="Node000000" href="$dc/dbb/structJack_1_1JackRequest.html" title="Request from client to server." alt="" coords="5,816,137,842"/>
+<area shape="rect" id="Node000001" href="$d4/d0f/structJack_1_1JackActivateRequest.html" title="Activate request." alt="" coords="206,5,385,31"/>
+<area shape="poly" id="edge164_Node000000_Node000001" title=" " alt="" coords="70,800,72,644,86,416,100,298,120,190,147,101,164,67,183,40,204,25,207,30,187,44,168,69,152,103,125,191,106,299,92,416,78,644,75,800"/>
+<area shape="rect" id="Node000002" href="$d5/d00/structJack_1_1JackClientCheckRequest.html" title="CheckClient request." alt="" coords="195,55,396,80"/>
+<area shape="poly" id="edge165_Node000000_Node000002" title=" " alt="" coords="70,800,74,653,89,439,104,329,123,229,149,146,165,114,183,90,196,79,199,83,187,93,169,117,154,148,128,230,109,330,95,440,79,653,75,801"/>
+<area shape="rect" id="Node000003" href="$de/dc5/structJack_1_1JackClientCloseRequest.html" title="CloseClient request." alt="" coords="197,104,394,130"/>
+<area shape="poly" id="edge166_Node000000_Node000003" title=" " alt="" coords="70,801,76,662,93,464,107,362,126,269,151,193,166,163,183,140,198,128,201,132,187,144,171,166,156,195,132,271,112,363,98,465,81,662,76,801"/>
+<area shape="rect" id="Node000004" href="$de/ded/structJack_1_1JackClientHasSessionCallbackRequest.html" title=" " alt="" coords="202,154,389,194"/>
+<area shape="poly" id="edge167_Node000000_Node000004" title=" " alt="" coords="71,800,79,674,99,496,113,405,132,322,155,253,168,226,183,206,199,192,203,196,187,209,173,229,160,255,137,323,118,406,104,497,85,674,76,801"/>
+<area shape="rect" id="Node000005" href="$d5/d93/structJack_1_1JackClientNotificationRequest.html" title="ClientNotification request." alt="" coords="205,219,386,260"/>
+<area shape="poly" id="edge168_Node000000_Node000005" title=" " alt="" coords="72,800,82,685,102,526,117,446,135,372,157,312,183,270,203,254,206,258,187,273,162,314,140,374,122,447,108,527,87,686,77,800"/>
+<area shape="rect" id="Node000006" href="$d0/dae/structJack_1_1JackClientOpenRequest.html" title="NewClient request." alt="" coords="198,284,393,310"/>
+<area shape="poly" id="edge169_Node000000_Node000006" title=" " alt="" coords="72,800,83,695,105,551,119,478,137,412,158,357,183,320,199,308,202,312,187,324,163,360,142,413,125,479,110,552,89,695,77,801"/>
+<area shape="rect" id="Node000007" href="$d1/dc3/structJack_1_1JackComputeTotalLatenciesRequest.html" title="ComputeTotalLatencies request." alt="" coords="185,334,406,374"/>
+<area shape="poly" id="edge170_Node000000_Node000007" title=" " alt="" coords="73,800,87,707,110,583,142,463,161,417,183,384,197,373,200,377,187,388,166,419,147,465,115,584,92,708,78,801"/>
+<area shape="rect" id="Node000008" href="$df/d0d/structJack_1_1JackDeactivateRequest.html" title="Deactivate request." alt="" coords="199,399,392,424"/>
+<area shape="poly" id="edge171_Node000000_Node000008" title=" " alt="" coords="69,801,71,727,85,628,99,575,120,523,147,475,183,434,198,423,201,427,186,437,151,478,124,526,104,577,90,629,76,727,74,801"/>
+<area shape="rect" id="Node000009" href="$dc/d24/structJack_1_1JackGetClientNameRequest.html" title=" " alt="" coords="185,448,406,474"/>
+<area shape="poly" id="edge172_Node000000_Node000009" title=" " alt="" coords="70,800,76,735,92,650,107,605,126,561,151,520,183,484,201,472,204,477,186,488,155,523,131,563,112,607,97,651,81,736,75,801"/>
+<area shape="rect" id="Node000010" href="$d3/de5/structJack_1_1JackGetInternalClientNameRequest.html" title="GetInternalClientName request." alt="" coords="205,498,386,538"/>
+<area shape="poly" id="edge173_Node000000_Node000010" title=" " alt="" coords="73,800,83,747,102,679,135,609,157,577,183,548,203,534,206,539,186,552,161,580,139,611,107,681,88,748,78,801"/>
+<area shape="rect" id="Node000011" href="$df/dc8/structJack_1_1JackGetUUIDRequest.html" title=" " alt="" coords="203,563,388,588"/>
+<area shape="poly" id="edge174_Node000000_Node000011" title=" " alt="" coords="75,800,88,755,109,701,140,646,160,620,183,599,204,587,206,591,186,603,164,624,144,649,114,703,93,757,81,801"/>
+<area shape="rect" id="Node000012" href="$d4/de2/structJack_1_1JackInternalClientHandleRequest.html" title="InternalClientHandle request." alt="" coords="216,612,375,653"/>
+<area shape="poly" id="edge175_Node000000_Node000012" title=" " alt="" coords="82,801,120,732,149,696,183,664,214,647,216,652,186,668,153,699,124,735,86,803"/>
+<area shape="rect" id="Node000013" href="$db/d50/structJack_1_1JackInternalClientLoadRequest.html" title="InternalClientLoad request." alt="" coords="216,678,375,718"/>
+<area shape="poly" id="edge176_Node000000_Node000013" title=" " alt="" coords="93,803,133,765,183,729,214,715,216,720,186,734,136,769,96,806"/>
+<area shape="rect" id="Node000014" href="$dd/d35/structJack_1_1JackInternalClientUnloadRequest.html" title="InternalClientUnload request." alt="" coords="216,743,375,784"/>
+<area shape="poly" id="edge177_Node000000_Node000014" title=" " alt="" coords="131,809,222,782,224,787,133,814"/>
+<area shape="rect" id="Node000015" href="$da/dbd/structJack_1_1JackPortConnectNameRequest.html" title="PortConnectName request." alt="" coords="200,808,390,849"/>
+<area shape="poly" id="edge178_Node000000_Node000015" title=" " alt="" coords="152,826,200,826,200,832,152,832"/>
+<area shape="rect" id="Node000016" href="$dc/d09/structJack_1_1JackPortConnectRequest.html" title="PortConnect request." alt="" coords="194,873,397,899"/>
+<area shape="poly" id="edge179_Node000000_Node000016" title=" " alt="" coords="133,844,185,858,234,870,233,875,184,863,131,849"/>
+<area shape="rect" id="Node000017" href="$de/dfc/structJack_1_1JackPortDisconnectNameRequest.html" title="PortDisconnectName request." alt="" coords="209,923,382,964"/>
+<area shape="poly" id="edge180_Node000000_Node000017" title=" " alt="" coords="100,850,139,881,186,909,212,920,210,925,183,914,136,885,97,854"/>
+<area shape="rect" id="Node000018" href="$d7/d20/structJack_1_1JackPortDisconnectRequest.html" title="PortDisconnect request." alt="" coords="209,988,382,1029"/>
+<area shape="poly" id="edge181_Node000000_Node000018" title=" " alt="" coords="88,854,127,914,154,946,186,973,210,986,207,991,183,978,151,950,123,918,84,857"/>
+<area shape="rect" id="Node000019" href="$d9/d1a/structJack_1_1JackPortRegisterRequest.html" title="PortRegister request." alt="" coords="194,1053,397,1079"/>
+<area shape="poly" id="edge182_Node000000_Node000019" title=" " alt="" coords="82,856,95,898,116,947,146,997,165,1019,186,1039,207,1051,204,1055,183,1043,161,1023,142,1000,111,950,90,899,77,858"/>
+<area shape="rect" id="Node000020" href="$dc/d07/structJack_1_1JackPortRenameRequest.html" title="PortRename request." alt="" coords="194,1103,397,1128"/>
+<area shape="poly" id="edge183_Node000000_Node000020" title=" " alt="" coords="79,857,89,907,108,971,140,1035,161,1064,186,1089,203,1100,200,1104,183,1094,157,1068,135,1038,103,973,84,909,73,858"/>
+<area shape="rect" id="Node000021" href="$dd/d59/structJack_1_1JackPortUnRegisterRequest.html" title="PortUnregister request." alt="" coords="209,1152,382,1193"/>
+<area shape="poly" id="edge184_Node000000_Node000021" title=" " alt="" coords="77,856,85,915,103,991,117,1032,135,1071,158,1107,186,1139,210,1155,208,1159,183,1143,154,1110,131,1073,112,1034,98,993,79,916,72,857"/>
+<area shape="rect" id="Node000022" href="$de/d03/structJack_1_1JackPropertyChangeNotifyRequest.html" title=" " alt="" coords="208,1218,383,1258"/>
+<area shape="poly" id="edge185_Node000000_Node000022" title=" " alt="" coords="75,857,79,927,95,1020,109,1069,128,1118,154,1163,186,1203,209,1219,206,1223,183,1207,150,1166,124,1120,104,1071,90,1021,74,927,70,857"/>
+<area shape="rect" id="Node000023" href="$d9/d47/structJack_1_1JackReleaseTimebaseRequest.html" title="ReleaseTimebase request." alt="" coords="202,1283,389,1324"/>
+<area shape="poly" id="edge186_Node000000_Node000023" title=" " alt="" coords="79,857,92,950,115,1073,147,1191,166,1237,187,1268,203,1281,200,1286,183,1272,161,1240,142,1193,110,1074,87,950,73,857"/>
+<area shape="rect" id="Node000024" href="$dc/d88/structJack_1_1JackReserveNameRequest.html" title=" " alt="" coords="188,1348,402,1374"/>
+<area shape="poly" id="edge187_Node000000_Node000024" title=" " alt="" coords="77,857,89,962,110,1106,125,1178,142,1244,163,1298,187,1334,202,1345,199,1349,183,1337,158,1300,137,1246,119,1180,105,1107,83,963,72,857"/>
+<area shape="rect" id="Node000025" href="$d9/d36/structJack_1_1JackSessionNotifyRequest.html" title="SessionNotify request." alt="" coords="189,1397,402,1423"/>
+<area shape="poly" id="edge188_Node000000_Node000025" title=" " alt="" coords="77,857,86,972,106,1131,121,1212,139,1285,161,1345,173,1367,187,1384,200,1395,197,1399,183,1388,169,1370,156,1347,134,1286,116,1213,101,1132,81,972,71,857"/>
+<area shape="rect" id="Node000026" href="$d3/d55/structJack_1_1JackSessionReplyRequest.html" title=" " alt="" coords="190,1447,400,1472"/>
+<area shape="poly" id="edge189_Node000000_Node000026" title=" " alt="" coords="76,857,84,981,103,1155,118,1243,136,1324,159,1390,172,1415,187,1434,200,1444,197,1448,183,1437,168,1418,154,1392,131,1325,112,1244,98,1156,79,982,71,857"/>
+<area shape="rect" id="Node000027" href="$d1/d82/structJack_1_1JackSetBufferSizeRequest.html" title="SetBufferSize request." alt="" coords="190,1496,400,1522"/>
+<area shape="poly" id="edge190_Node000000_Node000027" title=" " alt="" coords="76,857,82,990,100,1179,114,1275,133,1363,157,1435,171,1462,187,1483,200,1494,197,1498,183,1487,167,1465,152,1437,128,1365,109,1276,95,1179,77,990,70,857"/>
+<area shape="rect" id="Node000028" href="$da/d10/structJack_1_1JackSetFreeWheelRequest.html" title="SetFreeWheel request." alt="" coords="189,1545,402,1571"/>
+<area shape="poly" id="edge191_Node000000_Node000028" title=" " alt="" coords="75,857,81,999,97,1202,111,1307,130,1402,155,1480,170,1510,187,1532,199,1543,196,1547,183,1536,166,1513,150,1482,125,1403,106,1308,91,1203,75,999,70,857"/>
+<area shape="rect" id="Node000029" href="$da/d82/structJack_1_1JackSetTimebaseCallbackRequest.html" title="SetTimebaseCallback request." alt="" coords="190,1595,400,1636"/>
+<area shape="poly" id="edge192_Node000000_Node000029" title=" " alt="" coords="75,857,80,1007,96,1225,110,1337,129,1440,155,1524,170,1557,187,1582,199,1593,196,1597,183,1585,165,1560,150,1526,124,1441,104,1338,90,1225,75,1007,70,857"/>
 </map>
