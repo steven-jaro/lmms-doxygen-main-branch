@@ -1,0 +1,22 @@
+<map id="Jack::JackCoreMidiPhysicalInputPort" name="Jack::JackCoreMidiPhysicalInputPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,1006,397,1137"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackCoreMidiInputPort.html" title=" " alt="" coords="206,707,400,956"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,971,306,1006,300,1006,300,971"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackCoreMidiPort.html" title=" " alt="" coords="5,305,153,636"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,626,168,635,215,706,210,708,164,637,158,629"/>
+<area shape="rect" id="Node000004" href="$structjack__midi__event__t.html" title=" " alt="" coords="177,417,293,524"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,523,269,683,271,690,266,691,264,683,239,524"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackMidiAsyncQueue.html" title=" " alt="" coords="316,346,487,595"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,596,344,691,339,690,365,595"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackMidiReadQueue.html" title=" " alt="" coords="157,76,322,163"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="267,175,347,345,342,347,263,178"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackMidiWriteQueue.html" title=" " alt="" coords="482,66,647,173"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="546,189,510,282,477,348,472,345,505,280,541,187"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackMidiBufferWriteQueue.html" title=" " alt="" coords="512,379,698,562"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="575,188,597,379,592,380,570,189"/>
+<area shape="rect" id="Node000008" href="$struct__jack__midi__event.html" title=" " alt="" coords="346,66,458,173"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="404,173,404,329,399,329,399,173"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="554,564,501,638,414,733,410,729,497,634,549,561"/>
+<area shape="rect" id="Node000010" href="$structJack_1_1JackMidiBuffer.html" title=" " alt="" coords="671,5,802,234"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="696,235,647,364,642,363,691,233"/>
+</map>

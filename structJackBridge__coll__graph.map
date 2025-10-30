@@ -1,0 +1,13 @@
+<map id="JackBridge" name="JackBridge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,803,460,1347"/>
+<area shape="rect" id="Node000002" href="$struct__jack__latency__range.html" title=" " alt="" coords="5,384,134,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,471,61,532,60,611,68,696,77,738,90,778,110,822,135,863,193,939,189,943,130,866,105,824,85,780,72,739,63,697,55,611,56,532,61,470"/>
+<area shape="rect" id="Node000003" href="$structjack__midi__event__t.html" title=" " alt="" coords="190,374,306,481"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,481,243,616,245,698,253,779,254,786,249,787,248,780,240,698,238,616,242,481"/>
+<area shape="rect" id="Node000004" href="$struct__jack__position.html" title=" " alt="" coords="330,183,495,671"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,671,384,780,383,787,378,786,379,779,391,671"/>
+<area shape="rect" id="Node000005" href="$structjack__description__t.html" title=" " alt="" coords="536,374,652,481"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="598,481,596,543,589,619,575,701,551,780,516,851,472,918,467,915,511,849,546,778,570,700,584,618,591,543,592,481"/>
+<area shape="rect" id="Node000006" href="$structjack__property__t.html" title=" " alt="" coords="544,5,643,112"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="596,112,596,357,591,357,591,112"/>
+</map>

@@ -1,0 +1,28 @@
+var pluginlistdialog_8cpp =
+[
+    [ "PluginPaths", "structPluginPaths.html", "structPluginPaths" ],
+    [ "PluginInfoHeader", "structPluginInfoHeader.html", "structPluginInfoHeader" ],
+    [ "PluginInfo", "structPluginInfo.html", "structPluginInfo" ],
+    [ "PluginFavoriteHeader", "structPluginFavoriteHeader.html", "structPluginFavoriteHeader" ],
+    [ "PluginFavorite", "structPluginFavorite.html", "structPluginFavorite" ],
+    [ "PluginListDialog::PrivateData", "structPluginListDialog_1_1PrivateData.html", "structPluginListDialog_1_1PrivateData" ],
+    [ "PluginListDialog::PrivateData::Discovery", "structPluginListDialog_1_1PrivateData_1_1Discovery.html", "structPluginListDialog_1_1PrivateData_1_1Discovery" ],
+    [ "asByteArray", "pluginlistdialog_8cpp.html#ab211fa0abb55e3f8902e593b51362805", null ],
+    [ "asByteArray", "pluginlistdialog_8cpp.html#a9e0feb0d1b6bcaae9c67825f9de04bc9", null ],
+    [ "asPluginFavorite", "pluginlistdialog_8cpp.html#a4c92d60d060b1c6b4c6625139df7edaf", null ],
+    [ "asPluginFavorite", "pluginlistdialog_8cpp.html#ad31c23eb34fd08fce4f887d6809de105", null ],
+    [ "asPluginFavoriteList", "pluginlistdialog_8cpp.html#a10ff0daac905e8d4aa9780dc2c3a8641", null ],
+    [ "asPluginInfo", "pluginlistdialog_8cpp.html#a0a60848f6958dfc71b8f5ab12f3b2db8", null ],
+    [ "asPluginInfo", "pluginlistdialog_8cpp.html#a62412718f6d66187ec8ba9b9b0a3e9d6", null ],
+    [ "asPluginInfoList", "pluginlistdialog_8cpp.html#aeeb673e276959f3178c33c441060c366", null ],
+    [ "asVariant", "pluginlistdialog_8cpp.html#a73c687b8c749401a424d967748294381", null ],
+    [ "asVariant", "pluginlistdialog_8cpp.html#aa75fdc96838e5a593254cb06d9569fc5", null ],
+    [ "carla_frontend_createPluginListDialog", "pluginlistdialog_8cpp.html#ad66c6993b7fb7313724e197b564969ae", null ],
+    [ "carla_frontend_destroyPluginListDialog", "pluginlistdialog_8cpp.html#a08efe8f779f341d2c690fa5c86e54136", null ],
+    [ "carla_frontend_execPluginListDialog", "pluginlistdialog_8cpp.html#ae935ca955102115971c35320bfbc599c", null ],
+    [ "carla_frontend_setPluginListDialogPath", "pluginlistdialog_8cpp.html#a9c083709fea09bb04b7344dada552a03", null ],
+    [ "checkCacheCallback", "pluginlistdialog_8cpp.html#aac8369f96e7f60cc687f9bcd1e58aa25", null ],
+    [ "discoveryCallback", "pluginlistdialog_8cpp.html#abef4023e7eb30660700ad4294037b8ab", null ],
+    [ "fontMetricsHorizontalAdvance", "pluginlistdialog_8cpp.html#a821d37cf05f51a51ae8b40fe06ea7819", null ],
+    [ "getEnvWithFallback", "pluginlistdialog_8cpp.html#aa33dc8a1f1f3656bc05df72969f933af", null ]
+];

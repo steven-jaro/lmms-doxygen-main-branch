@@ -1,0 +1,19 @@
+<map id="src/3rdparty/hiir/hiir/StageProc8F64Avx512.h" name="src/3rdparty/hiir/hiir/StageProc8F64Avx512.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="350,5,519,46"/>
+<area shape="rect" id="Node000002" href="$Downsampler2x8F64Avx512_8hpp.html" title=" " alt="" coords="5,94,219,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,53,186,96,185,91,346,48"/>
+<area shape="rect" id="Node000004" href="$HalfBand8F64Avx512_8hpp.html" title=" " alt="" coords="243,94,418,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="401,58,356,96,352,92,398,54"/>
+<area shape="rect" id="Node000006" href="$PhaseHalfPi8F64Avx512_8hpp.html" title=" " alt="" coords="443,94,637,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="472,54,518,91,515,96,468,58"/>
+<area shape="rect" id="Node000008" href="$Upsampler2x8F64Avx512_8hpp.html" title=" " alt="" coords="661,94,859,135"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="524,48,687,91,685,96,523,53"/>
+<area shape="rect" id="Node000003" href="$Downsampler2x8F64Avx512_8h.html" title=" " alt="" coords="12,183,212,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,150,115,182,109,182,109,150"/>
+<area shape="rect" id="Node000005" href="$HalfBand8F64Avx512_8h.html" title=" " alt="" coords="250,183,411,223"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,150,333,182,328,182,328,150"/>
+<area shape="rect" id="Node000007" href="$PhaseHalfPi8F64Avx512_8h.html" title=" " alt="" coords="450,183,630,223"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="543,150,543,182,537,182,537,150"/>
+<area shape="rect" id="Node000009" href="$Upsampler2x8F64Avx512_8h.html" title=" " alt="" coords="668,183,852,223"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="763,150,763,182,757,182,757,150"/>
+</map>

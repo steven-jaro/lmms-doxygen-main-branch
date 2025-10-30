@@ -1,0 +1,58 @@
+<map id="src/3rdparty/jack2/solaris/oss/JackOSSAdapter.h" name="src/3rdparty/jack2/solaris/oss/JackOSSAdapter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="370,5,573,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="564,241,624,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,45,582,226,578,229,479,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,68,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="370,44,274,65,176,96,116,127,66,160,63,156,113,123,174,92,273,60,368,39"/>
+<area shape="rect" id="Node000004" href="$assert_8h.html" title=" " alt="" coords="798,94,865,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="569,44,783,91,782,96,568,49"/>
+<area shape="rect" id="Node000005" href="$JackAudioAdapterInterface_8h.html" title=" " alt="" coords="585,94,773,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="524,44,634,86,632,91,522,49"/>
+<area shape="rect" id="Node000010" href="$jack_8h.html" title=" " alt="" coords="324,241,379,267"/>
+<area shape="poly" id="edge23_Node000001_Node000010" title=" " alt="" coords="460,48,429,95,393,167,365,228,360,226,388,164,425,93,455,45"/>
+<area shape="rect" id="Node000018" href="$JackCompilerDeps_8h.html" title=" " alt="" coords="346,315,487,341"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="470,47,424,300,419,299,465,46"/>
+<area shape="rect" id="Node000026" href="$JackPlatformPlug_8h.html" title=" " alt="" coords="940,94,1074,120"/>
+<area shape="poly" id="edge17_Node000001_Node000026" title=" " alt="" coords="574,39,925,91,924,96,573,45"/>
+<area shape="rect" id="Node000028" href="$JackError_8h.html" title=" " alt="" coords="453,241,540,267"/>
+<area shape="poly" id="edge19_Node000001_Node000028" title=" " alt="" coords="476,46,496,225,491,226,471,47"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="299,168,358,193"/>
+<area shape="poly" id="edge24_Node000001_Node000030" title=" " alt="" coords="438,49,407,70,378,96,357,125,342,154,337,152,353,122,375,92,404,65,435,44"/>
+<area shape="rect" id="Node000031" href="$driver__interface_8h.html" title=" " alt="" coords="187,94,307,120"/>
+<area shape="poly" id="edge26_Node000001_Node000031" title=" " alt="" coords="416,49,297,91,295,86,414,44"/>
+<area shape="rect" id="Node000006" href="$JackResampler_8h.html" title=" " alt="" coords="728,168,849,193"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="699,118,759,157,756,161,696,122"/>
+<area shape="rect" id="Node000009" href="$JackFilters_8h.html" title=" " alt="" coords="609,168,704,193"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="678,121,668,153,662,152,673,119"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="874,168,933,193"/>
+<area shape="poly" id="edge16_Node000005_Node000025" title=" " alt="" coords="718,118,859,163,858,168,716,123"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="890,241,975,267"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="814,191,896,232,893,236,812,196"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="999,241,1061,267"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="830,191,985,237,983,242,829,196"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="648,195,617,231,613,228,644,192"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="609,196,395,245,393,240,608,190"/>
+<area shape="rect" id="Node000015" href="$JackAtomicState_8h.html" title=" " alt="" coords="648,241,780,267"/>
+<area shape="poly" id="edge11_Node000009_Node000015" title=" " alt="" coords="668,192,697,227,693,231,664,195"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="804,241,866,267"/>
+<area shape="poly" id="edge15_Node000009_Node000024" title=" " alt="" coords="688,191,792,233,790,238,686,196"/>
+<area shape="rect" id="Node000011" href="$systemdeps_8h.html" title=" " alt="" coords="81,315,210,341"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="324,268,196,312,194,307,322,263"/>
+<area shape="poly" id="edge12_Node000015_Node000018" title=" " alt="" coords="664,270,482,313,481,308,662,265"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="638,315,702,341"/>
+<area shape="poly" id="edge13_Node000015_Node000022" title=" " alt="" coords="709,269,688,303,683,300,704,266"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="958,168,1113,193"/>
+<area shape="poly" id="edge18_Node000026_Node000027" title=" " alt="" coords="1014,119,1027,152,1022,154,1009,121"/>
+<area shape="poly" id="edge22_Node000028_Node000018" title=" " alt="" coords="485,270,443,307,439,303,481,266"/>
+<area shape="poly" id="edge20_Node000028_Node000022" title=" " alt="" coords="527,265,627,306,625,311,525,270"/>
+<area shape="rect" id="Node000029" title=" " alt="" coords="510,315,571,341"/>
+<area shape="poly" id="edge21_Node000028_Node000029" title=" " alt="" coords="506,266,527,300,523,303,501,269"/>
+<area shape="poly" id="edge27_Node000031_Node000003" title=" " alt="" coords="212,123,84,166,82,161,211,118"/>
+<area shape="poly" id="edge29_Node000031_Node000018" title=" " alt="" coords="252,119,270,186,288,228,313,265,340,289,371,306,368,311,337,293,309,269,283,230,265,188,247,121"/>
+<area shape="poly" id="edge28_Node000031_Node000030" title=" " alt="" coords="263,118,305,155,302,159,259,122"/>
+<area shape="rect" id="Node000032" href="$JackSystemDeps_8h.html" title=" " alt="" coords="91,168,224,193"/>
+<area shape="poly" id="edge30_Node000031_Node000032" title=" " alt="" coords="234,122,186,160,183,156,230,118"/>
+<area shape="poly" id="edge31_Node000032_Node000011" title=" " alt="" coords="124,196,91,215,77,227,66,242,62,260,71,277,87,292,107,305,104,310,83,296,66,280,57,261,61,240,73,224,88,210,121,192"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="75,241,230,267"/>
+<area shape="poly" id="edge32_Node000032_Node000033" title=" " alt="" coords="160,194,157,226,152,226,154,193"/>
+</map>

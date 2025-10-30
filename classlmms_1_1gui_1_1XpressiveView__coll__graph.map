@@ -1,0 +1,62 @@
+<map id="lmms::gui::XpressiveView" name="lmms::gui::XpressiveView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="815,4028,981,4521"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1InstrumentViewFixedSize.html" title="Instrument view with fixed LMMS&#45;default size." alt="" coords="87,2998,273,3141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,3156,158,3232,151,3326,148,3433,152,3549,167,3668,194,3786,214,3844,237,3899,265,3952,298,4002,351,4061,413,4111,482,4152,554,4186,626,4213,696,4233,815,4259,814,4264,695,4238,625,4218,552,4191,479,4157,410,4115,348,4065,294,4005,261,3955,232,3901,209,3845,189,3788,161,3669,147,3549,142,3433,145,3326,153,3232,163,3155"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1InstrumentView.html" title="Instrument view with variable size." alt="" coords="6,1903,178,2071"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,2085,177,2998,172,2999,98,2086"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1PluginView.html" title=" " alt="" coords="5,1298,142,1384"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="78,1399,93,1903,87,1903,73,1399"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="325,958,385,1025"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,1007,273,1020,232,1039,191,1064,156,1096,124,1145,102,1199,88,1253,80,1298,75,1298,83,1252,97,1198,119,1142,152,1093,188,1060,229,1034,271,1015,309,1002"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html" title=" " alt="" coords="512,1659,710,2315"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="352,1040,345,1141,342,1278,345,1355,352,1433,365,1511,383,1587,408,1657,440,1726,477,1792,514,1851,510,1853,472,1794,436,1729,403,1660,378,1588,359,1512,347,1434,340,1355,337,1278,339,1141,347,1040"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1SimpleTextFloat.html" title=" " alt="" coords="392,1226,558,1456"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="373,1038,438,1226,433,1227,368,1040"/>
+<area shape="rect" id="Node000028" href="$classlmms_1_1gui_1_1AutomatableButtonGroup.html" title=" " alt="" coords="924,1239,1109,1443"/>
+<area shape="poly" id="edge19_Node000028_Node000005" title=" " alt="" coords="400,998,703,1052,912,1092,943,1123,968,1160,986,1200,1000,1239,995,1241,981,1202,963,1163,939,1127,910,1097,702,1057,399,1003"/>
+<area shape="rect" id="Node000034" href="$classlmms_1_1gui_1_1Graph.html" title=" " alt="" coords="166,1094,317,1588"/>
+<area shape="poly" id="edge31_Node000034_Node000005" title=" " alt="" coords="343,1040,320,1110,315,1108,337,1038"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1ModelView.html" title=" " alt="" coords="174,5,310,295"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="169,277,144,332,123,392,107,455,102,519,102,993,94,1163,81,1298,76,1298,89,1162,96,993,96,519,102,454,117,391,139,330,165,275"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1AutomatableModelView.html" title=" " alt="" coords="769,345,978,696"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="324,196,771,456,768,461,321,201"/>
+<area shape="poly" id="edge32_Node000034_Node000006" title=" " alt="" coords="244,310,244,519,244,993,244,1095,239,1095,239,993,239,519,239,310"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1Knob.html" title=" " alt="" coords="577,2386,799,3753"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="680,3753,700,3880,732,4003,746,4042,764,4081,808,4154,803,4156,760,4084,741,4044,726,4004,695,3881,675,3753"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="638,2330,642,2386,637,2386,633,2330"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1TypedModelView.html" title=" " alt="" coords="663,938,794,1045"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="734,1060,737,1170,737,1314,730,1474,712,1635,708,1659,703,1658,707,1634,725,1474,732,1314,732,1170,729,1060"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="791,710,779,746,753,848,738,939,733,938,748,847,774,744,786,708"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1TypedModelView.html" title=" " alt="" coords="788,745,959,867"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="876,711,876,745,871,745,871,711"/>
+<area shape="rect" id="Node000029" href="$classlmms_1_1gui_1_1TypedModelView.html" title=" " alt="" coords="926,938,1056,1045"/>
+<area shape="poly" id="edge21_Node000029_Node000010" title=" " alt="" coords="988,682,1040,782,1062,836,1079,890,1082,903,1079,915,1059,945,1054,942,1074,913,1076,903,1074,892,1057,838,1035,785,983,685"/>
+<area shape="rect" id="Node000033" href="$classlmms_1_1gui_1_1TypedModelView.html" title=" " alt="" coords="1080,938,1211,1045"/>
+<area shape="poly" id="edge27_Node000033_Node000010" title=" " alt="" coords="990,636,1031,688,1067,744,1091,793,1111,845,1137,938,1132,939,1106,847,1086,795,1062,746,1026,691,986,640"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="781,880,770,893,756,915,746,939,741,937,751,913,765,889,776,876"/>
+<area shape="poly" id="edge22_Node000029_Node000011" title=" " alt="" coords="868,881,877,913,899,940,928,960,924,965,895,944,873,915,863,883"/>
+<area shape="poly" id="edge28_Node000033_Node000011" title=" " alt="" coords="973,871,1070,936,1082,944,1079,948,1067,940,970,875"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="492,1455,521,1634,523,1642,518,1643,516,1635,486,1456"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1BoolModel.html" title=" " alt="" coords="582,1298,691,1384"/>
+<area shape="poly" id="edge16_Node000008_Node000013" title=" " alt="" coords="633,1385,619,1488,607,1612,606,1642,601,1641,602,1611,613,1487,627,1384"/>
+<area shape="rect" id="Node000026" href="$classlmms_1_1FloatModel.html" title=" " alt="" coords="765,1277,899,1405"/>
+<area shape="poly" id="edge17_Node000008_Node000026" title=" " alt="" coords="817,1405,746,1636,719,1712,714,1710,740,1634,812,1403"/>
+<area shape="poly" id="edge18_Node000001_Node000028" title=" " alt="" coords="1007,1443,965,1854,943,2118,926,2386,908,2833,900,3279,897,3684,898,4011,892,4011,891,3684,894,3279,903,2833,920,2386,938,2118,960,1853,1002,1442"/>
+<area shape="rect" id="Node000031" href="$classlmms_1_1gui_1_1AutomatableButton.html" title=" " alt="" coords="1054,1862,1237,2111"/>
+<area shape="poly" id="edge29_Node000031_Node000028" title=" " alt="" coords="1034,1442,1068,1634,1114,1845,1109,1846,1062,1635,1029,1443"/>
+<area shape="poly" id="edge20_Node000028_Node000029" title=" " alt="" coords="999,1060,1012,1239,1006,1240,993,1060"/>
+<area shape="rect" id="Node000030" href="$classlmms_1_1gui_1_1PixmapButton.html" title=" " alt="" coords="1111,2914,1284,3225"/>
+<area shape="poly" id="edge23_Node000001_Node000030" title=" " alt="" coords="1212,3224,1214,3390,1211,3486,1204,3589,1191,3694,1173,3800,1147,3904,1112,4005,1089,4054,1059,4100,994,4183,990,4179,1055,4097,1084,4051,1107,4003,1141,3903,1167,3799,1186,3693,1199,3588,1206,3486,1209,3390,1206,3224"/>
+<area shape="poly" id="edge24_Node000030_Node000031" title=" " alt="" coords="1155,2126,1193,2914,1188,2915,1150,2126"/>
+<area shape="rect" id="Node000036" href="$classlmms_1_1gui_1_1LedCheckBox.html" title=" " alt="" coords="935,2914,1087,3225"/>
+<area shape="poly" id="edge36_Node000036_Node000031" title=" " alt="" coords="1131,2126,1033,2915,1027,2914,1126,2125"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="1183,1308,1271,1374"/>
+<area shape="poly" id="edge25_Node000031_Node000032" title=" " alt="" coords="1224,1389,1164,1863,1159,1862,1218,1389"/>
+<area shape="poly" id="edge26_Node000031_Node000033" title=" " alt="" coords="1148,1060,1148,1862,1143,1862,1143,1060"/>
+<area shape="poly" id="edge30_Node000001_Node000034" title=" " alt="" coords="255,1587,283,2003,307,2262,339,2546,380,2844,432,3151,494,3456,529,3606,568,3753,590,3826,611,3882,638,3936,677,4002,739,4091,805,4171,801,4175,735,4094,673,4005,633,3939,606,3885,585,3828,563,3754,524,3607,489,3457,426,3152,375,2845,334,2546,302,2263,278,2003,249,1587"/>
+<area shape="rect" id="Node000035" href="$classlmms_1_1graphModel.html" title="2 dimensional function plot" alt="" coords="1308,2752,1452,3387"/>
+<area shape="poly" id="edge33_Node000001_Node000035" title=" " alt="" coords="1424,3387,1425,3538,1419,3618,1410,3698,1394,3779,1372,3857,1343,3933,1307,4005,1277,4047,1242,4086,1204,4120,1162,4151,1077,4203,997,4240,995,4235,1074,4198,1159,4147,1200,4116,1239,4082,1273,4044,1302,4002,1339,3931,1367,3856,1389,3777,1404,3698,1414,3617,1419,3538,1418,3387"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1Model.html" title=" " alt="" coords="1304,1882,1457,2091"/>
+<area shape="poly" id="edge34_Node000035_Node000016" title=" " alt="" coords="1383,2106,1383,2752,1378,2752,1378,2106"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="999,3225,925,4011,920,4010,994,3224"/>
+</map>

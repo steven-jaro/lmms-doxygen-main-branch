@@ -1,0 +1,29 @@
+<map id="src/3rdparty/hiir/hiir/StageProc4Sse.hpp" name="src/3rdparty/hiir/hiir/StageProc4Sse.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="460,5,600,46"/>
+<area shape="rect" id="Node000002" href="$StageProc4Sse_8h.html" title=" " alt="" coords="464,94,595,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,62,532,94,527,94,527,62"/>
+<area shape="rect" id="Node000003" href="$Downsampler2x4Sse_8hpp.html" title=" " alt="" coords="5,183,177,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,134,177,187,176,182,448,129"/>
+<area shape="rect" id="Node000005" href="$HalfBand16Avx512_8hpp.html" title=" " alt="" coords="200,183,360,223"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="460,143,338,185,336,180,458,138"/>
+<area shape="rect" id="Node000007" href="$HalfBand4Sse_8hpp.html" title=" " alt="" coords="384,183,518,223"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="503,148,471,184,467,180,500,145"/>
+<area shape="rect" id="Node000009" href="$HalfBand8Avx_8hpp.html" title=" " alt="" coords="542,183,674,223"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="560,145,593,180,589,184,556,148"/>
+<area shape="rect" id="Node000011" href="$PhaseHalfPi4Sse_8hpp.html" title=" " alt="" coords="699,183,851,223"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="600,138,720,180,718,185,599,143"/>
+<area shape="rect" id="Node000013" href="$Upsampler2x4Sse_8hpp.html" title=" " alt="" coords="875,183,1030,223"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="611,129,864,180,875,182,874,188,862,185,610,134"/>
+<area shape="rect" id="Node000004" href="$Downsampler2x4Sse_8h.html" title=" " alt="" coords="12,271,170,312"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,239,94,271,88,271,88,239"/>
+<area shape="rect" id="Node000006" href="$HalfBand16Avx512_8h.html" title=" " alt="" coords="207,271,354,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="283,239,283,271,278,271,278,239"/>
+<area shape="rect" id="Node000008" href="$HalfBand4Sse_8h.html" title=" " alt="" coords="385,271,517,312"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="454,239,454,271,448,271,448,239"/>
+<area shape="rect" id="Node000010" href="$HalfBand8Avx_8h.html" title=" " alt="" coords="543,271,674,312"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="611,239,611,271,606,271,606,239"/>
+<area shape="rect" id="Node000012" href="$PhaseHalfPi4Sse_8h.html" title=" " alt="" coords="706,271,844,312"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="778,239,778,271,772,271,772,239"/>
+<area shape="rect" id="Node000014" href="$Upsampler2x4Sse_8h.html" title=" " alt="" coords="882,271,1023,312"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="955,239,955,271,950,271,950,239"/>
+</map>

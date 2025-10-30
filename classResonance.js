@@ -1,0 +1,27 @@
+var classResonance =
+[
+    [ "Resonance", "classResonance.html#acb81164a6ddad939df5a474bf2e170a2", null ],
+    [ "~Resonance", "classResonance.html#ad87bb337dd7fbb22fc54a92dd85dea5c", null ],
+    [ "add2XML", "classResonance.html#a2bfef8fa5b1f84e2d0a5ba9689287be9", null ],
+    [ "applyres", "classResonance.html#a95a8caedb14119b41ef748cd9fa909cc", null ],
+    [ "defaults", "classResonance.html#a56be1a5fb509a8ebaec8de472a316453", null ],
+    [ "getcenterfreq", "classResonance.html#ac099dadf7a4e3450b7bfc141777b07dc", null ],
+    [ "getfreqpos", "classResonance.html#a02733581b0e246df6eeccc87561f4d34", null ],
+    [ "getfreqresponse", "classResonance.html#ac058a4a1b90e76b5d727020175d3b34e", null ],
+    [ "getfreqx", "classResonance.html#adb8b62616165382d1a2655eb4e65cf32", null ],
+    [ "getfromXML", "classResonance.html#ac89c082f3bd4f07ede671d86541396ac", null ],
+    [ "getoctavesfreq", "classResonance.html#a34df7d0ef5c01a64bf877a5b19052d46", null ],
+    [ "interpolatepeaks", "classResonance.html#a45897e4551cba6106f4d13202c1b1710", null ],
+    [ "randomize", "classResonance.html#a55bd432609dfd13c2acd76ea503f877f", null ],
+    [ "sendcontroller", "classResonance.html#a1d78372fb862887ec82be91efc7b4f79", null ],
+    [ "setpoint", "classResonance.html#a6c57b9e77b1d95ea623f0bea6468e9c3", null ],
+    [ "smooth", "classResonance.html#af1fd7d9190312607a9fe089d0c299939", null ],
+    [ "ctlbw", "classResonance.html#abc8eab3f7bd94782a532aee3eaffd359", null ],
+    [ "ctlcenter", "classResonance.html#a5fbb799a66d9be8cc417362ed7b4e1a8", null ],
+    [ "Pcenterfreq", "classResonance.html#a1effab492df720755c423fd37ac5bafa", null ],
+    [ "Penabled", "classResonance.html#a0213ebe73183f8d1e3e8b2847d5ecd8e", null ],
+    [ "PmaxdB", "classResonance.html#ab0bc150228574be8b751667a4866dac0", null ],
+    [ "Poctavesfreq", "classResonance.html#a112a742ceda4ba8af96b48061612a71a", null ],
+    [ "Pprotectthefundamental", "classResonance.html#a837bd9111e88aaa09f144fe2d045be64", null ],
+    [ "Prespoints", "classResonance.html#ac2e99d79289368ad9adf459d91b43f91", null ]
+];

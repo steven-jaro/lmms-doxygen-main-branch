@@ -1,0 +1,5 @@
+var structasio_1_1associated__executor_3_01detail_1_1write__dynbuf__v1__op_3_01AsyncWriteStream_00_0fb626afd2a71222d2c3e264d39c6cabf =
+[
+    [ "type", "structasio_1_1associated__executor_3_01detail_1_1write__dynbuf__v1__op_3_01AsyncWriteStream_00_0fb626afd2a71222d2c3e264d39c6cabf.html#a01313c74b938e04b273b71e682f217b5", null ],
+    [ "get", "structasio_1_1associated__executor_3_01detail_1_1write__dynbuf__v1__op_3_01AsyncWriteStream_00_0fb626afd2a71222d2c3e264d39c6cabf.html#a64ffee82347d14d750e3d41b93a68831", null ]
+];

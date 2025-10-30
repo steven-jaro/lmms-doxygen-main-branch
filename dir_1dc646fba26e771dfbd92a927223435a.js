@@ -1,0 +1,27 @@
+var dir_1dc646fba26e771dfbd92a927223435a =
+[
+    [ "juce_Base64.cpp", "juce__Base64_8cpp.html", null ],
+    [ "juce_Base64.h", "juce__Base64_8h.html", "juce__Base64_8h" ],
+    [ "juce_CharacterFunctions.cpp", "juce__CharacterFunctions_8cpp.html", null ],
+    [ "juce_CharacterFunctions.h", "juce__CharacterFunctions_8h.html", "juce__CharacterFunctions_8h" ],
+    [ "juce_CharPointer_ASCII.h", "juce__CharPointer__ASCII_8h.html", "juce__CharPointer__ASCII_8h" ],
+    [ "juce_CharPointer_UTF16.h", "juce__CharPointer__UTF16_8h.html", "juce__CharPointer__UTF16_8h" ],
+    [ "juce_CharPointer_UTF32.h", "juce__CharPointer__UTF32_8h.html", "juce__CharPointer__UTF32_8h" ],
+    [ "juce_CharPointer_UTF8.h", "juce__CharPointer__UTF8_8h.html", "juce__CharPointer__UTF8_8h" ],
+    [ "juce_Identifier.cpp", "juce__Identifier_8cpp.html", null ],
+    [ "juce_Identifier.h", "juce__Identifier_8h.html", "juce__Identifier_8h" ],
+    [ "juce_LocalisedStrings.cpp", "juce__LocalisedStrings_8cpp.html", "juce__LocalisedStrings_8cpp" ],
+    [ "juce_LocalisedStrings.h", "juce__LocalisedStrings_8h.html", "juce__LocalisedStrings_8h" ],
+    [ "juce_NewLine.h", "juce__NewLine_8h.html", "juce__NewLine_8h" ],
+    [ "juce_String.cpp", "juce__String_8cpp.html", "juce__String_8cpp" ],
+    [ "juce_String.h", "juce__String_8h.html", "juce__String_8h" ],
+    [ "juce_StringArray.cpp", "juce__StringArray_8cpp.html", null ],
+    [ "juce_StringArray.h", "juce__StringArray_8h.html", "juce__StringArray_8h" ],
+    [ "juce_StringPairArray.cpp", "juce__StringPairArray_8cpp.html", null ],
+    [ "juce_StringPairArray.h", "juce__StringPairArray_8h.html", "juce__StringPairArray_8h" ],
+    [ "juce_StringPool.cpp", "juce__StringPool_8cpp.html", "juce__StringPool_8cpp" ],
+    [ "juce_StringPool.h", "juce__StringPool_8h.html", "juce__StringPool_8h" ],
+    [ "juce_StringRef.h", "juce__StringRef_8h.html", "juce__StringRef_8h" ],
+    [ "juce_TextDiff.cpp", "juce__TextDiff_8cpp.html", "juce__TextDiff_8cpp" ],
+    [ "juce_TextDiff.h", "juce__TextDiff_8h.html", "juce__TextDiff_8h" ]
+];

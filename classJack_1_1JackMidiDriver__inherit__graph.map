@@ -1,0 +1,17 @@
+<map id="Jack::JackMidiDriver" name="Jack::JackMidiDriver">
+<area shape="rect" id="Node000001" title="The base class for MIDI drivers: drivers with MIDI ports." alt="" coords="234,2077,380,2387"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackALSARawMidiDriver.html" title=" " alt="" coords="5,2547,197,3000"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="230,2393,212,2436,171,2548,166,2546,207,2434,225,2391"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackCoreMidiDriver.html" title=" " alt="" coords="221,2435,392,3111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="309,2402,309,2435,304,2435,304,2402"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackWinMMEDriver.html" title=" " alt="" coords="416,2638,575,2908"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="388,2389,406,2434,440,2537,468,2638,463,2639,435,2539,401,2436,383,2391"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackDriver.html" title=" " alt="" coords="229,803,384,2029"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,2044,309,2077,304,2077,304,2044"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="211,689,402,755"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,770,309,804,304,804,304,770"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackDriverInterface.html" title="The base interface for drivers." alt="" coords="137,5,295,641"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,655,302,688,297,690,289,656"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="319,249,476,397"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="380,412,316,690,311,689,375,411"/>
+</map>

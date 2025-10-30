@@ -1,0 +1,25 @@
+var classSteinberg_1_1CPluginView =
+[
+    [ "CPluginView", "classSteinberg_1_1CPluginView.html#a7f71f18c2a5792f2eae4659df85a27c4", null ],
+    [ "~CPluginView", "classSteinberg_1_1CPluginView.html#ac172684c4e57948ad08ffad9ab46dfff", null ],
+    [ "attached", "classSteinberg_1_1CPluginView.html#a0de3e2bf6b69b27f937f0c46d7a9e944", null ],
+    [ "attachedToParent", "classSteinberg_1_1CPluginView.html#a6475a9e8eb3aa7c256a1ea62a2e254d3", null ],
+    [ "canResize", "classSteinberg_1_1CPluginView.html#a3bf598cfd688cb8e75cb4c23c9391081", null ],
+    [ "checkSizeConstraint", "classSteinberg_1_1CPluginView.html#acf6854435e2bcd985a0c206f91e7d1bd", null ],
+    [ "getRect", "classSteinberg_1_1CPluginView.html#a4d741d4a93f5fcc1548a45bfb5bf2daa", null ],
+    [ "getSize", "classSteinberg_1_1CPluginView.html#a628dbe1b86daf659a3daa0d3873e0ec5", null ],
+    [ "isAttached", "classSteinberg_1_1CPluginView.html#a34c39f073affc959a02dcfa02f780550", null ],
+    [ "isPlatformTypeSupported", "classSteinberg_1_1CPluginView.html#afcf6877acac1171599e202c67273eb18", null ],
+    [ "onFocus", "classSteinberg_1_1CPluginView.html#a88c760e9cc3db86a86a1fe96f0dedf2d", null ],
+    [ "onKeyDown", "classSteinberg_1_1CPluginView.html#a4fc01fd44b025d0e78758141cbd6f083", null ],
+    [ "onKeyUp", "classSteinberg_1_1CPluginView.html#abafd4c8d0efb01d7ee2919b7a6c51e8c", null ],
+    [ "onSize", "classSteinberg_1_1CPluginView.html#abec9347bfb40ba5c34aef4544827d11e", null ],
+    [ "onWheel", "classSteinberg_1_1CPluginView.html#a23cfc62688f06cb557130dbf8b4d12e9", null ],
+    [ "removed", "classSteinberg_1_1CPluginView.html#ae058eca01f5e6d773ec7c8038d477fde", null ],
+    [ "removedFromParent", "classSteinberg_1_1CPluginView.html#a0a3d24d3ecc2169d769d94b924f4c518", null ],
+    [ "setFrame", "classSteinberg_1_1CPluginView.html#a434a8c4d5ef61b00661beb67144158f4", null ],
+    [ "setRect", "classSteinberg_1_1CPluginView.html#afbb3a410b4bbb638ce25b84bf8a268a7", null ],
+    [ "plugFrame", "classSteinberg_1_1CPluginView.html#ae2c47691e1464106ae027fe3e777a73b", null ],
+    [ "rect", "classSteinberg_1_1CPluginView.html#a817e7f3205eb26f1db9039d654474c5f", null ],
+    [ "systemWindow", "classSteinberg_1_1CPluginView.html#a63062c3e506f93f25a8dfbe3b3bbd0eb", null ]
+];

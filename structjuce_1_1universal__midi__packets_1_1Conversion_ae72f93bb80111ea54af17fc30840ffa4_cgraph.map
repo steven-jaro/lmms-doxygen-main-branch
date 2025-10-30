@@ -1,0 +1,43 @@
+<map id="juce::universal_midi_packets::Conversion::toMidi1" name="juce::universal_midi_packets::Conversion::toMidi1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,347,151,403"/>
+<area shape="rect" id="Node000002" href="$structjuce_1_1universal__midi__packets_1_1Utils.html#aa42b7fe289d40d0fd17b6281daa378bd" title=" " alt="" coords="216,5,405,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,346,88,287,108,209,124,168,143,128,167,90,197,57,201,53,205,57,201,61,172,93,148,130,128,170,113,211,94,288,84,347"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1universal__midi__packets_1_1Packet.html#a119282428098c877fd9d3009abc6d86f" title=" " alt="" coords="234,71,386,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,346,95,297,117,237,150,174,172,146,197,121,218,107,221,112,200,125,176,149,155,177,122,239,100,299,87,347"/>
+<area shape="rect" id="Node000004" href="$structjuce_1_1universal__midi__packets_1_1SysEx7.html#a250b61a86b39d9faac04c89d5f1538a1" title=" " alt="" coords="199,159,422,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,345,138,289,166,258,197,232,214,220,217,225,200,236,170,262,142,292,99,348"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1MidiMessage.html#a342af0844e52f1b734d3a607653a00bb" title=" " alt="" coords="691,327,826,367"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="102,345,143,306,169,289,198,275,264,258,333,250,403,251,471,259,536,271,596,286,694,318,692,323,594,291,535,276,470,264,402,257,333,256,265,263,200,280,172,293,147,311,105,349"/>
+<area shape="rect" id="Node000009" href="$classjuce_1_1MidiMessage.html#af68a867e8490d11cf5fa9a49ed53cb03" title=" " alt="" coords="243,289,378,330"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="150,352,227,330,229,335,151,357"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1MidiMessage.html#a0a0e76a26e09e1ae5991e74a951ba145" title=" " alt="" coords="243,355,378,395"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="151,372,227,372,227,378,151,378"/>
+<area shape="rect" id="Node000012" href="$classjuce_1_1MidiMessage.html#a306cdb226b20563e4b45df8c65517118" title=" " alt="" coords="243,420,378,461"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="151,393,229,415,227,420,150,398"/>
+<area shape="rect" id="Node000013" href="$structjuce_1_1universal__midi__packets_1_1Factory.html#a8b5726393c5948ab880e603e368f0ee7" title=" " alt="" coords="212,484,409,540"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="110,401,151,436,200,470,210,475,207,480,197,475,148,441,106,405"/>
+<area shape="rect" id="Node000016" href="$structjuce_1_1universal__midi__packets_1_1Factory.html#a9e608582291892a8286bf40f35f99c8d" title=" " alt="" coords="201,564,420,605"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="93,402,110,436,133,476,164,516,200,550,206,554,203,558,197,554,160,520,129,479,105,439,88,404"/>
+<area shape="rect" id="Node000017" href="$structjuce_1_1universal__midi__packets_1_1Factory.html#a135fc6adea77d065a0e24500f537ae9a" title=" " alt="" coords="212,628,409,684"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="88,403,102,449,125,505,157,564,177,591,200,614,204,617,201,622,197,618,173,594,153,567,120,508,97,450,83,404"/>
+<area shape="rect" id="Node000018" href="$structjuce_1_1universal__midi__packets_1_1Factory.html#affa8b90b4652a4337a5f4540a5fce08f" title=" " alt="" coords="212,708,409,764"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="85,403,94,463,114,541,129,582,148,623,172,661,201,695,203,697,199,701,197,698,168,664,144,625,124,584,109,542,89,464,79,404"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="265,159,265,149,274,140,289,134,310,133,335,135,350,142,347,147,333,140,310,138,290,140,277,144,270,151,270,159"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="722,327,720,317,726,308,739,302,759,300,780,302,792,309,790,313,778,308,758,305,740,307,729,312,725,318,727,325"/>
+<area shape="rect" id="Node000006" href="$classjuce_1_1MidiMessage.html#a0645e58d70edaa150db94c6a2b920be6" title=" " alt="" coords="885,327,1019,367"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="826,344,870,344,870,350,826,350"/>
+<area shape="rect" id="Node000007" href="$classjuce_1_1MidiMessage.html#aded82c5bdf252b2447d5cc6132970a69" title=" " alt="" coords="1067,327,1201,367"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1020,344,1052,344,1052,350,1020,350"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="378,368,676,349,676,355,378,373"/>
+<area shape="rect" id="Node000011" href="$classjuce_1_1MidiMessage.html#adf6685340de55b045f8e75eee3323ab5" title=" " alt="" coords="484,384,618,425"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="378,381,469,392,468,397,378,386"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="618,383,676,367,677,372,620,388"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="378,428,468,414,469,419,378,433"/>
+<area shape="rect" id="Node000014" href="$structjuce_1_1universal__midi__packets_1_1Factory_1_1Detail.html#a16f1dfab2fc1cf8aa6e44f2c0103ca9d" title=" " alt="" coords="470,592,632,648"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="395,538,423,550,488,582,486,587,421,555,393,543"/>
+<area shape="rect" id="Node000015" href="$classByteOrder.html#a973cb4eed331b37c596526c041fba248" title=" " alt="" coords="680,608,837,633"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="633,618,664,618,664,623,633,623"/>
+<area shape="poly" id="edge20_Node000016_Node000014" title=" " alt="" coords="421,598,455,603,454,609,420,603"/>
+<area shape="poly" id="edge22_Node000017_Node000014" title=" " alt="" coords="409,639,454,632,455,637,410,644"/>
+<area shape="poly" id="edge24_Node000018_Node000014" title=" " alt="" coords="394,705,421,694,493,654,495,659,423,699,397,710"/>
+</map>

@@ -1,0 +1,57 @@
+<map id="plugins/CarlaBase/carla/source/utils/CarlaBridgeUtils.cpp" name="plugins/CarlaBase/carla/source/utils/CarlaBridgeUtils.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="758,5,973,46"/>
+<area shape="rect" id="Node000002" href="$CarlaBridgeUtils_8hpp.html" title=" " alt="" coords="411,94,550,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="770,49,555,93,554,88,769,44"/>
+<area shape="rect" id="Node000027" href="$CarlaShmUtils_8hpp.html" title=" " alt="" coords="828,241,957,267"/>
+<area shape="poly" id="edge22_Node000001_Node000027" title=" " alt="" coords="878,45,895,93,901,165,898,226,893,225,896,165,890,95,873,47"/>
+<area shape="rect" id="Node000030" href="$CarlaTimeUtils_8hpp.html" title=" " alt="" coords="749,94,881,120"/>
+<area shape="poly" id="edge27_Node000001_Node000030" title=" " alt="" coords="855,48,833,82,829,79,851,45"/>
+<area shape="rect" id="Node000032" href="$JackBridge_8hpp.html" title=" " alt="" coords="908,315,1082,341"/>
+<area shape="poly" id="edge30_Node000001_Node000032" title=" " alt="" coords="883,45,915,93,941,149,962,206,991,299,986,301,957,208,936,151,910,95,879,48"/>
+<area shape="rect" id="Node000003" href="$CarlaBridgeDefines_8hpp.html" title=" " alt="" coords="5,315,161,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,112,360,118,304,128,247,145,194,170,159,198,131,234,110,270,95,302,90,300,105,268,127,231,155,194,191,165,245,140,303,123,360,112,410,107"/>
+<area shape="rect" id="Node000008" href="$CarlaMutex_8hpp.html" title=" " alt="" coords="609,168,720,193"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="513,118,620,159,618,164,511,123"/>
+<area shape="rect" id="Node000017" href="$CarlaRingBuffer_8hpp.html" title=" " alt="" coords="413,168,548,193"/>
+<area shape="poly" id="edge10_Node000002_Node000017" title=" " alt="" coords="483,120,483,152,478,152,478,120"/>
+<area shape="rect" id="Node000023" href="$CarlaString_8hpp.html" title=" " alt="" coords="204,168,314,193"/>
+<area shape="poly" id="edge16_Node000002_Node000023" title=" " alt="" coords="444,123,312,165,310,160,442,118"/>
+<area shape="rect" id="Node000004" href="$CarlaDefines_8h.html" title=" " alt="" coords="543,389,647,414"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,337,528,386,527,391,161,342"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="455,389,519,414"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="152,339,440,389,440,395,152,344"/>
+<area shape="rect" id="Node000009" href="$CarlaUtils_8hpp.html" title=" " alt="" coords="490,315,593,341"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="682,192,698,207,714,226,721,247,721,258,716,269,699,282,673,295,609,314,607,309,671,290,696,278,712,265,716,257,716,248,709,229,695,211,678,196"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="627,241,702,267"/>
+<area shape="poly" id="edge9_Node000008_Node000016" title=" " alt="" coords="667,194,667,226,662,226,662,194"/>
+<area shape="poly" id="edge7_Node000009_Node000004" title=" " alt="" coords="553,339,579,374,575,378,548,342"/>
+<area shape="poly" id="edge8_Node000009_Node000007" title=" " alt="" coords="535,343,507,378,503,375,531,339"/>
+<area shape="rect" id="Node000018" href="$CarlaMathUtils_8hpp.html" title=" " alt="" coords="316,241,447,267"/>
+<area shape="poly" id="edge11_Node000017_Node000018" title=" " alt="" coords="465,196,412,234,409,230,462,192"/>
+<area shape="rect" id="Node000021" href="$CarlaMemUtils_8hpp.html" title=" " alt="" coords="472,241,603,267"/>
+<area shape="poly" id="edge13_Node000017_Node000021" title=" " alt="" coords="492,192,520,227,516,231,488,195"/>
+<area shape="poly" id="edge12_Node000018_Node000009" title=" " alt="" coords="410,265,502,306,500,311,408,270"/>
+<area shape="poly" id="edge14_Node000021_Node000009" title=" " alt="" coords="541,267,543,299,537,300,536,267"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="623,315,714,341"/>
+<area shape="poly" id="edge15_Node000021_Node000022" title=" " alt="" coords="561,265,634,305,632,310,559,270"/>
+<area shape="poly" id="edge17_Node000023_Node000018" title=" " alt="" coords="281,192,349,231,347,236,278,196"/>
+<area shape="rect" id="Node000024" href="$CarlaScopeUtils_8hpp.html" title=" " alt="" coords="152,241,291,267"/>
+<area shape="poly" id="edge18_Node000023_Node000024" title=" " alt="" coords="255,195,237,229,233,226,250,192"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="184,315,259,341"/>
+<area shape="poly" id="edge21_Node000023_Node000025" title=" " alt="" coords="209,196,172,214,156,227,143,242,139,260,147,276,163,292,183,305,180,309,159,296,142,279,134,260,138,240,152,223,169,210,207,191"/>
+<area shape="poly" id="edge19_Node000024_Node000009" title=" " alt="" coords="277,265,476,309,475,314,276,270"/>
+<area shape="poly" id="edge20_Node000024_Node000025" title=" " alt="" coords="224,267,224,299,219,299,219,267"/>
+<area shape="poly" id="edge23_Node000027_Node000009" title=" " alt="" coords="833,270,609,316,608,310,832,265"/>
+<area shape="poly" id="edge26_Node000027_Node000022" title=" " alt="" coords="855,270,722,312,720,307,854,265"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="746,315,804,341"/>
+<area shape="poly" id="edge24_Node000027_Node000028" title=" " alt="" coords="874,270,809,309,806,304,871,265"/>
+<area shape="rect" id="Node000029" title=" " alt="" coords="828,315,884,341"/>
+<area shape="poly" id="edge25_Node000027_Node000029" title=" " alt="" coords="889,268,872,302,867,300,884,266"/>
+<area shape="poly" id="edge28_Node000030_Node000009" title=" " alt="" coords="815,121,807,151,792,190,769,233,737,269,715,282,683,294,608,315,607,309,681,289,712,277,733,265,764,230,787,188,802,149,810,119"/>
+<area shape="rect" id="Node000031" title=" " alt="" coords="827,168,880,193"/>
+<area shape="poly" id="edge29_Node000030_Node000031" title=" " alt="" coords="824,119,842,153,838,155,819,121"/>
+<area shape="poly" id="edge31_Node000032_Node000004" title=" " alt="" coords="927,344,663,391,662,386,926,339"/>
+<area shape="poly" id="edge33_Node000032_Node000007" title=" " alt="" coords="908,342,535,391,534,386,908,337"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="963,389,1027,414"/>
+<area shape="poly" id="edge32_Node000032_Node000033" title=" " alt="" coords="998,341,998,373,992,373,992,341"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Steinberg::String::removeChars" name="Steinberg::String::removeChars">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,128,213"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1String.html#a923eb50322c13946d07a701df128c1e5" title="Remove all occurrences of each char in &#39;which&#39;." alt="" coords="176,172,298,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,190,160,190,160,195,128,195"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1ConstString.html#a8e8b648b8ad28ab72c1d07aab4ae9921" title="Return true if string is empty." alt="" coords="739,111,889,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,171,253,135,274,91,304,48,323,29,345,14,372,6,414,3,520,8,626,20,692,34,718,47,743,63,785,98,781,102,740,67,716,51,690,39,625,25,520,13,414,9,373,12,347,19,326,33,308,51,279,94,258,137,246,173"/>
+<area shape="rect" id="Node000004" href="$namespaceSteinberg.html#a3b251ec4ead923e6687dbd099659564c" title=" " alt="" coords="516,77,691,118"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="298,171,345,158,501,118,502,124,347,163,299,176"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1String.html#acd846274124c560d2ac5282d8e8733b6" title="Remove all occurrences of each char in &#39;which&#39;." alt="" coords="346,200,468,241"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="299,208,331,214,330,219,298,214"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1String.html#afc845a2ae793af6a0157cb5e6ff5a0fd" title=" " alt="" coords="542,143,665,183"/>
+<area shape="poly" id="edge14_Node000002_Node000006" title=" " alt="" coords="298,185,527,166,527,172,298,190"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1String.html#a8a7ef356e05eb9b1ea1ab518baee3095" title=" " alt="" coords="753,315,875,355"/>
+<area shape="poly" id="edge15_Node000002_Node000009" title=" " alt="" coords="246,212,259,249,280,295,309,342,327,363,348,381,392,411,432,433,471,447,510,454,549,454,592,449,690,422,715,411,739,397,780,364,784,368,742,401,718,416,692,427,593,454,550,460,509,459,470,452,430,438,389,416,344,385,323,366,305,345,275,298,254,251,241,214"/>
+<area shape="rect" id="Node000019" href="$classSteinberg_1_1String.html#a5d379420d756ecdffa1ff18fde6ef1e3" title="Returns pointer to string of type char8." alt="" coords="346,28,468,69"/>
+<area shape="poly" id="edge16_Node000002_Node000019" title=" " alt="" coords="257,170,344,89,361,76,364,80,348,93,260,174"/>
+<area shape="rect" id="Node000022" href="$classSteinberg_1_1String.html#afcf4981a4e1a14f75620f039d89d8c01" title=" " alt="" coords="346,331,468,371"/>
+<area shape="poly" id="edge18_Node000002_Node000022" title=" " alt="" coords="262,211,375,318,371,322,258,215"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="345,204,313,199,314,193,346,199"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="469,219,573,214,632,206,690,192,730,177,767,157,770,162,732,182,691,198,633,211,574,219,469,224"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="427,198,466,163,515,129,526,123,528,127,518,133,470,167,431,202"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="468,200,527,183,528,188,469,205"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="428,239,467,276,491,293,517,307,573,324,630,334,687,338,737,338,737,343,686,343,630,339,571,330,515,312,488,298,463,280,424,243"/>
+<area shape="rect" id="Node000010" href="$classSteinberg_1_1String.html#ae29333c688ed072165fe908ac3ebfe01" title="Returns pointer to string of type char16." alt="" coords="542,257,665,298"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="469,236,528,253,527,258,468,241"/>
+<area shape="rect" id="Node000012" href="$classSteinberg_1_1String.html#ab7ff56bfbf85c51b6689d09762c52a08" title="Converts to wide string according to sourceCodePage." alt="" coords="542,372,665,413"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="427,239,518,352,534,362,531,366,515,356,423,242"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="657,254,689,237,739,199,781,161,784,164,742,203,692,241,659,259"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="666,292,738,312,737,317,664,297"/>
+<area shape="poly" id="edge17_Node000019_Node000003" title=" " alt="" coords="469,42,574,44,633,51,691,63,733,79,771,100,769,105,731,84,690,68,632,56,573,49,469,47"/>
+<area shape="poly" id="edge20_Node000022_Node000012" title=" " alt="" coords="469,361,528,374,527,379,468,366"/>
+<area shape="poly" id="edge19_Node000022_Node000022" title=" " alt="" coords="374,330,373,321,378,312,390,306,407,304,426,306,437,313,434,317,424,312,407,309,391,311,382,316,378,322,380,330"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="CarlaPluginLV2::Extensions" name="CarlaPluginLV2::Extensions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="650,397,908,483"/>
+<area shape="rect" id="Node000002" href="$structLV2__Options__Interface.html" title=" " alt="" coords="5,229,150,316"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,313,163,323,221,347,282,368,407,398,527,418,634,430,633,435,526,424,406,404,281,373,219,352,161,328,140,318"/>
+<area shape="rect" id="Node000003" href="$structLV2__State__Interface.html" title=" " alt="" coords="174,229,304,316"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,313,317,323,396,356,478,382,559,402,634,416,633,422,558,407,477,387,394,361,315,328,296,318"/>
+<area shape="rect" id="Node000004" href="$structLV2__Worker__Interface.html" title=" " alt="" coords="329,219,469,326"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="470,316,482,323,522,349,564,370,635,397,633,402,562,375,519,353,479,328,468,321"/>
+<area shape="rect" id="Node000005" href="$structLV2__Inline__Display__Interface.html" title=" " alt="" coords="493,232,614,313"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="588,311,618,342,651,371,674,386,671,390,648,375,614,346,584,315"/>
+<area shape="rect" id="Node000006" href="$structLV2__Inline__Display__Image__Surface.html" title=" " alt="" coords="493,5,614,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="556,148,556,215,551,215,551,148"/>
+<area shape="rect" id="Node000007" href="$structLV2__Midnam__Interface.html" title=" " alt="" coords="638,219,784,326"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="735,324,758,380,753,382,730,326"/>
+<area shape="rect" id="Node000008" href="$struct__LV2__Programs__Interface.html" title=" " alt="" coords="808,239,971,305"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="871,306,819,384,814,381,866,303"/>
+<area shape="rect" id="Node000009" href="$struct__LV2__Program__Descriptor.html" title=" " alt="" coords="808,23,972,130"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="892,130,892,222,887,222,887,130"/>
+<area shape="rect" id="Node000010" href="$structLV2UI__Idle__Interface.html" title=" " alt="" coords="996,239,1130,305"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1020,307,914,375,884,391,882,386,911,370,1017,303"/>
+<area shape="rect" id="Node000011" href="$structLV2UI__Show__Interface.html" title=" " alt="" coords="1155,229,1302,316"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1164,318,1144,328,1034,372,925,406,923,401,1032,367,1142,323,1162,313"/>
+<area shape="rect" id="Node000012" href="$structLV2UI__Resize.html" title=" " alt="" coords="1326,229,1421,316"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1331,318,1315,328,1268,351,1218,371,1117,401,1016,421,925,433,924,428,1015,416,1115,396,1217,366,1266,346,1312,323,1328,313"/>
+<area shape="rect" id="Node000013" href="$struct__LV2__Programs__UI__Interface.html" title=" " alt="" coords="1444,239,1628,305"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1484,308,1411,344,1326,375,1223,399,1117,416,925,435,924,430,1117,411,1222,394,1325,370,1408,339,1481,303"/>
+</map>

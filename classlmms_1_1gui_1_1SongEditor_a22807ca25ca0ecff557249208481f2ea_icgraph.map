@@ -1,0 +1,65 @@
+<map id="lmms::gui::SongEditor::pixelsPerBarChanged" name="lmms::gui::SongEditor::pixelsPerBarChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="873,667,1024,707"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1ClipView.html#a6be3ae25cc78ea32d893844f0c176563" title="Create a new ClipView." alt="" coords="685,333,819,374"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="925,655,763,376,768,373,930,652"/>
+<area shape="rect" id="Node000027" href="$classlmms_1_1gui_1_1SongEditor.html#aa5115fb9f86c5c3cb359f6b3631dc92d" title=" " alt="" coords="470,724,615,765"/>
+<area shape="poly" id="edge38_Node000001_Node000027" title=" " alt="" coords="861,714,825,722,716,736,616,744,616,738,715,731,824,716,860,709"/>
+<area shape="rect" id="Node000028" href="$classlmms_1_1gui_1_1SongEditor.html#aa76c3e0d40bc73832d0bdd77ee3336bb" title=" " alt="" coords="679,667,825,707"/>
+<area shape="poly" id="edge39_Node000001_Node000028" title=" " alt="" coords="857,690,825,690,825,684,857,684"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1AutomationClipView.html#a267e65a3367fa1a81e0fba301e6e6e2b" title=" " alt="" coords="456,71,629,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="738,319,723,275,700,224,669,172,630,126,612,114,615,110,633,122,674,169,705,221,728,273,743,317"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1ClipView.html#a281f5ca16a2e8856b0f75f7cb8021246" title="Handle something being dropped on this ClipObjectView." alt="" coords="476,160,609,201"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="727,322,686,268,659,240,630,216,608,204,611,199,633,211,663,236,690,264,732,319"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1ClipView.html#a0f55f01cca5c8e5767105e97a920210c" title=" " alt="" coords="476,415,609,455"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="684,383,598,417,596,412,682,378"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1gui_1_1MidiClipView.html#a6f64fdda7e9b07971f17bc9a99e1f6b2" title=" " alt="" coords="230,312,387,353"/>
+<area shape="poly" id="edge37_Node000002_Node000019" title=" " alt="" coords="670,352,387,339,388,333,670,347"/>
+<area shape="rect" id="Node000020" href="$classlmms_1_1gui_1_1MidiClipView.html#a7312d842ec3acece76103feb29228a4f" title=" " alt="" coords="230,247,387,287"/>
+<area shape="poly" id="edge24_Node000002_Node000020" title=" " alt="" coords="670,336,631,327,387,282,388,277,632,322,671,331"/>
+<area shape="rect" id="Node000021" href="$classlmms_1_1gui_1_1MidiClipView.html#ae8daccbe2d1cdc047b471d28805dd2eb" title=" " alt="" coords="464,225,621,266"/>
+<area shape="poly" id="edge26_Node000002_Node000021" title=" " alt="" coords="703,327,630,287,593,269,595,264,633,282,706,323"/>
+<area shape="rect" id="Node000023" href="$classlmms_1_1gui_1_1ClipView.html#ac32362f24870057ffb4a1fd8fd8597c7" title="Handle a mouse movement (drag) on this ClipView." alt="" coords="476,593,609,634"/>
+<area shape="poly" id="edge30_Node000002_Node000023" title=" " alt="" coords="739,389,697,470,668,516,633,558,610,578,585,595,582,591,607,574,629,554,663,513,693,468,734,387"/>
+<area shape="rect" id="Node000024" href="$classlmms_1_1gui_1_1PatternClipView.html#a366ba99f21c232a01239b9a28a9dfdaf" title=" " alt="" coords="455,659,630,699"/>
+<area shape="poly" id="edge32_Node000002_Node000024" title=" " alt="" coords="748,390,736,446,714,514,681,585,659,618,633,648,616,660,613,656,630,644,655,615,676,583,709,512,731,444,743,389"/>
+<area shape="rect" id="Node000025" href="$classlmms_1_1gui_1_1SampleClipView.html#a529fc634535c8cbe055e0cf016d05f1b" title=" " alt="" coords="454,5,631,46"/>
+<area shape="poly" id="edge33_Node000002_Node000025" title=" " alt="" coords="743,318,731,263,710,194,677,123,655,90,630,61,613,49,616,44,633,57,659,87,681,120,715,192,736,261,748,317"/>
+<area shape="rect" id="Node000026" href="$classlmms_1_1gui_1_1ClipView.html#a44202fdef3c15d5fed0f9d7716c3552c" title="Save the offsets between all selected tracks and a clicked track." alt="" coords="476,504,609,545"/>
+<area shape="poly" id="edge34_Node000002_Node000026" title=" " alt="" coords="722,387,681,427,633,469,581,506,577,501,630,465,677,424,719,383"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="577,147,564,141,543,139,523,141,511,145,506,151,508,159,503,160,501,150,508,141,522,135,543,133,565,136,579,142"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1AutomationClipView.html#afe3b815a478e3aa70e909e72ea1d5861" title=" " alt="" coords="223,116,394,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,168,393,155,394,150,461,162"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1SampleClipView.html#abf32c66db32bb9cf62f4debb8409ad91" title=" " alt="" coords="220,51,397,91"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="494,154,405,107,374,94,376,89,407,102,496,149"/>
+<area shape="poly" id="edge14_Node000007_Node000007" title=" " alt="" coords="577,401,564,396,543,393,523,395,511,400,506,406,508,413,503,415,501,405,508,396,522,390,543,388,565,390,579,397"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1MidiClipView.html#a173a3193ca44fbeb62d0148b18899aa6" title=" " alt="" coords="5,280,163,321"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="461,426,341,404,275,387,210,367,161,346,119,323,121,319,164,341,212,362,276,382,342,399,462,421"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1ClipView.html#a6284dc9a5a938e98d58ca0c9c026d91b" title=" " alt="" coords="239,540,378,581"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="468,464,455,471,431,487,408,505,348,542,345,537,404,501,428,483,453,466,465,460"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1ClipView.html#aafc95e82230901515170becb44d9f23c" title="Set up the context menu for this ClipView." alt="" coords="17,629,151,670"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="465,462,456,470,439,497,433,524,434,552,437,579,440,607,439,634,430,659,408,684,375,703,338,714,300,717,261,714,187,697,126,673,128,668,188,692,262,709,300,712,337,709,372,699,404,680,425,657,434,633,435,607,432,580,428,552,428,524,434,495,452,467,461,458"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1ClipView.html#a3dc1f3f872ad9132a4760feffe69f262" title="Handle a mouse press on this ClipView." alt="" coords="242,768,375,809"/>
+<area shape="poly" id="edge15_Node000007_Node000011" title=" " alt="" coords="465,461,456,470,436,502,427,533,426,563,429,594,433,625,433,657,426,691,408,727,386,751,359,770,356,765,382,747,404,724,421,690,428,657,427,625,424,595,420,564,422,532,431,500,452,467,461,458"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1ClipView.html#a8ce522a737fde904f33144238dc25c34" title="Change color of all selected clips." alt="" coords="242,451,375,491"/>
+<area shape="poly" id="edge17_Node000007_Node000014" title=" " alt="" coords="461,450,376,463,375,458,460,445"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1gui_1_1ClipView.html#a34f60e2ce0ef7398c4fd5d6936cd78c3" title=" " alt="" coords="219,629,398,670"/>
+<area shape="poly" id="edge19_Node000007_Node000018" title=" " alt="" coords="465,463,456,470,444,485,437,500,431,529,426,560,420,577,408,594,385,615,360,631,357,627,382,611,404,591,415,575,421,559,426,529,432,498,439,482,452,466,461,459"/>
+<area shape="poly" id="edge22_Node000007_Node000019" title=" " alt="" coords="484,410,405,373,362,356,364,351,407,369,486,405"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="345,527,331,521,308,519,287,521,274,525,269,531,271,539,266,540,264,530,271,521,286,515,308,513,333,516,347,522"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="231,589,212,596,131,631,129,626,210,591,229,584"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="121,616,107,610,84,608,63,610,50,615,45,621,47,628,42,629,40,619,47,610,61,605,84,603,108,605,123,611"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="345,755,331,749,308,747,287,749,274,753,269,759,271,767,266,768,264,758,271,749,286,743,308,741,333,744,347,750"/>
+<area shape="poly" id="edge18_Node000014_Node000014" title=" " alt="" coords="345,438,331,432,308,429,287,431,274,436,269,442,271,449,266,451,264,441,271,432,286,426,308,424,333,426,347,433"/>
+<area shape="poly" id="edge20_Node000018_Node000010" title=" " alt="" coords="203,652,152,652,152,647,203,647"/>
+<area shape="poly" id="edge21_Node000018_Node000018" title=" " alt="" coords="345,616,331,610,308,608,287,610,274,615,269,621,271,628,266,629,264,619,271,610,286,605,308,603,333,605,347,611"/>
+<area shape="poly" id="edge23_Node000019_Node000008" title=" " alt="" coords="214,322,163,314,164,309,215,316"/>
+<area shape="poly" id="edge25_Node000020_Node000008" title=" " alt="" coords="215,284,164,291,163,286,214,278"/>
+<area shape="poly" id="edge29_Node000021_Node000020" title=" " alt="" coords="449,257,388,262,387,257,448,252"/>
+<area shape="rect" id="Node000022" href="$classlmms_1_1gui_1_1MidiClipView.html#ad1ec711a6845260893c3c9af855823b3" title=" " alt="" coords="211,181,406,222"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="448,231,406,223,407,217,449,225"/>
+<area shape="poly" id="edge28_Node000022_Node000008" title=" " alt="" coords="229,230,212,237,123,282,121,277,210,233,227,225"/>
+<area shape="poly" id="edge31_Node000023_Node000023" title=" " alt="" coords="577,580,564,574,543,572,523,574,511,579,506,584,508,592,503,593,501,583,508,574,522,569,543,567,565,569,579,575"/>
+<area shape="poly" id="edge35_Node000026_Node000011" title=" " alt="" coords="464,552,456,559,441,580,433,600,430,640,428,682,422,704,408,727,384,751,357,770,354,765,381,747,404,724,417,702,423,681,425,640,428,599,436,577,452,556,461,548"/>
+<area shape="poly" id="edge36_Node000026_Node000026" title=" " alt="" coords="577,491,564,485,543,483,523,485,511,489,506,495,508,503,503,504,501,494,508,485,522,479,543,477,565,480,579,486"/>
+<area shape="poly" id="edge40_Node000028_Node000027" title=" " alt="" coords="665,714,617,727,615,722,664,708"/>
+</map>

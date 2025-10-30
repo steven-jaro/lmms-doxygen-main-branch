@@ -1,0 +1,37 @@
+<map id="RackGraph" name="RackGraph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="626,2720,812,3045"/>
+<area shape="rect" id="Node000002" href="$structExternalGraph.html" title=" " alt="" coords="626,2405,812,2649"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="721,2648,721,2703,716,2703,716,2648"/>
+<area shape="rect" id="Node000003" href="$structPatchbayConnectionList.html" title=" " alt="" coords="812,1850,985,1937"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="894,1938,854,2132,821,2257,781,2382,778,2390,773,2388,776,2380,816,2255,848,2130,889,1936"/>
+<area shape="rect" id="Node000004" href="$classLinkedList.html" title=" " alt="" coords="598,1002,783,1108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,1108,802,1474,888,1834,883,1835,797,1475,702,1109"/>
+<area shape="rect" id="Node000008" href="$classLinkedList.html" title=" " alt="" coords="386,287,488,394"/>
+<area shape="poly" id="edge4_Node000004_Node000008" title=" " alt="" coords="463,407,674,1001,669,1003,458,409"/>
+<area shape="rect" id="Node000012" href="$classLinkedList.html" title=" " alt="" coords="348,1002,526,1108"/>
+<area shape="poly" id="edge8_Node000012_Node000008" title=" " alt="" coords="440,409,440,1002,434,1002,434,409"/>
+<area shape="rect" id="Node000080" href="$classLinkedList.html" title=" " alt="" coords="22,1002,137,1108"/>
+<area shape="poly" id="edge18_Node000080_Node000008" title=" " alt="" coords="385,408,330,478,267,566,205,665,152,769,129,830,111,892,89,1002,84,1001,106,891,124,828,147,767,200,662,263,563,326,475,381,404"/>
+<area shape="rect" id="Node000010" href="$classCarlaMutex.html" title=" " alt="" coords="909,196,1048,486"/>
+<area shape="poly" id="edge5_Node000003_Node000010" title=" " alt="" coords="1013,485,1031,590,1045,700,1053,867,1048,1038,1033,1206,1012,1367,987,1516,961,1646,917,1835,912,1834,956,1645,982,1515,1007,1366,1028,1205,1042,1038,1047,868,1040,701,1026,591,1007,486"/>
+<area shape="rect" id="Node000017" href="$structCarlaEngine_1_1ProtectedData.html" title=" " alt="" coords="830,768,1001,1342"/>
+<area shape="poly" id="edge13_Node000017_Node000010" title=" " alt="" coords="941,486,918,591,901,701,901,744,901,751,896,751,896,744,896,700,913,590,936,485"/>
+<area shape="rect" id="Node000011" href="$structExternalGraphPorts.html" title=" " alt="" coords="326,1830,490,1958"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="416,1957,427,2031,444,2121,469,2218,504,2312,525,2351,552,2387,614,2449,611,2452,548,2390,521,2354,499,2314,464,2220,438,2123,421,2032,411,1958"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="438,1108,413,1814,408,1813,433,1108"/>
+<area shape="rect" id="Node000014" href="$structPatchbayPosition.html" title=" " alt="" coords="513,1820,625,1968"/>
+<area shape="poly" id="edge9_Node000002_Node000014" title=" " alt="" coords="576,1967,584,2052,597,2157,618,2269,648,2380,651,2388,645,2390,643,2381,613,2270,592,2157,579,2053,571,1968"/>
+<area shape="rect" id="Node000015" href="$classCharStringListPtr.html" title=" " alt="" coords="649,1741,788,2046"/>
+<area shape="poly" id="edge10_Node000002_Node000015" title=" " alt="" coords="721,2046,721,2388,716,2388,716,2046"/>
+<area shape="rect" id="Node000016" href="$classCarlaEngine.html" title=" " alt="" coords="1009,1474,1220,2313"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="1066,2314,1044,2382,997,2485,941,2585,881,2677,824,2757,819,2753,877,2674,937,2582,993,2483,1039,2380,1061,2312"/>
+<area shape="poly" id="edge11_Node000002_Node000016" title=" " alt="" coords="1011,2296,999,2315,962,2361,919,2402,873,2439,828,2469,825,2465,870,2434,916,2398,958,2357,995,2312,1007,2293"/>
+<area shape="poly" id="edge12_Node000016_Node000017" title=" " alt="" coords="986,1341,1014,1457,1009,1458,981,1342"/>
+<area shape="rect" id="Node000079" href="$structRackGraph_1_1Buffers.html" title=" " alt="" coords="178,1810,301,1978"/>
+<area shape="poly" id="edge14_Node000001_Node000079" title=" " alt="" coords="247,1977,255,2050,268,2135,288,2225,316,2312,344,2378,378,2443,456,2567,539,2678,617,2770,612,2773,535,2681,451,2570,373,2446,339,2381,311,2314,283,2227,263,2136,250,2051,242,1978"/>
+<area shape="rect" id="Node000037" href="$classCarlaRecursiveMutex.html" title=" " alt="" coords="162,981,324,1129"/>
+<area shape="poly" id="edge15_Node000079_Node000037" title=" " alt="" coords="245,1129,243,1793,237,1793,240,1129"/>
+<area shape="poly" id="edge16_Node000079_Node000080" title=" " alt="" coords="88,1108,105,1262,134,1450,174,1632,215,1793,210,1794,169,1634,129,1451,100,1262,82,1109"/>
+<area shape="rect" id="Node000081" href="$classAbstractLinkedList.html" title=" " alt="" coords="5,5,154,676"/>
+<area shape="poly" id="edge17_Node000080_Node000081" title=" " alt="" coords="82,691,82,1002,77,1002,77,691"/>
+</map>

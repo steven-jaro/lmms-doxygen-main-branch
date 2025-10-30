@@ -1,0 +1,67 @@
+<map id="calf_plugins::control_base::get_int" name="calf_plugins::control_base::get_int">
+<area shape="rect" id="Node000001" title=" " alt="" coords="640,946,776,986"/>
+<area shape="rect" id="Node000002" href="$structcalf__plugins_1_1box__container.html#ac197890a77f69b9035a8b5ff0e07a860" title=" " alt="" coords="389,5,592,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,931,689,733,665,452,649,312,631,188,611,95,601,64,590,45,576,33,579,29,594,42,606,62,617,94,636,187,654,311,670,451,694,733,707,930"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1table__container.html#a751b43fa09153134f2beea07cca783e1" title=" " alt="" coords="428,55,553,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="704,931,701,759,687,513,672,387,652,271,625,176,609,139,590,111,573,96,552,87,554,82,576,92,594,107,613,136,630,174,657,270,678,386,692,513,706,759,709,931"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1curve__param__control.html#a9a18ee06e67a2b5dc8c6ddb11209847d" title="called to create a widget for a control" alt="" coords="414,120,567,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="704,930,699,770,683,544,668,429,649,323,623,236,607,202,590,176,566,158,569,153,594,172,612,199,628,234,654,322,674,428,688,544,704,770,709,930"/>
+<area shape="rect" id="Node000005" href="$structcalf__plugins_1_1entry__param__control.html#a0e271a53460843cdfc7714a8d1503d47" title="called to create a widget for a control" alt="" coords="414,186,567,226"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="703,930,696,782,679,576,664,471,645,374,620,295,606,265,590,241,566,223,569,219,594,238,611,262,625,293,650,373,669,470,684,575,702,782,708,930"/>
+<area shape="rect" id="Node000006" href="$structcalf__plugins_1_1filechooser__param__control.html#a7bf92e70fd9e0478bb918c0a2ce4d4eb" title="called to create a widget for a control" alt="" coords="412,251,570,292"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="703,931,694,795,675,608,660,513,641,426,618,355,605,328,590,307,569,290,572,286,594,303,609,325,623,353,646,425,665,512,680,607,699,794,708,931"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1hbox__container.html#a86f348946d57d0ca7aaa5d9689452b95" title=" " alt="" coords="429,316,552,357"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="702,930,691,806,671,639,656,555,638,478,616,415,590,372,573,358,552,348,554,343,576,353,594,368,621,413,643,476,661,554,676,638,697,805,707,930"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1hscale__param__control.html#a8489c8e651dab2a41f6702702213c61d" title="called to create a widget for a control" alt="" coords="414,382,567,422"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="701,931,689,819,667,671,652,597,634,530,613,475,590,437,566,420,569,415,594,434,618,473,639,528,657,596,672,670,694,818,706,930"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1keyboard__param__control.html#a10104a4f5eb2d0a36753ccee1fd70db5" title="called to create a widget for a control" alt="" coords="414,447,567,488"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="700,931,686,832,662,704,630,582,611,535,590,503,566,485,569,481,594,499,616,532,635,580,667,702,691,831,705,930"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1knob__param__control.html#a612e5e747654070c76007e2541b782a3" title="called to create a widget for a control" alt="" coords="414,512,567,553"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="704,930,700,856,684,759,669,707,649,657,623,610,591,568,565,551,569,546,594,564,628,607,654,655,674,706,689,757,705,855,710,930"/>
+<area shape="rect" id="Node000011" href="$structcalf__plugins_1_1led__param__control.html#a0334802c382da7e05116d72e0d7689a8" title="called to create a widget for a control" alt="" coords="412,578,569,618"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="702,931,694,867,676,787,661,745,643,704,619,666,591,632,568,617,571,612,594,628,623,663,647,701,666,743,681,785,699,866,707,930"/>
+<area shape="rect" id="Node000012" href="$structcalf__plugins_1_1line__graph__param__control.html#adf6e46965d95ac454c40ffbf7fe25af7" title="called to create a widget for a control" alt="" coords="416,642,565,698"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="697,931,684,882,663,824,632,764,613,737,591,712,564,694,567,689,594,708,617,733,637,761,668,822,689,881,702,930"/>
+<area shape="rect" id="Node000013" href="$structcalf__plugins_1_1meter__scale__param__control.html#af70b9e4f9bf40659bbcf099aa1efe31f" title="called to create a widget for a control" alt="" coords="416,722,565,778"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="690,933,651,862,623,825,591,792,564,775,567,771,594,788,627,821,655,859,694,930"/>
+<area shape="rect" id="Node000014" href="$structcalf__plugins_1_1pattern__param__control.html#a6952af6e36f0c32b0176df22c7e59dc5" title="called to create a widget for a control" alt="" coords="414,802,567,842"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="679,936,640,895,591,856,566,844,568,839,594,852,644,891,683,932"/>
+<area shape="rect" id="Node000015" href="$structcalf__plugins_1_1phase__graph__param__control.html#a53c25663f164e7d2d6229df10e5097f8" title="called to create a widget for a control" alt="" coords="416,866,565,922"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="630,943,565,921,567,916,631,938"/>
+<area shape="rect" id="Node000016" href="$structcalf__plugins_1_1radio__param__control.html#a8ee870dcfff790bcaf0814abcb7c5850" title="called to create a widget for a control" alt="" coords="414,946,567,986"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="625,969,567,969,567,964,625,964"/>
+<area shape="rect" id="Node000017" href="$structcalf__plugins_1_1scrolled__container.html#a4d6711563d8b4d78c3b98c74725e7c9e" title=" " alt="" coords="420,1011,561,1052"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="626,993,562,1013,560,1008,625,988"/>
+<area shape="rect" id="Node000018" href="$structcalf__plugins_1_1spin__param__control.html#a85ffe4c7bf52b3fbb7a66096c359579c" title="called to create a widget for a control" alt="" coords="414,1076,567,1117"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="678,1000,640,1034,594,1066,567,1078,565,1074,591,1061,636,1030,675,996"/>
+<area shape="rect" id="Node000019" href="$structcalf__plugins_1_1table__container.html#aa28814e60bc45863bdc272804a65da43" title=" " alt="" coords="428,1142,553,1182"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="693,1002,654,1067,626,1101,594,1131,555,1151,552,1146,591,1127,622,1098,650,1064,689,999"/>
+<area shape="rect" id="Node000020" href="$structcalf__plugins_1_1toggle__param__control.html#ad8fbe565ae7f98e9bdda7766140c7275" title="called to create a widget for a control" alt="" coords="414,1207,567,1248"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="701,1003,687,1047,665,1099,634,1151,594,1196,569,1212,566,1208,591,1192,630,1148,660,1096,682,1045,696,1001"/>
+<area shape="rect" id="Node000021" href="$structcalf__plugins_1_1tube__param__control.html#a720077f17e8bccf28d74f05f1fe55d55" title="called to create a widget for a control" alt="" coords="414,1272,567,1313"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="705,1003,695,1059,675,1128,642,1199,620,1232,594,1262,569,1278,566,1274,591,1257,616,1229,637,1197,670,1126,689,1058,700,1002"/>
+<area shape="rect" id="Node000022" href="$structcalf__plugins_1_1tuner__param__control.html#a4020e5590400dafd1cb42d4eeed78f4e" title="called to create a widget for a control" alt="" coords="414,1338,567,1378"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="708,1002,701,1070,684,1157,669,1202,650,1247,625,1289,594,1327,569,1344,566,1340,591,1323,621,1286,645,1245,664,1201,678,1155,696,1069,703,1002"/>
+<area shape="rect" id="Node000023" href="$structcalf__plugins_1_1value__param__control.html#a937b892eaab3ee2df16c44474d1e2e74" title="called to create a widget for a control" alt="" coords="414,1403,567,1444"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="710,1002,707,1081,692,1185,677,1241,657,1295,630,1346,594,1392,569,1410,566,1406,590,1388,625,1343,652,1293,672,1239,687,1184,702,1081,705,1002"/>
+<area shape="rect" id="Node000024" href="$structcalf__plugins_1_1vbox__container.html#aee85766ed518aa732f76e95109df5751" title=" " alt="" coords="429,1468,552,1509"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="705,1003,692,1107,669,1242,654,1310,636,1371,617,1422,594,1457,576,1472,554,1482,552,1477,573,1468,590,1454,612,1420,631,1370,649,1309,664,1241,687,1106,700,1002"/>
+<area shape="rect" id="Node000025" href="$structcalf__plugins_1_1vscale__param__control.html#aa179b62bf80b11e16330621ea591b397" title="called to create a widget for a control" alt="" coords="414,1534,567,1574"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="707,1002,695,1119,673,1274,658,1352,640,1423,619,1482,594,1523,569,1541,565,1537,590,1519,614,1479,635,1421,653,1351,668,1273,690,1118,701,1002"/>
+<area shape="rect" id="Node000026" href="$structcalf__plugins_1_1vumeter__param__control.html#a0e972d6e81f555c9a8f2a3130b8fe280" title="called to create a widget for a control" alt="" coords="414,1599,567,1640"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="707,1002,698,1131,677,1306,663,1394,644,1475,622,1541,609,1568,594,1588,569,1607,566,1603,590,1584,604,1565,617,1539,639,1473,657,1393,672,1305,692,1131,702,1002"/>
+<area shape="rect" id="Node000027" href="$structcalf__plugins_1_1line__graph__param__control.html#af72d041fe19726b5fe3d9af89200c8f3" title=" " alt="" coords="416,1664,565,1719"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="708,1003,699,1143,680,1337,665,1435,646,1526,623,1601,609,1630,594,1653,568,1675,564,1670,590,1650,605,1628,618,1599,641,1524,660,1434,675,1336,694,1143,703,1002"/>
+<area shape="rect" id="Node000028" href="$structcalf__plugins_1_1phase__graph__param__control.html#a6ec6d6048f59c342ecc74591b3ae4a81" title=" " alt="" coords="416,1744,565,1799"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="709,1002,702,1157,685,1375,670,1486,651,1589,626,1674,611,1707,594,1733,567,1755,564,1751,590,1730,606,1705,621,1672,646,1587,665,1485,679,1374,697,1157,703,1002"/>
+<area shape="rect" id="Node000029" href="$structcalf__plugins_1_1tuner__param__control.html#a94b33f69f0cece5e5e1fe96f12cd68c9" title=" " alt="" coords="412,1823,569,1864"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="709,1002,706,1172,691,1414,677,1539,657,1653,630,1748,613,1785,594,1813,572,1831,568,1827,590,1810,609,1782,625,1746,652,1652,672,1538,686,1414,701,1172,704,1002"/>
+<area shape="rect" id="Node000030" href="$classcalf__plugins_1_1control__base.html#a7123d8425ab553a881178cc3d94ab9e1" title="called from created() to set all the properties" alt="" coords="406,1888,575,1929"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="710,1002,708,1183,703,1309,695,1444,681,1579,660,1703,632,1806,614,1846,594,1877,578,1892,574,1888,590,1874,610,1844,627,1804,655,1702,676,1579,690,1444,698,1309,703,1183,704,1002"/>
+<area shape="rect" id="Node000031" href="$classcalf__plugins_1_1control__base.html#a4499a945a2904d0c98b8359116faff89" title="called after the control is created" alt="" coords="206,1888,341,1929"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="391,1912,341,1912,341,1906,391,1906"/>
+<area shape="rect" id="Node000032" href="$classcalf__plugins_1_1param__control.html#a5259913bde8f3b9ad0a078470bd69914" title="called after the control is created" alt="" coords="15,1855,148,1896"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="190,1897,148,1890,149,1884,191,1892"/>
+<area shape="rect" id="Node000033" href="$classcalf__plugins_1_1plugin__gui.html#a966ea0a60a35fc5d96f4b5db97215387" title=" " alt="" coords="5,1920,158,1961"/>
+<area shape="poly" id="edge32_Node000031_Node000033" title=" " alt="" coords="191,1925,158,1931,158,1925,190,1920"/>
+</map>

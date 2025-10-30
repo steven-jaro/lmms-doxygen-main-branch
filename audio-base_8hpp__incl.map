@@ -1,0 +1,51 @@
+<map id="plugins/CarlaBase/carla/source/native&#45;plugins/audio&#45;base.hpp" name="plugins/CarlaBase/carla/source/native&#45;plugins/audio&#45;base.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="396,5,554,61"/>
+<area shape="rect" id="Node000002" href="$CarlaMathUtils_8hpp.html" title=" " alt="" coords="198,183,330,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,52,340,74,314,91,292,111,276,138,269,168,264,167,271,136,287,107,311,86,338,70,394,47"/>
+<area shape="rect" id="Node000016" href="$CarlaMemUtils_8hpp.html" title=" " alt="" coords="369,183,500,208"/>
+<area shape="poly" id="edge14_Node000001_Node000016" title=" " alt="" coords="471,62,444,168,439,167,465,61"/>
+<area shape="rect" id="Node000018" href="$CarlaRingBuffer_8hpp.html" title=" " alt="" coords="302,109,437,135"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="444,63,398,101,394,97,440,59"/>
+<area shape="rect" id="Node000019" href="$ad_8h.html" title="audio&#45;decoder &#45; wrapper around libsndfile and libav*" alt="" coords="695,256,828,282"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="555,42,592,51,630,64,667,83,699,107,724,138,742,174,754,210,760,241,755,242,748,211,737,176,720,141,696,111,664,87,628,69,590,56,554,47"/>
+<area shape="rect" id="Node000021" href="$resampler_8h.html" title=" " alt="" coords="512,109,686,135"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="515,59,571,98,568,102,512,64"/>
+<area shape="rect" id="Node000003" href="$CarlaUtils_8hpp.html" title=" " alt="" coords="304,256,406,282"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="281,207,330,245,326,249,278,211"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="222,256,280,282"/>
+<area shape="poly" id="edge12_Node000002_Node000014" title=" " alt="" coords="265,209,259,241,253,240,259,208"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="146,256,198,282"/>
+<area shape="poly" id="edge13_Node000002_Node000015" title=" " alt="" coords="250,211,201,249,198,245,247,207"/>
+<area shape="rect" id="Node000004" href="$CarlaDefines_8h.html" title=" " alt="" coords="520,330,624,356"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,280,522,322,520,327,391,285"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="344,330,408,356"/>
+<area shape="poly" id="edge5_Node000003_Node000007" title=" " alt="" coords="361,281,371,314,366,316,356,283"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="432,330,496,356"/>
+<area shape="poly" id="edge6_Node000003_Node000008" title=" " alt="" coords="375,280,435,319,432,324,372,285"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,330,62,356"/>
+<area shape="poly" id="edge7_Node000003_Node000009" title=" " alt="" coords="304,283,77,332,76,327,303,278"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="85,330,144,356"/>
+<area shape="poly" id="edge8_Node000003_Node000010" title=" " alt="" coords="315,285,160,331,159,326,313,280"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="169,330,229,356"/>
+<area shape="poly" id="edge9_Node000003_Node000011" title=" " alt="" coords="329,285,240,326,238,321,327,280"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="648,330,712,356"/>
+<area shape="poly" id="edge10_Node000003_Node000012" title=" " alt="" coords="407,278,634,327,633,332,406,283"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="254,330,320,356"/>
+<area shape="poly" id="edge11_Node000003_Node000013" title=" " alt="" coords="346,284,311,321,307,317,342,280"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="626,404,694,429"/>
+<area shape="poly" id="edge4_Node000004_Node000006" title=" " alt="" coords="589,354,635,392,632,396,585,358"/>
+<area shape="poly" id="edge15_Node000016_Node000003" title=" " alt="" coords="423,211,381,248,378,244,419,207"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="430,256,522,282"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="444,207,464,241,459,244,439,210"/>
+<area shape="poly" id="edge18_Node000018_Node000002" title=" " alt="" coords="353,137,296,176,293,171,350,133"/>
+<area shape="poly" id="edge19_Node000018_Node000016" title=" " alt="" coords="382,133,416,169,412,173,378,137"/>
+<area shape="poly" id="edge21_Node000019_Node000006" title=" " alt="" coords="761,283,748,318,726,357,690,396,686,392,722,354,743,315,756,281"/>
+<area shape="poly" id="edge22_Node000019_Node000012" title=" " alt="" coords="749,285,707,322,703,318,746,281"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="786,330,873,356"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="775,280,810,317,806,321,771,284"/>
+<area shape="rect" id="Node000022" href="$resampler-table_8h.html" title=" " alt="" coords="539,183,659,208"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="602,135,602,167,596,167,596,135"/>
+<area shape="poly" id="edge26_Node000022_Node000004" title=" " alt="" coords="598,209,587,257,578,316,573,315,582,256,593,208"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="596,256,671,282"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="607,207,623,241,619,243,602,210"/>
+</map>

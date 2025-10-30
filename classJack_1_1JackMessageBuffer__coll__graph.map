@@ -1,0 +1,17 @@
+<map id="Jack::JackMessageBuffer" name="Jack::JackMessageBuffer">
+<area shape="rect" id="Node000001" title="Message buffer to be used from RT threads." alt="" coords="230,1427,390,1778"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="391,1563,409,1577,415,1589,417,1603,414,1620,406,1632,402,1630,409,1618,411,1603,410,1590,405,1580,388,1568"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="5,5,183,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,148,61,241,42,362,24,506,13,667,12,838,23,1014,35,1101,52,1188,73,1273,101,1355,126,1407,158,1455,195,1498,233,1535,229,1539,191,1501,154,1458,121,1410,96,1357,68,1275,46,1189,30,1102,18,1014,6,838,8,667,19,506,36,362,56,240,74,147"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="112,204,266,793"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="111,132,123,187,118,188,105,133"/>
+<area shape="rect" id="Node000003" href="$structJack_1_1JackMessage.html" title=" " alt="" coords="291,1056,417,1143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,1143,330,1411,324,1411,348,1142"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="110,843,267,1356"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,1356,267,1411,261,1412,248,1357"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="192,808,192,843,186,843,186,808"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackPosixProcessSync.html" title="A synchronization primitive built using a condition variable." alt="" coords="441,975,622,1224"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="487,1225,431,1357,400,1427,395,1424,426,1355,482,1223"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackBasePosixMutex.html" title="Mutex abstraction." alt="" coords="447,414,616,582"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="534,597,534,975,529,975,529,597"/>
+</map>

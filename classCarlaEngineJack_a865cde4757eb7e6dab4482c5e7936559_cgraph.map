@@ -1,0 +1,70 @@
+<map id="CarlaEngineJack::getPatchbayPositions" name="CarlaEngineJack::getPatchbayPositions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,202,362"/>
+<area shape="rect" id="Node000002" href="$CarlaUtils_8hpp.html#ac78ad69fd16caf2847fbb0ceca9c9d92" title=" " alt="" coords="532,90,600,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,320,136,287,166,247,204,207,248,173,317,141,390,120,459,108,517,102,517,107,460,113,391,125,319,146,251,177,207,210,170,250,140,290,119,322"/>
+<area shape="rect" id="Node000003" href="$CarlaUtils_8hpp.html#a2712a1b0b0922692e6e74d2d0cfb80f9" title=" " alt="" coords="272,280,396,305"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,318,256,306,257,311,202,323"/>
+<area shape="rect" id="Node000004" href="$classCarlaEngine.html#a27050f3582bd1c921215759d2626ed42" title=" " alt="" coords="250,187,418,227"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,319,283,233,286,238,141,323"/>
+<area shape="rect" id="Node000013" href="$JackBridgeExport_8cpp.html#a991f030570819854ec75577100b89987" title=" " alt="" coords="279,378,388,404"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="202,360,265,374,263,379,201,365"/>
+<area shape="rect" id="Node000025" href="$JackBridgeExport_8cpp.html#a6ecc6bfe2701d1bb8a2412863fab22b9" title=" " alt="" coords="255,329,413,354"/>
+<area shape="poly" id="edge18_Node000001_Node000025" title=" " alt="" coords="202,339,239,339,239,344,202,344"/>
+<area shape="rect" id="Node000033" href="$JackBridgeExport_8cpp.html#a4436773b42dfdd110b25f595e7c61860" title=" " alt="" coords="266,477,402,518"/>
+<area shape="poly" id="edge25_Node000001_Node000033" title=" " alt="" coords="126,361,180,411,215,439,251,463,259,468,256,472,248,468,211,443,177,415,123,365"/>
+<area shape="rect" id="Node000040" href="$JackBridgeExport_8cpp.html#a461c99bea4822026b6ece80bbf8582ab" title=" " alt="" coords="259,428,409,453"/>
+<area shape="poly" id="edge36_Node000001_Node000040" title=" " alt="" coords="141,360,192,387,251,414,267,420,265,425,249,419,190,392,139,365"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="367,184,465,125,517,109,518,114,467,129,369,189"/>
+<area shape="rect" id="Node000005" href="$classPatchbayGraph.html#a3108e34df8f759212ca9023d85542b27" title=" " alt="" coords="472,140,660,165"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="417,185,493,167,494,172,419,190"/>
+<area shape="rect" id="Node000012" href="$classCarlaEngine.html#a2ab183a3ee17d03cdb5f8bd37f6e5316" title=" " alt="" coords="474,213,659,238"/>
+<area shape="poly" id="edge10_Node000004_Node000012" title=" " alt="" coords="418,211,458,214,458,220,418,216"/>
+<area shape="rect" id="Node000006" href="$CarlaUtils_8hpp.html#a1ff5c959a9927010a97f05fb87c9ce22" title=" " alt="" coords="761,120,854,145"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="661,142,746,135,746,140,661,147"/>
+<area shape="rect" id="Node000007" href="$classwater_1_1AudioProcessor.html#a922a9f99173200f29d870decb08ec2af" title=" " alt="" coords="732,169,883,210"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="654,163,717,173,716,178,653,168"/>
+<area shape="rect" id="Node000008" href="$classwater_1_1AudioProcessorGraph_1_1Node.html#abb9de1148be3a9fba5fa545a8f56910d" title=" " alt="" coords="714,5,901,46"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="645,137,665,126,681,110,688,92,696,74,713,56,718,52,721,56,716,60,701,77,693,95,685,113,668,130,648,141"/>
+<area shape="rect" id="Node000010" href="$classwater_1_1String.html#a424fa16847cbf75b9fba3151cbe0fc77" title=" " alt="" coords="723,70,892,96"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="629,136,665,126,713,105,733,98,735,103,715,109,667,131,631,141"/>
+<area shape="poly" id="edge11_Node000012_Node000012" title=" " alt="" coords="528,214,520,204,525,194,540,188,566,186,595,189,609,196,607,200,593,194,566,191,542,194,528,198,525,204,532,211"/>
+<area shape="rect" id="Node000014" href="$JackBridge1_8cpp.html#a6b2147f1b721f3b08c283a1cd897ee12" title=" " alt="" coords="503,428,629,453"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="390,400,488,421,487,426,388,405"/>
+<area shape="rect" id="Node000015" href="$JackBridgeExport_8cpp.html#adee3844cf738d3cb8a9a94adf3ddb4af" title=" " alt="" coords="503,378,629,404"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="389,388,487,388,487,394,389,394"/>
+<area shape="rect" id="Node000023" href="$JackAPI_8cpp.html#ad10a4d131451c171489eb94e00b80edb" title=" " alt="" coords="529,329,603,354"/>
+<area shape="poly" id="edge16_Node000013_Node000023" title=" " alt="" coords="388,377,513,350,514,355,390,382"/>
+<area shape="rect" id="Node000016" href="$classJackBridgeExported.html#ae11f0182cc8fe081b82562b64dcf2dc9" title=" " alt="" coords="739,415,876,455"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="630,400,725,417,724,422,629,405"/>
+<area shape="rect" id="Node000024" href="$structJack_1_1JackGlobals.html#adf4bc0472a237936fd3c5a974c49ffbc" title=" " alt="" coords="741,349,874,390"/>
+<area shape="poly" id="edge17_Node000023_Node000024" title=" " alt="" coords="604,343,726,358,725,363,603,349"/>
+<area shape="poly" id="edge19_Node000025_Node000014" title=" " alt="" coords="397,353,419,363,435,376,444,390,453,402,467,414,490,424,487,429,465,419,449,406,440,393,431,380,417,368,394,357"/>
+<area shape="poly" id="edge20_Node000025_Node000015" title=" " alt="" coords="398,353,488,372,487,377,397,358"/>
+<area shape="rect" id="Node000026" href="$group__Metadata.html#ga1b7b25ad3e29266e056d7bc3e647b39e" title=" " alt="" coords="504,280,628,305"/>
+<area shape="poly" id="edge21_Node000025_Node000026" title=" " alt="" coords="397,326,489,306,490,311,398,331"/>
+<area shape="poly" id="edge22_Node000026_Node000024" title=" " alt="" coords="629,303,667,314,715,335,730,341,728,346,713,340,665,319,627,308"/>
+<area shape="rect" id="Node000027" href="$namespaceJack.html#a0d18e6453f501c905a66e17d28397baa" title=" " alt="" coords="742,300,873,325"/>
+<area shape="poly" id="edge23_Node000026_Node000027" title=" " alt="" coords="629,295,727,303,727,308,628,300"/>
+<area shape="rect" id="Node000028" href="$classJack_1_1JackMetadata.html#a0c1e9eeff7a80eacbe480c556de45ec2" title=" " alt="" coords="739,235,876,275"/>
+<area shape="poly" id="edge24_Node000026_Node000028" title=" " alt="" coords="628,280,723,265,724,271,629,285"/>
+<area shape="poly" id="edge30_Node000033_Node000014" title=" " alt="" coords="402,478,465,462,494,455,495,460,467,467,403,483"/>
+<area shape="poly" id="edge31_Node000033_Node000015" title=" " alt="" coords="397,474,416,463,431,451,439,438,449,425,465,413,487,402,490,407,467,417,453,429,444,441,435,454,420,468,399,479"/>
+<area shape="rect" id="Node000034" href="$testSem_8cpp.html#a5cbf99e8849f2e3ea613ea0a2df2f272" title=" " alt="" coords="781,576,834,601"/>
+<area shape="poly" id="edge26_Node000033_Node000034" title=" " alt="" coords="368,516,414,541,467,562,549,578,631,587,707,589,766,588,766,593,707,594,631,592,548,584,465,567,412,546,366,521"/>
+<area shape="rect" id="Node000038" href="$group__ClientFunctions.html#ga5e1740b9c19756678256992b3b0f6587" title=" " alt="" coords="466,526,666,552"/>
+<area shape="poly" id="edge32_Node000033_Node000038" title=" " alt="" coords="403,507,476,520,475,525,402,512"/>
+<area shape="rect" id="Node000035" href="$classJack_1_1detail_1_1JackSynchro.html#af1e9982635110dde560d91082679f1b0" title=" " alt="" coords="949,503,1116,543"/>
+<area shape="poly" id="edge27_Node000034_Node000035" title=" " alt="" coords="834,579,900,562,953,546,954,551,901,567,835,585"/>
+<area shape="rect" id="Node000036" href="$classJack_1_1detail_1_1JackSynchro.html#ab8dc6db56bb10b4cfea9625a5c002841" title=" " alt="" coords="949,568,1116,609"/>
+<area shape="poly" id="edge28_Node000034_Node000036" title=" " alt="" coords="834,586,933,586,933,591,834,591"/>
+<area shape="rect" id="Node000037" href="$classJack_1_1detail_1_1JackSynchro.html#a8a39f2065be5d07800e2f06e0f2b2f10" title=" " alt="" coords="949,633,1116,674"/>
+<area shape="poly" id="edge29_Node000034_Node000037" title=" " alt="" coords="835,593,946,626,945,631,834,598"/>
+<area shape="poly" id="edge33_Node000038_Node000024" title=" " alt="" coords="648,523,665,513,676,500,683,487,688,459,693,430,700,416,712,401,725,391,729,395,716,405,705,418,699,432,694,460,688,489,681,503,668,517,651,528"/>
+<area shape="poly" id="edge34_Node000038_Node000034" title=" " alt="" coords="633,550,766,577,765,583,632,555"/>
+<area shape="rect" id="Node000039" href="$group__ControlAPI.html#ga35f69faaee3bb9b958ed8c9a5f62246c" title=" " alt="" coords="773,526,842,552"/>
+<area shape="poly" id="edge35_Node000038_Node000039" title=" " alt="" coords="667,536,757,536,757,542,667,542"/>
+<area shape="poly" id="edge37_Node000040_Node000014" title=" " alt="" coords="409,438,487,438,487,443,409,443"/>
+<area shape="poly" id="edge38_Node000040_Node000015" title=" " alt="" coords="397,424,487,405,488,410,398,429"/>
+<area shape="rect" id="Node000041" href="$JackAPI_8cpp.html#a2f9b2d33858030e44d74bcde85f82921" title=" " alt="" coords="508,477,624,502"/>
+<area shape="poly" id="edge39_Node000040_Node000041" title=" " alt="" coords="398,451,494,472,492,477,397,456"/>
+</map>

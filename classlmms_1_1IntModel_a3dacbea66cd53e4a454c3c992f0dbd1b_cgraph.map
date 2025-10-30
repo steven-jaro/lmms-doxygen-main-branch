@@ -1,0 +1,23 @@
+<map id="lmms::IntModel::displayValue" name="lmms::IntModel::displayValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,194,139"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1AutomatableModel.html#a2d0ab04d1824131ff47fd748ff8c812f" title=" " alt="" coords="888,178,1055,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,110,249,66,333,41,429,20,531,7,637,4,689,8,741,17,792,30,841,49,877,72,909,102,935,134,954,163,950,166,930,137,905,105,874,76,838,54,790,36,740,22,689,14,636,10,532,12,430,26,335,47,251,71,132,115"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1AutomatableModel.html#a94629696bc4fefa37deaff4514f97cf8" title="Returns value scaled with the scale type and min/max values of this model." alt="" coords="242,134,409,175"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,135,227,139,226,145,194,141"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1AutomatableModel.html#af627a27134e1791cd9efbd3ba16bb0fb" title="Scales @value from linear to logarithmic. Value should be within [0,1]." alt="" coords="457,163,624,204"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="410,163,442,167,441,173,409,168"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1AutomatableModel.html#ada99fa3637d959cf4a6a6ffc9fcf35d3" title=" " alt="" coords="672,293,840,333"/>
+<area shape="poly" id="edge12_Node000003_Node000009" title=" " alt="" coords="369,173,458,213,567,253,669,285,667,290,565,258,456,218,367,178"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1AutomatableModel.html#a7b214a86f5fb6a23fe8a997602a36505" title=" " alt="" coords="672,63,840,104"/>
+<area shape="poly" id="edge13_Node000003_Node000010" title=" " alt="" coords="409,138,656,97,657,102,410,143"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="589,202,629,217,673,228,719,234,756,236,839,228,883,220,884,225,840,233,756,241,719,240,672,233,628,222,587,207"/>
+<area shape="rect" id="Node000005" href="$namespacelmms.html#a2885df4469180f78ac5e31169d28fd17" title="Scales @value from linear to logarithmic. Value should be within [0,1]." alt="" coords="676,128,836,154"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="624,164,672,155,673,160,625,170"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1AutomatableModel.html#a77cf1e57c3d111487673abeb1c3b8fc9" title=" " alt="" coords="672,178,840,219"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="625,187,657,189,657,194,625,192"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="571,202,618,236,674,272,694,283,692,288,671,277,615,241,568,207"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="578,160,671,113,683,108,686,113,673,118,580,165"/>
+<area shape="poly" id="edge7_Node000008_Node000002" title=" " alt="" coords="840,196,872,196,872,201,840,201"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="803,290,838,272,922,225,925,229,841,277,805,294"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="817,102,841,113,930,167,927,171,838,118,814,107"/>
+</map>

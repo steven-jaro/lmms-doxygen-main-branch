@@ -1,0 +1,32 @@
+<map id="lmms::gui::Knob::Knob" name="lmms::gui::Knob::Knob">
+<area shape="rect" id="Node000001" title="Construct a Knob with the given style and label text." alt="" coords="5,304,154,329"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1Knob.html#a2229267c83dec0277c5d3d2b2134fa40" title="Construct a Knob with the given style and no label." alt="" coords="212,177,360,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,301,249,208,252,213,104,305"/>
+<area shape="rect" id="Node000020" href="$classlmms_1_1gui_1_1Knob.html#a445681e6cc0c69a6fd1ce287765cedbf" title=" " alt="" coords="202,296,370,337"/>
+<area shape="poly" id="edge9_Node000001_Node000020" title=" " alt="" coords="154,314,187,314,187,319,154,319"/>
+<area shape="rect" id="Node000025" href="$classlmms_1_1gui_1_1Knob.html#ac8d4b01356cb376bb764488d5179d6c8" title=" " alt="" coords="202,361,370,386"/>
+<area shape="poly" id="edge14_Node000001_Node000025" title=" " alt="" coords="129,327,223,354,221,359,128,332"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#a2d78d76b7a4cc49a08c4a472a6a279c1" title="default ctor" alt="" coords="432,43,617,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,174,470,89,472,93,313,179"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1Knob.html#a02a77299b4fb218869b4ee7fd71153ac" title="to be called by ctors" alt="" coords="450,177,599,202"/>
+<area shape="poly" id="edge4_Node000002_Node000013" title=" " alt="" coords="361,187,435,187,435,192,361,192"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#a7a6be0cdaf2ed5860ba5ffbe82f6b9ec" title="to be called by ctors" alt="" coords="689,5,869,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="617,47,674,38,674,44,618,52"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1Knob.html#af9ce5dbb846cb4ab9d5300278eacd301" title="to be called when you updated m_knobNum" alt="" coords="684,71,874,111"/>
+<area shape="poly" id="edge5_Node000013_Node000014" title=" " alt="" coords="555,174,678,122,699,114,700,119,680,127,557,179"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1gui_1_1Knob.html#af737a260f0a958f420810ae0422de834" title=" " alt="" coords="696,136,862,177"/>
+<area shape="poly" id="edge6_Node000013_Node000017" title=" " alt="" coords="599,177,680,167,681,172,600,183"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1gui_1_1Knob.html#aaff0bf2032498d91353bccbe1f95d824" title=" " alt="" coords="695,201,863,242"/>
+<area shape="poly" id="edge7_Node000013_Node000018" title=" " alt="" coords="600,196,680,207,679,212,599,202"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1gui_1_1Knob.html#a33b1064744a49e137e9c5ce52c9f55d0" title=" " alt="" coords="696,267,862,307"/>
+<area shape="poly" id="edge8_Node000013_Node000019" title=" " alt="" coords="557,201,680,251,701,259,699,264,678,256,555,206"/>
+<area shape="rect" id="Node000021" href="$classlmms_1_1gui_1_1Knob.html#af58c3379e6eba82718eb94c07e4d2973" title=" " alt="" coords="418,361,631,386"/>
+<area shape="poly" id="edge10_Node000020_Node000021" title=" " alt="" coords="370,334,454,354,452,359,369,339"/>
+<area shape="rect" id="Node000022" href="$namespacelmms_1_1gui.html#af0fe77163df1b7648a2b00a5d289ec7c" title=" " alt="" coords="679,332,879,357"/>
+<area shape="poly" id="edge11_Node000021_Node000022" title=" " alt="" coords="632,359,664,355,664,360,632,364"/>
+<area shape="rect" id="Node000023" href="$classlmms_1_1gui_1_1Knob.html#a3b080235a4a6cd82fb3c99d5cc0092bf" title=" " alt="" coords="694,381,864,422"/>
+<area shape="poly" id="edge12_Node000021_Node000023" title=" " alt="" coords="632,383,679,388,678,393,632,388"/>
+<area shape="rect" id="Node000024" href="$namespacelmms.html#a7c9cb2b9ec7b90fa364af253ae599378" title="horizontalAdvance is a backwards&#45;compatible adapter for QFontMetrics::horizontalAdvance and width fun..." alt="" coords="696,446,862,472"/>
+<area shape="poly" id="edge13_Node000021_Node000024" title=" " alt="" coords="558,384,680,431,707,439,706,444,678,436,556,389"/>
+<area shape="poly" id="edge15_Node000025_Node000021" title=" " alt="" coords="370,371,402,371,402,376,370,376"/>
+</map>

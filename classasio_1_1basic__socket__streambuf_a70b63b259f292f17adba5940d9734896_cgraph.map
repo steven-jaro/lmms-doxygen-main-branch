@@ -1,0 +1,35 @@
+<map id="asio::basic_socket_streambuf::~basic_socket_streambuf" name="asio::basic_socket_streambuf::~basic_socket_streambuf">
+<area shape="rect" id="Node000001" title="Destructor flushes buffered data." alt="" coords="5,257,182,313"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1basic__socket__streambuf.html#a8ce4c6bfb3e737d094448285f7aee992" title=" " alt="" coords="230,264,370,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,282,214,282,214,288,182,288"/>
+<area shape="rect" id="Node000003" href="$namespaceasio.html#aab2e5a8bd2a00b088a5644c64ef73e2a" title="Create a new modifiable buffer from an existing buffer." alt="" coords="452,5,535,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,263,315,218,337,158,370,96,392,67,416,41,436,29,439,33,420,46,396,71,375,99,342,161,320,220,308,265"/>
+<area shape="rect" id="Node000004" href="$structasio_1_1detail_1_1chrono__time__traits.html#a12702d45a542fac5c4558be6784f6de1" title=" " alt="" coords="418,55,569,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,263,348,187,379,144,416,106,420,102,423,107,420,109,383,147,352,190,312,265"/>
+<area shape="rect" id="Node000005" href="$classasio_1_1basic__socket.html#af1efd6dea53c680b136007d0ba129aed" title=" " alt="" coords="428,120,560,175"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="322,262,364,225,416,185,422,182,425,186,420,190,368,229,325,266"/>
+<area shape="rect" id="Node000006" href="$classasio_1_1basic__socket.html#af92af900b78af8ee83120cef251489df" title="Gets the non&#45;blocking mode of the native socket implementation." alt="" coords="421,199,566,240"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="369,267,438,243,440,248,371,272"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="340,261,406,237,407,242,342,266"/>
+<area shape="rect" id="Node000007" href="$structasio_1_1detail_1_1chrono__time__traits.html#a338cedf2fb1814b9e1fa6f841d643945" title=" " alt="" coords="646,510,773,550"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="307,305,318,350,339,407,372,465,394,490,419,511,444,524,470,534,525,545,580,547,630,543,631,548,580,552,524,550,468,539,441,529,417,515,390,494,368,468,335,410,313,352,302,306"/>
+<area shape="rect" id="Node000008" href="$namespaceasio_1_1detail_1_1socket__ops.html#a36290eb0ed8e6f66fa47cb0869b8db38" title=" " alt="" coords="430,330,557,370"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="363,303,418,322,416,327,361,308"/>
+<area shape="rect" id="Node000009" href="$namespaceasio_1_1detail_1_1socket__ops.html#a67c061624f044ba2494011649036dbc5" title=" " alt="" coords="430,395,557,436"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="324,304,367,341,419,380,429,385,426,390,417,384,364,346,321,308"/>
+<area shape="rect" id="Node000010" href="$classasio_1_1const__buffer.html#abd344b5105a67bb0011ce090d35a8ab1" title="Get the size of the memory range." alt="" coords="432,460,555,501"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="314,304,355,372,385,411,420,445,426,450,423,454,416,450,381,415,350,375,309,307"/>
+<area shape="rect" id="Node000011" href="$classasio_1_1basic__socket__streambuf.html#aa8d2b3df4a84a3a1f33d1dd836da9150" title="Get a reference to the underlying socket." alt="" coords="428,264,559,305"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="370,282,413,282,413,288,370,288"/>
+<area shape="rect" id="Node000013" href="$classasio_1_1basic__socket__streambuf.html#aed179fecb047f97a1661986a93f83945" title=" " alt="" coords="426,582,561,622"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="308,305,321,354,343,419,376,490,396,524,420,555,437,571,434,575,416,559,392,527,371,493,338,421,316,355,303,306"/>
+<area shape="rect" id="Node000012" href="$classasio_1_1basic__socket.html#a6a35b77f9d04b750cb6e96da89c8d81b" title=" " alt="" coords="645,257,774,313"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="560,282,630,282,630,288,560,288"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="556,579,631,553,633,558,558,584"/>
+<area shape="rect" id="Node000014" href="$structasio_1_1detail_1_1chrono__time__traits.html#acdcf3583f2ab08dcfe3af9c4455f85ae" title=" " alt="" coords="638,734,781,774"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="513,621,558,670,587,697,619,720,626,724,624,729,616,724,584,701,554,674,509,625"/>
+<area shape="rect" id="Node000015" href="$structasio_1_1detail_1_1chrono__time__traits.html#a892a428f4ba5ee4ef390838ad440784c" title=" " alt="" coords="638,574,781,630"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="562,600,622,600,622,605,562,605"/>
+<area shape="rect" id="Node000016" href="$classasio_1_1detail_1_1chrono__time__traits_1_1posix__time__duration.html#a694d032cc8c86644a8fa8ef9200cd946" title=" " alt="" coords="617,654,802,710"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="551,620,619,646,617,651,550,625"/>
+</map>

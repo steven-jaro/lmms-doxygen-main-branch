@@ -1,0 +1,30 @@
+<map id="CarlaPluginLV2EventData" name="CarlaPluginLV2EventData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,1002,464,1170"/>
+<area shape="rect" id="Node000002" href="$structLv2EventData.html" title=" " alt="" coords="130,666,504,794"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,793,357,985,352,986,323,794"/>
+<area shape="rect" id="Node000003" href="$classCarlaEngineEventPort.html" title=" " alt="" coords="234,305,400,595"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,595,320,649,314,649,314,595"/>
+<area shape="rect" id="Node000004" href="$classCarlaEnginePort.html" title=" " alt="" coords="27,5,159,234"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,229,237,327,233,330,165,232"/>
+<area shape="rect" id="Node000022" href="$structEngineEvent.html" title=" " alt="" coords="183,56,557,184"/>
+<area shape="poly" id="edge4_Node000003_Node000022" title=" " alt="" coords="363,184,346,289,340,288,358,183"/>
+<area shape="rect" id="Node000099" href="$struct__LV2__Atom__Buffer.html" title=" " alt="" coords="643,397,764,504"/>
+<area shape="poly" id="edge5_Node000002_Node000099" title=" " alt="" coords="694,504,682,539,665,577,642,614,612,644,590,658,570,663,520,668,520,663,569,657,588,653,609,640,637,610,660,575,677,538,689,503"/>
+<area shape="rect" id="Node000106" href="$struct__LV2__Atom__Buffer__Iterator.html" title=" " alt="" coords="674,697,843,763"/>
+<area shape="poly" id="edge11_Node000106_Node000099" title=" " alt="" coords="717,503,751,680,746,681,711,504"/>
+<area shape="rect" id="Node000100" href="$structLV2__Atom__Sequence.html" title=" " alt="" coords="635,87,772,153"/>
+<area shape="poly" id="edge6_Node000099_Node000100" title=" " alt="" coords="706,153,706,380,701,380,701,153"/>
+<area shape="rect" id="Node000103" href="$structLV2__Event__Buffer.html" title=" " alt="" coords="476,366,592,534"/>
+<area shape="poly" id="edge7_Node000002_Node000103" title=" " alt="" coords="479,527,379,655,374,651,475,524"/>
+<area shape="rect" id="Node000107" href="$structLV2__Event__Iterator.html" title=" " alt="" coords="528,697,650,763"/>
+<area shape="poly" id="edge13_Node000107_Node000103" title=" " alt="" coords="553,534,582,680,577,681,548,535"/>
+<area shape="rect" id="Node000104" href="$structLV2__MIDI.html" title=" " alt="" coords="62,387,156,514"/>
+<area shape="poly" id="edge8_Node000002_Node000104" title=" " alt="" coords="158,512,262,651,258,655,154,515"/>
+<area shape="rect" id="Node000108" href="$structLV2__MIDIState.html" title=" " alt="" coords="5,687,106,773"/>
+<area shape="poly" id="edge15_Node000108_Node000104" title=" " alt="" coords="100,514,70,671,64,670,94,513"/>
+<area shape="rect" id="Node000105" href="$unionLV2EventIters.html" title=" " alt="" coords="476,865,569,931"/>
+<area shape="poly" id="edge9_Node000001_Node000105" title=" " alt="" coords="498,932,450,991,446,987,494,929"/>
+<area shape="poly" id="edge10_Node000105_Node000106" title=" " alt="" coords="717,765,609,843,585,859,582,855,606,838,714,761"/>
+<area shape="poly" id="edge12_Node000105_Node000107" title=" " alt="" coords="579,764,544,850,539,848,574,762"/>
+<area shape="poly" id="edge14_Node000105_Node000108" title=" " alt="" coords="93,771,119,791,460,878,458,883,117,796,90,775"/>
+</map>

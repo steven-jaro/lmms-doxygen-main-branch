@@ -1,0 +1,38 @@
+<map id="water::AudioProcessorGraph::reorderNowIfNeeded" name="water::AudioProcessorGraph::reorderNowIfNeeded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,287,192,328"/>
+<area shape="rect" id="Node000002" href="$classwater_1_1AudioProcessorGraph.html#a32bfbb54820f32c8289a07c715112fcc" title=" " alt="" coords="240,287,426,328"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,305,224,305,224,310,192,310"/>
+<area shape="rect" id="Node000003" href="$namespacewater.html#a8e4c8e14d7ec5016ed5da0642f37b06f" title=" " alt="" coords="492,49,674,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,286,357,245,386,193,424,139,447,114,472,92,495,79,498,83,476,96,451,117,428,142,390,196,362,247,344,288"/>
+<area shape="rect" id="Node000004" href="$classwater_1_1Array.html#a8ca93e8472397dda8bfc59e00d82792b" title=" " alt="" coords="744,49,923,75"/>
+<area shape="poly" id="edge12_Node000002_Node000004" title=" " alt="" coords="335,286,347,232,372,162,390,125,413,91,440,60,473,34,512,16,554,6,597,3,640,5,722,20,788,41,786,46,721,25,640,10,597,8,555,11,514,21,475,39,444,63,417,94,395,128,377,164,352,234,340,287"/>
+<area shape="rect" id="Node000006" href="$classwater_1_1Array.html#a6288289a39c72eab5eb91c870879affa" title=" " alt="" coords="774,100,893,126"/>
+<area shape="poly" id="edge20_Node000002_Node000006" title=" " alt="" coords="342,285,361,251,390,209,427,168,473,136,508,120,545,109,621,97,695,95,759,99,759,104,695,100,622,102,546,114,510,125,475,140,431,172,394,213,366,254,346,288"/>
+<area shape="rect" id="Node000007" href="$classwater_1_1AudioProcessor.html#a06392a9e844d7c69048b3ad1792c9399" title=" " alt="" coords="508,150,659,190"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="355,285,407,243,473,201,492,193,494,197,475,206,410,247,358,289"/>
+<area shape="rect" id="Node000008" href="$classwater_1_1AudioProcessor.html#a32ed7f0e1f90544fbf1de5f2cdb7a56e" title=" " alt="" coords="508,215,659,256"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="405,284,495,258,496,263,407,289"/>
+<area shape="rect" id="Node000009" href="$structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a028e0e88a0c9e7efbbeaff99f4026c5b" title=" " alt="" coords="474,280,692,335"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="426,305,458,305,458,310,426,310"/>
+<area shape="rect" id="Node000010" href="$structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a70e1e1d592051ffa2ffb104f9f47f179" title=" " alt="" coords="474,360,692,415"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="399,326,480,352,479,357,398,331"/>
+<area shape="rect" id="Node000011" href="$structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#acaf836194f23e118cc2446cfe647268b" title=" " alt="" coords="474,440,692,495"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="356,326,407,375,440,402,475,425,484,430,482,435,473,430,437,406,404,379,352,330"/>
+<area shape="rect" id="Node000012" href="$classwater_1_1AudioProcessor.html#a10f0b805d81167593e181c18ca681f11" title=" " alt="" coords="508,519,659,560"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="345,327,364,365,392,413,430,463,476,505,495,517,492,521,472,510,426,466,388,416,359,367,340,329"/>
+<area shape="rect" id="Node000013" href="$classwater_1_1Array.html#a980f4f775eefdc4bdcb63c098b9db09c" title=" " alt="" coords="770,544,897,570"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="340,328,353,380,378,448,396,483,418,516,444,545,475,569,513,587,553,597,595,601,637,601,716,590,782,572,783,577,717,595,637,606,594,607,552,602,511,592,473,574,441,549,414,519,391,485,373,450,348,381,335,329"/>
+<area shape="rect" id="Node000014" href="$classwater_1_1AudioProcessorGraph_1_1Node.html#afbc802dd4c9b71cff64a3d56b1b46454" title=" " alt="" coords="490,634,676,674"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="340,328,354,384,379,461,397,502,419,542,445,580,476,613,489,624,486,628,472,617,441,583,414,545,392,504,374,463,349,386,335,329"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,59,728,59,728,65,675,65"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="651,73,759,95,758,100,650,78"/>
+<area shape="rect" id="Node000005" href="$namespacewater.html#a56933fdf972ecb26e4e58c9170cf125a" title=" " alt="" coords="983,527,1158,552"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="911,73,928,85,970,135,1003,192,1028,252,1046,314,1058,373,1066,428,1072,511,1066,511,1061,428,1053,374,1041,315,1023,254,998,194,966,138,925,89,908,78"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="897,549,967,544,967,550,898,555"/>
+<area shape="rect" id="Node000015" href="$classwater_1_1AudioProcessorGraph_1_1Node.html#af82671484b562e82b11e4c2e00ca2816" title=" " alt="" coords="975,620,1166,661"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="677,647,740,645,959,640,959,645,740,650,677,652"/>
+<area shape="rect" id="Node000016" href="$classwater_1_1AudioProcessorGraph_1_1Node.html#a8d5af549404928c446f3044276f1a79a" title=" " alt="" coords="740,659,927,700"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="677,661,725,666,724,671,676,666"/>
+<area shape="poly" id="edge17_Node000015_Node000015" title=" " alt="" coords="1026,620,1024,610,1031,601,1047,596,1070,594,1096,596,1111,602,1109,607,1095,601,1070,599,1048,601,1034,606,1029,612,1031,619"/>
+<area shape="poly" id="edge19_Node000016_Node000015" title=" " alt="" coords="927,662,959,656,960,662,927,667"/>
+</map>

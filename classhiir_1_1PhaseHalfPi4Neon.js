@@ -1,0 +1,25 @@
+var classhiir_1_1PhaseHalfPi4Neon =
+[
+    [ "DataType", "classhiir_1_1PhaseHalfPi4Neon.html#ae52c614d9006efbddfa4faaa575c9aa6", null ],
+    [ "Filter", "classhiir_1_1PhaseHalfPi4Neon.html#a04939812086dd4144fadfccecb418693", null ],
+    [ "FilterBiPhase", "classhiir_1_1PhaseHalfPi4Neon.html#a9326bef6849a85b86b119e14fcb7c58b", null ],
+    [ "PhaseHalfPi4Neon", "classhiir_1_1PhaseHalfPi4Neon.html#ad846199c3b2a7bbe87a100a18ecf9cc4", null ],
+    [ "PhaseHalfPi4Neon", "classhiir_1_1PhaseHalfPi4Neon.html#a2ac459c252bdac1d88e1ab8781b47d3d", null ],
+    [ "PhaseHalfPi4Neon", "classhiir_1_1PhaseHalfPi4Neon.html#aa1a62913a4a898f1fc86a15e409bc216", null ],
+    [ "~PhaseHalfPi4Neon", "classhiir_1_1PhaseHalfPi4Neon.html#a146c09ba45ffe99dcccf0d0346a1dddd", null ],
+    [ "clear_buffers", "classhiir_1_1PhaseHalfPi4Neon.html#a938231270139eee6208ad280014c5f5b", null ],
+    [ "operator!=", "classhiir_1_1PhaseHalfPi4Neon.html#a11a08c6d180000a6726302c9bd65c7d3", null ],
+    [ "operator=", "classhiir_1_1PhaseHalfPi4Neon.html#a9b08936ccf13363b33af6d56f9e4f933", null ],
+    [ "operator=", "classhiir_1_1PhaseHalfPi4Neon.html#a236c1c2bf4c92c87a91b02d46fc00cec", null ],
+    [ "operator==", "classhiir_1_1PhaseHalfPi4Neon.html#a9311577a638be3968ca58767e51e7bc5", null ],
+    [ "process_block", "classhiir_1_1PhaseHalfPi4Neon.html#aa7ad2087ca4a3c5ce9ba374c5d1a66d3", null ],
+    [ "process_sample", "classhiir_1_1PhaseHalfPi4Neon.html#ab5c08d2a1c2d6c5418bc910e8c7c7178", null ],
+    [ "set_coefs", "classhiir_1_1PhaseHalfPi4Neon.html#acee773d4fc9bab6371cddec739f60e8d", null ],
+    [ "_bifilter", "classhiir_1_1PhaseHalfPi4Neon.html#a9d03735691533d656b0bc2e1983fbb86", null ],
+    [ "_delay", "classhiir_1_1PhaseHalfPi4Neon.html#af99c76d40e4c4da0b59e215527637a24", null ],
+    [ "_nbr_chn", "classhiir_1_1PhaseHalfPi4Neon.html#afe3fb860feedb0195eea08c2d835a2b7", null ],
+    [ "_nbr_phases", "classhiir_1_1PhaseHalfPi4Neon.html#affd6878323453cfd494a3e1697f691a7", null ],
+    [ "_phase", "classhiir_1_1PhaseHalfPi4Neon.html#adfbd9825719497fa57f8fa9856c8259c", null ],
+    [ "_prev", "classhiir_1_1PhaseHalfPi4Neon.html#a109e1522bee0705b1a68d66c42fc14fb", null ],
+    [ "NBR_COEFS", "classhiir_1_1PhaseHalfPi4Neon.html#af49af08a281f94fd0fff044d9db11ad4", null ]
+];

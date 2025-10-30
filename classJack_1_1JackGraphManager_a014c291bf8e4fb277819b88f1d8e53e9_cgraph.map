@@ -1,0 +1,50 @@
+<map id="Jack::JackGraphManager::DisconnectAllInput" name="Jack::JackGraphManager::DisconnectAllInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,629,174,670"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackGraphManager.html#a377f9d5cb2a5664f2a7f8f8d8cf4d03b" title=" " alt="" coords="222,464,390,505"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,626,264,512,267,516,120,631"/>
+<area shape="rect" id="Node000006" href="$group__ControlAPI.html#ga35f69faaee3bb9b958ed8c9a5f62246c" title=" " alt="" coords="931,391,1000,417"/>
+<area shape="poly" id="edge30_Node000001_Node000006" title=" " alt="" coords="127,668,217,714,278,739,345,762,417,779,490,787,564,784,600,778,635,767,681,748,718,729,748,708,775,686,823,631,881,557,903,525,923,491,951,430,956,433,927,494,908,528,885,560,827,634,778,690,752,713,721,734,683,753,637,772,602,783,565,790,490,793,416,784,343,767,276,744,215,719,124,673"/>
+<area shape="rect" id="Node000013" href="$classJack_1_1JackConnectionManager.html#aef6358f881fc41ba495530d79f4cfba0" title="Check if port_src and port_dst are connected." alt="" coords="438,557,636,598"/>
+<area shape="poly" id="edge29_Node000001_Node000013" title=" " alt="" coords="174,633,422,593,423,598,174,639"/>
+<area shape="rect" id="Node000015" href="$classJack_1_1JackAtomicState.html#a7fddfaea02d6b0a7b18f901d5caa4f27" title=" " alt="" coords="450,622,625,677"/>
+<area shape="poly" id="edge31_Node000001_Node000015" title=" " alt="" coords="174,647,434,647,434,652,174,652"/>
+<area shape="rect" id="Node000016" href="$classJack_1_1JackAtomicState.html#a3767b71ca8441a3b16762f925a016d4e" title=" " alt="" coords="450,702,625,757"/>
+<area shape="poly" id="edge32_Node000001_Node000016" title=" " alt="" coords="174,662,435,709,434,714,174,667"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackConnectionManager.html#a593a0448fa5b534f844b4f5697d6e7ea" title="Decrement the number of ports between 2 clients, if the 2 clients become disconnected,..." alt="" coords="438,127,636,167"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,463,325,412,351,345,387,271,410,236,436,204,474,173,478,177,440,207,414,239,392,274,355,347,330,414,315,464"/>
+<area shape="poly" id="edge26_Node000002_Node000006" title=" " alt="" coords="390,461,438,452,573,433,707,419,915,404,916,409,708,425,574,439,438,457,391,467"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackConnectionManager.html#a5ab34f1f67f7e83cc05e605435acee1b" title=" " alt="" coords="438,283,636,323"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="332,461,496,331,500,335,335,465"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1JackConnectionManager.html#add9a78ee4e29647c6b916881af09edec" title="Disconnect port_src from port_dst." alt="" coords="684,441,883,482"/>
+<area shape="poly" id="edge16_Node000002_Node000010" title=" " alt="" coords="390,478,669,464,669,470,391,483"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackGraphManager.html#acadb912d3e60715c12023f5ec9f9f440" title=" " alt="" coords="453,492,621,533"/>
+<area shape="poly" id="edge18_Node000002_Node000011" title=" " alt="" coords="391,492,438,498,437,503,390,497"/>
+<area shape="poly" id="edge22_Node000002_Node000013" title=" " alt="" coords="351,503,439,542,458,549,456,554,437,547,349,507"/>
+<area shape="rect" id="Node000014" href="$classJack_1_1JackConnectionManager.html#ae3457dfd4dec10d37bfdb39c6550c95c" title=" " alt="" coords="438,217,636,258"/>
+<area shape="poly" id="edge23_Node000002_Node000014" title=" " alt="" coords="312,462,329,422,355,370,391,316,412,291,436,269,443,264,447,268,440,273,416,294,395,319,359,372,333,424,317,464"/>
+<area shape="poly" id="edge27_Node000002_Node000015" title=" " alt="" coords="326,503,374,554,406,582,439,607,447,612,444,616,437,612,402,586,371,558,322,507"/>
+<area shape="poly" id="edge28_Node000002_Node000016" title=" " alt="" coords="318,503,335,542,361,591,397,642,440,688,444,691,440,695,436,691,392,646,357,594,330,544,313,506"/>
+<area shape="rect" id="Node000004" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="937,171,994,197"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="555,124,608,74,644,50,683,31,739,13,786,3,809,3,832,8,884,31,914,57,936,90,951,125,961,155,955,157,946,127,931,93,910,61,881,36,831,13,808,9,787,9,741,18,685,36,647,54,612,78,559,128"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackConnectionManager.html#a11feb9d453c4aefff1e217e711aa302c" title="Directly disconnect 2 reference numbers." alt="" coords="684,45,883,86"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="600,123,704,89,706,94,602,128"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="604,123,668,110,742,105,780,107,817,114,852,127,884,146,898,162,911,186,934,249,951,318,962,376,957,377,945,319,928,250,906,188,894,165,881,150,850,132,815,120,779,113,742,110,669,116,605,128"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackConnectionManager.html#a9a5a1f142c861186b51d3eb5fa9aaa99" title="Get the client refnum of a given input port." alt="" coords="684,160,883,201"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="637,158,669,162,668,167,637,163"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackConnectionManager.html#aa51c2120d507f8a20a89b2c29fcd4126" title="Get the client refnum of a given output port." alt="" coords="684,225,883,266"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="583,165,685,210,705,217,703,222,683,215,581,170"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="850,84,884,102,918,129,946,158,942,162,915,133,881,106,848,89"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="861,84,885,102,898,124,911,154,933,230,962,376,957,377,928,231,906,155,894,126,881,106,858,88"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="637,312,695,314,758,309,821,297,881,275,902,262,920,245,947,209,951,212,924,249,905,266,884,280,823,303,758,315,695,319,637,318"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="618,280,635,268,647,253,654,239,661,211,666,181,682,147,708,118,736,93,740,97,712,121,687,150,671,182,666,212,659,241,651,256,638,271,621,284"/>
+<area shape="poly" id="edge15_Node000009_Node000006" title=" " alt="" coords="627,321,916,390,915,395,626,326"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="612,280,635,267,649,254,658,240,667,226,683,211,692,206,695,210,686,216,671,229,663,243,654,257,638,272,615,284"/>
+<area shape="poly" id="edge14_Node000009_Node000008" title=" " alt="" coords="627,279,678,267,679,273,628,284"/>
+<area shape="poly" id="edge17_Node000010_Node000006" title=" " alt="" coords="849,438,915,417,917,422,851,443"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackGraphManager.html#a95789731e54c83a8426927477d19ee54" title=" " alt="" coords="699,507,868,547"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="622,515,684,518,684,524,622,520"/>
+<area shape="poly" id="edge20_Node000012_Node000004" title=" " alt="" coords="866,504,881,492,894,471,907,441,929,362,946,279,957,212,963,213,952,280,935,364,912,443,899,474,885,495,869,508"/>
+<area shape="poly" id="edge21_Node000012_Node000006" title=" " alt="" coords="858,504,881,491,917,461,944,428,948,432,920,465,884,496,861,508"/>
+<area shape="poly" id="edge24_Node000014_Node000007" title=" " alt="" coords="627,214,678,202,679,207,628,219"/>
+<area shape="poly" id="edge25_Node000014_Node000008" title=" " alt="" coords="637,238,669,239,669,244,637,243"/>
+</map>

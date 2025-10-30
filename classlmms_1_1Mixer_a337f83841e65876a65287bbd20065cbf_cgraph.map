@@ -1,0 +1,28 @@
+<map id="lmms::Mixer::masterMix" name="lmms::Mixer::masterMix">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,250,162,276"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1AudioEngineWorkerThread.html#ac2b91ac285fa6c13b5d67e16be6a2ad4" title=" " alt="" coords="210,5,422,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,249,101,211,126,160,162,105,184,79,208,57,215,52,218,56,211,61,187,83,166,108,131,162,106,213,92,251"/>
+<area shape="rect" id="Node000003" href="$namespacelmms_1_1MixHelpers.html#a2228375d0e587fd539ff06d6733edc01" title="Same as addMultiplied, but sanitize output (strip out infs/nans)." alt="" coords="214,71,418,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,248,136,187,169,152,208,121,216,116,219,121,211,125,173,155,140,191,95,251"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="229,136,403,161"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="98,248,145,210,176,189,209,171,227,164,229,169,211,176,178,194,148,214,101,252"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1AudioEngine.html#a2e8f2b74c9804e0ed7fa205b0b70530e" title=" " alt="" coords="247,185,384,226"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="138,247,231,224,232,229,139,252"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1Mixer.html#a2d930c9d213d88411028a1a7b74cbab5" title=" " alt="" coords="228,250,404,276"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="162,260,213,260,213,266,162,266"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1AudioEngineWorkerThread.html#a1eaaaa1f8f07f5da922f405f34d568ef" title=" " alt="" coords="210,300,422,341"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="139,274,217,293,215,298,138,279"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1AudioEngineWorkerThread.html#ac0901fc6ac0203e92ace0e59e53e9139" title=" " alt="" coords="210,365,422,406"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="102,274,149,311,211,350,226,357,224,362,208,355,146,316,98,278"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1ValueBuffer.html#a2bcbb8ae704d80bf3458f0e5f00dbd8f" title=" " alt="" coords="250,431,382,471"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="94,275,138,342,171,381,211,415,236,429,234,434,208,420,168,385,134,345,90,278"/>
+<area shape="rect" id="Node000013" href="$namespacelmms.html#ac8065613ede5ba1ee8bf89ab1f6ff180" title=" " alt="" coords="230,496,402,521"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="91,276,104,316,128,372,163,431,186,458,211,481,219,486,216,490,208,485,182,462,159,434,123,375,99,318,86,277"/>
+<area shape="rect" id="Node000004" href="$namespacelmms_1_1MixHelpers.html#a37bb874f090b9b3414c6a2afa7a77712" title="Add samples from src multiplied by coeffSrc to dst." alt="" coords="478,28,685,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,69,495,54,496,59,419,74"/>
+<area shape="rect" id="Node000005" href="$namespacelmms_1_1MixHelpers.html#ac8e0ae6d6039589e0ff762c602c772e5" title="Function for applying MIXOP on all sample frames." alt="" coords="741,53,890,78"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="418,83,726,68,726,73,418,89"/>
+<area shape="rect" id="Node000006" href="$namespacelmms_1_1MixHelpers.html#ac350b48816690312bf636a651545d7a5" title=" " alt="" coords="470,129,693,154"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="419,108,496,123,495,128,418,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="686,49,726,53,725,59,685,54"/>
+</map>

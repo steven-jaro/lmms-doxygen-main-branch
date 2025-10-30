@@ -1,0 +1,28 @@
+var structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator =
+[
+    [ "RenderingOpSequenceCalculator", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a24c9a147e643a603ddb300c586de4a0b", null ],
+    [ "createRenderingOpsForNode", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#aa7780c5ea9c2ea8369fb0489292a4fb4", null ],
+    [ "getBufferContaining", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a281825dc01afbf4239e95fd6bcb2310f", null ],
+    [ "getFreeBuffer", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a058553a3eefc28ca7f77dda22a1e4bca", null ],
+    [ "getInputLatencyForNode", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#ad2bcf98357d5a3a863fd2a6d1bd569b5", null ],
+    [ "getNodeDelay", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a672a9ead60fb86c5b2b71507ab048720", null ],
+    [ "getNumAudioBuffersNeeded", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a028e0e88a0c9e7efbbeaff99f4026c5b", null ],
+    [ "getNumCVBuffersNeeded", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a70e1e1d592051ffa2ffb104f9f47f179", null ],
+    [ "getNumMidiBuffersNeeded", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#acaf836194f23e118cc2446cfe647268b", null ],
+    [ "getReadOnlyEmptyBuffer", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a81f72e223b93845c61d5b2b9da9485d9", null ],
+    [ "isBufferNeededLater", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a50bcfe6d119b1290ef2f9eee242fc39f", null ],
+    [ "isNodeBusy", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a03c5c4a0c84bb8f6c16a9d2455053e0b", null ],
+    [ "markAnyUnusedBuffersAsFree", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a1a1cc300ca680adb2642577e59727edd", null ],
+    [ "markBufferAsContaining", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a45f0cfffd4f34f18ba0bcaaa2c2d48fd", null ],
+    [ "setNodeDelay", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#afc853d6563114cc53fa7569350020789", null ],
+    [ "audioChannels", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a06428f210f71a68699915f432eede640", null ],
+    [ "audioNodeIds", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a57e8ef46b7065e3af65405c3b28dd61d", null ],
+    [ "cvChannels", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a02763bbf19356f7e578d4d2dccc5acab", null ],
+    [ "cvNodeIds", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a631d6a3415062662157f44f4dec1b9fb", null ],
+    [ "graph", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#af9ae130a48d77c0a92be29e123388e0d", null ],
+    [ "midiNodeIds", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#aefacaa2ddb5009eca86f911d452b883b", null ],
+    [ "nodeDelayIDs", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a2c435b50e7e2f690ac2825df44534829", null ],
+    [ "nodeDelays", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a8003a62ce6c00ee69268e722e4b186ec", null ],
+    [ "orderedNodes", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#a57c408b2eff8115514de8f7a8c86d7e1", null ],
+    [ "totalLatency", "structwater_1_1GraphRenderingOps_1_1RenderingOpSequenceCalculator.html#ad1336f02a8da3925a3c7b4af826232e2", null ]
+];

@@ -1,0 +1,15 @@
+<map id="calf_plugins::line_graph_param_control::get" name="calf_plugins::line_graph_param_control::get">
+<area shape="rect" id="Node000001" title="called to transfer the value from control to parameter(s)" alt="" coords="5,104,179,145"/>
+<area shape="rect" id="Node000002" href="$structcalf__plugins_1_1parameter__properties.html#a8ef02cfc242e76281571543606897da8" title="convert from [0, 1] range to [min, max] (applying scaling)" alt="" coords="227,47,381,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,101,211,90,212,95,170,107"/>
+<area shape="rect" id="Node000006" href="$gui__controls_8cpp.html#aed8ad8ec6e45ee05e0891b56a820c679" title=" " alt="" coords="260,112,348,138"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="179,122,244,122,244,128,179,128"/>
+<area shape="rect" id="Node000007" href="$gui__controls_8cpp.html#a3365dbb2f317c0606a324660050f73c1" title=" " alt="" coords="260,161,348,187"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="180,142,245,158,244,163,178,148"/>
+<area shape="rect" id="Node000003" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="434,5,492,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,44,419,29,420,34,372,49"/>
+<area shape="rect" id="Node000004" href="$namespacedsp.html#ad310e31e6431e2004822d08b40ee5111" title="Clip a value to [min, max]." alt="" coords="429,55,497,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,65,413,65,413,70,382,70"/>
+<area shape="rect" id="Node000005" href="$unzipfx-carla-control_2unzip_8h.html#a6146ec4ac32d62cf01b4c4c6587d5131" title=" " alt="" coords="444,104,482,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="372,86,430,104,428,109,371,91"/>
+</map>

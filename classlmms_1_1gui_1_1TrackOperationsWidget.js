@@ -1,0 +1,27 @@
+var classlmms_1_1gui_1_1TrackOperationsWidget =
+[
+    [ "TrackOperationsWidget", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a6eab838e5c8931c8c2b63ddf83b8b784", null ],
+    [ "~TrackOperationsWidget", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a438e7fb925dd34169be17d2430142acc", null ],
+    [ "clearTrack", "classlmms_1_1gui_1_1TrackOperationsWidget.html#ae81a9747fac7f08d26e6be97a16c2830", null ],
+    [ "cloneTrack", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a9d11e2aea589cf03a6e839e15c06ca1a", null ],
+    [ "confirmRemoval", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a96b51c9b8154ee1cae512a001b620633", null ],
+    [ "getTrackGrip", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a18195b2c8fbaec93004fad3a8e8650cb", null ],
+    [ "mousePressEvent", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a5c90e4c50324d2364ff22947a8b64c8c", null ],
+    [ "paintEvent", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a4bb99e89f2736f6cff6dc9578625594c", null ],
+    [ "randomizeTrackColor", "classlmms_1_1gui_1_1TrackOperationsWidget.html#aa3e4d907c690100051cf8b6282be51c8", null ],
+    [ "recordingOff", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a2909946b2daf8eca16e51cf5268abbbd", null ],
+    [ "recordingOn", "classlmms_1_1gui_1_1TrackOperationsWidget.html#ad05861082b4c811efbfe005352f0ef5b", null ],
+    [ "removeTrack", "classlmms_1_1gui_1_1TrackOperationsWidget.html#afd6fafd0f5113554edc48524f570952f", null ],
+    [ "resetClipColors", "classlmms_1_1gui_1_1TrackOperationsWidget.html#af34a03066ba118a8972fc8fa8b22e04a", null ],
+    [ "resetTrackColor", "classlmms_1_1gui_1_1TrackOperationsWidget.html#aef166ea0405b9e25672be87ea80af2d2", null ],
+    [ "selectTrackColor", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a407d30260395c20f209b459889aece42", null ],
+    [ "toggleRecording", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a160d9b5ef54a7398e7c136989d1ec0f1", null ],
+    [ "trackRemovalScheduled", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a8fe0f2a6cae12ba4b9d1613bd9241872", null ],
+    [ "updateMenu", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a91dab9b7d2cc86926a67e0b8f4a0c04e", null ],
+    [ "TrackView", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a223252baf64a094686b1f614202af094", null ],
+    [ "m_muteBtn", "classlmms_1_1gui_1_1TrackOperationsWidget.html#ac9c4288af4df523de75a3bd2ff7c41a3", null ],
+    [ "m_soloBtn", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a722ce9d0107a78b789a57f48c62d1163", null ],
+    [ "m_trackGrip", "classlmms_1_1gui_1_1TrackOperationsWidget.html#aa7e318cacca591ba697e50d9b64e6893", null ],
+    [ "m_trackOps", "classlmms_1_1gui_1_1TrackOperationsWidget.html#abd42bca886f54d7f54aece368ee3cb44", null ],
+    [ "m_trackView", "classlmms_1_1gui_1_1TrackOperationsWidget.html#a3e9a39748f008565975488de71ecd0e9", null ]
+];

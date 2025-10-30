@@ -1,0 +1,26 @@
+var classMulti__Buffer =
+[
+    [ "channel_t", "structMulti__Buffer_1_1channel__t.html", "structMulti__Buffer_1_1channel__t" ],
+    [ "Multi_Buffer", "classMulti__Buffer.html#a74f59f6ee70d8475d4f1953bd1c1d860", null ],
+    [ "~Multi_Buffer", "classMulti__Buffer.html#afcb534fb042cc0b7395f71af1035bda8", null ],
+    [ "Multi_Buffer", "classMulti__Buffer.html#a5cb0d80729802e5d5e5f90e1539b43d3", null ],
+    [ "bass_freq", "classMulti__Buffer.html#ad6637700c68be3d8f1e2d32fcd9054ce", null ],
+    [ "channel", "classMulti__Buffer.html#acffec2513d6dcb228e87d7ce17b24466", null ],
+    [ "channels_changed", "classMulti__Buffer.html#a8a6db3bfc1f66ab0a773de1e0809b1a6", null ],
+    [ "channels_changed_count", "classMulti__Buffer.html#a96e4141ee32dcc088d4e1d80a179e9ed", null ],
+    [ "clear", "classMulti__Buffer.html#addf481893903303d9ff8c133ca15feaf", null ],
+    [ "clock_rate", "classMulti__Buffer.html#a2d7d91da036bf89ffc248e6d81148181", null ],
+    [ "end_frame", "classMulti__Buffer.html#ac120b732c553ec6709bc7e3942b555a3", null ],
+    [ "length", "classMulti__Buffer.html#a096cd735dd54bd18c52b3e502f519581", null ],
+    [ "operator=", "classMulti__Buffer.html#a1cc7e0277ca0e6c685357d3bf3d6ae03", null ],
+    [ "read_samples", "classMulti__Buffer.html#a3075495c602d14c6a6e61b8253759abf", null ],
+    [ "sample_rate", "classMulti__Buffer.html#a23185294db46b6a1d80798b896f45be7", null ],
+    [ "samples_avail", "classMulti__Buffer.html#ab2e37f0edf33e1402da0f46edf384745", null ],
+    [ "samples_per_frame", "classMulti__Buffer.html#adcbb47f88acf073ed6742c0e6b0540c4", null ],
+    [ "set_channel_count", "classMulti__Buffer.html#a635245822ae968b407c5e69106a7c67b", null ],
+    [ "set_sample_rate", "classMulti__Buffer.html#ad884c446ce87019d8f97916914f06a11", null ],
+    [ "channels_changed_count_", "classMulti__Buffer.html#a0a8ee27ee4266569b44de4f2f5731851", null ],
+    [ "length_", "classMulti__Buffer.html#a07a4226d2e81d61b69af96f7980e56bd", null ],
+    [ "sample_rate_", "classMulti__Buffer.html#a6611a063aac7c3fdc66c05b02cdb693c", null ],
+    [ "samples_per_frame_", "classMulti__Buffer.html#a0f9026059737f68f9fb22cedf2647eef", null ]
+];

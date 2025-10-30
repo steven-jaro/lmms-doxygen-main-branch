@@ -1,0 +1,58 @@
+<map id="lmms::gui::StringPairDrag::processDragEnterEvent" name="lmms::gui::StringPairDrag::processDragEnterEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="744,382,911,422"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1AutomationClipView.html#ae57bccf37b5057b1e6882da4122dda6a" title=" " alt="" coords="267,64,438,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="823,366,817,293,799,202,782,155,760,110,731,70,695,38,658,19,618,10,576,9,534,14,493,25,455,38,392,66,389,62,453,33,491,20,533,9,576,4,619,4,660,14,698,33,735,67,765,108,787,153,804,200,823,293,829,366"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1AutomationEditorWindow.html#aad956830a397569a5403ff138c9132f9" title=" " alt="" coords="502,47,684,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="818,367,805,309,781,238,745,166,722,132,695,103,677,91,680,86,698,99,726,129,750,163,786,236,810,308,823,366"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1AutomationTrackView.html#abd331526c4b5508c64669ff45f8a3644" title=" " alt="" coords="502,112,684,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="813,368,797,323,772,269,738,215,718,190,695,168,675,156,678,151,698,164,721,186,742,211,777,266,802,320,818,366"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1ClipView.html#a48c3a8c6046c05e70b114cedd11c2ec5" title="Change the ClipView&#39;s display when something being dragged enters it." alt="" coords="526,202,660,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="801,371,755,316,726,288,695,263,659,244,662,240,698,259,730,284,759,313,805,368"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1SampleClipView.html#acfec946f3a7d3b2a5141a60db61d5599" title=" " alt="" coords="264,231,441,272"/>
+<area shape="poly" id="edge23_Node000001_Node000006" title=" " alt="" coords="792,373,748,338,695,307,631,285,564,270,499,261,441,256,442,251,500,256,565,265,633,280,697,302,751,333,796,369"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1EnvelopeAndLfoView.html#ad024090c85b95da6a75b45a846fde3d9" title=" " alt="" coords="504,316,682,357"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="737,380,668,360,670,355,738,375"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#affc3aa4e5cbfe48f617fed10e5cf51e4" title=" " alt="" coords="504,382,683,422"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="729,405,683,405,683,399,729,399"/>
+<area shape="rect" id="Node000028" href="$classlmms_1_1gui_1_1Graph.html#ac9af1bee0aeb454ce9910d6d4ad6ee0e" title=" " alt="" coords="504,447,682,488"/>
+<area shape="poly" id="edge19_Node000001_Node000028" title=" " alt="" coords="738,430,670,449,668,444,737,425"/>
+<area shape="rect" id="Node000031" href="$classlmms_1_1gui_1_1SampleTrackView.html#a0559cccbf4b05a6f235d32ac1bc169f7" title=" " alt="" coords="499,512,687,553"/>
+<area shape="poly" id="edge24_Node000001_Node000031" title=" " alt="" coords="794,435,749,469,698,502,669,514,667,510,695,497,746,465,790,431"/>
+<area shape="rect" id="Node000032" href="$classlmms_1_1gui_1_1TrackContainerView.html#aba2be189fe82e5e69a390c8348b573af" title=" " alt="" coords="508,578,678,618"/>
+<area shape="poly" id="edge25_Node000001_Node000032" title=" " alt="" coords="810,437,764,503,733,537,698,567,675,580,673,575,695,563,730,533,760,500,805,434"/>
+<area shape="rect" id="Node000033" href="$classlmms_1_1gui_1_1TrackContentWidget.html#ad0a29c6803b01ef2cd0d1cad1c435e05" title="Respond to a drag enter event on the trackContentWidget." alt="" coords="493,643,693,684"/>
+<area shape="poly" id="edge26_Node000001_Node000033" title=" " alt="" coords="818,438,801,482,776,534,741,587,698,632,678,645,675,640,695,628,737,583,771,531,796,480,813,436"/>
+<area shape="rect" id="Node000034" href="$classlmms_1_1gui_1_1TrackView.html#a187ed0c25e88737f9b0770b648f51c0e" title="Start a drag event on this track View." alt="" coords="521,708,665,749"/>
+<area shape="poly" id="edge27_Node000001_Node000034" title=" " alt="" coords="823,438,809,495,785,564,749,635,726,668,698,698,667,716,664,712,695,693,721,665,745,633,780,562,804,493,818,437"/>
+<area shape="rect" id="Node000036" href="$classlmms_1_1gui_1_1InstrumentTrackWindow.html#af8b9e8dc5b010589f9694a9e5956a512" title=" " alt="" coords="490,774,696,814"/>
+<area shape="poly" id="edge29_Node000001_Node000036" title=" " alt="" coords="826,438,816,506,794,593,778,639,757,684,730,726,698,763,681,775,678,771,695,759,726,722,752,681,773,637,789,592,811,505,821,438"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="540,196,489,167,388,108,390,103,491,162,543,192"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="631,189,617,183,593,180,571,182,557,187,552,193,554,201,549,202,547,192,554,183,570,177,593,175,618,178,633,184"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="511,235,442,243,441,238,511,229"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#acaad408e2de4d3389e731e9ed252626f" title=" " alt="" coords="263,354,442,394"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="488,393,442,387,443,382,488,387"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1TempoSyncBarModelEditor.html#a9119000ecaba7ebdfd2c9f7d0d625af6" title=" " alt="" coords="7,158,213,198"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="316,345,261,285,247,264,239,246,230,230,213,214,193,201,195,197,216,209,234,227,243,244,252,262,265,282,320,341"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1TempoSyncKnob.html#a23ed79ef085fdc8806705bdc45ca2fee" title=" " alt="" coords="19,223,201,264"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="314,346,267,312,213,279,185,267,187,262,216,274,270,307,317,342"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1Draggable.html#ae79d9fcd6491e9b23860665efd714470" title=" " alt="" coords="40,288,180,329"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="259,352,180,330,181,325,260,347"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#ac2eb4e42abbe376fdff1baf709f7a532" title=" " alt="" coords="20,354,200,394"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="247,386,200,386,200,380,247,380"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1gui_1_1AudioFileProcessorWaveView_1_1knob.html#a3df09d0ba36e57d1e0ab42c0b7998daf" title=" " alt="" coords="12,419,208,460"/>
+<area shape="poly" id="edge16_Node000009_Node000015" title=" " alt="" coords="260,402,189,421,188,416,259,396"/>
+<area shape="rect" id="Node000027" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#a697f842e73f3799ccf6ec38b3439b2f0" title=" " alt="" coords="20,484,200,525"/>
+<area shape="poly" id="edge17_Node000009_Node000027" title=" " alt="" coords="327,407,277,448,216,486,201,493,199,488,213,481,274,444,323,403"/>
+<area shape="poly" id="edge15_Node000014_Node000009" title=" " alt="" coords="215,363,262,363,262,368,215,368"/>
+<area shape="poly" id="edge18_Node000027_Node000009" title=" " alt="" coords="165,477,213,457,267,425,313,393,316,397,270,430,216,462,167,481"/>
+<area shape="rect" id="Node000029" href="$classlmms_1_1gui_1_1Graph.html#af32880839c3dae114a3a77026a697dab" title=" " alt="" coords="273,557,432,583"/>
+<area shape="poly" id="edge20_Node000028_Node000029" title=" " alt="" coords="510,496,491,503,430,532,379,559,376,554,427,527,489,498,508,491"/>
+<area shape="rect" id="Node000030" href="$classlmms_1_1gui_1_1Graph.html#ace4617ae7f91699011ec25856b7a8405" title=" " alt="" coords="5,550,215,590"/>
+<area shape="poly" id="edge21_Node000029_Node000030" title=" " alt="" coords="257,582,215,582,215,576,257,576"/>
+<area shape="poly" id="edge22_Node000030_Node000029" title=" " alt="" coords="230,558,273,559,272,564,230,564"/>
+<area shape="rect" id="Node000035" href="$classlmms_1_1gui_1_1InstrumentTrackView.html#a2f3b9d47856d92d1109ca9b61e25a347" title=" " alt="" coords="264,708,441,749"/>
+<area shape="poly" id="edge28_Node000034_Node000035" title=" " alt="" coords="506,731,442,731,442,726,506,726"/>
+<area shape="poly" id="edge30_Node000036_Node000035" title=" " alt="" coords="501,772,429,752,431,747,502,767"/>
+<area shape="rect" id="Node000037" href="$classlmms_1_1gui_1_1InstrumentTrackWindow.html#a7bc7681699326baed92b53f34e862b83" title=" " alt="" coords="264,774,441,814"/>
+<area shape="poly" id="edge31_Node000036_Node000037" title=" " alt="" coords="474,797,441,797,441,791,474,791"/>
+</map>

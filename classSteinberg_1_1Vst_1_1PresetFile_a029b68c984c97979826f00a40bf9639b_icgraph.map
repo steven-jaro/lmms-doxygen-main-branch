@@ -1,0 +1,58 @@
+<map id="Steinberg::Vst::PresetFile::getEntry" name="Steinberg::Vst::PresetFile::getEntry">
+<area shape="rect" id="Node000001" title="Returns an entry for a given chunk type." alt="" coords="651,496,819,537"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a20a23ee19c5ca519c7827b9af59d127c" title="Checks if a given chunk type exist in the stream." alt="" coords="436,267,603,307"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="716,483,672,403,640,360,602,322,583,310,586,306,605,318,644,357,676,400,721,480"/>
+<area shape="rect" id="Node000015" href="$classSteinberg_1_1Vst_1_1PresetFile.html#aace9cd190cac35377a8c2f1b5c08e3f0" title=" " alt="" coords="436,397,603,438"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="680,491,602,453,573,441,575,436,604,449,682,486"/>
+<area shape="rect" id="Node000016" href="$classSteinberg_1_1Vst_1_1PresetFile.html#ac7ac6c9c42792e10729a344b9d7955b5" title="checks if meta info chunk is the last one and jump to correct position." alt="" coords="436,332,603,373"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="706,486,660,436,602,388,580,376,582,371,605,383,664,432,710,482"/>
+<area shape="rect" id="Node000017" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a36fac9dfd4c608d5c18e1ab561990cc1" title=" " alt="" coords="436,463,603,503"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="635,504,604,499,604,493,636,498"/>
+<area shape="rect" id="Node000018" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a8b069ae74faa224327938e731a0e16d1" title="Restores the component state." alt="" coords="436,37,603,78"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="723,481,705,418,679,336,644,245,601,158,571,115,540,80,544,77,575,112,606,155,649,243,684,334,710,416,728,480"/>
+<area shape="rect" id="Node000019" href="$classSteinberg_1_1Vst_1_1PresetFile.html#abeaade1bf6bf1da2ace3d35d37346828" title="Restores the component state and apply it to the controller." alt="" coords="436,528,603,569"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="636,534,604,538,604,533,635,528"/>
+<area shape="rect" id="Node000020" href="$classSteinberg_1_1Vst_1_1PresetFile.html#ad770aab7ddb3e4e1b1270aec5b73421e" title="Restores the controller state." alt="" coords="436,168,603,209"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="719,483,675,377,641,315,601,257,577,232,551,211,554,207,581,228,605,253,646,312,679,374,724,480"/>
+<area shape="rect" id="Node000021" href="$classSteinberg_1_1Vst_1_1PresetFile.html#af758b7ed56f4176da5dddb8e90ca82cd" title=" " alt="" coords="436,593,603,634"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="681,546,604,583,575,595,573,590,602,578,679,541"/>
+<area shape="rect" id="Node000022" href="$classSteinberg_1_1Vst_1_1PresetFile.html#aee57f575a54adc49ff2355b21246b4c5" title=" " alt="" coords="436,659,603,699"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="710,551,663,600,605,648,582,660,580,656,602,643,660,596,706,547"/>
+<area shape="rect" id="Node000023" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a1f23c5437125bd1431a964e9bf3c0b49" title=" " alt="" coords="436,724,603,765"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="721,552,676,632,643,675,605,713,585,726,582,721,602,709,639,672,671,629,716,549"/>
+<area shape="rect" id="Node000024" href="$classSteinberg_1_1Vst_1_1PresetFile.html#ac133db44700d4a2c7277598079046bdd" title="Seeks to the begin of the Component State." alt="" coords="436,789,603,830"/>
+<area shape="poly" id="edge30_Node000001_Node000024" title=" " alt="" coords="727,553,711,602,686,663,651,724,629,753,605,778,587,791,584,787,602,774,625,749,647,721,681,660,706,601,722,551"/>
+<area shape="rect" id="Node000025" href="$classSteinberg_1_1Vst_1_1PresetFile.html#abf0fa72ce1893b6d156a9f6efd2f35f1" title="Seeks to the begin of the Controller State." alt="" coords="436,855,603,895"/>
+<area shape="poly" id="edge31_Node000001_Node000025" title=" " alt="" coords="731,553,719,614,695,692,658,772,634,810,605,844,589,856,585,852,601,840,630,807,654,770,690,690,713,613,726,552"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a0867dbbdb1421c72fef9c237d58775f3" title=" " alt="" coords="221,5,388,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,259,450,242,434,222,422,199,415,177,413,137,408,99,400,81,386,61,371,49,375,44,390,57,405,78,413,98,418,137,421,176,427,197,438,219,454,238,473,255"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a942163e451756a12ead30b2f27d66303" title="Stores the component state from stream (only one time)." alt="" coords="221,463,388,503"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="441,319,438,322,426,338,419,354,415,385,410,418,403,435,390,452,374,464,371,460,386,448,398,432,405,416,409,385,414,352,421,335,434,319,438,315"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a4efa0c8864abcfbe71a434b1b46e2e84" title="Stores the component state (only one time)." alt="" coords="221,528,388,569"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="441,319,438,322,422,346,415,370,415,418,415,466,407,491,390,517,375,529,372,525,386,513,402,489,409,465,409,418,409,369,417,344,434,319,437,315"/>
+<area shape="rect" id="Node000008" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a33b10e2d05cab005952e6d69badd1af7" title="Stores the controller state from stream (only one time)." alt="" coords="221,71,388,111"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="473,259,434,222,418,195,411,171,404,149,386,126,369,114,372,110,390,122,408,146,416,170,423,193,438,219,476,255"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1Vst_1_1PresetFile.html#abfe54cba8e3fa2d8d2162289f5ed5e62" title="Stores the controller state (only one time)." alt="" coords="221,136,388,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="481,259,437,225,387,192,362,180,364,175,389,187,440,221,485,255"/>
+<area shape="rect" id="Node000010" href="$classSteinberg_1_1Vst_1_1PresetFile.html#af974dadf50dbcd29fc3fdebeda47bd0b" title=" " alt="" coords="221,201,388,242"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="435,264,373,245,375,240,437,259"/>
+<area shape="rect" id="Node000011" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a6c93ad6a0baf635fb4f49ee1bad70855" title=" " alt="" coords="221,267,388,307"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="420,290,389,290,389,284,420,284"/>
+<area shape="rect" id="Node000012" href="$classSteinberg_1_1Vst_1_1PresetFile.html#adc001ef6e41b84eeb56db98674303af5" title=" " alt="" coords="221,332,388,373"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="437,315,375,334,373,329,435,310"/>
+<area shape="rect" id="Node000013" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a34b57ec0611ecadc59e0b8827ff4e995" title=" " alt="" coords="221,397,388,438"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="445,317,438,322,423,338,414,354,406,370,390,386,369,399,367,395,386,382,401,367,410,351,418,335,434,318,442,313"/>
+<area shape="rect" id="Node000014" href="$classSteinberg_1_1Vst_1_1PresetFile.html#a24b3226678eccd5d054ee3b3666d4f1d" title=" " alt="" coords="221,593,388,634"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="440,319,438,322,418,355,410,387,410,418,415,450,419,482,419,514,411,548,390,582,376,595,372,591,386,579,406,546,414,514,414,482,409,451,405,419,405,386,413,353,434,319,436,316"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1Vst_1_1PresetFile.html#afaddc14d74172b7b28a85481d588e7d2" title=" " alt="" coords="5,496,173,537"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,536,173,531,174,526,206,531"/>
+<area shape="rect" id="Node000007" href="$classSteinberg_1_1Vst_1_1PresetFile.html#af3f23b1bed18cdcc1f48d60cf5b186cb" title=" " alt="" coords="5,561,173,602"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="206,566,174,571,173,566,205,561"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="227,188,223,192,192,228,166,269,145,312,129,356,106,437,96,496,90,495,101,436,124,354,141,310,162,266,188,225,219,188,223,184"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="225,189,223,191,207,215,197,237,188,282,191,325,199,368,208,412,211,457,202,502,191,526,175,550,161,563,157,559,171,547,186,523,196,501,205,456,203,413,194,370,186,326,183,281,192,236,203,212,219,188,221,185"/>
+<area shape="poly" id="edge16_Node000014_Node000006" title=" " alt="" coords="233,589,219,583,171,552,145,540,147,535,174,547,222,578,235,584"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="205,602,173,597,174,592,206,596"/>
+<area shape="poly" id="edge20_Node000016_Node000014" title=" " alt="" coords="441,384,438,387,422,412,415,435,415,483,415,531,407,557,390,582,375,595,372,591,386,579,402,554,409,531,409,483,409,435,417,409,434,384,437,381"/>
+<area shape="poly" id="edge23_Node000018_Node000003" title=" " alt="" coords="420,46,388,41,389,36,421,40"/>
+<area shape="poly" id="edge26_Node000020_Node000003" title=" " alt="" coords="490,158,445,109,387,61,364,49,367,44,389,57,448,105,494,154"/>
+</map>

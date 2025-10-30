@@ -1,0 +1,18 @@
+<map id="calf_plugins::monocompressor_audio_module" name="calf_plugins::monocompressor_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,2146,462,2507"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="165,1396,373,2097"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,2111,341,2146,335,2147,329,2112"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1monocompressor__metadata.html" title=" " alt="" coords="37,941,223,1023"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,1036,208,1396,203,1397,137,1037"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="5,8,188,587"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,602,131,941,126,942,109,602"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="212,5,378,590"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="293,605,278,1397,273,1396,287,604"/>
+<area shape="rect" id="Node000008" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="306,639,514,1325"/>
+<area shape="poly" id="edge7_Node000008_Node000007" title=" " alt="" coords="350,604,355,639,350,640,344,605"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="347,1340,336,1397,331,1396,341,1339"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="403,264,468,331"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="436,345,426,639,420,639,431,345"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="397,1645,541,1848"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="452,1863,402,2147,397,2146,446,1862"/>
+</map>

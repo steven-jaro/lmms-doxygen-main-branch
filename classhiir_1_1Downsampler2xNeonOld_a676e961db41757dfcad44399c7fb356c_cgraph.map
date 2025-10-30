@@ -1,0 +1,31 @@
+<map id="hiir::Downsampler2xNeonOld::process_block_split" name="hiir::Downsampler2xNeonOld::process_block_split">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,193,157"/>
+<area shape="rect" id="Node000002" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="541,175,598,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,144,526,180,525,186,193,149"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1Downsampler2xNeonOld.html#ac3f1dd58d6c1158a33ffb0546c948e0d" title=" " alt="" coords="241,59,428,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,113,233,101,234,107,186,119"/>
+<area shape="rect" id="Node000004" href="$classhiir_1_1Downsampler2xNeonOld.html#aaf9f9ee41d6a54e95f38aa420d6a2292" title=" " alt="" coords="476,84,663,125"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="193,128,460,110,461,115,193,133"/>
+<area shape="rect" id="Node000006" href="$classhiir_1_1Downsampler2xNeonOld.html#af91fbacea5a74ea426ff0ad9a325828f" title=" " alt="" coords="476,19,663,60"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="116,114,167,64,202,40,240,21,298,7,359,3,418,6,472,13,471,18,417,11,359,8,299,12,242,26,204,44,170,68,120,118"/>
+<area shape="rect" id="Node000007" href="$classhiir_1_1Downsampler2xNeonOld.html#a1eadd2e510cfdadbe819921e1cb5c503" title=" " alt="" coords="241,224,428,265"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="142,155,242,204,269,216,266,220,240,209,139,160"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="290,59,288,49,295,40,311,34,334,32,360,35,375,41,373,46,358,40,334,38,312,40,298,44,293,50,295,58"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="429,87,461,90,460,96,428,92"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="428,61,460,55,461,61,429,66"/>
+<area shape="rect" id="Node000005" href="$namespacehiir.html#af46cace5bd3fa30c594a0c32053fbab4" title=" " alt="" coords="759,60,839,86"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="663,89,743,78,744,83,664,94"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="664,51,744,62,743,67,663,56"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="420,221,525,195,527,201,421,227"/>
+<area shape="rect" id="Node000008" href="$namespacehiir.html#ae628c30e55ebe84bd744c0fcf1c998bf" title=" " alt="" coords="935,259,1017,284"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="414,263,476,274,600,283,723,284,919,274,919,279,723,289,600,288,476,279,413,268"/>
+<area shape="rect" id="Node000009" href="$classhiir_1_1StageProcNeonV4.html#abccdb8f7b3d3ff0e5e220421bfb63f0e" title=" " alt="" coords="494,224,646,265"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="429,242,478,242,478,247,429,247"/>
+<area shape="rect" id="Node000010" href="$classhiir_1_1StageProcNeonV4.html#ad50aa153fd240751268e4892d79d6650" title=" " alt="" coords="711,224,887,265"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="646,242,696,242,696,247,646,247"/>
+<area shape="rect" id="Node000012" href="$namespacehiir.html#a67ca25eb4100731059e1d36c561a16c8" title=" " alt="" coords="936,205,1016,231"/>
+<area shape="poly" id="edge16_Node000009_Node000012" title=" " alt="" coords="634,221,662,210,686,197,711,186,760,177,799,175,887,186,929,197,928,202,886,191,798,180,760,182,712,191,688,202,664,215,636,226"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="887,255,920,260,919,266,887,261"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="765,224,763,215,769,206,781,200,799,198,818,200,830,207,827,211,817,205,799,203,782,205,772,210,769,216,770,223"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="887,229,920,224,921,229,887,234"/>
+</map>

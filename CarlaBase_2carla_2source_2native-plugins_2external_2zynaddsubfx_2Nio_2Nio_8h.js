@@ -1,0 +1,26 @@
+var CarlaBase_2carla_2source_2native_plugins_2external_2zynaddsubfx_2Nio_2Nio_8h =
+[
+    [ "zyncarla::Nio::getPostfix", "namespacezyncarla_1_1Nio.html#a15a971c27e36c395f1e76e901c55846e", null ],
+    [ "zyncarla::Nio::getSink", "namespacezyncarla_1_1Nio.html#a264a8b500895f74c6a9ead5eb5f07d7b", null ],
+    [ "zyncarla::Nio::getSinks", "namespacezyncarla_1_1Nio.html#a4c135cf9c2f2d256034da9b5ac2fb50b", null ],
+    [ "zyncarla::Nio::getSource", "namespacezyncarla_1_1Nio.html#ac97226a46a13d647f7edec81099036f4", null ],
+    [ "zyncarla::Nio::getSources", "namespacezyncarla_1_1Nio.html#a4e25f590622d97b8f5a966aa109d2b8c", null ],
+    [ "zyncarla::Nio::init", "namespacezyncarla_1_1Nio.html#a0260e575fd3bfd9451b186bd789d155c", null ],
+    [ "zyncarla::Nio::masterSwap", "namespacezyncarla_1_1Nio.html#ab9c1c5b15aeb84c7296814787b1cf461", null ],
+    [ "zyncarla::Nio::preferedSampleRate", "namespacezyncarla_1_1Nio.html#a13c05a77ca9bc6715cc8f73ca8cc79b1", null ],
+    [ "zyncarla::Nio::setDefaultSink", "namespacezyncarla_1_1Nio.html#ae84414ab7679162d6ca37bf18239e325", null ],
+    [ "zyncarla::Nio::setDefaultSource", "namespacezyncarla_1_1Nio.html#af757f7034f46ddef074a8013e56bbd21", null ],
+    [ "zyncarla::Nio::setPostfix", "namespacezyncarla_1_1Nio.html#a7e865bfbca6f84b7d1b2703d37dfbf14", null ],
+    [ "zyncarla::Nio::setSink", "namespacezyncarla_1_1Nio.html#aba6b6f4817dd748c27a57e2e033312ff", null ],
+    [ "zyncarla::Nio::setSource", "namespacezyncarla_1_1Nio.html#ac0e05d7e243f73f0cc0662bb1d016601", null ],
+    [ "zyncarla::Nio::start", "namespacezyncarla_1_1Nio.html#a7731d3f7f310b92727b290922c1aeeac", null ],
+    [ "zyncarla::Nio::stop", "namespacezyncarla_1_1Nio.html#a1daf3adf79eebe81f530ec12c96295d7", null ],
+    [ "zyncarla::Nio::waveEnd", "namespacezyncarla_1_1Nio.html#a588fe6796bbf0593087a344fd88837a6", null ],
+    [ "zyncarla::Nio::waveNew", "namespacezyncarla_1_1Nio.html#a334b8e0f38e364611bb44f3600631700", null ],
+    [ "zyncarla::Nio::waveStart", "namespacezyncarla_1_1Nio.html#a5abe720088c1aac4d377e3a56c34a4aa", null ],
+    [ "zyncarla::Nio::waveStop", "namespacezyncarla_1_1Nio.html#aacd0af8fec5092923c24a0a6e1fc8105", null ],
+    [ "zyncarla::Nio::autoConnect", "namespacezyncarla_1_1Nio.html#ae79cbd4b2be6793e7f9c7ad8235df1e1", null ],
+    [ "zyncarla::Nio::defaultSink", "namespacezyncarla_1_1Nio.html#a02acd44264e142f0fa8b6c5f5cfa67b4", null ],
+    [ "zyncarla::Nio::defaultSource", "namespacezyncarla_1_1Nio.html#a9a23447d717143b7f77972d38e4db1ca", null ],
+    [ "zyncarla::Nio::pidInClientName", "namespacezyncarla_1_1Nio.html#adec1e071e1beb26a032b01851fa18488", null ]
+];

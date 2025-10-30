@@ -1,0 +1,35 @@
+<map id="hiir::StageProcNeonV4::StageProcNeonV4" name="hiir::StageProcNeonV4::StageProcNeonV4">
+<area shape="rect" id="Node000001" title=" " alt="" coords="664,185,817,226"/>
+<area shape="rect" id="Node000002" href="$classhiir_1_1StageProcNeonV4.html#a21e1219de282dcb0b74f3b8ac427e35b" title=" " alt="" coords="452,51,605,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="706,177,664,141,615,107,590,94,593,90,618,102,667,137,709,173"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1StageProcNeonV4.html#a3881a20507e0903b57420eae0764c068" title=" " alt="" coords="441,140,616,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="649,189,616,182,617,177,650,184"/>
+<area shape="rect" id="Node000009" href="$classhiir_1_1StageProcNeonV4.html#ad50aa153fd240751268e4892d79d6650" title=" " alt="" coords="441,229,616,270"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="650,227,617,234,616,229,649,222"/>
+<area shape="rect" id="Node000030" href="$classhiir_1_1StageProcNeonV4.html#af58487101316f0cbd8702db5cfa2b279" title=" " alt="" coords="452,295,605,335"/>
+<area shape="poly" id="edge17_Node000001_Node000030" title=" " alt="" coords="698,237,618,284,590,296,588,292,615,279,696,232"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="563,127,550,121,529,119,509,121,496,125,492,131,494,139,489,140,487,130,493,121,507,115,529,113,552,116,565,122"/>
+<area shape="rect" id="Node000004" href="$classhiir_1_1StageProcNeonV4.html#a4bea447aeeb5276252f0443c17c0cdda" title=" " alt="" coords="241,71,393,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,137,380,114,382,109,450,132"/>
+<area shape="rect" id="Node000005" href="$classhiir_1_1PhaseHalfPiNeon.html#ad41ae2606b4eeb1f57e0b8a1b13365d9" title=" " alt="" coords="25,5,173,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,68,169,49,170,44,233,63"/>
+<area shape="rect" id="Node000008" href="$classhiir_1_1PhaseHalfPiNeon.html#af38bc05790ab27c1cd37029d53ec53a6" title=" " alt="" coords="25,71,173,111"/>
+<area shape="poly" id="edge5_Node000004_Node000008" title=" " alt="" coords="225,94,174,94,174,88,225,88"/>
+<area shape="poly" id="edge16_Node000009_Node000009" title=" " alt="" coords="563,216,550,210,529,208,509,210,496,215,492,220,494,228,489,229,487,219,493,210,507,205,529,203,552,205,565,211"/>
+<area shape="rect" id="Node000010" href="$classhiir_1_1StageProcNeonV4.html#abccdb8f7b3d3ff0e5e220421bfb63f0e" title=" " alt="" coords="241,299,393,339"/>
+<area shape="poly" id="edge8_Node000009_Node000010" title=" " alt="" coords="450,278,382,301,380,296,449,273"/>
+<area shape="rect" id="Node000011" href="$classhiir_1_1HalfBandNeon.html#ad6a728772f7fe22127916a90da3f2174" title=" " alt="" coords="34,136,164,177"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="290,288,247,239,220,214,191,192,163,177,166,173,194,187,224,210,251,235,294,285"/>
+<area shape="rect" id="Node000019" href="$classhiir_1_1Downsampler2xNeonOld.html#a4043d47097b9ea6489bc50282c0b1aa2" title=" " alt="" coords="5,201,193,242"/>
+<area shape="poly" id="edge10_Node000010_Node000019" title=" " alt="" coords="264,293,192,257,161,245,163,240,194,253,267,289"/>
+<area shape="rect" id="Node000020" href="$classhiir_1_1HalfBandNeon.html#a175dda23ead2359a328fdfaeba8bb2ad" title=" " alt="" coords="26,267,172,307"/>
+<area shape="poly" id="edge11_Node000010_Node000020" title=" " alt="" coords="225,308,172,300,173,295,225,303"/>
+<area shape="rect" id="Node000021" href="$classhiir_1_1Upsampler2xNeonOld.html#aa692dba823e7064b28496c4b974f15a3" title=" " alt="" coords="13,332,185,373"/>
+<area shape="poly" id="edge12_Node000010_Node000021" title=" " alt="" coords="226,336,186,342,185,337,225,330"/>
+<area shape="rect" id="Node000024" href="$classhiir_1_1Downsampler2xNeonOld.html#a36edb015906015c5bd9553dc20b9237b" title=" " alt="" coords="5,397,193,438"/>
+<area shape="poly" id="edge13_Node000010_Node000024" title=" " alt="" coords="268,350,194,387,163,399,161,394,192,382,265,345"/>
+<area shape="rect" id="Node000027" href="$classhiir_1_1Upsampler2xNeonOld.html#a7ca10dd267bcabb4dfdea5f31cbedcfb" title=" " alt="" coords="13,463,185,503"/>
+<area shape="poly" id="edge14_Node000010_Node000027" title=" " alt="" coords="294,353,251,403,224,429,194,452,171,464,168,460,191,447,220,425,247,400,290,350"/>
+<area shape="rect" id="Node000028" href="$classhiir_1_1Downsampler2xNeonOld.html#a1eadd2e510cfdadbe819921e1cb5c503" title=" " alt="" coords="5,528,193,569"/>
+<area shape="poly" id="edge15_Node000010_Node000028" title=" " alt="" coords="304,355,287,393,263,436,232,479,194,517,174,530,172,525,191,513,228,476,258,433,282,390,300,353"/>
+</map>

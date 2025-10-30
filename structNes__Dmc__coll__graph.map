@@ -1,0 +1,29 @@
+<map id="Nes_Dmc" name="Nes_Dmc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="421,1529,541,2043"/>
+<area shape="rect" id="Node000004" href="$classNes__Apu.html" title=" " alt="" coords="263,2134,415,2932"/>
+<area shape="poly" id="edge15_Node000004_Node000001" title=" " alt="" coords="464,2043,454,2110,422,2258,417,2256,449,2110,459,2042"/>
+<area shape="rect" id="Node000002" href="$structNes__Osc.html" title=" " alt="" coords="292,895,401,1104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,1118,382,1300,414,1505,423,1551,418,1552,409,1505,377,1301,355,1119"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="293,1012,230,1028,158,1055,122,1074,89,1097,59,1123,35,1154,27,1175,21,1208,12,1306,8,1435,9,1580,21,1863,31,1972,42,2042,59,2097,81,2152,135,2257,196,2351,255,2430,251,2433,191,2354,130,2259,76,2154,54,2099,37,2043,26,1973,16,1863,4,1580,3,1435,7,1306,15,1207,22,1173,30,1152,55,1120,86,1092,119,1069,155,1050,228,1023,291,1007"/>
+<area shape="rect" id="Node000006" href="$structNes__Envelope.html" title=" " alt="" coords="212,1242,334,1369"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="320,1119,290,1243,285,1242,315,1118"/>
+<area shape="rect" id="Node000012" href="$structNes__Triangle.html" title=" " alt="" coords="565,1702,716,1870"/>
+<area shape="poly" id="edge13_Node000012_Node000002" title=" " alt="" coords="415,1025,457,1047,501,1075,542,1110,575,1152,609,1220,634,1293,650,1368,660,1444,664,1518,664,1587,655,1702,650,1702,658,1586,658,1518,654,1445,645,1369,629,1294,604,1222,570,1154,538,1113,498,1079,455,1051,413,1030"/>
+<area shape="rect" id="Node000003" href="$classBlip__Buffer.html" title=" " alt="" coords="274,5,419,824"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,824,349,878,343,878,343,824"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,2134,412,2066,415,2052,420,2053,417,2067,404,2135"/>
+<area shape="rect" id="Node000005" href="$structNes__Square.html" title=" " alt="" coords="174,1702,297,1870"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="248,1869,279,2110,280,2117,274,2118,273,2110,243,1870"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="269,1384,244,1702,239,1702,264,1384"/>
+<area shape="rect" id="Node000010" href="$structNes__Noise.html" title=" " alt="" coords="322,1742,397,1829"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="289,1383,354,1743,349,1743,284,1384"/>
+<area shape="rect" id="Node000007" href="$classBlip__Synth.html" title=" " alt="" coords="45,1153,183,1458"/>
+<area shape="poly" id="edge16_Node000004_Node000007" title=" " alt="" coords="82,1458,62,1585,49,1733,48,1810,51,1889,60,1967,76,2042,109,2144,155,2243,206,2334,256,2413,251,2416,201,2337,150,2246,104,2146,70,2043,55,1967,46,1889,43,1810,44,1732,57,1585,77,1457"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="155,1457,213,1685,208,1686,150,1459"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="358,1829,343,2067,342,2117,336,2117,338,2067,353,1829"/>
+<area shape="rect" id="Node000011" href="$classBlip__Synth.html" title=" " alt="" coords="425,1153,561,1458"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="492,1458,490,1512,485,1512,486,1458"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="434,1458,411,1530,387,1633,370,1726,365,1725,382,1632,406,1528,429,1457"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="542,1457,613,1685,608,1687,537,1459"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="617,1870,555,2044,490,2202,425,2352,420,2350,485,2200,550,2042,612,1869"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hiir::Upsampler2x8F64Avx512::process_block" name="hiir::Upsampler2x8F64Avx512::process_block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,198,68"/>
+<area shape="rect" id="Node000002" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="313,5,370,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,33,297,21,298,26,198,38"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1Upsampler2x8F64Avx512.html#ac56dd0d13e975e5e4231a4e211ec1736" title=" " alt="" coords="246,55,438,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,56,230,60,230,65,198,61"/>
+<area shape="rect" id="Node000004" href="$classhiir_1_1StageProc8F64Avx512.html#a0d6cd5b8f6f8cc96869054d881569f0c" title=" " alt="" coords="486,55,663,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,73,471,73,471,78,438,78"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="532,55,530,45,537,36,552,31,575,29,599,31,614,37,611,42,598,36,575,34,553,36,540,40,535,46,537,54"/>
+<area shape="rect" id="Node000005" href="$classhiir_1_1StageProc8F64Avx512.html#a90ac40de56d9aced2267cede5d0cc918" title=" " alt="" coords="711,55,889,96"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="663,73,696,73,696,78,663,78"/>
+</map>

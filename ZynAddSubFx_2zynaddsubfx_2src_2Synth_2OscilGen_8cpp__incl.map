@@ -1,0 +1,46 @@
+<map id="plugins/ZynAddSubFx/zynaddsubfx/src/Synth/OscilGen.cpp" name="plugins/ZynAddSubFx/zynaddsubfx/src/Synth/OscilGen.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="450,5,606,61"/>
+<area shape="rect" id="Node000002" href="$ZynAddSubFx_2zynaddsubfx_2src_2Synth_2OscilGen_8h.html" title=" " alt="" coords="140,109,225,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,56,241,109,240,104,449,51"/>
+<area shape="rect" id="Node000021" href="$ZynAddSubFx_2zynaddsubfx_2src_2Misc_2WaveShapeSmps_8h.html" title=" " alt="" coords="250,109,427,135"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="470,64,380,105,378,100,468,59"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="452,109,516,135"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="517,62,499,96,495,94,512,60"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="541,109,603,135"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="544,60,561,94,557,96,539,62"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="627,109,688,135"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="570,59,628,98,625,103,567,64"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="712,109,771,135"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="596,59,698,100,696,105,594,64"/>
+<area shape="rect" id="Node000003" href="$ZynAddSubFx_2zynaddsubfx_2src_2globals_8h.html" title=" " alt="" coords="298,551,380,577"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,138,102,156,57,184,37,201,22,221,12,243,8,268,8,418,10,439,16,457,37,488,69,513,109,531,153,544,199,553,282,560,282,565,198,558,152,549,107,536,66,517,33,492,11,459,5,440,3,418,3,268,7,242,17,218,34,198,54,180,99,152,143,133"/>
+<area shape="rect" id="Node000005" href="$ZynAddSubFx_2zynaddsubfx_2src_2Misc_2XMLwrapper_8h.html" title=" " alt="" coords="124,404,271,429"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="173,137,151,162,127,197,109,238,105,260,105,282,111,320,126,354,144,375,166,393,162,397,141,379,122,357,106,322,100,282,99,259,104,236,122,194,146,158,169,133"/>
+<area shape="rect" id="Node000011" href="$ZynAddSubFx_2zynaddsubfx_2src_2DSP_2FFTwrapper_8h.html" title=" " alt="" coords="426,256,568,282"/>
+<area shape="poly" id="edge7_Node000002_Node000011" title=" " alt="" coords="226,130,297,150,374,180,428,212,473,244,469,248,425,216,372,185,295,155,225,135"/>
+<area shape="rect" id="Node000014" href="$ZynAddSubFx_2zynaddsubfx_2src_2Params_2Presets_8h.html" title=" " alt="" coords="115,256,250,282"/>
+<area shape="poly" id="edge10_Node000002_Node000014" title=" " alt="" coords="185,135,185,241,180,241,180,135"/>
+<area shape="rect" id="Node000018" href="$ZynAddSubFx_2zynaddsubfx_2src_2Synth_2Resonance_8h.html" title=" " alt="" coords="265,183,362,208"/>
+<area shape="poly" id="edge14_Node000002_Node000018" title=" " alt="" coords="206,133,279,173,277,177,204,138"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="346,625,409,650"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,576,366,610,361,612,343,578"/>
+<area shape="rect" id="Node000006" href="$QtXmlWrapper_8h.html" title=" " alt="" coords="162,477,278,503"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="204,429,214,461,209,463,199,430"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="241,501,307,540,304,545,239,506"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="446,330,506,356"/>
+<area shape="poly" id="edge8_Node000011_Node000012" title=" " alt="" coords="496,283,487,316,481,314,491,281"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="529,330,599,356"/>
+<area shape="poly" id="edge9_Node000011_Node000013" title=" " alt="" coords="510,280,544,317,540,320,506,284"/>
+<area shape="poly" id="edge11_Node000014_Node000005" title=" " alt="" coords="169,284,154,298,140,316,132,335,135,355,148,375,167,393,163,396,144,379,129,357,127,334,136,313,150,295,166,280"/>
+<area shape="rect" id="Node000015" href="$ZynAddSubFx_2zynaddsubfx_2src_2Params_2PresetsStore_8h.html" title=" " alt="" coords="144,330,251,356"/>
+<area shape="poly" id="edge12_Node000014_Node000015" title=" " alt="" coords="188,282,194,314,189,315,182,283"/>
+<area shape="poly" id="edge13_Node000015_Node000005" title=" " alt="" coords="200,356,200,388,195,388,195,356"/>
+<area shape="poly" id="edge15_Node000018_Node000003" title=" " alt="" coords="319,208,333,265,339,303,341,341,341,418,341,535,336,535,336,418,336,342,334,303,328,266,314,209"/>
+<area shape="poly" id="edge19_Node000018_Node000005" title=" " alt="" coords="314,209,300,275,285,317,265,357,248,378,228,396,225,392,244,375,260,354,281,315,295,274,309,208"/>
+<area shape="poly" id="edge21_Node000018_Node000011" title=" " alt="" coords="346,206,453,248,451,253,344,211"/>
+<area shape="poly" id="edge20_Node000018_Node000014" title=" " alt="" coords="292,211,219,251,217,246,290,207"/>
+<area shape="rect" id="Node000019" href="$ZynAddSubFx_2zynaddsubfx_2src_2Misc_2Util_8h.html" title=" " alt="" coords="376,477,469,503"/>
+<area shape="poly" id="edge16_Node000018_Node000019" title=" " alt="" coords="326,207,343,229,360,255,383,311,400,368,421,461,416,463,395,369,378,313,355,258,339,232,322,210"/>
+<area shape="poly" id="edge18_Node000019_Node000003" title=" " alt="" coords="410,506,366,543,363,539,407,502"/>
+<area shape="poly" id="edge17_Node000019_Node000004" title=" " alt="" coords="422,504,388,610,383,609,416,503"/>
+</map>

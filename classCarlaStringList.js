@@ -1,0 +1,25 @@
+var classCarlaStringList =
+[
+    [ "CarlaStringList", "classCarlaStringList.html#ab6004b269fb67aef38cf557f6d943c88", null ],
+    [ "CarlaStringList", "classCarlaStringList.html#afb8d27abe91c7bb9716ae319d32885c9", null ],
+    [ "~CarlaStringList", "classCarlaStringList.html#ad2dea96a506b34350ad8e56711a06859", null ],
+    [ "append", "classCarlaStringList.html#a957bc6b3f6c4282cbfbb968abe35c2c9", null ],
+    [ "appendAt", "classCarlaStringList.html#a60511b3585e0ee1cf4958b1ca4200d61", null ],
+    [ "appendUnique", "classCarlaStringList.html#ac3842fbb6f6cbaaa49324ba6bcb7b5ec", null ],
+    [ "clear", "classCarlaStringList.html#a721c8da4678fd24c39734eb2eba0bb40", null ],
+    [ "contains", "classCarlaStringList.html#aaca3faa5f4cb47daf24d34f4956e6c5b", null ],
+    [ "containsAndReturnString", "classCarlaStringList.html#aaa56cb98d1b6b21b99b8d5e7373a18d1", null ],
+    [ "getAndRemoveFirst", "classCarlaStringList.html#a9982ef4023aba1c3f3d7da2dfe7826d8", null ],
+    [ "getAt", "classCarlaStringList.html#ad65e96e952a6edfffead442e09ec1ed9", null ],
+    [ "getFirst", "classCarlaStringList.html#a59f7c6fa8933169bf2a793e339b83d91", null ],
+    [ "getLast", "classCarlaStringList.html#a58752229ad2da987403ee617e410cc62", null ],
+    [ "insert", "classCarlaStringList.html#ab1598f49cd7b05d50ea6a937f4377122", null ],
+    [ "insertAt", "classCarlaStringList.html#ab039f16f71799e055d44085bd066a937", null ],
+    [ "operator=", "classCarlaStringList.html#af75943752c7de7b60c8224c54c36377a", null ],
+    [ "operator=", "classCarlaStringList.html#a93987d2e0b3b966c4521100775d71727", null ],
+    [ "remove", "classCarlaStringList.html#a4821e8b2df8227b4a3abd94c5f80ed9b", null ],
+    [ "removeAll", "classCarlaStringList.html#a473bd08c22279bb1778b55832f5101c9", null ],
+    [ "removeOne", "classCarlaStringList.html#a4d01fd122d351f93b0399eea3d5fc1ba", null ],
+    [ "toCharStringListPtr", "classCarlaStringList.html#acdd25cc41668c5c8df61d3318a0aba4d", null ],
+    [ "fAllocateElements", "classCarlaStringList.html#a1dc6544ee36dc7614353b80d6c3c323c", null ]
+];

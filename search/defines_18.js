@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['x_0',['X',['../juce__LV2Common_8h.html#ae617ec11710a628ecd412c46a933832c',1,'X:&#160;juce_LV2Common.h'],['../juce__LV2Common_8h.html#a7b9ad2df8b1ec764d4dfafd9a85ee73b',1,'X:&#160;juce_LV2Common.h']]],
+  ['xdb_5faudio_1',['XDB_AUDIO',['../nekobee_8h.html#a97ffb45086c088f7de960f4e17e1ca05',1,'nekobee.h']]],
+  ['xdb_5fdata_2',['XDB_DATA',['../nekobee_8h.html#ac3ec6fd3ff7f3cae5701ec924d3fd30b',1,'nekobee.h']]],
+  ['xdb_5fdssi_3',['XDB_DSSI',['../nekobee_8h.html#aa53343df87279ba892f193c48bcb76cb',1,'nekobee.h']]],
+  ['xdb_5fmessage_4',['XDB_MESSAGE',['../nekobee_8h.html#a15cece89daee13bd9f41e5d618dd9912',1,'nekobee.h']]],
+  ['xdb_5fnote_5',['XDB_NOTE',['../nekobee_8h.html#a1c5e3f67c08c4cf46eb3ffed2d47efdd',1,'nekobee.h']]],
+  ['xk_5fiso_5fleft_5ftab_6',['XK_ISO_Left_Tab',['../X11EmbedContainer_8cpp.html#a7decf7b5fdb54dc85b4e7bc9c852d40d',1,'X11EmbedContainer.cpp']]],
+  ['xk_5flatin1_7',['XK_LATIN1',['../X11EmbedContainer_8cpp.html#aec71542ec6598ecc619a2921296d5511',1,'X11EmbedContainer.cpp']]],
+  ['xk_5fmiscellany_8',['XK_MISCELLANY',['../X11EmbedContainer_8cpp.html#aeab6a095afeed0b9e64e415c5a5c669a',1,'X11EmbedContainer.cpp']]],
+  ['xmz_5fpath_5fmax_9',['XMZ_PATH_MAX',['../CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2globals_8h.html#a1e3ee2c84d07ac046d6b4d6d0c5b42c9',1,'globals.h']]],
+  ['xover_5fband_5fparams_10',['XOVER_BAND_PARAMS',['../metadata_8cpp.html#ab3354ab22fa9126c3301144edf71a2a1',1,'metadata.cpp']]],
+  ['xsynth_5fdebug_5finit_11',['XSYNTH_DEBUG_INIT',['../nekobee_8h.html#adef70bd1a4a3ca1e5f21792b8b9ebb95',1,'nekobee.h']]],
+  ['xsynth_5fdefault_5fpolyphony_12',['XSYNTH_DEFAULT_POLYPHONY',['../nekobee_8h.html#ad4d3dd34369420069ee3919063ee5f14',1,'nekobee.h']]],
+  ['xsynth_5fglide_5fmode_5falways_13',['XSYNTH_GLIDE_MODE_ALWAYS',['../nekobee__synth_8h.html#a162388826a1693de13a4ffe059f57b7d',1,'nekobee_synth.h']]],
+  ['xsynth_5fglide_5fmode_5finitial_14',['XSYNTH_GLIDE_MODE_INITIAL',['../nekobee__synth_8h.html#a50145eba4233d5b31fd594123da1ad51',1,'nekobee_synth.h']]],
+  ['xsynth_5fglide_5fmode_5fleftover_15',['XSYNTH_GLIDE_MODE_LEFTOVER',['../nekobee__synth_8h.html#acfc0f9d530cd00c605957e42623b1a88',1,'nekobee_synth.h']]],
+  ['xsynth_5fglide_5fmode_5flegato_16',['XSYNTH_GLIDE_MODE_LEGATO',['../nekobee__synth_8h.html#aa3b9b096278dd0876a966d1f59dc8bf8',1,'nekobee_synth.h']]],
+  ['xsynth_5fglide_5fmode_5foff_17',['XSYNTH_GLIDE_MODE_OFF',['../nekobee__synth_8h.html#a2a16b6f4f598b04df1a2a78f0b9721f5',1,'nekobee_synth.h']]],
+  ['xsynth_5fmax_5fpolyphony_18',['XSYNTH_MAX_POLYPHONY',['../nekobee_8h.html#a51b5fe4d298d4f14f79a79c41509a88e',1,'nekobee.h']]],
+  ['xsynth_5fmono_5fmode_5fboth_19',['XSYNTH_MONO_MODE_BOTH',['../nekobee__synth_8h.html#ad3694c5facab4130541f9fd4a6718133',1,'nekobee_synth.h']]],
+  ['xsynth_5fmono_5fmode_5foff_20',['XSYNTH_MONO_MODE_OFF',['../nekobee__synth_8h.html#abfa4bf4e8e9258607004201d06f9cdbc',1,'nekobee_synth.h']]],
+  ['xsynth_5fmono_5fmode_5fon_21',['XSYNTH_MONO_MODE_ON',['../nekobee__synth_8h.html#aa1ff2b5ece9f41a2c3549fb09ff7bf35',1,'nekobee_synth.h']]],
+  ['xsynth_5fmono_5fmode_5fonce_22',['XSYNTH_MONO_MODE_ONCE',['../nekobee__synth_8h.html#a2a56ddcf0625d9bab8ce5ad6fc461a07',1,'nekobee_synth.h']]],
+  ['xsynth_5fnugget_5fsize_23',['XSYNTH_NUGGET_SIZE',['../nekobee__voice_8h.html#a628c61c55ba2aa3f6754f1640bf2d43b',1,'nekobee_voice.h']]],
+  ['xsynth_5fsynth_5fsustained_24',['XSYNTH_SYNTH_SUSTAINED',['../nekobee__synth_8h.html#a67c1bcc4b2e8bff30fad3f9d64addc91',1,'nekobee_synth.h']]]
+];

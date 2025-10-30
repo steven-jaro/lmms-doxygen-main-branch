@@ -1,0 +1,55 @@
+<map id="lmms::gui::GranularPitchShifterControlDialog::GranularPitchShifterControlDialog" name="lmms::gui::GranularPitchShifterControlDialog::GranularPitchShifterControlDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,307,221,363"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1EffectControlDialog.html#a6cf38c2218f66d495c4f45a2c39be7cb" title=" " alt="" coords="277,76,450,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,305,188,231,226,188,267,149,305,122,308,127,270,153,229,192,192,234,135,308"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1ModelView.html#a327f035b406407a77b1f8fe1e7fdee3f" title=" " alt="" coords="775,56,922,97"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="119,306,135,252,165,184,184,150,208,116,235,87,267,62,330,31,397,12,466,4,536,4,604,10,668,21,775,48,774,53,667,26,604,16,536,9,467,9,398,18,331,36,270,66,239,91,212,120,189,152,169,187,140,254,124,307"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1PixmapButton.html#a47f5e24ef3b3106fe61b53ca2af1617b" title=" " alt="" coords="282,228,446,269"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="195,304,287,272,289,277,197,309"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1AutomatableButton.html#a5992dd765959dd28e1dcffce65a94840" title=" " alt="" coords="507,285,700,326"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="221,326,491,310,491,315,221,331"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#a4b60b79822a6e080528726b0d3b6f53f" title=" " alt="" coords="274,408,454,449"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="187,361,270,392,290,400,288,405,268,397,185,366"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1PixmapButton.html#a73485575d553a381ce226d6869c82e01" title=" " alt="" coords="282,343,446,383"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="221,344,267,349,267,355,221,350"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1gui_1_1AutomatableModelView.html#a24e616004b702d26768fbe5927ae738a" title=" " alt="" coords="269,163,459,203"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="143,305,199,259,267,214,280,208,282,212,270,219,202,263,147,309"/>
+<area shape="rect" id="Node000022" href="$classlmms_1_1gui_1_1LcdFloatSpinBox.html#abe3e5a591edf93c5d884cf4c966941bd" title=" " alt="" coords="273,473,454,514"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="145,361,200,410,270,458,282,464,280,469,267,463,197,414,141,365"/>
+<area shape="rect" id="Node000023" href="$classlmms_1_1gui_1_1GranularPitchShifterControlDialog.html#a0a0abbe40adb182a1f1038b839e2fad8" title=" " alt="" coords="283,538,444,593"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="133,362,188,441,227,485,270,523,276,527,273,532,267,528,223,488,184,444,129,365"/>
+<area shape="rect" id="Node000073" href="$classlmms_1_1GranularPitchShifterControls.html#a4e7c20a6f725ef1de43e2a2a23873bda" title=" " alt="" coords="276,617,452,658"/>
+<area shape="poly" id="edge29_Node000001_Node000073" title=" " alt="" coords="125,362,144,414,175,478,216,546,242,576,270,604,275,607,272,611,267,608,238,580,212,549,170,481,139,416,120,364"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1ModelView.html#a780137a2876c215debff0c81df4d01bc" title=" " alt="" coords="530,56,677,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,86,515,81,515,86,451,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="677,74,760,74,760,79,677,79"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1ModelView.html#a20499da452f52175dacea1cb6c129b20" title=" " alt="" coords="997,179,1143,219"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="656,53,718,34,793,20,833,18,873,20,912,28,950,42,985,66,1015,98,1038,132,1056,163,1051,165,1034,135,1011,101,982,70,947,47,911,33,872,25,833,23,793,26,719,39,657,58"/>
+<area shape="rect" id="Node000007" href="$namespacelmms_1_1embed.html#aa3ea9d26968516ce31a38442e54994d8" title="Temporary shim for QPixmap::deviceIndependentSize." alt="" coords="520,235,687,261"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="446,246,505,246,505,251,446,251"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1TypedModelView.html#a23708a1b14af20725a5a9ce2e2b895a6" title=" " alt="" coords="758,301,939,342"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="701,309,743,312,742,317,701,315"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1AutomatableModelView.html#a95070fa0b4a56e0994c00adb26e22d3c" title=" " alt="" coords="508,416,699,457"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="454,429,493,430,493,435,454,434"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1AutomatableModelView.html#a63ff5d92a6fd6d579fb06bc184a8b104" title=" " alt="" coords="508,481,699,522"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="433,446,521,473,519,479,432,452"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1AutomatableButton.html#a9276db8d3d8fe04ba0e1ad6f0c99ed53" title=" " alt="" coords="507,351,700,391"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="446,363,492,364,491,370,446,368"/>
+<area shape="poly" id="edge15_Node000014_Node000009" title=" " alt="" coords="700,349,742,340,743,346,701,354"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1gui_1_1AutomatableModelView.html#ac8a51586bfd0fde6a6e839caf6615470" title=" " alt="" coords="753,367,944,407"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="701,375,738,377,738,382,701,380"/>
+<area shape="poly" id="edge18_Node000018_Node000004" title=" " alt="" coords="459,159,760,93,761,98,460,165"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1gui_1_1ModelView.html#acee9a5fbac2e45336369560f8905caa7" title=" " alt="" coords="530,171,677,211"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="460,183,515,185,515,191,459,189"/>
+<area shape="poly" id="edge22_Node000019_Node000004" title=" " alt="" coords="664,168,699,150,722,129,732,118,747,107,760,100,763,105,750,112,736,122,726,133,702,154,667,172"/>
+<area shape="poly" id="edge24_Node000019_Node000005" title=" " alt="" coords="677,189,981,195,981,200,677,195"/>
+<area shape="rect" id="Node000020" href="$classlmms_1_1gui_1_1ModelView.html#a786dd25d7da672c17c0b6e69962e9e73" title=" " alt="" coords="775,236,922,277"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="678,208,761,230,760,235,676,213"/>
+<area shape="rect" id="Node000021" href="$classlmms_1_1gui_1_1ModelView.html#acbf4188ed972599141cb3e93b161cb16" title=" " alt="" coords="775,121,922,162"/>
+<area shape="poly" id="edge23_Node000019_Node000021" title=" " alt="" coords="676,174,760,157,761,162,678,179"/>
+<area shape="poly" id="edge21_Node000020_Node000005" title=" " alt="" coords="921,235,981,219,982,224,923,240"/>
+<area shape="rect" id="Node000024" href="$classlmms_1_1gui_1_1GranularPitchShifterHelpView.html#a6f1197e456f4b1694e2189435801d09e" title=" " alt="" coords="509,547,698,587"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="445,563,494,564,494,569,445,569"/>
+<area shape="rect" id="Node000025" href="$classlmms_1_1gui_1_1GranularPitchShifterHelpView.html#ae7a333f9b655b04f713c2bea4ba0f7f5" title=" " alt="" coords="748,539,949,595"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="699,564,733,564,733,570,699,570"/>
+</map>

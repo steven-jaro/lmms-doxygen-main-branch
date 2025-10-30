@@ -1,0 +1,5 @@
+var structasio_1_1associated__allocator_3_01detail_1_1buffered__read__some__handler_3_01MutableBuffe6ba0d3cea90957e104c71c4fe0196e3c =
+[
+    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1buffered__read__some__handler_3_01MutableBuffe6ba0d3cea90957e104c71c4fe0196e3c.html#a9a20d8609c0ed31dd1f7bbfb47fba6f5", null ],
+    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1buffered__read__some__handler_3_01MutableBuffe6ba0d3cea90957e104c71c4fe0196e3c.html#a8af522b2a1c1934ed8e07b96a8d9156a", null ]
+];

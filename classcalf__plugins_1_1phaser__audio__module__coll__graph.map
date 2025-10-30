@@ -1,0 +1,47 @@
+<map id="calf_plugins::phaser_audio_module" name="calf_plugins::phaser_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="930,2175,1088,2561"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="344,1418,552,2083"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,1875,932,2278,928,2282,560,1879"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1phaser__metadata.html" title=" " alt="" coords="92,973,216,1054"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,1068,224,1215,290,1393,346,1525,341,1527,285,1395,219,1217,169,1069"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="5,36,199,559"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,574,154,973,149,974,120,574"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="223,5,389,590"/>
+<area shape="poly" id="edge4_Node000002_Node000009" title=" " alt="" coords="296,604,295,774,299,961,312,1155,334,1346,347,1417,342,1418,329,1347,306,1156,294,961,289,774,290,604"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="344,681,552,1347"/>
+<area shape="poly" id="edge8_Node000011_Node000009" title=" " alt="" coords="369,604,385,681,379,682,364,605"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1progress__report__iface.html" title=" " alt="" coords="503,247,667,348"/>
+<area shape="poly" id="edge5_Node000002_Node000010" title=" " alt="" coords="594,348,611,521,620,642,625,780,627,929,621,1085,608,1241,585,1394,559,1492,554,1491,580,1393,603,1241,616,1085,621,929,620,780,614,643,606,521,589,348"/>
+<area shape="poly" id="edge9_Node000011_Node000010" title=" " alt="" coords="570,349,532,469,495,614,486,664,480,663,490,613,527,467,565,348"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="450,1361,450,1418,445,1418,445,1361"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="414,264,478,331"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="449,346,450,681,444,681,444,346"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1frequency__response__line__graph.html" title="Line graph interface implementation for frequency response graphs." alt="" coords="776,1669,920,1832"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="875,1846,961,2175,956,2176,870,1847"/>
+<area shape="rect" id="Node000014" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="772,912,916,1116"/>
+<area shape="poly" id="edge11_Node000013_Node000014" title=" " alt="" coords="847,1130,850,1669,844,1669,841,1130"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1simple__phaser.html" title=" " alt="" coords="948,1504,1070,1997"/>
+<area shape="poly" id="edge12_Node000001_Node000015" title=" " alt="" coords="1012,1997,1012,2158,1006,2158,1006,1997"/>
+<area shape="rect" id="Node000016" href="$classdsp_1_1modulation__effect.html" title=" " alt="" coords="939,828,1079,1200"/>
+<area shape="poly" id="edge13_Node000015_Node000016" title=" " alt="" coords="1012,1215,1012,1504,1006,1504,1006,1215"/>
+<area shape="rect" id="Node000017" href="$classdsp_1_1audio__effect.html" title=" " alt="" coords="690,254,799,341"/>
+<area shape="poly" id="edge14_Node000016_Node000017" title=" " alt="" coords="749,356,755,408,766,468,785,530,814,588,827,605,841,617,871,633,901,649,916,662,930,680,949,714,965,751,989,827,984,829,960,753,945,717,925,682,912,665,898,653,868,638,838,622,823,609,809,591,780,532,761,470,750,409,744,356"/>
+<area shape="rect" id="Node000018" href="$classdsp_1_1gain__smoothing.html" title=" " alt="" coords="823,254,952,341"/>
+<area shape="poly" id="edge15_Node000016_Node000018" title=" " alt="" coords="897,340,977,811,972,812,892,341"/>
+<area shape="rect" id="Node000022" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="976,23,1138,572"/>
+<area shape="poly" id="edge16_Node000016_Node000022" title=" " alt="" coords="1041,572,1025,811,1020,811,1036,572"/>
+<area shape="rect" id="Node000024" href="$classdsp_1_1onepole.html" title=" " alt="" coords="1128,790,1250,1238"/>
+<area shape="poly" id="edge17_Node000015_Node000024" title=" " alt="" coords="1131,1238,1085,1418,1068,1488,1063,1487,1080,1417,1126,1237"/>
+<area shape="rect" id="Node000025" href="$classdsp_1_1onepole.html" title=" " alt="" coords="1162,61,1312,534"/>
+<area shape="poly" id="edge18_Node000024_Node000025" title=" " alt="" coords="1223,549,1206,791,1201,791,1217,549"/>
+<area shape="rect" id="Node000026" href="$classdsp_1_1bypass.html" title=" " alt="" coords="1094,1687,1183,1814"/>
+<area shape="poly" id="edge19_Node000001_Node000026" title=" " alt="" coords="1132,1814,1112,1939,1085,2084,1068,2158,1062,2157,1080,2083,1107,1938,1127,1813"/>
+<area shape="rect" id="Node000027" href="$classdsp_1_1inertia.html" title=" " alt="" coords="1332,882,1443,1146"/>
+<area shape="poly" id="edge20_Node000026_Node000027" title=" " alt="" coords="1354,1147,1316,1248,1292,1299,1264,1348,1247,1370,1229,1383,1213,1397,1198,1419,1173,1482,1156,1548,1147,1613,1142,1670,1137,1670,1141,1612,1151,1547,1168,1480,1193,1416,1209,1394,1226,1379,1243,1366,1260,1345,1287,1297,1311,1246,1349,1145"/>
+<area shape="rect" id="Node000020" href="$classdsp_1_1linear__ramp.html" title="Algorithm for a constant time linear ramp." alt="" coords="1335,193,1440,402"/>
+<area shape="poly" id="edge21_Node000027_Node000020" title=" " alt="" coords="1390,401,1390,865,1385,865,1385,401"/>
+<area shape="rect" id="Node000021" href="$classdsp_1_1inertia.html" title=" " alt="" coords="1464,152,1593,442"/>
+<area shape="poly" id="edge22_Node000027_Node000021" title=" " alt="" coords="1500,458,1416,882,1411,881,1495,457"/>
+<area shape="rect" id="Node000028" href="$classcalf__plugins_1_1vumeters.html" title=" " alt="" coords="1207,1687,1347,1814"/>
+<area shape="poly" id="edge23_Node000001_Node000028" title=" " alt="" coords="1270,1814,1244,1941,1223,2014,1197,2084,1151,2172,1100,2252,1095,2249,1147,2169,1192,2082,1218,2012,1239,1940,1265,1813"/>
+</map>

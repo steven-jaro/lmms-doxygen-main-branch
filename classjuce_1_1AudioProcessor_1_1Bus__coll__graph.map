@@ -1,0 +1,47 @@
+<map id="juce::AudioProcessor::Bus" name="juce::AudioProcessor::Bus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1523,4076,1747,4660"/>
+<area shape="rect" id="Node000002" href="$classjuce_1_1AudioProcessor.html" title=" " alt="" coords="1024,2577,1243,3964"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1245,3510,1518,4105,1513,4107,1240,3512"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1Array.html" title=" " alt="" coords="87,1893,295,2422"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,2279,1015,3126,1011,3129,292,2283"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1ArrayBase.html" title=" " alt="" coords="5,918,213,1726"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,1725,114,1826,121,1876,116,1877,109,1826,100,1726"/>
+<area shape="rect" id="Node000011" href="$classjuce_1_1Array.html" title=" " alt="" coords="281,1050,489,1593"/>
+<area shape="poly" id="edge4_Node000003_Node000011" title=" " alt="" coords="304,1608,269,1677,227,1740,218,1748,209,1752,201,1756,194,1764,181,1794,171,1827,160,1894,155,1893,165,1825,176,1792,189,1761,197,1752,206,1747,215,1744,223,1737,265,1674,299,1606"/>
+<area shape="rect" id="Node000032" href="$classjuce_1_1Array.html" title=" " alt="" coords="563,1893,771,2422"/>
+<area shape="poly" id="edge21_Node000032_Node000011" title=" " alt="" coords="399,1607,418,1718,432,1772,449,1825,473,1879,501,1932,565,2029,560,2032,496,1935,468,1882,444,1827,427,1774,413,1719,394,1608"/>
+<area shape="rect" id="Node000013" href="$classjuce_1_1Component_1_1SafePointer.html" title=" " alt="" coords="795,2038,991,2277"/>
+<area shape="poly" id="edge5_Node000002_Node000013" title=" " alt="" coords="921,2276,1023,2745,1018,2747,916,2277"/>
+<area shape="rect" id="Node000014" href="$classjuce_1_1WeakReference.html" title=" " alt="" coords="791,287,977,531"/>
+<area shape="poly" id="edge6_Node000013_Node000014" title=" " alt="" coords="874,532,858,708,845,905,835,1139,831,1322,833,1504,845,1738,858,1885,875,2021,870,2022,853,1885,840,1739,828,1504,825,1322,830,1139,840,905,852,707,868,531"/>
+<area shape="rect" id="Node000018" href="$classjuce_1_1Component_1_1SafePointer.html" title=" " alt="" coords="917,1179,1101,1464"/>
+<area shape="poly" id="edge8_Node000018_Node000014" title=" " alt="" coords="903,531,990,1162,985,1163,898,531"/>
+<area shape="poly" id="edge7_Node000013_Node000018" title=" " alt="" coords="990,1479,912,2039,907,2038,985,1478"/>
+<area shape="rect" id="Node000019" href="$classjuce_1_1CriticalSection.html" title=" " alt="" coords="1015,2084,1140,2232"/>
+<area shape="poly" id="edge9_Node000002_Node000019" title=" " alt="" coords="1078,2231,1072,2489,1072,2553,1073,2560,1067,2560,1067,2553,1067,2489,1073,2231"/>
+<area shape="rect" id="Node000020" href="$classjuce_1_1OwnedArray.html" title=" " alt="" coords="1126,1067,1274,1576"/>
+<area shape="poly" id="edge10_Node000002_Node000020" title=" " alt="" coords="1202,1576,1196,2031,1181,2553,1181,2560,1176,2560,1176,2553,1191,2031,1196,1576"/>
+<area shape="rect" id="Node000021" href="$classjuce_1_1ArrayBase.html" title=" " alt="" coords="1053,5,1261,813"/>
+<area shape="poly" id="edge11_Node000020_Node000021" title=" " alt="" coords="1159,813,1162,881,1174,1050,1169,1051,1157,881,1154,813"/>
+<area shape="rect" id="Node000023" href="$classjuce_1_1OwnedArray.html" title=" " alt="" coords="1304,148,1480,671"/>
+<area shape="poly" id="edge12_Node000020_Node000023" title=" " alt="" coords="1328,686,1304,752,1276,815,1266,827,1257,839,1238,894,1224,951,1206,1068,1201,1067,1218,950,1233,892,1253,836,1262,824,1271,812,1299,750,1323,684"/>
+<area shape="rect" id="Node000028" href="$classjuce_1_1OwnedArray.html" title=" " alt="" coords="1305,1060,1516,1583"/>
+<area shape="poly" id="edge17_Node000028_Node000023" title=" " alt="" coords="1400,686,1408,1060,1403,1060,1395,686"/>
+<area shape="rect" id="Node000026" href="$classjuce_1_1String.html" title=" " alt="" coords="1540,905,1742,1738"/>
+<area shape="poly" id="edge22_Node000001_Node000026" title=" " alt="" coords="1643,1738,1638,4059,1633,4059,1638,1738"/>
+<area shape="poly" id="edge13_Node000002_Node000026" title=" " alt="" coords="1671,1738,1685,1992,1694,2239,1694,2440,1690,2510,1683,2554,1646,2646,1599,2736,1546,2821,1488,2903,1428,2978,1368,3047,1257,3162,1253,3158,1364,3044,1424,2975,1484,2899,1542,2818,1595,2733,1641,2644,1677,2552,1685,2509,1689,2439,1689,2240,1680,1993,1666,1738"/>
+<area shape="rect" id="Node000027" href="$classjuce_1_1AudioProcessorParameterGroup.html" title=" " alt="" coords="1306,1855,1526,2460"/>
+<area shape="poly" id="edge15_Node000027_Node000026" title=" " alt="" coords="1543,1697,1504,1840,1499,1838,1538,1696"/>
+<area shape="poly" id="edge14_Node000002_Node000027" title=" " alt="" coords="1342,2460,1250,2823,1244,2822,1337,2459"/>
+<area shape="poly" id="edge18_Node000027_Node000027" title=" " alt="" coords="1527,2096,1537,2105,1545,2119,1552,2158,1549,2186,1540,2206,1535,2204,1544,2184,1547,2158,1540,2121,1533,2109,1524,2099"/>
+<area shape="poly" id="edge16_Node000027_Node000028" title=" " alt="" coords="1415,1583,1417,1838,1411,1838,1410,1583"/>
+<area shape="poly" id="edge19_Node000002_Node000032" title=" " alt="" coords="769,2421,786,2464,905,2746,1019,3008,1015,3011,900,2748,782,2466,764,2423"/>
+<area shape="rect" id="Node000033" href="$classjuce_1_1ArrayBase.html" title=" " alt="" coords="575,918,783,1726"/>
+<area shape="poly" id="edge20_Node000032_Node000033" title=" " alt="" coords="676,1725,673,1876,668,1876,670,1725"/>
+<area shape="rect" id="Node000044" href="$classjuce_1_1AudioChannelSet.html" title=" " alt="" coords="1715,2831,1959,3710"/>
+<area shape="poly" id="edge23_Node000001_Node000044" title=" " alt="" coords="1759,3710,1694,4059,1689,4059,1754,3709"/>
+<area shape="rect" id="Node000045" href="$classjuce_1_1BigInteger.html" title=" " alt="" coords="1915,1850,2018,2465"/>
+<area shape="poly" id="edge24_Node000044_Node000045" title=" " alt="" coords="1934,2466,1893,2814,1888,2813,1928,2465"/>
+<area shape="rect" id="Node000046" href="$classjuce_1_1HeapBlock.html" title=" " alt="" coords="1878,1095,2055,1548"/>
+<area shape="poly" id="edge25_Node000045_Node000046" title=" " alt="" coords="1969,1547,1969,1833,1964,1833,1964,1547"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="hiir::Upsampler2xNeonOld::process_block" name="hiir::Upsampler2xNeonOld::process_block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,174,177,215"/>
+<area shape="rect" id="Node000002" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="282,124,339,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,171,266,145,267,151,172,176"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1Upsampler2xNeonOld.html#aa692dba823e7064b28496c4b974f15a3" title=" " alt="" coords="225,239,396,280"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,212,226,232,224,237,161,218"/>
+<area shape="rect" id="Node000011" href="$classhiir_1_1Upsampler2xNeonOld.html#a7ca10dd267bcabb4dfdea5f31cbedcfb" title=" " alt="" coords="225,174,396,215"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="177,192,209,192,209,197,177,197"/>
+<area shape="rect" id="Node000004" href="$namespacehiir.html#ae628c30e55ebe84bd744c0fcf1c998bf" title=" " alt="" coords="868,57,950,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="374,236,394,224,409,209,418,195,427,179,442,164,493,134,547,111,603,93,660,81,767,68,852,65,852,71,767,73,661,86,604,98,549,116,495,139,446,168,431,183,422,197,413,213,398,228,377,241"/>
+<area shape="rect" id="Node000005" href="$namespacehiir.html#a5afe10070cb6f3d3b2a5ca298e618539" title=" " alt="" coords="479,297,561,323"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="397,278,465,294,464,299,396,283"/>
+<area shape="rect" id="Node000006" href="$classhiir_1_1StageProcNeonV4.html#abccdb8f7b3d3ff0e5e220421bfb63f0e" title=" " alt="" coords="444,178,596,219"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="382,236,433,221,434,226,383,241"/>
+<area shape="rect" id="Node000009" href="$namespacehiir.html#a67ca25eb4100731059e1d36c561a16c8" title=" " alt="" coords="869,196,949,222"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="396,250,853,211,854,216,397,255"/>
+<area shape="rect" id="Node000010" href="$namespacehiir.html#af46cace5bd3fa30c594a0c32053fbab4" title=" " alt="" coords="480,347,560,372"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="345,278,391,306,445,333,466,341,464,346,443,338,389,310,342,283"/>
+<area shape="rect" id="Node000007" href="$classhiir_1_1StageProcNeonV4.html#ad50aa153fd240751268e4892d79d6650" title=" " alt="" coords="644,131,820,172"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="596,179,628,172,630,177,597,184"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="597,198,853,205,853,210,597,203"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="777,128,864,88,866,92,779,133"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="698,131,696,121,702,112,714,107,732,105,751,107,763,113,760,118,750,112,732,110,715,112,705,116,702,122,703,130"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="798,170,855,189,853,194,796,175"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="380,171,394,160,405,147,411,133,415,104,421,75,429,61,443,49,495,23,551,9,609,3,668,5,724,13,776,24,861,49,860,54,775,29,723,18,667,10,609,8,552,14,496,28,445,54,433,65,426,77,420,104,416,134,410,149,398,164,383,175"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="397,193,428,194,428,199,396,198"/>
+</map>

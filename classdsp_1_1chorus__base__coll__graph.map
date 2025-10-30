@@ -1,0 +1,19 @@
+<map id="dsp::chorus_base" name="dsp::chorus_base">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,1708,436,1896"/>
+<area shape="rect" id="Node000002" href="$classdsp_1_1modulation__effect.html" title=" " alt="" coords="217,1266,356,1637"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,1651,346,1707,341,1709,328,1652"/>
+<area shape="rect" id="Node000003" href="$classdsp_1_1audio__effect.html" title=" " alt="" coords="5,856,114,943"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,957,93,1060,109,1117,129,1173,171,1263,219,1345,214,1348,167,1265,124,1175,104,1119,88,1061,66,959"/>
+<area shape="rect" id="Node000004" href="$classdsp_1_1gain__smoothing.html" title=" " alt="" coords="138,856,267,943"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="209,942,225,1076,248,1241,249,1249,244,1250,243,1242,220,1076,204,943"/>
+<area shape="rect" id="Node000005" href="$classdsp_1_1inertia.html" title=" " alt="" coords="145,148,260,412"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,427,205,857,200,857,200,427"/>
+<area shape="rect" id="Node000008" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="291,625,453,1174"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="332,1174,320,1249,315,1248,327,1174"/>
+<area shape="rect" id="Node000009" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="311,5,433,554"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="374,569,374,626,369,626,369,569"/>
+<area shape="rect" id="Node000010" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="437,1400,563,1502"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="483,1503,409,1693,404,1691,478,1501"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="477,849,597,951"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="535,966,506,1401,501,1401,530,965"/>
+</map>

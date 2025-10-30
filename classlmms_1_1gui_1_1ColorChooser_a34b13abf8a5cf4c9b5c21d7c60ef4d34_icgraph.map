@@ -1,0 +1,21 @@
+<map id="lmms::gui::ColorChooser::setPalette" name="lmms::gui::ColorChooser::setPalette">
+<area shape="rect" id="Node000001" title="Set global palette via array, checking bounds." alt="" coords="688,63,849,103"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1ColorChooser.html#ac857ff3b57fa2819f89d6cde04c17c2d" title="Set global paletter via enum." alt="" coords="480,29,640,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="673,70,640,65,641,60,674,65"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1ColorChooser.html#a72388287d5afffa153f48f41d0260c1f" title="Set palette via enum, return self pointer for chaining." alt="" coords="480,95,640,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="674,100,641,105,640,100,673,95"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1ClipView.html#a62ccece34d547a9ca421e106eb46238f" title=" " alt="" coords="271,29,404,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,92,404,72,405,67,475,87"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1MixerChannelView.html#a89a90cec277669a6d1c35085941b6a00" title=" " alt="" coords="243,95,432,135"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="464,118,433,118,433,112,464,112"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a407d30260395c20f209b459889aece42" title=" " alt="" coords="248,160,426,201"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="475,143,410,162,409,157,473,138"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="374,16,360,10,337,8,316,10,303,15,298,21,300,28,295,29,293,19,300,10,315,5,337,3,361,5,376,11"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1ClipView.html#aafc95e82230901515170becb44d9f23c" title="Set up the context menu for this ClipView." alt="" coords="33,29,167,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,52,168,52,168,47,255,47"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="139,16,124,10,100,8,77,10,64,15,58,21,61,28,55,29,53,19,61,10,76,5,100,3,126,5,141,11"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1MixerChannelView.html#a428985a05929e14c4fc75bd188b3858f" title=" " alt="" coords="5,95,195,135"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="227,118,195,118,195,112,227,112"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a91dab9b7d2cc86926a67e0b8f4a0c04e" title="Update the trackOperationsWidget context menu." alt="" coords="11,160,189,201"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="232,183,190,183,190,178,232,178"/>
+</map>

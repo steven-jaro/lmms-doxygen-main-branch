@@ -1,0 +1,28 @@
+var structcalf__plugins_1_1audio__module__iface =
+[
+    [ "~audio_module_iface", "structcalf__plugins_1_1audio__module__iface.html#afbda0e234062eab227da92b626601696", null ],
+    [ "activate", "structcalf__plugins_1_1audio__module__iface.html#aec284e6c213e8f523060911f41c606ca", null ],
+    [ "channel_pressure", "structcalf__plugins_1_1audio__module__iface.html#a44a4fa61eb1e4ba4a23e3482428decdc", null ],
+    [ "configure", "structcalf__plugins_1_1audio__module__iface.html#a0ecd236ef7357b9047f339e488b232a1", null ],
+    [ "control_change", "structcalf__plugins_1_1audio__module__iface.html#a3c9f6f98005d10a4fb512e67377b019f", null ],
+    [ "deactivate", "structcalf__plugins_1_1audio__module__iface.html#ac543fc91f29bb983694882d7bb7bec84", null ],
+    [ "execute", "structcalf__plugins_1_1audio__module__iface.html#a2476d99982a4538f725da195a7de9538", null ],
+    [ "get_line_graph_iface", "structcalf__plugins_1_1audio__module__iface.html#a2bfd4d9b139ca040e5f291c817f4f0a6", null ],
+    [ "get_metadata_iface", "structcalf__plugins_1_1audio__module__iface.html#a1359e92e0cc4a08af012c54d26c04be3", null ],
+    [ "get_phase_graph_iface", "structcalf__plugins_1_1audio__module__iface.html#ae37c261a40dafeca688d8e4f620baf77", null ],
+    [ "get_port_arrays", "structcalf__plugins_1_1audio__module__iface.html#a7c2673daf5cdd3c42d3f3bda5170f431", null ],
+    [ "message_run", "structcalf__plugins_1_1audio__module__iface.html#aebe3cea88372f4e318e0bb3bdb68e7e8", null ],
+    [ "note_off", "structcalf__plugins_1_1audio__module__iface.html#aec5126116aa8443df52454477993bc9e", null ],
+    [ "note_on", "structcalf__plugins_1_1audio__module__iface.html#a4805abe66835a8cc9591e1b161825a3d", null ],
+    [ "params_changed", "structcalf__plugins_1_1audio__module__iface.html#a281b0e197494a4dff179971b81a29d72", null ],
+    [ "params_reset", "structcalf__plugins_1_1audio__module__iface.html#ad3c0482747d9c4cbcb4a0c1e0d1cf1ae", null ],
+    [ "pitch_bend", "structcalf__plugins_1_1audio__module__iface.html#ac4f79f2b7f781d312a341d92dbd139d3", null ],
+    [ "post_instantiate", "structcalf__plugins_1_1audio__module__iface.html#afd371097865ffc433ad436876fa01fab", null ],
+    [ "process", "structcalf__plugins_1_1audio__module__iface.html#aa5dd47158ce03d9afedb49c60c208d08", null ],
+    [ "process_slice", "structcalf__plugins_1_1audio__module__iface.html#a0ee8ac27932bd7a6506efed0a395431a", null ],
+    [ "program_change", "structcalf__plugins_1_1audio__module__iface.html#a3a9b91b47964e68b2afade166d81fd17", null ],
+    [ "send_configures", "structcalf__plugins_1_1audio__module__iface.html#a68a23ddf73d97afb552174821a66da5a", null ],
+    [ "send_status_updates", "structcalf__plugins_1_1audio__module__iface.html#ad369d50bd094723f5a97a4c2d6f58237", null ],
+    [ "set_progress_report_iface", "structcalf__plugins_1_1audio__module__iface.html#ad96d4ec26fa37f6d08e727514bfcdddd", null ],
+    [ "set_sample_rate", "structcalf__plugins_1_1audio__module__iface.html#af814b295ffae26fdb78abb0d9bfb778e", null ]
+];

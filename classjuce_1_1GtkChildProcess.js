@@ -1,0 +1,25 @@
+var classjuce_1_1GtkChildProcess =
+[
+    [ "GtkChildProcess", "classjuce_1_1GtkChildProcess.html#a9a53c6b8c87f52eaa3c28443a79d6175", null ],
+    [ "decidePolicyCallback", "classjuce_1_1GtkChildProcess.html#a36cefae39bbac3ee5d931a34ae7f9b82", null ],
+    [ "entry", "classjuce_1_1GtkChildProcess.html#aeccadc7b4a6c658c04e8102d575976ae", null ],
+    [ "getURIStringForAction", "classjuce_1_1GtkChildProcess.html#a8bbb873e8b2a651a526087737667f57d", null ],
+    [ "goToURL", "classjuce_1_1GtkChildProcess.html#a1a6cc86d4a7f64038917d0ff049b2514", null ],
+    [ "handleCommand", "classjuce_1_1GtkChildProcess.html#ad2a0d74da7fb2cc8e7222308f5445864", null ],
+    [ "handleDecisionResponse", "classjuce_1_1GtkChildProcess.html#a34ebec389623faf169d27c5e1dadcf3b", null ],
+    [ "loadChangedCallback", "classjuce_1_1GtkChildProcess.html#a1f32b4807c9f837596db6b37a76a4294", null ],
+    [ "loadFailedCallback", "classjuce_1_1GtkChildProcess.html#a878739439298f4dc7fd2298430d40dd1", null ],
+    [ "onDecidePolicy", "classjuce_1_1GtkChildProcess.html#aff5c3cf41e454c2769a3270b42ded744", null ],
+    [ "onLoadChanged", "classjuce_1_1GtkChildProcess.html#aee05496e9e30876aaf46fcddce5ae3e2", null ],
+    [ "onLoadFailed", "classjuce_1_1GtkChildProcess.html#aaf39e783bc53b1f77844b7c7eab692ea", null ],
+    [ "onNavigation", "classjuce_1_1GtkChildProcess.html#a74574d127763aed434cfc45e592c09de", null ],
+    [ "onNewWindow", "classjuce_1_1GtkChildProcess.html#ae132d18a88c1f8f74ba9f91978958b0e", null ],
+    [ "pipeReady", "classjuce_1_1GtkChildProcess.html#ab25b77de71514daca624e897b6f7a9d3", null ],
+    [ "pipeReadyStatic", "classjuce_1_1GtkChildProcess.html#a4dc0467806394f63cfc9f0d4798ad3d1", null ],
+    [ "quit", "classjuce_1_1GtkChildProcess.html#a5dafdd544e3bf730d0aa53accec2b79f", null ],
+    [ "receiverHadError", "classjuce_1_1GtkChildProcess.html#a914a77f416d23828dda0286250617402", null ],
+    [ "decisions", "classjuce_1_1GtkChildProcess.html#a06b320dc166cec8c49f3a47a90e8e007", null ],
+    [ "outChannel", "classjuce_1_1GtkChildProcess.html#abd330e581823a15f4429ad25c9323558", null ],
+    [ "receiver", "classjuce_1_1GtkChildProcess.html#abc9a80f9bd71654a567120b33702b8eb", null ],
+    [ "webview", "classjuce_1_1GtkChildProcess.html#a4f75e648f19fa241f06f7b15277e1e3e", null ]
+];

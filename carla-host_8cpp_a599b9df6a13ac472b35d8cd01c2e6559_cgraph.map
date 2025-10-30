@@ -1,0 +1,23 @@
+<map id="handle_carla_patchbay_disconnect" name="handle_carla_patchbay_disconnect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,159,149"/>
+<area shape="rect" id="Node000002" href="$group__CarlaHostAPI.html#ga2e1919259400528fdbfbfa32dd74d565" title=" " alt="" coords="207,67,385,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,109,222,94,223,99,160,114"/>
+<area shape="rect" id="Node000295" href="$buffers_8cpp.html#af0a72cb52fd726cf2f5ee048a06fafbc" title=" " alt="" coords="261,116,330,142"/>
+<area shape="poly" id="edge10_Node000001_Node000295" title=" " alt="" coords="159,126,246,126,246,132,159,132"/>
+<area shape="rect" id="Node000296" href="$buffers_8cpp.html#af1c01968bb5347a1dc0231426209995b" title=" " alt="" coords="250,165,342,191"/>
+<area shape="poly" id="edge11_Node000001_Node000296" title=" " alt="" coords="160,144,235,162,234,167,158,149"/>
+<area shape="rect" id="Node000003" href="$CarlaUtils_8hpp.html#ac78ad69fd16caf2847fbb0ceca9c9d92" title=" " alt="" coords="506,43,573,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,68,490,58,491,63,386,73"/>
+<area shape="rect" id="Node000004" href="$classCarlaEngine.html#a905e70c0d5c39ce2446ea5ea61ad0387" title=" " alt="" coords="433,92,646,118"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="386,86,418,89,417,95,385,91"/>
+<area shape="rect" id="Node000005" href="$classPatchbayGraph.html#a4b9eceb4289a3de8c4cb5c732cbab99f" title=" " alt="" coords="697,5,877,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="617,89,645,78,659,69,668,60,678,50,693,40,705,34,707,39,696,44,682,54,672,64,662,74,648,83,619,94"/>
+<area shape="rect" id="Node000007" href="$structRackGraph.html#a2aa687553d1e250aa1062539f3a17362" title=" " alt="" coords="709,55,865,80"/>
+<area shape="poly" id="edge5_Node000004_Node000007" title=" " alt="" coords="629,89,693,79,694,84,630,94"/>
+<area shape="rect" id="Node000008" href="$classCarlaEngine.html#a2ab183a3ee17d03cdb5f8bd37f6e5316" title=" " alt="" coords="694,128,880,154"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="633,116,680,123,679,128,632,121"/>
+<area shape="rect" id="Node000009" href="$classCarlaEngine.html#a42b525f191ce264fb351e911ea6123a2" title=" " alt="" coords="706,201,868,227"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="572,116,743,192,741,197,570,121"/>
+<area shape="poly" id="edge7_Node000008_Node000008" title=" " alt="" coords="746,129,738,119,743,109,760,103,787,101,818,104,833,111,831,116,816,109,787,107,761,109,746,114,743,119,750,126"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="746,203,738,193,743,183,760,177,787,175,818,177,833,185,831,189,816,183,787,180,761,182,746,187,743,192,750,199"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="plugins/CarlaBase/carla/source/utils/CarlaMemUtils.hpp" name="plugins/CarlaBase/carla/source/utils/CarlaMemUtils.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,5,465,46"/>
+<area shape="rect" id="Node000002" href="$audio-base_8hpp.html" title=" " alt="" coords="177,183,336,238"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,61,274,183,270,181,341,58"/>
+<area shape="rect" id="Node000004" href="$CarlaRingBuffer_8hpp.html" title=" " alt="" coords="362,94,572,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,54,445,91,442,96,396,58"/>
+<area shape="rect" id="Node000003" href="$audio-file_8cpp.html" title=" " alt="" coords="5,286,164,342"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,249,132,288,129,283,196,244"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="410,144,318,185,316,180,408,139"/>
+<area shape="rect" id="Node000005" href="$CarlaRingBuffer_8cpp.html" title=" " alt="" coords="856,190,1092,231"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="588,134,845,180,880,187,879,192,844,185,587,139"/>
+<area shape="rect" id="Node000006" href="$CarlaBridgeUtils_8hpp.html" title=" " alt="" coords="360,190,574,231"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="470,150,470,190,464,190,464,150"/>
+<area shape="rect" id="Node000027" href="$Lv2AtomRingBuffer_8hpp.html" title=" " alt="" coords="598,190,832,231"/>
+<area shape="poly" id="edge13_Node000004_Node000027" title=" " alt="" coords="534,138,664,187,662,192,532,143"/>
+<area shape="rect" id="Node000007" href="$CarlaEngineBridge_8cpp.html" title=" " alt="" coords="368,390,527,446"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="444,245,432,265,423,287,419,314,422,341,437,389,432,391,417,342,414,314,418,286,427,263,440,242"/>
+<area shape="rect" id="Node000008" href="$CarlaPluginBridge_8cpp.html" title=" " alt="" coords="577,390,736,446"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="557,233,620,257,644,270,660,285,671,311,675,339,668,390,662,389,669,339,666,312,656,288,641,275,617,262,555,238"/>
+<area shape="rect" id="Node000009" href="$libjack_8hpp.html" title=" " alt="" coords="187,294,358,334"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="417,241,311,296,309,291,415,236"/>
+<area shape="rect" id="Node000025" href="$CarlaBridgeUtils_8cpp.html" title=" " alt="" coords="432,294,646,334"/>
+<area shape="poly" id="edge10_Node000006_Node000025" title=" " alt="" coords="492,242,527,292,523,295,488,245"/>
+<area shape="poly" id="edge11_Node000025_Node000007" title=" " alt="" coords="513,348,474,391,470,388,509,344"/>
+<area shape="poly" id="edge12_Node000025_Node000008" title=" " alt="" coords="575,343,627,387,623,391,571,347"/>
+<area shape="rect" id="Node000028" href="$CarlaPluginLV2_8cpp.html" title=" " alt="" coords="720,286,878,342"/>
+<area shape="poly" id="edge14_Node000027_Node000028" title=" " alt="" coords="743,241,779,284,775,287,739,245"/>
+</map>

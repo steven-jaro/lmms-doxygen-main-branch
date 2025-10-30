@@ -1,0 +1,9 @@
+<map id="calf_plugins::monosynth_audio_module::note_off" name="calf_plugins::monosynth_audio_module::note_off">
+<area shape="rect" id="Node000001" title="Handle MIDI Note Off message." alt="" coords="5,27,166,68"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1monosynth__audio__module.html#a5a145f805251da863bf958f92be28e33" title="Release a note (physically), called from note&#45;off handler or when note&#45;off has been scheduled after n..." alt="" coords="214,27,381,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,45,198,45,198,50,166,50"/>
+<area shape="rect" id="Node000003" href="$namespacedsp.html#ae051685d0a6b779c924320f3b7bc386b" title="Convert MIDI note to frequency in Hz." alt="" coords="471,5,582,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,34,455,25,456,30,381,39"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1monosynth__audio__module.html#afa607e335c2887b64897a98479d28a7f" title="Update oscillator frequency based on base frequency, detune amount, pitch bend scaling factor and sam..." alt="" coords="429,55,624,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,55,414,59,413,64,381,60"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="TestStateUser" name="TestStateUser">
+<area shape="rect" id="Node000001" title="The state wrapped with the 2 state atomic class." alt="" coords="79,980,234,1148"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackAtomicState.html" title=" " alt="" coords="72,666,242,931"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,945,160,980,154,980,154,945"/>
+<area shape="rect" id="Node000003" href="$structTestState.html" title=" " alt="" coords="5,336,108,565"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,564,91,642,93,649,88,651,86,643,68,565"/>
+<area shape="rect" id="Node000004" href="$structJack_1_1AtomicCounter.html" title="Counter for CAS." alt="" coords="113,5,244,234"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="176,234,173,305,163,650,158,649,168,305,170,234"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackAtomicState.html" title="A class to handle two states (switching from one to the other) in a lock&#45;free manner." alt="" coords="246,305,420,595"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="234,233,261,289,256,292,229,235"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,610,226,668,221,666,251,607"/>
+</map>

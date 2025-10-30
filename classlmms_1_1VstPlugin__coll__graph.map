@@ -1,0 +1,30 @@
+<map id="lmms::VstPlugin" name="lmms::VstPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="302,2039,468,3264"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1RemotePlugin.html" title=" " alt="" coords="91,1332,309,1968"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,1982,305,2203,299,2204,259,1983"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1ProcessWatcher.html" title=" " alt="" coords="33,2578,177,2726"/>
+<area shape="poly" id="edge7_Node000010_Node000002" title=" " alt="" coords="107,1968,104,1992,89,2148,87,2305,91,2447,99,2561,94,2561,86,2447,81,2305,84,2148,98,1992,102,1967"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="8,1042,66,1109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="49,1123,81,1261,101,1332,96,1333,76,1262,44,1124"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1RemotePluginBase.html" title=" " alt="" coords="91,890,303,1261"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,1276,201,1332,196,1332,195,1276"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1shmFifo.html" title=" " alt="" coords="133,366,261,799"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="200,799,200,873,194,873,194,799"/>
+<area shape="poly" id="edge5_Node000002_Node000010" title=" " alt="" coords="110,2578,168,2015,170,1985,176,1985,173,2015,116,2578"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,1617,66,1683"/>
+<area shape="poly" id="edge6_Node000010_Node000011" title=" " alt="" coords="42,1698,103,2578,97,2578,36,1698"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1SharedMemory.html" title=" " alt="" coords="326,923,462,1228"/>
+<area shape="poly" id="edge8_Node000002_Node000012" title=" " alt="" coords="345,1229,315,1317,310,1316,340,1227"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1detail_1_1SharedMemoryData.html" title=" " alt="" coords="284,5,484,295"/>
+<area shape="poly" id="edge9_Node000012_Node000007" title=" " alt="" coords="379,295,377,366,372,583,377,799,383,906,377,906,371,799,367,583,371,366,374,295"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1SharedMemory.html" title=" " alt="" coords="441,417,606,748"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="433,294,468,400,462,402,428,296"/>
+<area shape="poly" id="edge10_Node000012_Node000008" title=" " alt="" coords="479,763,437,924,432,923,474,762"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1JournallingObject.html" title=" " alt="" coords="345,1475,550,1826"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="438,1841,426,2039,421,2039,433,1840"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1SerializingObject.html" title=" " alt="" coords="487,961,632,1190"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="537,1205,484,1475,479,1474,532,1204"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1SerializingObjectHook.html" title=" " alt="" coords="581,1586,757,1714"/>
+<area shape="poly" id="edge15_Node000015_Node000014" title=" " alt="" coords="559,1190,557,1285,557,1308,565,1331,645,1570,640,1571,560,1333,551,1309,551,1285,553,1190"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="667,1587,663,1448,654,1366,640,1286,615,1207,621,1206,645,1285,659,1366,668,1448,673,1587"/>
+</map>

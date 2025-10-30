@@ -1,0 +1,17 @@
+<map id="calf_plugins::monosynth_audio_module::set_frequency" name="calf_plugins::monosynth_audio_module::set_frequency">
+<area shape="rect" id="Node000001" title="Update oscillator frequency based on base frequency, detune amount, pitch bend scaling factor and sam..." alt="" coords="884,59,1079,99"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1monosynth__audio__module.html#ac2dfd7179be6c6913a81a2e189a80a8e" title="Calculate control signals and produce step_size samples of output." alt="" coords="214,5,412,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="868,58,835,52,728,33,620,20,540,18,460,20,413,22,412,17,460,15,540,12,621,15,729,27,836,47,869,53"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1monosynth__audio__module.html#a297c2c06e89e42a656e3e9dd78b297fe" title=" " alt="" coords="460,30,620,86"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="868,76,620,64,621,59,868,71"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1monosynth__audio__module.html#a5a145f805251da863bf958f92be28e33" title="Release a note (physically), called from note&#45;off handler or when note&#45;off has been scheduled after n..." alt="" coords="668,87,836,127"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="868,95,837,99,836,94,868,90"/>
+<area shape="rect" id="Node000007" href="$classcalf__plugins_1_1monosynth__audio__module.html#aaf4444c9fff9aba99372d87fb59b0db3" title="Update variables from control ports." alt="" coords="672,151,832,207"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="920,109,819,153,816,148,918,104"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1monosynth__audio__module.html#a2a0e2dbbbc905e5ed59ba56c70f806f1" title="Main processing function." alt="" coords="5,5,166,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,28,166,28,166,23,198,23"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="445,47,412,42,413,37,446,42"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="653,87,620,79,621,74,654,81"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1monosynth__audio__module.html#a57713722890681bebd42fba556a6070c" title="Handle MIDI Note Off message." alt="" coords="460,109,620,150"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="653,120,621,124,621,118,653,115"/>
+</map>

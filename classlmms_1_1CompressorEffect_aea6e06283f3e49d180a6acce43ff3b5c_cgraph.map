@@ -1,0 +1,19 @@
+<map id="lmms::CompressorEffect::processImpl" name="lmms::CompressorEffect::processImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,138,168,178"/>
+<area shape="rect" id="Node000002" href="$namespacelmms.html#a69e54bd4606a7d68f3a4948e4a4a4379" title="Converts linear amplitude (&gt;0&#45;1.0) to dBFS scale." alt="" coords="234,5,360,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,136,151,88,181,63,214,41,227,35,229,40,217,46,185,67,154,92,108,139"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1CompressorEffect.html#a02ed4ba78b4b8b743854a7c5320e75a1" title=" " alt="" coords="216,55,378,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,135,228,100,230,105,141,140"/>
+<area shape="rect" id="Node000005" href="$namespacelmms.html#a11f769823c82d42abf3167cabd60dd24" title="Converts dBFS&#45;scale to linear amplitude with 0dBFS = 1.0." alt="" coords="234,120,360,146"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,146,218,140,219,145,168,151"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1Effect.html#accb24ad7013da18654de91d747e47b68" title=" " alt="" coords="223,169,370,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="168,165,208,169,207,175,168,170"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1CompressorEffect.html#a5e2be212c2646e57bfeb50f07b96613a" title=" " alt="" coords="216,219,378,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="142,177,229,211,227,216,140,182"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1Effect.html#a5da9a5e3be1f2f6693db410f24cf1b39" title=" " alt="" coords="221,284,372,310"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="108,177,155,223,185,248,217,269,229,275,227,280,214,274,182,252,151,227,104,181"/>
+<area shape="rect" id="Node000003" href="$namespacelmms.html#a8a63084bc3758f5c712b2f5cde503061" title=" " alt="" coords="428,5,549,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,16,413,16,413,21,361,21"/>
+<area shape="rect" id="Node000006" href="$namespacelmms.html#afcda7a70293fe10671e0495f34569678" title=" " alt="" coords="426,120,551,146"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="361,130,411,130,411,136,361,136"/>
+</map>

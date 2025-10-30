@@ -1,0 +1,19 @@
+<map id="asio::buffer_copy" name="asio::buffer_copy">
+<area shape="rect" id="Node000001" title="Copies bytes from a source buffer sequence to a target buffer sequence." alt="" coords="5,169,123,194"/>
+<area shape="rect" id="Node000002" href="$namespaceasio_1_1detail.html#a19dd301e5b9c009e7f92d37170cdc142" title=" " alt="" coords="181,112,335,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,166,170,147,196,139,197,145,171,152,110,171"/>
+<area shape="rect" id="Node000008" href="$namespaceasio.html#a531e6aceb9629aa4c2b760b0d6b83562" title="Get an iterator to the first element in a buffer sequence." alt="" coords="185,161,331,202"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="123,179,169,179,169,184,123,184"/>
+<area shape="rect" id="Node000009" href="$namespaceasio.html#a41da7709ea67abc77cedf607650c68c7" title="Get an iterator to one past the end element in a buffer sequence." alt="" coords="171,226,345,252"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="110,193,171,211,197,219,196,224,170,216,109,198"/>
+<area shape="rect" id="Node000003" href="$namespaceasio_1_1detail.html#a97a628aac00686c7b14f31330cc2eb48" title=" " alt="" coords="393,104,513,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,122,378,122,378,127,335,127"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1const__buffer.html#a229da8edae422edc30e0b9ca4d05ecd6" title="Get a pointer to the beginning of the memory range." alt="" coords="568,5,691,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,101,560,57,570,51,573,56,563,61,488,106"/>
+<area shape="rect" id="Node000005" href="$classasio_1_1mutable__buffer.html#acd045b77d1cb4b8db13666d482824af2" title="Get a pointer to the beginning of the memory range." alt="" coords="561,71,698,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="513,110,546,104,547,109,514,116"/>
+<area shape="rect" id="Node000006" href="$classasio_1_1const__buffer.html#abd344b5105a67bb0011ce090d35a8ab1" title="Get the size of the memory range." alt="" coords="568,136,691,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="514,133,554,140,553,145,513,138"/>
+<area shape="rect" id="Node000007" href="$classasio_1_1mutable__buffer.html#a700caaace8245cbe08fafecfbbdd0dbe" title="Get the size of the memory range." alt="" coords="561,201,698,242"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="489,143,563,186,573,191,570,196,560,191,486,147"/>
+</map>

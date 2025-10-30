@@ -1,0 +1,33 @@
+<map id="zyncarla::Reverb" name="zyncarla::Reverb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="392,2247,502,3168"/>
+<area shape="rect" id="Node000002" href="$classzyncarla_1_1Effect.html" title=" " alt="" coords="330,1520,454,2156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,2171,420,2247,415,2248,410,2171"/>
+<area shape="rect" id="Node000003" href="$classzyncarla_1_1FilterParams.html" title=" " alt="" coords="212,407,372,1429"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,1428,358,1503,353,1504,345,1429"/>
+<area shape="rect" id="Node000004" href="$classzyncarla_1_1PresetsArray.html" title=" " alt="" coords="304,87,443,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,270,350,408,345,407,360,269"/>
+<area shape="rect" id="Node000006" href="$structzyncarla_1_1FilterParams_1_1Pvowels__t.html" title=" " alt="" coords="467,130,605,211"/>
+<area shape="poly" id="edge4_Node000003_Node000006" title=" " alt="" coords="523,212,495,273,457,338,437,359,418,372,401,386,385,408,381,416,376,413,380,406,397,382,415,368,433,355,453,334,491,271,519,210"/>
+<area shape="rect" id="Node000008" href="$classzyncarla_1_1AbsTime.html" title=" " alt="" coords="142,76,280,265"/>
+<area shape="poly" id="edge5_Node000003_Node000008" title=" " alt="" coords="223,265,237,390,232,390,218,265"/>
+<area shape="rect" id="Node000012" href="$structrtosc_1_1Ports.html" title=" " alt="" coords="5,5,117,336"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="78,336,110,670,160,1123,193,1376,230,1637,273,1899,320,2155,390,2471,385,2473,315,2157,267,1900,225,1638,188,1376,155,1123,104,670,72,336"/>
+<area shape="poly" id="edge6_Node000003_Node000012" title=" " alt="" coords="115,335,210,643,205,645,110,337"/>
+<area shape="rect" id="Node000014" href="$classzyncarla_1_1Allocator.html" title=" " alt="" coords="395,654,567,1182"/>
+<area shape="poly" id="edge7_Node000002_Node000014" title=" " alt="" coords="458,1183,427,1504,422,1503,453,1182"/>
+<area shape="rect" id="Node000017" href="$classzyncarla_1_1Unison.html" title=" " alt="" coords="479,1632,660,2044"/>
+<area shape="poly" id="edge12_Node000017_Node000014" title=" " alt="" coords="509,1182,551,1615,545,1616,504,1183"/>
+<area shape="rect" id="Node000015" href="$structzyncarla_1_1AllocatorImpl.html" title=" " alt="" coords="629,127,768,214"/>
+<area shape="poly" id="edge8_Node000014_Node000015" title=" " alt="" coords="690,215,660,297,637,342,610,385,594,397,581,409,553,462,531,519,514,579,502,638,497,637,509,577,526,518,548,460,577,405,591,393,606,381,633,340,655,295,685,213"/>
+<area shape="poly" id="edge10_Node000001_Node000017" title=" " alt="" coords="543,2044,507,2301,501,2300,538,2043"/>
+<area shape="rect" id="Node000018" href="$structzyncarla_1_1Unison_1_1UnisonVoice.html" title=" " alt="" coords="591,816,742,1020"/>
+<area shape="poly" id="edge11_Node000017_Node000018" title=" " alt="" coords="659,1020,595,1616,590,1615,653,1019"/>
+<area shape="rect" id="Node000019" href="$classzyncarla_1_1AnalogFilter.html" title=" " alt="" coords="839,1581,977,2095"/>
+<area shape="poly" id="edge13_Node000001_Node000019" title=" " alt="" coords="842,1970,512,2589,507,2587,837,1968"/>
+<area shape="rect" id="Node000020" href="$classzyncarla_1_1Filter.html" title=" " alt="" coords="924,732,1044,1104"/>
+<area shape="poly" id="edge14_Node000019_Node000020" title=" " alt="" coords="981,1119,972,1302,957,1497,948,1582,943,1581,952,1496,966,1302,975,1118"/>
+<area shape="rect" id="Node000021" href="$structzyncarla_1_1AnalogFilter_1_1Coeff.html" title=" " alt="" coords="1068,867,1201,969"/>
+<area shape="poly" id="edge15_Node000019_Node000021" title=" " alt="" coords="1133,969,1108,1172,1087,1301,1059,1430,1025,1544,985,1655,980,1653,1020,1543,1053,1428,1082,1300,1103,1171,1128,968"/>
+<area shape="rect" id="Node000022" href="$structzyncarla_1_1AnalogFilter_1_1fstage.html" title=" " alt="" coords="767,847,900,989"/>
+<area shape="poly" id="edge16_Node000019_Node000022" title=" " alt="" coords="842,989,888,1564,883,1565,836,989"/>
+</map>

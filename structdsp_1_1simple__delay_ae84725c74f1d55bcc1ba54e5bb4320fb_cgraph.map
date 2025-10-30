@@ -1,0 +1,18 @@
+<map id="dsp::simple_delay::process_allpass_comb_lerp16" name="dsp::simple_delay::process_allpass_comb_lerp16">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,160,133"/>
+<area shape="rect" id="Node000002" href="$namespacedsp.html#a934554c35e4d3e171cea6a1236fa6651" title=" " alt="" coords="237,5,326,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,74,207,41,224,34,226,39,209,46,139,79"/>
+<area shape="rect" id="Node000003" href="$structdsp_1_1simple__delay.html#adeff2bb309485a26d002405bd8459231" title=" " alt="" coords="217,55,346,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,91,201,85,202,90,161,96"/>
+<area shape="rect" id="Node000006" href="$structdsp_1_1simple__delay.html#a98fae2630863b66ce1dec93013ef7b95" title=" " alt="" coords="208,120,355,146"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,113,193,118,192,123,160,118"/>
+<area shape="rect" id="Node000007" href="$namespacedsp.html#aaafcf4f2177c8673092dbfe99b2febb7" title=" " alt="" coords="235,169,328,195"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="148,131,209,156,224,161,222,166,207,161,146,136"/>
+<area shape="rect" id="Node000004" href="$namespacedsp.html#a39d5fa90621bd9b344c10b81d317b828" title=" " alt="" coords="430,63,499,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="346,73,414,73,414,78,346,78"/>
+<area shape="rect" id="Node000005" href="$namespacedsp.html#a7449afa1cea11ce3b972f3f9fa107b99" title="decrease by N if &gt;= N (useful for circular buffers)" alt="" coords="403,116,525,142"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="347,92,404,109,402,114,345,97"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="355,129,387,128,387,133,355,134"/>
+<area shape="rect" id="Node000008" href="$namespacedsp.html#a870586ac5ee3dd8c04e793905875a536" title="&#39;Small value&#39; for integer and other types" alt="" coords="406,169,523,195"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="328,180,390,180,390,185,328,185"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Jack::JackCoreMidiOutputPort" name="Jack::JackCoreMidiOutputPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,1469,468,1820"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackCoreMidiPort.html" title=" " alt="" coords="5,976,153,1307"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,1320,167,1397,218,1475,276,1544,272,1548,214,1478,162,1400,127,1322"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="230,16,408,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,156,355,177,369,289,378,435,386,790,384,1162,379,1470,373,1470,379,1162,380,790,372,435,363,289,350,177,345,158"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="180,224,334,814"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="293,143,282,178,276,208,271,207,277,176,288,142"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackMidiBufferReadQueue.html" title=" " alt="" coords="689,1060,875,1223"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="739,1224,685,1311,620,1400,552,1476,482,1547,479,1543,549,1473,616,1397,680,1308,735,1221"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackMidiReadQueue.html" title=" " alt="" coords="734,476,899,562"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="816,577,789,1061,784,1060,811,577"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackMidiAsyncQueue.html" title=" " alt="" coords="435,1017,606,1266"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="805,577,773,689,751,753,724,815,679,886,597,1018,593,1016,674,883,719,812,746,751,768,687,800,576"/>
+<area shape="rect" id="Node000006" href="$structJack_1_1JackMidiBuffer.html" title=" " alt="" coords="923,404,1054,633"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="965,634,914,814,870,935,826,1045,821,1043,865,933,909,813,959,633"/>
+<area shape="rect" id="Node000007" href="$structJack_1_1JackMidiEvent.html" title=" " alt="" coords="802,5,1176,153"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="991,153,991,387,986,387,986,153"/>
+<area shape="rect" id="Node000008" href="$struct__jack__midi__event.html" title=" " alt="" coords="598,465,710,572"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="665,572,720,860,761,1043,756,1044,715,861,660,573"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="655,572,650,626,639,689,619,754,588,815,579,824,570,828,562,832,555,839,537,877,525,917,518,959,514,1000,509,1000,512,958,520,916,532,875,550,836,559,827,568,823,576,819,584,812,614,752,634,688,645,625,650,572"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="177,885,334,1398"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="296,1397,307,1445,309,1452,304,1453,302,1446,291,1399"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="259,829,258,885,253,885,253,829"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="486,1267,431,1454,425,1452,481,1265"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackMidiWriteQueue.html" title=" " alt="" coords="409,465,574,572"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="497,587,517,1017,512,1017,492,587"/>
+</map>

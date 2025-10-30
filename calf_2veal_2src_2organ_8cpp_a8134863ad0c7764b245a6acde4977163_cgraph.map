@@ -1,0 +1,20 @@
+<map id="padsynth" name="padsynth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,79,178"/>
+<area shape="rect" id="Node000002" href="$ZynAddSubFx_2zynaddsubfx_2src_2Synth_2OscilGen_8cpp.html#adda12e7fc328654a5ba8c2cf415ae6c5" title=" " alt="" coords="189,29,232,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,150,79,108,100,85,125,65,149,53,173,46,175,51,151,58,128,70,104,89,83,112,53,153"/>
+<area shape="rect" id="Node000003" href="$structdsp_1_1bandlimiter.html#a7be340dcc6cb4b64df58e52ba4792223" title="Import time domain waveform and calculate spectrum from it." alt="" coords="127,144,294,185"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="79,162,111,162,111,168,79,168"/>
+<area shape="rect" id="Node000006" href="$structdsp_1_1bandlimiter.html#ab7bb52c59ce003ea3d4a8d11a113ddbf" title="Generate the waveform from the contained spectrum." alt="" coords="127,79,294,120"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="76,149,142,123,144,128,78,154"/>
+<area shape="rect" id="Node000007" href="$structdsp_1_1waveform__family.html#a394519749cd75e8c80592150e3dc96b6" title=" " alt="" coords="134,210,287,250"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="78,176,144,201,142,206,76,181"/>
+<area shape="rect" id="Node000008" href="$namespacedsp.html#a1649ef9e7a86db00f9e797f0bda55767" title="Simple stupid inline function to normalize a waveform (by removing DC offset and ensuring max absolut..." alt="" coords="127,275,294,300"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="53,177,83,218,104,241,128,260,138,266,135,270,125,264,100,244,79,221,49,180"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="187,35,177,24,178,13,190,5,210,3,237,8,243,14,244,21,239,22,239,16,234,13,210,8,191,10,183,16,182,22,191,31"/>
+<area shape="rect" id="Node000004" href="$classdsp_1_1fft.html#ad7dcaa3cfe73a43b5391aef8bbab92ec" title=" " alt="" coords="360,91,477,116"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="281,141,357,119,359,124,283,146"/>
+<area shape="rect" id="Node000005" href="$structdsp_1_1bandlimiter.html#ab91fb8dd24f32b8048ff318b546849c2" title=" " alt="" coords="342,144,495,170"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="294,159,326,158,327,163,294,164"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="294,98,344,99,344,105,294,104"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="287,118,355,137,354,142,286,123"/>
+</map>

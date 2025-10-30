@@ -1,0 +1,47 @@
+<map id="Jack::JackGraphManager::DisconnectAllPorts" name="Jack::JackGraphManager::DisconnectAllPorts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,653,174,694"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackGraphManager.html#a014c291bf8e4fb277819b88f1d8e53e9" title=" " alt="" coords="237,248,405,289"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,652,298,301,303,304,105,654"/>
+<area shape="rect" id="Node000007" href="$group__ControlAPI.html#ga35f69faaee3bb9b958ed8c9a5f62246c" title=" " alt="" coords="961,328,1030,353"/>
+<area shape="poly" id="edge27_Node000001_Node000007" title=" " alt="" coords="175,688,353,717,460,731,571,742,679,747,776,743,856,730,887,718,911,704,929,681,944,645,967,550,982,448,989,369,995,369,987,449,973,551,949,647,933,684,914,708,889,723,857,735,777,749,679,752,571,747,460,737,352,723,174,693"/>
+<area shape="rect" id="Node000016" href="$classJack_1_1JackAtomicState.html#a7fddfaea02d6b0a7b18f901d5caa4f27" title=" " alt="" coords="726,61,901,116"/>
+<area shape="poly" id="edge28_Node000001_Node000016" title=" " alt="" coords="88,653,93,576,111,465,127,404,150,343,181,286,220,235,272,189,331,153,396,125,463,106,530,93,595,85,710,80,710,85,596,90,531,98,464,111,398,130,334,157,275,193,224,238,185,289,155,345,132,405,116,466,98,576,94,653"/>
+<area shape="rect" id="Node000017" href="$classJack_1_1JackAtomicState.html#a3767b71ca8441a3b16762f925a016d4e" title=" " alt="" coords="726,581,901,636"/>
+<area shape="poly" id="edge29_Node000001_Node000017" title=" " alt="" coords="174,664,710,615,711,620,175,669"/>
+<area shape="rect" id="Node000018" href="$classJack_1_1JackGraphManager.html#a2e4d22e369fb310942419ebeba505c91" title=" " alt="" coords="237,516,405,557"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="124,651,271,563,273,567,127,655"/>
+<area shape="rect" id="Node000020" href="$classJack_1_1JackConnectionManager.html#ab1c84d5b186504831e211851fdfb1af6" title="Get the input port array of a given refnum." alt="" coords="222,761,420,802"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="129,692,223,741,251,753,249,758,221,745,126,697"/>
+<area shape="rect" id="Node000021" href="$classJack_1_1JackConnectionManager.html#a12ec4c3f196b583ed5aa2739a495fb8b" title="Get the output port array of a given refnum." alt="" coords="222,827,420,867"/>
+<area shape="poly" id="edge26_Node000001_Node000021" title=" " alt="" coords="107,693,154,751,187,784,223,812,233,817,230,822,220,816,183,788,150,755,103,696"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackGraphManager.html#a377f9d5cb2a5664f2a7f8f8d8cf4d03b" title=" " alt="" coords="483,320,651,361"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,287,481,313,480,318,392,292"/>
+<area shape="poly" id="edge16_Node000002_Node000007" title=" " alt="" coords="341,245,438,161,507,109,585,62,669,24,712,12,754,5,796,3,837,9,877,23,914,46,930,65,944,93,967,167,983,247,993,312,988,312,978,248,962,168,939,95,926,68,911,50,875,28,836,15,796,9,755,10,713,17,671,29,588,66,510,114,441,165,345,249"/>
+<area shape="rect" id="Node000014" href="$classJack_1_1JackConnectionManager.html#aef6358f881fc41ba495530d79f4cfba0" title="Check if port_src and port_dst are connected." alt="" coords="714,140,913,181"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="405,247,702,182,703,187,406,253"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="358,245,409,219,467,193,593,148,710,113,712,118,594,153,469,198,411,224,360,250"/>
+<area shape="poly" id="edge18_Node000002_Node000017" title=" " alt="" coords="353,287,469,370,526,406,572,431,617,459,668,503,683,520,692,536,701,551,716,566,721,570,718,574,713,570,696,554,687,539,679,523,664,506,614,464,570,436,524,410,467,375,349,292"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackConnectionManager.html#a593a0448fa5b534f844b4f5697d6e7ea" title="Decrement the number of ports between 2 clients, if the 2 clients become disconnected,..." alt="" coords="714,255,913,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="646,317,719,297,720,303,647,322"/>
+<area shape="poly" id="edge12_Node000003_Node000007" title=" " alt="" coords="606,317,665,281,687,259,697,249,713,241,768,223,815,215,860,221,914,241,936,255,955,273,983,312,978,316,951,277,933,259,911,245,859,226,815,220,770,228,715,246,701,253,691,263,668,285,609,322"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1JackConnectionManager.html#a5ab34f1f67f7e83cc05e605435acee1b" title=" " alt="" coords="714,320,913,361"/>
+<area shape="poly" id="edge5_Node000003_Node000010" title=" " alt="" coords="652,338,699,338,699,343,652,343"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackConnectionManager.html#add9a78ee4e29647c6b916881af09edec" title="Disconnect port_src from port_dst." alt="" coords="714,516,913,557"/>
+<area shape="poly" id="edge7_Node000003_Node000011" title=" " alt="" coords="609,359,640,380,668,407,684,433,691,457,699,479,716,501,722,506,719,510,712,505,694,482,686,458,679,435,664,410,636,384,606,363"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackGraphManager.html#acadb912d3e60715c12023f5ec9f9f440" title=" " alt="" coords="729,385,898,426"/>
+<area shape="poly" id="edge9_Node000003_Node000012" title=" " alt="" coords="647,359,720,378,719,383,646,364"/>
+<area shape="poly" id="edge10_Node000003_Node000014" title=" " alt="" coords="614,317,640,301,664,281,680,260,687,239,695,218,713,197,727,186,730,191,716,201,700,221,692,241,684,262,668,285,643,305,617,322"/>
+<area shape="rect" id="Node000015" href="$classJack_1_1JackConnectionManager.html#ae3457dfd4dec10d37bfdb39c6550c95c" title=" " alt="" coords="714,451,913,491"/>
+<area shape="poly" id="edge11_Node000003_Node000015" title=" " alt="" coords="599,359,662,402,716,435,731,442,728,447,713,440,659,407,596,363"/>
+<area shape="poly" id="edge13_Node000003_Node000016" title=" " alt="" coords="618,317,643,302,664,281,677,261,683,242,686,204,690,166,698,147,712,127,714,125,718,128,716,130,702,149,695,168,692,205,688,243,682,264,668,285,646,306,621,322"/>
+<area shape="poly" id="edge14_Node000003_Node000017" title=" " alt="" coords="612,359,642,380,668,407,681,429,688,451,691,490,695,528,702,547,716,567,718,569,714,572,712,570,697,550,689,529,685,491,683,452,676,431,664,410,639,384,609,363"/>
+<area shape="poly" id="edge4_Node000004_Node000007" title=" " alt="" coords="879,293,914,306,948,319,946,324,912,311,877,298"/>
+<area shape="poly" id="edge6_Node000010_Node000007" title=" " alt="" coords="913,338,945,338,945,343,913,343"/>
+<area shape="poly" id="edge8_Node000011_Node000007" title=" " alt="" coords="893,513,911,501,938,470,959,434,985,367,990,369,964,437,943,473,914,505,896,518"/>
+<area shape="poly" id="edge20_Node000018_Node000003" title=" " alt="" coords="347,513,526,369,530,373,350,518"/>
+<area shape="poly" id="edge22_Node000018_Node000007" title=" " alt="" coords="355,555,457,614,527,646,604,674,684,692,725,697,765,697,804,693,841,683,877,668,911,646,926,628,940,599,963,521,979,436,988,368,994,369,984,437,968,522,945,601,931,631,914,650,880,673,843,688,805,698,765,702,724,702,683,698,602,679,525,651,455,619,352,560"/>
+<area shape="poly" id="edge23_Node000018_Node000016" title=" " alt="" coords="329,515,349,473,379,418,419,360,466,306,493,285,518,270,566,252,613,234,638,219,664,199,679,180,687,163,696,145,713,126,717,123,721,127,716,130,700,148,692,165,684,183,668,202,641,224,616,239,568,257,521,275,496,289,470,310,423,363,384,421,353,475,333,517"/>
+<area shape="poly" id="edge24_Node000018_Node000017" title=" " alt="" coords="405,519,464,513,530,511,600,516,667,531,683,539,693,547,716,566,725,571,723,576,713,571,689,551,680,543,665,536,599,521,530,516,464,518,406,524"/>
+<area shape="rect" id="Node000019" href="$classJack_1_1JackConnectionManager.html#a384c17ec2c433b6a758987979f5db806" title="Get the connection port array." alt="" coords="468,545,666,586"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="406,544,453,549,452,555,405,549"/>
+</map>

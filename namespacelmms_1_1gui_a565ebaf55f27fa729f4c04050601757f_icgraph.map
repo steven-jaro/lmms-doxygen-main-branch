@@ -1,0 +1,37 @@
+<map id="lmms::gui::floatFromClipboard" name="lmms::gui::floatFromClipboard">
+<area shape="rect" id="Node000001" title="Attempt to parse a float from the clipboard." alt="" coords="764,373,955,398"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1AutomatableModelView.html#ab8dd8b9f4732e77f2703e75c381aaa07" title=" " alt="" coords="520,332,710,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="748,373,711,368,711,363,749,368"/>
+<area shape="rect" id="Node000047" href="$classlmms_1_1gui_1_1AutomatableModelViewSlots.html#ad030bb2ccdbe1619dfed00709b6ffff4" title="Paste the model&#39;s value from the clipboard." alt="" coords="514,397,716,438"/>
+<area shape="poly" id="edge17_Node000001_Node000047" title=" " alt="" coords="749,403,717,407,717,402,748,398"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1AutomatableButton.html#a6b99214d094f5c7bc248e5fbb375d944" title=" " alt="" coords="266,5,460,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="603,317,586,261,558,192,518,122,493,89,464,61,446,49,449,44,468,57,497,86,522,119,563,190,591,259,608,316"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1AutomatableSlider.html#a6d8025506afe592a9eabedca8f6cd178" title=" " alt="" coords="269,71,457,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="598,319,577,275,548,223,510,171,464,126,444,114,447,110,468,122,514,168,553,220,582,272,603,316"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1ComboBox.html#a341047a09454f042f91c3927d98f4e6f" title=" " alt="" coords="290,136,436,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="590,321,537,255,503,221,465,192,435,177,437,172,467,187,506,217,541,252,594,318"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1Fader.html#a69f070bcd38e7678b1a7dae7df8407ff" title=" " alt="" coords="281,201,444,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="573,325,523,290,465,257,435,245,437,240,467,253,526,286,576,320"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#ac72d9ab027c7cc4d95dd89cbc72610d3" title=" " alt="" coords="273,267,452,307"/>
+<area shape="poly" id="edge7_Node000002_Node000015" title=" " alt="" coords="518,330,443,311,445,305,520,325"/>
+<area shape="rect" id="Node000035" href="$classlmms_1_1gui_1_1LcdFloatSpinBox.html#a78ba6b6347d91cf8bb1968cd512b7ec4" title=" " alt="" coords="272,332,454,373"/>
+<area shape="poly" id="edge9_Node000002_Node000035" title=" " alt="" coords="504,355,454,355,454,350,504,350"/>
+<area shape="rect" id="Node000036" href="$classlmms_1_1gui_1_1LcdSpinBox.html#a0d7e923efc8663ed6e674578a19a6396" title=" " alt="" coords="287,397,439,438"/>
+<area shape="poly" id="edge10_Node000002_Node000036" title=" " alt="" coords="520,380,440,401,439,395,518,375"/>
+<area shape="rect" id="Node000037" href="$classlmms_1_1gui_1_1MixerChannelLcdSpinBox.html#a2669e245d7e835266845089ced15ed3d" title=" " alt="" coords="272,463,454,503"/>
+<area shape="poly" id="edge11_Node000002_Node000037" title=" " alt="" coords="524,382,516,388,501,403,492,419,484,435,468,452,446,464,443,460,464,448,479,432,488,416,496,400,512,384,521,378"/>
+<area shape="rect" id="Node000038" href="$classlmms_1_1gui_1_1PianoView.html#a786081a961b5e4cf698bc8e5d43e9b0a" title="Handle a context menu selection on the piano display view." alt="" coords="291,528,435,569"/>
+<area shape="poly" id="edge12_Node000002_Node000038" title=" " alt="" coords="520,384,516,388,503,403,497,419,493,451,489,484,481,500,468,517,437,536,434,532,464,513,477,498,483,482,487,450,492,417,499,400,512,384,517,380"/>
+<area shape="rect" id="Node000039" href="$classlmms_1_1gui_1_1TempoSyncBarModelEditor.html#a2ba7b48d97c8fa92de9106d7a87d2eb8" title=" " alt="" coords="260,593,466,634"/>
+<area shape="poly" id="edge13_Node000002_Node000039" title=" " alt="" coords="519,384,516,387,499,411,492,435,491,459,493,483,495,507,493,532,485,557,468,582,453,595,449,591,464,579,481,555,488,531,489,507,487,483,486,459,487,434,495,409,512,384,516,380"/>
+<area shape="rect" id="Node000043" href="$classlmms_1_1gui_1_1TempoSyncKnob.html#a38129c83670bf87b5466822e545f9074" title=" " alt="" coords="272,659,454,699"/>
+<area shape="poly" id="edge15_Node000002_Node000043" title=" " alt="" coords="519,384,516,387,495,420,488,452,488,483,493,515,498,548,498,581,490,614,468,647,453,660,450,656,464,644,485,612,493,580,492,548,487,516,483,484,482,451,491,418,512,384,515,381"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1Fader.html#a812a85c3e58ac2c2f074e56e92e23000" title=" " alt="" coords="8,209,209,234"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="266,224,209,224,209,219,266,219"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1gui_1_1FloatModelEditorBase.html#acaad408e2de4d3389e731e9ed252626f" title=" " alt="" coords="19,267,198,307"/>
+<area shape="poly" id="edge8_Node000015_Node000016" title=" " alt="" coords="258,290,199,290,199,284,258,284"/>
+<area shape="rect" id="Node000040" href="$classlmms_1_1gui_1_1TempoSyncBarModelEditor.html#aa00394f56951a66a0e7f1faed56f37cf" title=" " alt="" coords="5,593,212,634"/>
+<area shape="poly" id="edge14_Node000039_Node000040" title=" " alt="" coords="244,616,212,616,212,611,244,611"/>
+<area shape="rect" id="Node000044" href="$classlmms_1_1gui_1_1TempoSyncKnob.html#a71048cd14fe6a31d054f0ab8db1031f2" title=" " alt="" coords="18,659,199,699"/>
+<area shape="poly" id="edge16_Node000043_Node000044" title=" " alt="" coords="257,682,200,682,200,676,257,676"/>
+</map>

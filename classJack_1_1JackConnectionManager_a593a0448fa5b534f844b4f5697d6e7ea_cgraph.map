@@ -1,0 +1,15 @@
+<map id="Jack::JackConnectionManager::DecDirectConnection" name="Jack::JackConnectionManager::DecDirectConnection">
+<area shape="rect" id="Node000001" title="Decrement the number of ports between 2 clients, if the 2 clients become disconnected,..." alt="" coords="5,88,204,129"/>
+<area shape="rect" id="Node000002" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="504,12,561,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,86,182,48,216,30,251,17,315,5,380,3,440,7,489,14,489,19,440,12,380,8,316,11,252,22,218,35,185,53,132,90"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackConnectionManager.html#a11feb9d453c4aefff1e217e711aa302c" title="Directly disconnect 2 reference numbers." alt="" coords="252,31,450,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,85,245,73,246,78,195,90"/>
+<area shape="rect" id="Node000004" href="$group__ControlAPI.html#ga35f69faaee3bb9b958ed8c9a5f62246c" title=" " alt="" coords="498,65,567,91"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="204,99,482,79,482,84,204,104"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackConnectionManager.html#a9a5a1f142c861186b51d3eb5fa9aaa99" title="Get the client refnum of a given input port." alt="" coords="252,146,450,186"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="195,127,246,139,245,144,194,132"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackConnectionManager.html#aa51c2120d507f8a20a89b2c29fcd4126" title="Get the client refnum of a given output port." alt="" coords="252,211,450,252"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="137,127,190,161,253,196,269,203,267,208,250,200,187,166,134,132"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="450,34,488,28,489,34,451,39"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="451,63,483,68,482,73,450,69"/>
+</map>

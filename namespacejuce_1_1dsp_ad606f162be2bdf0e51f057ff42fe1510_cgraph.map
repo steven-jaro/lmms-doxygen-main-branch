@@ -1,0 +1,43 @@
+<map id="juce::dsp::resampleImpulseResponse" name="juce::dsp::resampleImpulseResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,228,183,269"/>
+<area shape="poly" id="edge23_Node000001_Node000001" title=" " alt="" coords="50,228,48,218,55,209,71,203,94,201,119,204,134,210,132,215,118,209,94,207,72,208,58,213,53,219,55,227"/>
+<area shape="rect" id="Node000002" href="$classjuce_1_1ResamplingAudioSource.html#a6204573a30cef12f1ed96883ade0dc22" title=" " alt="" coords="231,129,424,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,225,230,186,258,174,260,179,232,191,143,230"/>
+<area shape="rect" id="Node000005" href="$namespacejuce.html#a50060cafc2432519b7611476410dbe22" title=" " alt="" coords="771,87,849,113"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="106,226,155,160,189,123,229,91,291,56,344,37,400,26,472,16,569,3,612,5,666,16,698,28,730,43,781,76,778,80,727,47,696,33,665,22,612,11,569,9,472,22,401,32,346,42,294,61,232,96,193,127,159,163,110,229"/>
+<area shape="rect" id="Node000008" href="$namespacejuce.html#af0e7f88f33180df5f8f74d53290e11fc" title=" " alt="" coords="512,194,625,220"/>
+<area shape="poly" id="edge24_Node000001_Node000008" title=" " alt="" coords="183,235,230,230,496,209,497,214,231,235,183,240"/>
+<area shape="rect" id="Node000009" href="$classjuce_1_1AudioBuffer.html#a5bb7bb4739da628356e85e02f2e82eb5" title=" " alt="" coords="265,333,390,374"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="132,267,232,318,252,326,250,331,230,323,130,271"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1ResamplingAudioSource.html#a6586c31ddf4f6e53001599e561ca3b8b" title=" " alt="" coords="231,268,424,309"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="184,261,216,266,215,272,183,266"/>
+<area shape="rect" id="Node000013" href="$classjuce_1_1ResamplingAudioSource.html#ad4aad65176496280dc8b7404e92885c9" title=" " alt="" coords="231,423,424,463"/>
+<area shape="poly" id="edge25_Node000001_Node000013" title=" " alt="" coords="115,267,165,322,232,384,275,412,272,417,229,388,162,326,111,271"/>
+<area shape="poly" id="edge9_Node000002_Node000002" title=" " alt="" coords="283,129,281,119,288,110,304,105,327,103,353,105,367,111,365,116,351,110,327,108,305,110,292,115,286,120,289,128"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1ResamplingAudioSource.html#ab81c5ec13527f45aa1d20dce8fb859ff" title=" " alt="" coords="472,105,665,146"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,137,456,134,457,139,425,143"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1ResamplingAudioSource.html#ae872a7fad5f08d31fe0000dbdce9fa88" title=" " alt="" coords="472,268,665,309"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="366,168,520,258,517,262,363,173"/>
+<area shape="rect" id="Node000007" href="$CarlaEngineGraph_8cpp.html#a51eb9b3403bff872a24b0b65fcf49b62" title=" " alt="" coords="546,31,591,57"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="359,126,411,96,471,67,530,49,532,54,473,72,413,101,362,131"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="416,168,497,187,496,193,415,173"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="523,105,521,95,529,86,544,81,569,79,595,81,610,87,608,92,593,86,569,84,546,86,532,91,526,96,528,104"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="523,268,521,258,529,249,544,243,569,241,595,244,610,250,608,255,593,249,569,247,546,248,532,253,526,259,528,267"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="608,265,664,230,731,174,784,122,788,126,734,178,667,234,611,270"/>
+<area shape="rect" id="Node000006" href="$classjuce_1_1ResamplingAudioSource.html#a3e72454feb09c4b3e3de421e19a0b4ff" title=" " alt="" coords="713,268,907,309"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="666,286,698,286,698,291,666,291"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="765,268,762,258,770,249,786,243,810,241,836,244,851,250,849,255,835,249,810,247,787,248,773,253,768,259,770,267"/>
+<area shape="poly" id="edge12_Node000008_Node000008" title=" " alt="" coords="529,195,521,186,526,176,542,170,569,167,599,170,613,177,611,182,597,175,569,173,543,175,529,180,526,185,533,192"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="424,286,457,286,457,291,424,291"/>
+<area shape="poly" id="edge22_Node000010_Node000008" title=" " alt="" coords="377,265,471,230,497,222,499,227,473,235,379,270"/>
+<area shape="poly" id="edge21_Node000010_Node000010" title=" " alt="" coords="283,268,281,258,288,249,304,243,327,241,353,244,367,250,365,255,351,249,327,247,305,248,292,253,286,259,289,267"/>
+<area shape="rect" id="Node000011" href="$classjuce_1_1ResamplingAudioSource.html#a8bffbbb660487361ed57ba322a3e736b" title=" " alt="" coords="472,357,665,398"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="390,307,425,319,502,349,500,354,423,324,388,312"/>
+<area shape="poly" id="edge18_Node000011_Node000011" title=" " alt="" coords="523,357,521,347,529,338,544,333,569,331,595,333,610,339,608,344,593,338,569,336,546,338,532,343,526,348,528,356"/>
+<area shape="rect" id="Node000012" href="$classjuce_1_1ResamplingAudioSource.html#ab2ae2e2246b2e04c0d830573a45f8fdd" title=" " alt="" coords="713,357,907,398"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="666,375,698,375,698,380,666,380"/>
+<area shape="poly" id="edge20_Node000012_Node000012" title=" " alt="" coords="765,357,762,347,770,338,786,333,810,331,836,333,851,339,849,344,835,338,810,336,787,338,773,343,768,348,770,356"/>
+<area shape="poly" id="edge27_Node000013_Node000013" title=" " alt="" coords="283,423,281,413,288,404,304,398,327,396,353,398,367,405,365,409,351,404,327,401,305,403,292,408,286,414,289,421"/>
+<area shape="rect" id="Node000014" href="$CarlaEngineGraph_8cpp.html#ad294b8477886cae80a4cbfaffbdf3772" title=" " alt="" coords="544,430,593,456"/>
+<area shape="poly" id="edge26_Node000013_Node000014" title=" " alt="" coords="424,440,529,440,529,446,424,446"/>
+</map>

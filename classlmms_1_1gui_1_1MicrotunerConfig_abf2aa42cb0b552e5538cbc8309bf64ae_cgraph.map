@@ -1,0 +1,31 @@
+<map id="lmms::gui::MicrotunerConfig::loadKeymapFromFile" name="lmms::gui::MicrotunerConfig::loadKeymapFromFile">
+<area shape="rect" id="Node000001" title="Parse a .kbm file and apply the loaded keymap if it is valid." alt="" coords="5,226,185,266"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1MicrotunerConfig.html#ab59c7f78372901d1d3f3dc04e6cfeb39" title="Parse and apply the entered keymap definition." alt="" coords="233,126,412,166"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,223,259,171,261,176,145,228"/>
+<area shape="rect" id="Node000011" href="$src_2core_2main_8cpp.html#aff5738788e156952bcd027d1a039c9d9" title=" " alt="" coords="280,204,364,230"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="185,232,264,222,265,227,185,237"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1FileDialog.html#a3df46a5758202727287cd9c6608069cb" title=" " alt="" coords="253,254,392,294"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="185,255,238,261,237,266,185,260"/>
+<area shape="rect" id="Node000019" href="$ZynAddSubFx_2zynaddsubfx_2src_2Misc_2Util_8h.html#a5c08b691a3ec5c1d30c9758aec8521c9" title=" " alt="" coords="300,319,345,344"/>
+<area shape="poly" id="edge14_Node000001_Node000019" title=" " alt="" coords="141,265,234,304,286,320,284,325,232,309,139,270"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1Engine.html#a8b943018d0245555391473f4a7d75b5b" title=" " alt="" coords="474,77,626,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,123,479,105,480,110,408,128"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1Song.html#a3f5299112ecf877c0b9482441d4cdef2" title=" " alt="" coords="470,127,630,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,141,454,140,454,145,413,146"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1MicrotunerConfig.html#a859e5efc7e36fc441044f7360dba897e" title="Validate the entered key mapping and other values." alt="" coords="460,183,639,224"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="406,164,452,176,451,181,405,170"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="707,5,881,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="619,124,638,113,653,96,661,78,669,59,686,41,695,36,698,40,689,46,673,62,666,80,658,99,641,118,621,129"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1AudioEngine.html#a8650b17deaa8f1eb4030651619050dab" title=" " alt="" coords="724,55,864,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="601,124,709,95,710,100,602,129"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1Song.html#a20022684792fdf9bab4358dbaa9985e0" title=" " alt="" coords="687,120,901,146"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="630,135,672,134,672,139,631,140"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1AudioEngine.html#ae970a2bc94b7fa2d98fe114cb8953438" title="Block until a change in model can be done (i.e. wait for audio thread)." alt="" coords="717,170,871,210"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="616,150,702,168,701,174,615,156"/>
+<area shape="rect" id="Node000010" href="$adplugdb_8cpp.html#afadda4184a4f0275271a46b2b0cc7f8b" title=" " alt="" coords="757,235,831,260"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="640,217,742,236,741,241,639,222"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1FileDialog.html#a42a83d6d2a47e1affdaf5944135163b2" title=" " alt="" coords="480,260,619,301"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="392,274,464,276,464,281,392,279"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1ConfigManager.html#aed1127d4ab5ccc02af03698c5c47e270" title=" " alt="" coords="721,284,867,325"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="620,285,706,294,706,299,619,290"/>
+</map>

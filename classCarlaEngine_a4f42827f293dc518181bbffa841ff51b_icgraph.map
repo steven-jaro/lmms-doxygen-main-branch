@@ -1,0 +1,47 @@
+<map id="CarlaEngine::patchbayRefresh" name="CarlaEngine::patchbayRefresh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="729,361,923,386"/>
+<area shape="rect" id="Node000002" href="$group__CarlaHostAPI.html#ga3b09901b90ec0862fb45fd0a3de35b65" title=" " alt="" coords="491,78,646,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="807,349,754,271,718,225,679,181,632,139,589,107,592,102,635,135,683,177,722,221,758,268,811,346"/>
+<area shape="rect" id="Node000008" href="$classCarlaEngine.html#a1f1b34e2e1bd9c44e4a63f41a7d23eef" title=" " alt="" coords="456,216,681,241"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="794,353,742,317,680,279,605,244,607,239,683,274,745,312,797,349"/>
+<area shape="rect" id="Node000051" href="$classCarlaEngineJack.html#aebea45f22e67d38cda02dca9ef33d854" title=" " alt="" coords="480,288,657,329"/>
+<area shape="poly" id="edge16_Node000001_Node000051" title=" " alt="" coords="757,359,651,332,652,327,759,354"/>
+<area shape="rect" id="Node000053" href="$classCarlaEngineJuce.html#a015cb178f170709b365da67476d054a0" title=" " alt="" coords="480,353,657,394"/>
+<area shape="poly" id="edge18_Node000001_Node000053" title=" " alt="" coords="714,376,657,376,657,371,714,371"/>
+<area shape="rect" id="Node000055" href="$classCarlaEngineRtAudio.html#a02114146da414f63a6c6d428c0f8a820" title=" " alt="" coords="500,419,637,459"/>
+<area shape="poly" id="edge20_Node000001_Node000055" title=" " alt="" coords="758,393,638,424,636,419,757,388"/>
+<area shape="rect" id="Node000057" href="$classCarlaEngineSDL.html#abcef25675dc5e1667de815362bae140a" title=" " alt="" coords="482,484,656,525"/>
+<area shape="poly" id="edge22_Node000001_Node000057" title=" " alt="" coords="798,399,746,437,683,473,652,486,650,481,680,469,743,432,795,394"/>
+<area shape="rect" id="Node000059" href="$classCarlaEngineNative.html#a69f02006799d666c081645331905df04" title=" " alt="" coords="502,549,636,590"/>
+<area shape="poly" id="edge24_Node000001_Node000059" title=" " alt="" coords="811,401,759,470,724,507,683,539,637,559,635,554,680,534,720,503,755,466,807,398"/>
+<area shape="rect" id="Node000003" href="$carla-host_8cpp.html#aa8625bfcf04d58b7aa6ecdf0567df30d" title=" " alt="" coords="249,5,402,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,76,402,49,403,44,504,71"/>
+<area shape="rect" id="Node000005" href="$classCarlaHostWindow.html#a11f247aebc99243588ffd866a0133f8b" title=" " alt="" coords="249,71,402,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="475,94,402,94,402,88,475,88"/>
+<area shape="rect" id="Node000004" href="$rest-server_8cpp.html#a0fc34f49b0e6eaed5e5c3accb409b1d1" title=" " alt="" coords="75,13,125,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,28,125,28,125,23,234,23"/>
+<area shape="rect" id="Node000006" href="$classCarlaHostWindow.html#af94a8f402e673b6872c7f2bf8e02b672" title=" " alt="" coords="5,71,195,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,94,195,94,195,88,233,88"/>
+<area shape="poly" id="edge7_Node000008_Node000008" title=" " alt="" coords="612,204,598,197,569,194,543,196,529,201,526,206,533,213,529,217,521,207,525,197,542,191,569,189,599,192,614,199"/>
+<area shape="rect" id="Node000009" href="$classCarlaEngine.html#af1715ed33b66c42cb72eb42c2a03a73f" title=" " alt="" coords="245,185,406,226"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="440,219,406,216,407,211,441,214"/>
+<area shape="rect" id="Node000033" href="$classCarlaEngine.html#a771da8f6c73dc91eb4429746157d3ad3" title=" " alt="" coords="243,251,408,291"/>
+<area shape="poly" id="edge14_Node000008_Node000033" title=" " alt="" coords="477,247,409,259,408,254,476,242"/>
+<area shape="rect" id="Node000010" href="$classCarlaEngine.html#a36efccb45856696250e11359b9495b0c" title=" " alt="" coords="19,136,181,161"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="229,184,153,164,154,159,230,179"/>
+<area shape="rect" id="Node000022" href="$classCarlaEngine.html#a42b525f191ce264fb351e911ea6123a2" title=" " alt="" coords="19,274,181,300"/>
+<area shape="poly" id="edge11_Node000009_Node000022" title=" " alt="" coords="253,234,139,276,137,271,252,229"/>
+<area shape="rect" id="Node000050" href="$classCarlaEngineNative.html#a1ad526b83cb595c65613a3318b4981f3" title=" " alt="" coords="33,185,167,226"/>
+<area shape="poly" id="edge13_Node000009_Node000050" title=" " alt="" coords="229,208,168,208,168,203,229,203"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="196,147,299,155,409,171,478,190,537,212,535,217,476,196,407,176,298,160,196,153"/>
+<area shape="poly" id="edge12_Node000022_Node000022" title=" " alt="" coords="139,262,126,255,100,253,76,255,63,260,61,265,67,272,63,275,55,266,60,256,75,250,100,248,128,250,142,257"/>
+<area shape="poly" id="edge15_Node000033_Node000022" title=" " alt="" coords="227,281,181,284,181,279,227,275"/>
+<area shape="rect" id="Node000052" href="$classCarlaEngineJack.html#a152110375ddf4891f666a2db287ba993" title=" " alt="" coords="255,316,396,341"/>
+<area shape="poly" id="edge17_Node000051_Node000052" title=" " alt="" coords="465,319,397,325,396,320,465,314"/>
+<area shape="rect" id="Node000054" href="$classCarlaEngineJuce.html#a1985697f93e53cec4b0c88580886b87c" title=" " alt="" coords="255,365,396,390"/>
+<area shape="poly" id="edge19_Node000053_Node000054" title=" " alt="" coords="465,378,397,379,397,374,465,373"/>
+<area shape="rect" id="Node000056" href="$classCarlaEngineRtAudio.html#a597ac0743220a5258bf40eb52fd31e4f" title=" " alt="" coords="257,419,394,459"/>
+<area shape="poly" id="edge21_Node000055_Node000056" title=" " alt="" coords="485,442,394,442,394,436,485,436"/>
+<area shape="rect" id="Node000058" href="$classCarlaEngineSDL.html#aae273fe31c2a0f481255f4c6ed1eb0f5" title=" " alt="" coords="256,492,395,517"/>
+<area shape="poly" id="edge23_Node000057_Node000058" title=" " alt="" coords="466,507,395,507,395,502,466,502"/>
+</map>

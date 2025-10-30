@@ -1,0 +1,44 @@
+<map id="juce::MidiMessageSequence::createControllerUpdatesForTime" name="juce::MidiMessageSequence::createControllerUpdatesForTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,284,221,325"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="66,285,63,274,71,265,88,260,113,258,140,260,156,266,154,271,139,265,113,263,89,265,74,270,69,276,71,283"/>
+<area shape="rect" id="Node000002" href="$classjuce_1_1Array.html#a76b59834b9d3d5b654f27dbaf2d6c09f" title=" " alt="" coords="311,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,283,136,234,166,168,210,100,237,69,267,41,294,27,297,32,270,46,240,72,214,103,171,171,141,236,123,285"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1OptionalControllerValues.html#a9268efc83ea3d396c9a22d12ab6dc40c" title=" " alt="" coords="288,120,442,161"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="132,282,190,228,227,198,267,172,279,166,282,170,270,176,230,203,193,232,136,286"/>
+<area shape="rect" id="Node000009" href="$classjuce_1_1OptionalPitchWheel.html#a687ddae35473fc33126f5faa392ecb13" title=" " alt="" coords="282,251,448,292"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="221,288,267,282,267,287,221,293"/>
+<area shape="rect" id="Node000012" href="$classjuce_1_1OptionalProgramChange.html#af1787becb7f0170f9186b212c55067e2" title=" " alt="" coords="269,55,461,96"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="123,283,145,245,178,198,219,149,267,107,276,101,279,106,270,111,223,153,182,201,150,248,128,285"/>
+<area shape="rect" id="Node000014" href="$classjuce_1_1ParameterNumberState.html#a250294075b01f299e372d214241e3695" title=" " alt="" coords="271,186,459,226"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="161,281,268,237,287,230,289,235,270,242,163,286"/>
+<area shape="rect" id="Node000015" href="$classjuce_1_1OptionalControllerValues.html#a39a48dea3f7444a146694e14b57fa877" title=" " alt="" coords="288,316,442,357"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="221,316,272,322,272,328,221,321"/>
+<area shape="rect" id="Node000016" href="$classjuce_1_1OptionalPitchWheel.html#a1f61e9d84a38f83987f321657b57591f" title=" " alt="" coords="270,381,460,407"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="161,323,270,366,295,374,293,379,268,371,159,328"/>
+<area shape="rect" id="Node000017" href="$classjuce_1_1OptionalProgramChange.html#a629a1c6ba6729c57ef4569a5bad7c9d7" title=" " alt="" coords="269,431,461,472"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="139,324,196,370,270,417,280,422,278,427,267,422,193,374,136,328"/>
+<area shape="rect" id="Node000018" href="$classjuce_1_1OptionalProgramChange.html#af18aab45d2ca3c0ff35533ee1a8ad798" title=" " alt="" coords="269,496,461,537"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="129,324,185,400,225,444,270,481,279,487,276,491,267,486,221,447,180,404,125,327"/>
+<area shape="rect" id="Node000019" href="$classjuce_1_1ParameterNumberState.html#a71a3a55e4ab55f9135da6515dfd29f5d" title=" " alt="" coords="271,562,459,602"/>
+<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="124,325,144,370,175,430,217,493,242,521,270,547,277,552,274,556,267,551,239,525,213,496,170,433,139,373,120,327"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1MidiMessage.html#a897d800e74e7714ff800658de34b74a0" title=" " alt="" coords="509,120,643,161"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="442,138,493,138,493,144,442,144"/>
+<area shape="rect" id="Node000005" href="$namespacejuce_1_1MidiHelpers.html#abe3568344728055d5d105424db1fbbaa" title=" " alt="" coords="712,144,838,185"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="644,146,697,153,696,158,644,152"/>
+<area shape="rect" id="Node000007" href="$classjuce_1_1MidiMessage.html#a76181bf4b333da6b0b3e0b9f5c32e354" title=" " alt="" coords="708,55,842,96"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="639,117,696,99,697,104,641,123"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="737,144,735,135,742,126,755,120,775,118,797,120,810,127,807,131,795,125,775,123,756,125,745,130,741,136,742,143"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1MidiMessage.html#a4704833c24e0a2567079755de399360e" title=" " alt="" coords="509,206,643,246"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="447,251,493,241,494,246,449,256"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="643,203,696,186,698,191,645,208"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="605,203,641,171,655,154,664,138,673,123,690,107,697,102,700,106,693,111,677,126,668,141,659,157,645,175,608,207"/>
+<area shape="rect" id="Node000011" href="$namespacejuce.html#abc30634da20365f6da8973f91b6b1acd" title=" " alt="" coords="691,233,859,259"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="644,230,676,234,676,239,644,236"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="742,234,735,225,739,215,753,209,775,207,799,209,812,216,809,221,798,214,775,212,754,214,743,219,740,224,746,231"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="434,94,495,113,493,118,432,99"/>
+<area shape="rect" id="Node000013" href="$classjuce_1_1MidiMessage.html#ad8787344b0657b62c43fce327cc42bc1" title=" " alt="" coords="509,55,643,96"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="461,73,493,73,493,78,461,78"/>
+<area shape="poly" id="edge17_Node000013_Node000005" title=" " alt="" coords="625,94,715,135,713,140,622,99"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="644,73,692,73,692,78,644,78"/>
+<area shape="poly" id="edge20_Node000014_Node000004" title=" " alt="" coords="432,183,493,164,495,169,434,188"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="calf_plugins::organ_audio_module" name="calf_plugins::organ_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,2131,576,2660"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="396,1396,604,2082"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,2097,503,2132,498,2132,498,2097"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1organ__metadata.html" title="Organ &#45; metadata." alt="" coords="331,931,472,1033"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,1047,458,1396,453,1397,407,1048"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1organ__enums.html" title=" " alt="" coords="5,257,123,338"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="65,353,68,408,78,471,100,534,116,562,137,588,157,604,178,611,221,612,265,613,287,621,309,637,336,670,357,707,374,746,386,787,400,866,405,931,399,932,395,866,381,788,369,748,352,709,331,673,305,641,284,625,264,618,220,617,177,616,154,608,133,592,112,565,95,536,73,472,62,409,59,353"/>
+<area shape="rect" id="Node000011" href="$structdsp_1_1drawbar__organ.html" title=" " alt="" coords="148,817,296,1147"/>
+<area shape="poly" id="edge11_Node000011_Node000004" title=" " alt="" coords="79,352,186,816,181,818,74,353"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="320,16,507,580"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="411,594,405,932,400,932,406,594"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="530,5,696,590"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="543,605,537,639,517,833,505,1031,498,1221,496,1396,491,1396,493,1221,499,1030,512,833,532,639,537,604"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="547,639,755,1325"/>
+<area shape="poly" id="edge8_Node000009_Node000008" title=" " alt="" coords="633,604,635,639,629,639,628,605"/>
+<area shape="poly" id="edge6_Node000002_Node000009" title=" " alt="" coords="582,1340,571,1397,566,1396,577,1339"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="721,264,786,331"/>
+<area shape="poly" id="edge7_Node000009_Node000010" title=" " alt="" coords="749,346,705,640,700,639,744,345"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="239,1162,259,1353,290,1584,332,1834,358,1959,387,2081,427,2210,422,2211,382,2083,353,1960,327,1835,285,1585,254,1354,234,1162"/>
+<area shape="rect" id="Node000012" href="$structdsp_1_1basic__synth.html" title=" " alt="" coords="148,41,296,554"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="224,569,224,817,219,817,219,569"/>
+<area shape="rect" id="Node000013" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="628,1637,772,1841"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="678,1856,651,1966,619,2083,578,2203,573,2201,614,2081,646,1965,673,1855"/>
+</map>

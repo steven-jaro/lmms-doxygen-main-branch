@@ -1,0 +1,40 @@
+<map id="lmms::WaveShaperControls" name="lmms::WaveShaperControls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="404,2746,575,3056"/>
+<area shape="rect" id="Node000029" href="$classlmms_1_1WaveShaperEffect.html" title=" " alt="" coords="537,3127,693,3254"/>
+<area shape="poly" id="edge20_Node000029_Node000001" title=" " alt="" coords="473,3055,478,3079,487,3102,504,3124,525,3143,521,3147,500,3128,483,3104,473,3081,467,3056"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1EffectControls.html" title=" " alt="" coords="253,2508,382,2696"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,2708,407,2752,402,2754,376,2710"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1JournallingObject.html" title=" " alt="" coords="315,284,520,635"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,649,301,706,288,780,278,870,266,1088,264,1342,269,1613,291,2136,314,2508,308,2508,285,2136,264,1614,259,1342,261,1088,273,869,283,779,296,705,314,647"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1Plugin.html" title=" " alt="" coords="311,736,451,1067"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="405,650,398,736,392,736,399,649"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1SerializingObject.html" title=" " alt="" coords="561,5,706,234"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="555,248,522,300,518,297,551,245"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1EffectChain.html" title=" " alt="" coords="888,756,1033,1046"/>
+<area shape="poly" id="edge12_Node000014_Node000004" title=" " alt="" coords="689,247,902,756,898,758,684,249"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1Model.html" title=" " alt="" coords="138,355,291,564"/>
+<area shape="poly" id="edge4_Node000002_Node000006" title=" " alt="" coords="209,579,195,901,190,1118,189,1362,195,1624,209,1896,233,2169,269,2437,287,2508,281,2509,264,2437,228,2170,204,1896,190,1624,184,1362,185,1118,190,901,204,578"/>
+<area shape="poly" id="edge8_Node000009_Node000006" title=" " alt="" coords="262,576,322,735,317,737,257,578"/>
+<area shape="poly" id="edge11_Node000014_Node000006" title=" " alt="" coords="255,575,277,607,304,633,326,644,353,653,421,663,501,667,587,667,672,667,753,671,821,682,848,691,871,704,896,727,917,755,912,758,892,731,868,708,846,696,819,687,752,676,672,672,587,672,501,672,420,669,352,658,324,649,301,637,273,610,251,578"/>
+<area shape="rect" id="Node000030" href="$classlmms_1_1graphModel.html" title="2 dimensional function plot" alt="" coords="23,1121,167,1757"/>
+<area shape="poly" id="edge23_Node000030_Node000006" title=" " alt="" coords="203,579,136,1122,131,1122,198,578"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="185,87,244,153"/>
+<area shape="poly" id="edge5_Node000006_Node000007" title=" " alt="" coords="217,168,217,355,212,355,212,168"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1Effect.html" title=" " alt="" coords="679,1781,839,2437"/>
+<area shape="poly" id="edge6_Node000002_Node000008" title=" " alt="" coords="681,2318,643,2381,598,2439,552,2481,500,2517,448,2547,399,2571,397,2566,445,2543,497,2513,549,2477,594,2435,639,2378,677,2315"/>
+<area shape="poly" id="edge19_Node000029_Node000008" title=" " alt="" coords="760,2452,750,2606,732,2772,703,2940,663,3104,653,3128,648,3126,658,3102,698,2939,726,2771,744,2606,754,2452"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="416,1081,446,1228,485,1399,534,1579,591,1756,633,1861,681,1960,676,1963,629,1863,586,1758,528,1581,480,1400,440,1230,410,1082"/>
+<area shape="poly" id="edge10_Node000008_Node000014" title=" " alt="" coords="939,1047,819,1765,814,1764,934,1046"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1BoolModel.html" title=" " alt="" coords="1025,416,1135,502"/>
+<area shape="poly" id="edge24_Node000001_Node000015" title=" " alt="" coords="1106,501,1153,593,1177,648,1197,705,1224,801,1229,844,1231,900,1231,2474,1226,2527,1212,2575,1189,2619,1159,2659,1123,2695,1082,2727,1036,2756,987,2782,883,2824,777,2855,678,2877,592,2891,591,2886,677,2871,776,2850,881,2819,985,2777,1033,2751,1079,2723,1120,2691,1155,2655,1184,2616,1207,2573,1221,2526,1225,2474,1225,900,1224,845,1219,802,1192,706,1172,650,1148,595,1102,504"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="1083,502,1081,747,1071,1113,1060,1306,1045,1488,1024,1643,1011,1706,996,1758,967,1826,931,1891,891,1952,851,2005,847,2002,887,1949,927,1888,963,1823,991,1756,1006,1705,1018,1642,1039,1487,1055,1306,1065,1113,1076,747,1078,502"/>
+<area shape="poly" id="edge13_Node000014_Node000015" title=" " alt="" coords="1045,504,994,574,971,615,954,659,946,699,943,740,937,740,940,698,949,658,966,613,990,571,1040,501"/>
+<area shape="rect" id="Node000023" href="$classlmms_1_1FloatModel.html" title=" " alt="" coords="552,396,686,523"/>
+<area shape="poly" id="edge21_Node000001_Node000023" title=" " alt="" coords="589,524,551,609,517,706,496,802,492,900,492,2604,492,2728,487,2728,487,2604,487,900,491,801,512,705,546,607,584,522"/>
+<area shape="poly" id="edge15_Node000008_Node000023" title=" " alt="" coords="655,521,694,607,712,656,725,705,740,792,751,903,764,1177,769,1479,768,1764,763,1764,764,1479,759,1177,746,904,735,793,720,706,707,657,689,609,650,524"/>
+<area shape="rect" id="Node000025" href="$classlmms_1_1TempoSyncKnobModel.html" title=" " alt="" coords="527,706,710,1097"/>
+<area shape="poly" id="edge17_Node000025_Node000023" title=" " alt="" coords="621,538,621,706,616,706,616,538"/>
+<area shape="poly" id="edge16_Node000008_Node000025" title=" " alt="" coords="604,1097,597,1243,596,1409,606,1584,615,1671,629,1756,649,1837,675,1917,670,1918,644,1839,624,1758,610,1672,600,1584,591,1409,592,1242,599,1097"/>
+<area shape="poly" id="edge18_Node000001_Node000029" title=" " alt="" coords="598,3128,583,3081,579,3072,584,3070,588,3079,603,3126"/>
+<area shape="poly" id="edge22_Node000001_Node000030" title=" " alt="" coords="32,1757,13,1927,9,2018,9,2112,14,2207,25,2301,44,2394,71,2483,96,2541,130,2596,169,2647,213,2694,258,2737,305,2776,391,2838,388,2843,301,2780,255,2741,209,2698,165,2651,125,2599,92,2544,66,2485,39,2395,20,2302,9,2207,3,2112,4,2018,8,1927,26,1756"/>
+</map>

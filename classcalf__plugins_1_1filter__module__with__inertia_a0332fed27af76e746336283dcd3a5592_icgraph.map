@@ -1,0 +1,21 @@
+<map id="calf_plugins::filter_module_with_inertia::calculate_filter" name="calf_plugins::filter_module_with_inertia::calculate_filter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="680,135,824,191"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1filterclavier__audio__module.html#a271faaa4d88814ba597eee010c35fb25" title="Handle MIDI Note Off." alt="" coords="446,5,606,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="712,126,675,92,631,61,604,49,607,44,634,57,678,88,716,122"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1filterclavier__audio__module.html#abaf1b2a6633ff75866d983ab7059edf7" title="MIDI control." alt="" coords="446,71,606,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="665,136,632,126,596,114,598,109,633,120,666,131"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a34014029935f854d304206464ecf067d" title=" " alt="" coords="454,135,597,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="665,166,598,166,598,160,665,160"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a74ea0a0f2a9fa7a6f67c66dd89239b52" title="Called when params are changed (before processing)." alt="" coords="454,215,597,271"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="666,196,599,220,597,215,665,191"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1filterclavier__audio__module.html#a8cbda9987f9989f9d171f3e43afe1b3e" title="Called when params are changed (before processing)." alt="" coords="419,295,632,335"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="722,205,683,247,634,285,612,296,609,292,631,281,679,243,718,201"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a3e9601a69115622b8188e61a6090d551" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="221,135,364,191"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="439,166,364,166,364,160,439,160"/>
+<area shape="rect" id="Node000007" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a72f891fce58a923fae617bc020d8723d" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="221,215,364,271"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="439,246,364,246,364,240,439,240"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1filter__audio__module.html#a140d9b2044cd07276280185b300de0b5" title="Called when params are changed (before processing)." alt="" coords="214,295,371,351"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="440,275,372,299,370,294,439,270"/>
+<area shape="rect" id="Node000008" href="$classcalf__plugins_1_1filterclavier__audio__module.html#a91099e836540666e2e904ee0658592d5" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,223,166,263"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="205,246,166,246,166,240,205,240"/>
+</map>

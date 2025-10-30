@@ -1,0 +1,33 @@
+<map id="Steinberg::String::removeChars" name="Steinberg::String::removeChars">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,255,128,296"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1String.html#acd846274124c560d2ac5282d8e8733b6" title="Remove all occurrences of each char in &#39;which&#39;." alt="" coords="176,255,298,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,273,160,273,160,278,128,278"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1ConstString.html#a8e8b648b8ad28ab72c1d07aab4ae9921" title="Return true if string is empty." alt="" coords="739,74,889,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,255,250,213,270,159,301,105,321,81,344,60,389,32,431,14,470,5,509,3,549,7,592,15,691,37,729,49,764,64,762,69,727,54,690,42,591,20,548,12,509,8,471,10,432,19,392,37,348,65,325,84,305,108,275,161,255,214,245,256"/>
+<area shape="rect" id="Node000004" href="$namespaceSteinberg.html#a3b251ec4ead923e6687dbd099659564c" title=" " alt="" coords="516,343,691,384"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="299,292,347,305,501,341,500,346,345,310,298,297"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1String.html#a923eb50322c13946d07a701df128c1e5" title="Remove all occurrences of each char in &#39;which&#39;." alt="" coords="346,255,468,296"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="298,282,331,282,331,287,298,287"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1String.html#afc845a2ae793af6a0157cb5e6ff5a0fd" title=" " alt="" coords="542,409,665,449"/>
+<area shape="poly" id="edge15_Node000002_Node000006" title=" " alt="" coords="270,294,347,339,440,376,528,405,526,411,438,381,345,343,267,299"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1String.html#a8a7ef356e05eb9b1ea1ab518baee3095" title=" " alt="" coords="542,74,665,115"/>
+<area shape="poly" id="edge16_Node000002_Node000009" title=" " alt="" coords="277,253,515,132,542,119,544,124,518,137,279,257"/>
+<area shape="rect" id="Node000014" href="$classSteinberg_1_1String.html#ab7ff56bfbf85c51b6689d09762c52a08" title="Converts to wide string according to sourceCodePage." alt="" coords="753,371,875,412"/>
+<area shape="poly" id="edge20_Node000002_Node000014" title=" " alt="" coords="255,295,294,343,319,368,348,391,391,419,427,436,466,448,517,458,566,467,604,471,642,469,690,459,733,441,772,419,775,423,736,446,691,464,643,474,604,477,565,473,516,464,465,453,425,441,388,423,344,395,316,372,290,346,251,298"/>
+<area shape="rect" id="Node000021" href="$classSteinberg_1_1String.html#ae29333c688ed072165fe908ac3ebfe01" title="Returns pointer to string of type char16." alt="" coords="346,74,468,115"/>
+<area shape="poly" id="edge17_Node000002_Node000021" title=" " alt="" coords="255,253,375,124,378,128,259,257"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="346,270,313,269,313,264,346,264"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="427,253,473,209,515,175,723,116,724,121,518,179,477,213,431,257"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="449,294,517,328,533,335,531,340,515,333,446,299"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="425,295,464,344,489,370,518,394,530,401,527,405,515,398,486,374,460,348,420,298"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="429,253,466,213,480,190,488,171,497,151,515,131,528,121,531,125,518,135,501,154,493,173,485,193,470,216,433,257"/>
+<area shape="rect" id="Node000010" href="$classSteinberg_1_1String.html#a5d379420d756ecdffa1ff18fde6ef1e3" title="Returns pointer to string of type char8." alt="" coords="542,189,665,229"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="468,252,527,232,529,237,470,258"/>
+<area shape="rect" id="Node000013" href="$classSteinberg_1_1String.html#afcf4981a4e1a14f75620f039d89d8c01" title=" " alt="" coords="542,278,665,319"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="469,280,527,287,527,292,468,285"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="653,186,689,168,768,121,770,126,692,173,656,191"/>
+<area shape="poly" id="edge13_Node000013_Node000013" title=" " alt="" coords="566,278,564,268,570,259,584,253,604,251,625,254,638,260,635,265,623,259,603,257,585,259,574,263,570,269,571,277"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="662,317,692,329,760,362,758,367,690,334,660,322"/>
+<area shape="poly" id="edge18_Node000021_Node000003" title=" " alt="" coords="467,71,516,60,603,52,691,60,731,67,730,72,690,65,603,57,517,65,468,76"/>
+<area shape="poly" id="edge19_Node000021_Node000009" title=" " alt="" coords="469,92,527,92,527,97,469,97"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Jack::JackLibClient" name="Jack::JackLibClient">
+<area shape="rect" id="Node000001" title="Client on the library side." alt="" coords="859,2847,997,3076"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackClient.html" title="The base class for clients: share part of the implementation for JackInternalClient and JackLibClient..." alt="" coords="479,1469,662,2776"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="670,2351,882,2846,877,2848,665,2353"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="5,1047,162,1195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,1209,139,1322,183,1444,253,1592,332,1737,410,1870,481,1983,477,1986,406,1873,327,1740,249,1595,179,1446,134,1324,101,1210"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="132,5,310,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,148,208,410,199,766,199,949,202,1120,212,1267,228,1377,249,1460,276,1543,341,1703,413,1850,481,1973,477,1976,408,1852,336,1705,271,1544,244,1461,222,1379,206,1268,197,1120,193,949,194,766,203,409,214,147"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="239,204,393,793"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="237,132,250,187,244,188,232,133"/>
+<area shape="rect" id="Node000005" href="$structcode.html" title=" " alt="" coords="418,1068,464,1175"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="446,1174,455,1298,469,1445,479,1531,474,1532,463,1446,450,1298,441,1175"/>
+<area shape="rect" id="Node000006" href="$struct__jack__position.html" title=" " alt="" coords="488,877,653,1365"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="573,1365,573,1452,568,1452,568,1365"/>
+<area shape="rect" id="Node000007" href="$struct__jack__session__event.html" title=" " alt="" coords="677,1037,810,1205"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="732,1206,667,1578,662,1577,727,1205"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="237,864,394,1378"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="383,1377,477,1745,472,1746,378,1378"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="318,808,318,865,313,865,313,808"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1detail_1_1JackClientChannelInterface.html" title="Inter process channel for server/client bidirectionnal communication : request and (receiving) notifi..." alt="" coords="834,877,1032,1365"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="847,1366,670,1854,665,1853,842,1364"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackAndroidSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="1056,956,1239,1286"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="1089,1287,1046,1379,954,1545,855,1708,759,1857,673,1982,669,1979,754,1854,851,1705,950,1542,1041,1377,1084,1285"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1detail_1_1JackSynchro.html" title="An inter process synchronization primitive." alt="" coords="1069,333,1226,664"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1150,679,1150,956,1145,956,1145,679"/>
+<area shape="rect" id="Node000013" href="$classJack_1_1JackShmReadWritePtr1.html" title=" " alt="" coords="1196,1993,1380,2252"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1235,2253,986,2832,981,2830,1230,2251"/>
+<area shape="rect" id="Node000014" href="$struct__jack__shm__info.html" title=" " alt="" coords="1297,425,1398,572"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1338,573,1319,708,1303,865,1288,1175,1282,1483,1283,1760,1286,1976,1281,1976,1277,1760,1277,1483,1282,1175,1298,864,1314,707,1333,572"/>
+<area shape="rect" id="Node000015" href="$classJack_1_1JackShmReadWritePtr1.html" title="Pointer on shared memory segment in the client side: destroy the segment (used client control)." alt="" coords="1350,996,1564,1246"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="1363,572,1435,979,1430,980,1358,573"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="1436,1261,1312,1994,1307,1993,1431,1260"/>
+</map>

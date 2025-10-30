@@ -1,0 +1,37 @@
+<map id="lmms::gui::SampleClipView::paintEvent" name="lmms::gui::SampleClipView::paintEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,318,183,358"/>
+<area shape="rect" id="Node000002" href="$namespacelmms_1_1PathUtil.html#a30e48b81fa18dfc8812d1f04a623c9a4" title="Get the filename for a path, handling prefixed paths correctly." alt="" coords="240,31,418,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,317,111,266,136,198,175,127,200,95,229,67,235,62,239,66,232,71,204,98,179,130,141,200,116,267,102,318"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1ClipView.html#a4f233d3366e6544cd12ec84a9965e050" title="Does this ClipView have a fixed Clip?" alt="" coords="262,104,396,145"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="103,316,122,281,150,238,186,193,229,155,247,144,249,149,232,159,190,197,154,241,127,284,108,319"/>
+<area shape="rect" id="Node000007" href="$namespacelmms_1_1embed.html#a4f7f1b44dee66037edaa734b33b42af5" title=" " alt="" coords="234,169,424,195"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="109,316,158,260,192,229,229,204,240,199,242,203,232,208,195,234,162,263,113,319"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1Engine.html#a8b943018d0245555391473f4a7d75b5b" title=" " alt="" coords="253,219,405,244"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="122,315,171,283,230,253,246,247,248,252,232,258,174,288,125,320"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1Song.html#a5988b3745f12bdacca7d38b1761c7970" title=" " alt="" coords="231,268,427,294"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="179,315,258,295,259,301,180,320"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1ClipView.html#a01f7bf986b9987c22e4c674a5853d9d1" title=" " alt="" coords="262,318,396,358"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="183,336,246,336,246,341,183,341"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1selectableObject.html#acaa17369cad83bfa7285992d8fca4b6c" title=" " alt="" coords="239,383,418,424"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="170,356,239,376,238,381,169,362"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1ClipView.html#a363cd16c3688c4a79021088ce78d4682" title=" " alt="" coords="262,472,396,513"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="124,357,232,433,279,462,276,467,229,438,121,361"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1ClipView.html#ae17f0d65f28c509924730216ce3bf35e" title=" " alt="" coords="262,562,396,602"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="109,357,157,435,192,481,232,523,272,552,269,556,229,527,188,484,153,438,104,360"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1ClipView.html#af65b63d846fa3fd54e9dbb16a0b0ce87" title="How many pixels a bar takes for this ClipView." alt="" coords="262,651,396,692"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="104,358,119,408,146,474,184,546,207,581,233,612,269,641,266,645,229,616,202,584,179,549,141,476,114,409,98,360"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1gui_1_1ClipView.html#a4ea0f199626ef2fdb98691a466b1616d" title=" " alt="" coords="262,740,396,781"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="101,358,112,422,136,512,154,561,175,611,201,658,233,702,267,730,263,734,229,705,197,661,170,613,149,563,131,513,107,423,95,359"/>
+<area shape="rect" id="Node000003" href="$namespacelmms_1_1PathUtil.html#ab2f28c94cc70333f674eadaa6944a191" title="Remove the prefix from a path, iff there is one." alt="" coords="475,31,644,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,41,459,41,459,46,418,46"/>
+<area shape="rect" id="Node000004" href="$namespacelmms_1_1PathUtil.html#a232d23cb52de913c734bee7fb80eb46d" title=" " alt="" coords="692,5,876,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,31,676,28,677,33,645,37"/>
+<area shape="rect" id="Node000005" href="$namespacelmms_1_1PathUtil.html#ac137f08ba93cc7257ee39ae09dd7dc12" title="Return the prefix used to denote this base in path strings." alt="" coords="924,31,1096,56"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="645,41,908,41,908,46,645,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="876,26,909,29,908,35,876,31"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="285,104,283,95,290,85,306,80,329,78,354,80,369,86,367,91,352,85,329,83,307,85,293,90,288,96,291,103"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="285,472,283,463,290,453,306,448,329,446,354,448,369,454,367,459,352,453,329,451,307,453,293,458,288,464,291,471"/>
+<area shape="poly" id="edge16_Node000013_Node000013" title=" " alt="" coords="285,562,283,552,290,543,306,537,329,535,354,538,369,544,367,549,352,543,329,540,307,542,293,547,288,553,291,561"/>
+<area shape="poly" id="edge18_Node000014_Node000014" title=" " alt="" coords="285,651,283,641,290,632,306,627,329,625,354,627,369,633,367,638,352,632,329,630,307,632,293,636,288,642,291,650"/>
+<area shape="poly" id="edge20_Node000015_Node000015" title=" " alt="" coords="285,740,283,731,290,721,306,716,329,714,354,716,369,722,367,727,352,721,329,719,307,721,293,726,288,732,291,739"/>
+</map>

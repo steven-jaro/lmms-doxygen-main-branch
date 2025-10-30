@@ -1,0 +1,27 @@
+var dir_775a5f88db29795356d20bf9124aa807 =
+[
+    [ "atom", "dir_c73e560535f8b75d7e03dfaf66421484.html", "dir_c73e560535f8b75d7e03dfaf66421484" ],
+    [ "buf-size", "dir_d6473f2f1022660ca7ecd34caf607563.html", "dir_d6473f2f1022660ca7ecd34caf607563" ],
+    [ "core", "dir_a52d44ac6a9a8458a864392c6300c217.html", "dir_a52d44ac6a9a8458a864392c6300c217" ],
+    [ "data-access", "dir_0be163779b71dc07d9f4bd1b84f4a4e1.html", "dir_0be163779b71dc07d9f4bd1b84f4a4e1" ],
+    [ "dynmanifest", "dir_d603f9876c169e198628981561fb65e0.html", "dir_d603f9876c169e198628981561fb65e0" ],
+    [ "event", "dir_bd3cdcade4ebaa25640438415d75e904.html", "dir_bd3cdcade4ebaa25640438415d75e904" ],
+    [ "instance-access", "dir_40f91071bc0418c7e9a0d56e0a7c91b4.html", "dir_40f91071bc0418c7e9a0d56e0a7c91b4" ],
+    [ "log", "dir_84165d4c35973795e588e5d21d6e9b4a.html", "dir_84165d4c35973795e588e5d21d6e9b4a" ],
+    [ "midi", "dir_3139e37e37f578601647c5fe25ccda42.html", "dir_3139e37e37f578601647c5fe25ccda42" ],
+    [ "morph", "dir_f54d97934eceb7159da966f4bbae48e4.html", "dir_f54d97934eceb7159da966f4bbae48e4" ],
+    [ "options", "dir_14fe618df52f65c694de8a1c7213ba7e.html", "dir_14fe618df52f65c694de8a1c7213ba7e" ],
+    [ "parameters", "dir_201ec945e07252c614a1a2c7a43726ba.html", "dir_201ec945e07252c614a1a2c7a43726ba" ],
+    [ "patch", "dir_49248689500acf221e23569d862c0ef1.html", "dir_49248689500acf221e23569d862c0ef1" ],
+    [ "port-groups", "dir_a9343e9e1c4f573ca48630a0d0f14126.html", "dir_a9343e9e1c4f573ca48630a0d0f14126" ],
+    [ "port-props", "dir_b7594d12d9dce40bcb754604fb4496e6.html", "dir_b7594d12d9dce40bcb754604fb4496e6" ],
+    [ "presets", "dir_3e741b0435e30cfce4f3b7cfe7fb4ef0.html", "dir_3e741b0435e30cfce4f3b7cfe7fb4ef0" ],
+    [ "resize-port", "dir_230c8a8ad3e6f9aff7366fef0ded6f8f.html", "dir_230c8a8ad3e6f9aff7366fef0ded6f8f" ],
+    [ "state", "dir_3a6fce89dc6ef159c95ecc6a7f63491f.html", "dir_3a6fce89dc6ef159c95ecc6a7f63491f" ],
+    [ "time", "dir_ccbf7f2710955d132041429394cfd0a0.html", "dir_ccbf7f2710955d132041429394cfd0a0" ],
+    [ "ui", "dir_b2b94c7e127ccb9f1288641e9e4569fc.html", "dir_b2b94c7e127ccb9f1288641e9e4569fc" ],
+    [ "units", "dir_126c4ecd8c5d63a5df4d62483dcd224e.html", "dir_126c4ecd8c5d63a5df4d62483dcd224e" ],
+    [ "uri-map", "dir_c5ddc9f9a2baeeb556bea44d4e2152dc.html", "dir_c5ddc9f9a2baeeb556bea44d4e2152dc" ],
+    [ "urid", "dir_c99d27527ff3e60df79e4ff1104d41d2.html", "dir_c99d27527ff3e60df79e4ff1104d41d2" ],
+    [ "worker", "dir_06e16c2b711e51e09837ea3f4e068995.html", "dir_06e16c2b711e51e09837ea3f4e068995" ]
+];

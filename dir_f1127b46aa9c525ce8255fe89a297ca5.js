@@ -1,0 +1,25 @@
+var dir_f1127b46aa9c525ce8255fe89a297ca5 =
+[
+    [ "Alienwah.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Alienwah_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Alienwah_8cpp" ],
+    [ "Alienwah.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Alienwah_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Alienwah_8h" ],
+    [ "Chorus.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Chorus_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Chorus_8cpp" ],
+    [ "Chorus.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Chorus_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Chorus_8h" ],
+    [ "Distorsion.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Distorsion_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Distorsion_8cpp" ],
+    [ "Distorsion.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Distorsion_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Distorsion_8h" ],
+    [ "DynamicFilter.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2DynamicFilter_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2DynamicFilter_8cpp" ],
+    [ "DynamicFilter.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2DynamicFilter_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2DynamicFilter_8h" ],
+    [ "Echo.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Echo_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Echo_8cpp" ],
+    [ "Echo.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Echo_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Echo_8h" ],
+    [ "Effect.cpp", "plugins_2CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Effect_8cpp.html", null ],
+    [ "Effect.h", "plugins_2CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Effect_8h.html", "plugins_2CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Effect_8h" ],
+    [ "EffectLFO.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectLFO_8cpp.html", null ],
+    [ "EffectLFO.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectLFO_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectLFO_8h" ],
+    [ "EffectMgr.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectMgr_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectMgr_8cpp" ],
+    [ "EffectMgr.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectMgr_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EffectMgr_8h" ],
+    [ "EQ.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EQ_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EQ_8cpp" ],
+    [ "EQ.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EQ_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2EQ_8h" ],
+    [ "Phaser.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Phaser_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Phaser_8cpp" ],
+    [ "Phaser.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Phaser_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Phaser_8h" ],
+    [ "Reverb.cpp", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Reverb_8cpp.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Reverb_8cpp" ],
+    [ "Reverb.h", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Reverb_8h.html", "CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Effects_2Reverb_8h" ]
+];

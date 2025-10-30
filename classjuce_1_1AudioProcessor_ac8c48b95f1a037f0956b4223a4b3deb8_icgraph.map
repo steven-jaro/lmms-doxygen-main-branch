@@ -1,0 +1,56 @@
+<map id="juce::AudioProcessor::getTotalNumOutputChannels" name="juce::AudioProcessor::getTotalNumOutputChannels">
+<area shape="rect" id="Node000001" title=" " alt="" coords="963,543,1158,583"/>
+<area shape="rect" id="Node000002" href="$classjuce_1_1AudioProcessor.html#a36af6712d10dbfc043b6d1c2bef88781" title=" " alt="" coords="738,324,882,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1038,531,987,458,952,419,913,385,881,367,884,363,916,381,956,415,991,454,1042,528"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1AudioProcessor.html#ab0bc8a26979b3a2d9fc8921c4d5d5c10" title=" " alt="" coords="5,331,152,371"/>
+<area shape="poly" id="edge33_Node000001_Node000005" title=" " alt="" coords="1033,532,983,477,950,450,914,430,808,414,594,394,152,359,152,354,594,389,809,409,916,424,953,446,986,473,1037,529"/>
+<area shape="rect" id="Node000013" href="$classjuce_1_1AudioProcessorGraph_1_1AudioGraphIOProcessor.html#aa48fbe82d8bfa910635984572df60cf8" title=" " alt="" coords="721,463,899,519"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="972,541,899,519,900,514,974,535"/>
+<area shape="rect" id="Node000014" href="$structjuce_1_1RenderSequenceBuilder.html#aec523ab11605d0e375a721f050d9d5ad" title=" " alt="" coords="705,543,915,583"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="947,566,915,566,915,560,947,560"/>
+<area shape="rect" id="Node000017" href="$classjuce_1_1AudioProcessor.html#a0b2bbbbd851cc4de130364b35353db04" title=" " alt="" coords="727,608,893,649"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="966,590,891,610,890,605,964,585"/>
+<area shape="rect" id="Node000018" href="$classjuce_1_1AudioUnitHelpers_1_1ChannelRemapper.html#a3dd8fd620273e6e81c9f8e13e8d8a4f2" title=" " alt="" coords="717,672,903,728"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="1021,595,972,629,916,663,891,674,889,670,913,658,969,625,1018,591"/>
+<area shape="rect" id="Node000020" href="$classjuce_1_1AudioProcessor.html#a0932f8c57c845b5f114c9fa944e0ff71" title=" " alt="" coords="738,776,882,817"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="1040,598,988,668,954,707,916,742,889,762,860,778,858,773,886,757,913,738,950,703,984,665,1036,595"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="851,311,836,305,810,303,786,305,771,309,766,315,768,323,763,324,761,314,768,305,785,299,810,297,837,300,853,306"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1AudioProcessor.html#ada526ce2d72dc2713320ea8b1fd5122d" title=" " alt="" coords="488,184,631,225"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="758,318,597,228,599,223,760,314"/>
+<area shape="rect" id="Node000012" href="$classjuce_1_1AudioProcessor.html#ac11a41a246cdcfb59381c25515a60451" title=" " alt="" coords="476,324,644,365"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="723,347,644,347,644,342,723,342"/>
+<area shape="poly" id="edge9_Node000003_Node000003" title=" " alt="" coords="601,171,585,165,560,163,536,165,521,169,516,175,518,183,513,184,510,174,518,165,535,159,560,157,587,160,603,166"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1AudioProcessor.html#a323671b4bf680bd1fcf3c36317b810ad" title=" " alt="" coords="228,29,386,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="526,174,475,129,413,85,385,73,387,68,415,81,479,124,530,171"/>
+<area shape="rect" id="Node000009" href="$classjuce_1_1AudioProcessor.html#a14f5b7bbb6b7724b751fe9a41ca91f56" title=" " alt="" coords="235,119,378,159"/>
+<area shape="poly" id="edge7_Node000003_Node000009" title=" " alt="" coords="473,185,378,160,380,155,474,180"/>
+<area shape="rect" id="Node000010" href="$structjuce_1_1AudioUnitHelpers.html#a34ff1e4050eddb2ed3327ecbf4aea89b" title=" " alt="" coords="230,184,384,225"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="473,207,384,207,384,202,473,202"/>
+<area shape="rect" id="Node000011" href="$classjuce_1_1AudioProcessor.html#ac769d423ceb0bb703857bc6391d3a60e" title=" " alt="" coords="200,273,414,314"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="487,233,368,275,366,270,485,228"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="344,16,330,10,307,8,285,10,272,15,267,21,269,28,264,29,262,19,269,10,284,5,307,3,332,5,346,11"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="216,75,201,85,175,113,152,145,118,215,97,281,86,331,81,330,92,279,113,213,148,142,171,110,198,81,213,70"/>
+<area shape="poly" id="edge8_Node000009_Node000009" title=" " alt="" coords="344,106,330,100,307,97,285,99,272,104,267,110,269,117,264,119,262,109,269,100,284,94,307,92,332,94,346,101"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="344,260,330,254,307,252,285,254,272,259,267,265,269,272,264,273,262,263,269,254,284,249,307,247,332,249,346,255"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="460,348,152,353,152,347,460,343"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="601,311,585,305,560,303,536,305,521,309,516,315,518,323,513,324,510,314,518,305,535,299,560,297,587,300,603,306"/>
+<area shape="poly" id="edge17_Node000013_Node000013" title=" " alt="" coords="850,451,835,444,810,442,788,444,773,448,767,455,766,463,761,463,762,453,771,444,787,438,810,437,836,439,852,446"/>
+<area shape="rect" id="Node000015" href="$structjuce_1_1RenderSequenceBuilder.html#a9a460e11f81a3520974d396e6dfee252" title=" " alt="" coords="462,543,657,583"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="689,566,658,566,658,560,689,560"/>
+<area shape="rect" id="Node000016" href="$structjuce_1_1RenderSequenceBuilder.html#aaf38191025c43a58ddc9be06d560eb67" title=" " alt="" coords="212,543,402,583"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="446,566,403,566,403,560,446,560"/>
+<area shape="rect" id="Node000019" href="$classjuce_1_1AudioUnitHelpers_1_1ChannelRemapper.html#a2aedd8a055fcd5cd970c844323d76045" title=" " alt="" coords="476,680,643,721"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="702,703,643,703,643,698,702,698"/>
+<area shape="poly" id="edge32_Node000020_Node000020" title=" " alt="" coords="851,763,836,757,810,755,786,757,771,761,766,767,768,775,763,776,761,766,768,757,785,751,810,749,837,752,853,758"/>
+<area shape="rect" id="Node000021" href="$classjuce_1_1AudioProcessor.html#af0184aee3dbab1c158fd5c62984fbe41" title=" " alt="" coords="225,753,388,794"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="723,795,389,780,389,775,723,790"/>
+<area shape="rect" id="Node000022" href="$classjuce_1_1AudioProcessor.html#a168a19342172a2d83ba901f9a2d0eea0" title=" " alt="" coords="478,839,641,879"/>
+<area shape="poly" id="edge26_Node000020_Node000022" title=" " alt="" coords="724,821,642,841,641,836,722,815"/>
+<area shape="poly" id="edge29_Node000022_Node000021" title=" " alt="" coords="487,835,413,810,375,797,377,792,415,804,489,830"/>
+<area shape="poly" id="edge30_Node000022_Node000022" title=" " alt="" coords="601,826,585,820,560,817,536,819,521,824,516,830,518,837,513,839,510,829,518,820,535,814,560,812,587,814,603,821"/>
+<area shape="rect" id="Node000023" href="$classjuce_1_1AudioProcessor.html#a71b1c45ca177c86114f8e744638efedd" title=" " alt="" coords="235,843,378,883"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="462,863,379,865,379,859,462,858"/>
+<area shape="rect" id="Node000026" href="$classjuce_1_1AudioProcessorGraph_1_1Node.html#ad21d8cb2610bb124b1e651d66cf91468" title=" " alt="" coords="207,908,407,949"/>
+<area shape="poly" id="edge31_Node000022_Node000026" title=" " alt="" coords="469,887,384,910,383,905,467,881"/>
+<area shape="poly" id="edge28_Node000023_Node000023" title=" " alt="" coords="344,830,330,824,307,821,285,823,272,828,267,834,269,841,264,843,262,833,269,824,284,818,307,816,332,818,346,825"/>
+</map>

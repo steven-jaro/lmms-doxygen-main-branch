@@ -1,0 +1,27 @@
+var classSpc__Emu =
+[
+    [ "header_t", "structSpc__Emu_1_1header__t.html", "structSpc__Emu_1_1header__t" ],
+    [ "Spc_Emu", "classSpc__Emu.html#a079486834cabf3b84c73b61e56183905", null ],
+    [ "~Spc_Emu", "classSpc__Emu.html#ab5c34874bcaaf2fd4b61a6ca82f68186", null ],
+    [ "disable_surround", "classSpc__Emu.html#ae6f312788f5b1dab34daee6b41dfba55", null ],
+    [ "enable_accuracy_", "classSpc__Emu.html#aa41570bee6e9879d309cf7a1a916e15d", null ],
+    [ "header", "classSpc__Emu.html#ab35c6da6386beb525ed0a38ab97a0c90", null ],
+    [ "load", "classSpc__Emu.html#a1852cad5ea735ab3104bb41437295d0b", null ],
+    [ "load_mem_", "classSpc__Emu.html#ac4d2682802677df0155ebf3b79f2e405", null ],
+    [ "mute_voices_", "classSpc__Emu.html#a7af493eabe9cdff240f38ac99e968da7", null ],
+    [ "play_", "classSpc__Emu.html#a753526fbab06f36677ca2cb669a9232d", null ],
+    [ "play_and_filter", "classSpc__Emu.html#a144497628bdaa158ed70616d2eba5f21", null ],
+    [ "set_sample_rate_", "classSpc__Emu.html#aee7596d0c92fe7dba4b91de2fb401e66", null ],
+    [ "set_tempo_", "classSpc__Emu.html#a3241d6cf424f5abeb1e45a5533660e3a", null ],
+    [ "skip_", "classSpc__Emu.html#aba02be1541fa85b41e10115cdbc6cefd", null ],
+    [ "start_track_", "classSpc__Emu.html#a4bc85bd6f891b9608c97bb9da4472942", null ],
+    [ "static_type", "classSpc__Emu.html#a18550ba201c82ba0afcfae0a7238de94", null ],
+    [ "track_info_", "classSpc__Emu.html#a07370ab65783c63701b9af57ffcc95af", null ],
+    [ "trailer", "classSpc__Emu.html#ab6f60e77138ec014090b08907a38ca24", null ],
+    [ "trailer_size", "classSpc__Emu.html#ac8b6f041301f71147fb16155a99f3d51", null ],
+    [ "apu", "classSpc__Emu.html#a78828ced2a00dd24a996f33e56a16998", null ],
+    [ "file_data", "classSpc__Emu.html#ad95227ae162f6969bc2eada93a43cffb", null ],
+    [ "file_size", "classSpc__Emu.html#ad98d04a2f229ddb7b4366eb73f030356", null ],
+    [ "filter", "classSpc__Emu.html#a7456fe652b39510ff463a9dd08829cf5", null ],
+    [ "resampler", "classSpc__Emu.html#a436545a0ff411049c9b6f9384cdf8d17", null ]
+];

@@ -1,0 +1,19 @@
+<map id="calf_plugins::equalizerNband_audio_module::process_hplp" name="calf_plugins::equalizerNband_audio_module::process_hplp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,197,108"/>
+<area shape="rect" id="Node000002" href="$modules__filter_8cpp.html#a828166fd5147dec223a573d46a5bbd51" title=" " alt="" coords="553,5,616,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,64,191,45,244,29,324,17,405,11,538,13,538,18,405,17,325,22,245,34,193,50,145,69"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1equalizerNband__audio__module.html#aef11322b0d230a613dcabcac7433fa48" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="245,67,430,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,94,229,94,229,99,197,99"/>
+<area shape="rect" id="Node000010" href="$modules__filter_8cpp.html#a04717fd1b0169f980a62c37039648291" title=" " alt="" coords="546,132,623,158"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="186,106,245,117,400,133,531,141,530,146,400,139,244,122,185,111"/>
+<area shape="poly" id="edge8_Node000003_Node000001" title=" " alt="" coords="244,81,212,81,212,76,244,76"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="412,64,538,28,539,34,413,69"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="293,67,291,57,298,48,314,43,337,41,363,43,378,49,376,54,362,48,337,46,315,48,301,52,296,58,298,66"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1equalizerNband__audio__module.html#a5124352729d898917ac4c63b0f8505b0" title="Called when params are changed (before processing)." alt="" coords="478,67,691,108"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="430,85,462,85,462,90,430,90"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="429,106,532,130,530,135,427,111"/>
+<area shape="rect" id="Node000005" href="$modules__filter_8cpp.html#a7db7132c0a7239cd1ec7b93c6c5ac69f" title=" " alt="" coords="739,51,819,76"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="692,72,724,68,724,73,692,77"/>
+<area shape="rect" id="Node000009" href="$modules__filter_8cpp.html#a449c07d346b10c2347d69584c9e080d4" title=" " alt="" coords="755,100,803,126"/>
+<area shape="poly" id="edge6_Node000004_Node000009" title=" " alt="" coords="692,99,740,105,739,110,692,104"/>
+</map>

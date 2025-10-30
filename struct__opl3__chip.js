@@ -1,0 +1,26 @@
+var struct__opl3__chip =
+[
+    [ "channel", "struct__opl3__chip.html#a14d26643f12e00aac232ab2d26ecfa11", null ],
+    [ "mixbuff", "struct__opl3__chip.html#ab1f8e9a4061c82f84e773b34ad19ef71", null ],
+    [ "newm", "struct__opl3__chip.html#a2a47643e3ec56ff1d6e7a9c7a28f0027", null ],
+    [ "noise", "struct__opl3__chip.html#afc6a2bc591fe248be6668ce4095b4d1a", null ],
+    [ "nts", "struct__opl3__chip.html#ac9a0089cb7cb3b662f7d8a361e405cd7", null ],
+    [ "oldsamples", "struct__opl3__chip.html#a0d779816fe7242df8af17f875a975157", null ],
+    [ "rateratio", "struct__opl3__chip.html#a201d92e0f5324c41c0d467aefbbe1546", null ],
+    [ "rhy", "struct__opl3__chip.html#a230943aa5d2f23d922323bc0cae6214a", null ],
+    [ "samplecnt", "struct__opl3__chip.html#a2a36bac86ed9e89350630964a5d9fb39", null ],
+    [ "samples", "struct__opl3__chip.html#a39cff7a1ebf40b7e06d31cf4f8013db5", null ],
+    [ "slot", "struct__opl3__chip.html#aa3abe4a1cf3435a791f704a6ae56d304", null ],
+    [ "timer", "struct__opl3__chip.html#acb66e2c886f8418dfd45f7562cc2aa15", null ],
+    [ "tremolo", "struct__opl3__chip.html#a17d576b199916dc982e14bbc176f89d2", null ],
+    [ "tremolopos", "struct__opl3__chip.html#ab9365f2ce58cc0cb1f2ecfc4d15f8de7", null ],
+    [ "tremoloshift", "struct__opl3__chip.html#a53e8f709aa25e484d09299ad9f8bc8ae", null ],
+    [ "vibpos", "struct__opl3__chip.html#a3ef02f2f80b022fc8e065825c48a4d7a", null ],
+    [ "vibshift", "struct__opl3__chip.html#ac2a131786735e0b868eda17f80aca821", null ],
+    [ "writebuf", "struct__opl3__chip.html#a8fb171bc08a9ef1cb2281127bd75f5b4", null ],
+    [ "writebuf_cur", "struct__opl3__chip.html#ab8157ffcf12e5334accfc1a27dd5cac6", null ],
+    [ "writebuf_last", "struct__opl3__chip.html#a6be94da5a9938ade3ddee7f37551bda7", null ],
+    [ "writebuf_lasttime", "struct__opl3__chip.html#abf4b3a780af44737fd5755d3b906917e", null ],
+    [ "writebuf_samplecnt", "struct__opl3__chip.html#a2f5fd573220b1a5fd691b5f5b244a0c9", null ],
+    [ "zeromod", "struct__opl3__chip.html#a51871ed6dfaf389381638b290901cd50", null ]
+];

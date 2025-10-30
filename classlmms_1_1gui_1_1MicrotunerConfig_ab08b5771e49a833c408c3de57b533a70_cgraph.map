@@ -1,0 +1,29 @@
+<map id="lmms::gui::MicrotunerConfig::loadScaleFromFile" name="lmms::gui::MicrotunerConfig::loadScaleFromFile">
+<area shape="rect" id="Node000001" title="Parse an .scl file and apply the loaded scale if it is valid." alt="" coords="5,246,185,286"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1MicrotunerConfig.html#a455a3fb2fbee717ccff458086e1d822f" title="Parse and apply the entered scale definition." alt="" coords="233,144,412,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,243,260,190,262,194,144,248"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1FileDialog.html#a3df46a5758202727287cd9c6608069cb" title=" " alt="" coords="253,246,392,286"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="185,264,237,264,237,269,185,269"/>
+<area shape="rect" id="Node000018" href="$ZynAddSubFx_2zynaddsubfx_2src_2Misc_2Util_8h.html#a5c08b691a3ec5c1d30c9758aec8521c9" title=" " alt="" coords="300,311,345,336"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="179,284,285,312,284,317,177,290"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1Engine.html#a8b943018d0245555391473f4a7d75b5b" title=" " alt="" coords="474,84,626,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,141,459,118,482,112,483,117,461,123,387,146"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1Song.html#a30fa69113e726655b067bf8516c3c8f1" title=" " alt="" coords="476,133,623,159"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,155,461,151,461,156,413,160"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1MicrotunerConfig.html#a6315f1d61d66a7c98112dda829f81581" title="Validate the scale name and entered interval definitions." alt="" coords="460,188,639,229"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="413,180,445,186,444,191,412,185"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="700,5,874,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="620,130,638,120,654,102,661,82,668,61,686,41,694,36,697,40,689,46,673,64,666,84,658,104,641,124,622,135"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1AudioEngine.html#a8650b17deaa8f1eb4030651619050dab" title=" " alt="" coords="717,55,857,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="601,130,639,120,707,98,709,104,640,125,603,135"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1AudioEngine.html#ae970a2bc94b7fa2d98fe114cb8953438" title="Block until a change in model can be done (i.e. wait for audio thread)." alt="" coords="710,120,864,161"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="623,142,694,140,694,146,623,147"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1Song.html#a438b8ff0c6cfd81ab97e9989b3a1256a" title=" " alt="" coords="687,185,887,211"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="612,157,711,179,710,184,611,162"/>
+<area shape="rect" id="Node000010" href="$adplugdb_8cpp.html#afadda4184a4f0275271a46b2b0cc7f8b" title=" " alt="" coords="750,235,824,260"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="640,221,735,236,734,242,639,226"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1FileDialog.html#a42a83d6d2a47e1affdaf5944135163b2" title=" " alt="" coords="480,264,619,305"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="393,269,464,275,464,280,392,275"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1ConfigManager.html#aed1127d4ab5ccc02af03698c5c47e270" title=" " alt="" coords="714,284,860,325"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="620,288,699,295,698,300,619,293"/>
+</map>

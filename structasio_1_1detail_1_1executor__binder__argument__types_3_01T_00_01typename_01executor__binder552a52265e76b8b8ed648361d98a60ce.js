@@ -1,0 +1,5 @@
+var structasio_1_1detail_1_1executor__binder__argument__types_3_01T_00_01typename_01executor__binder552a52265e76b8b8ed648361d98a60ce =
+[
+    [ "first_argument_type", "structasio_1_1detail_1_1executor__binder__argument__types_3_01T_00_01typename_01executor__binder552a52265e76b8b8ed648361d98a60ce.html#a701db9ab58474f16582ce67cb6b89bbf", null ],
+    [ "second_argument_type", "structasio_1_1detail_1_1executor__binder__argument__types_3_01T_00_01typename_01executor__binder552a52265e76b8b8ed648361d98a60ce.html#a46c1824453dda368181cb6d25fbee393", null ]
+];

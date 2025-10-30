@@ -1,0 +1,36 @@
+<map id="LilvPluginImpl" name="LilvPluginImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,2128,271,2276"/>
+<area shape="rect" id="Node000002" href="$structLilvWorldImpl.html" title=" " alt="" coords="268,1147,406,1620"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,1557,428,1623,443,1690,452,1775,450,1812,443,1859,429,1933,415,1990,391,2044,350,2106,320,2138,286,2166,282,2162,316,2135,346,2102,386,2041,410,1988,424,1932,437,1858,445,1812,447,1775,437,1691,423,1624,404,1558"/>
+<area shape="rect" id="Node000009" href="$structLilvPluginClassImpl.html" title=" " alt="" coords="212,1980,337,2047"/>
+<area shape="poly" id="edge8_Node000009_Node000002" title=" " alt="" coords="271,1608,256,1691,250,1774,256,1858,269,1963,263,1964,250,1859,245,1774,250,1690,266,1607"/>
+<area shape="rect" id="Node000010" href="$structLilvNodeImpl.html" title=" " alt="" coords="47,1691,134,1859"/>
+<area shape="poly" id="edge10_Node000010_Node000002" title=" " alt="" coords="271,1494,146,1692,141,1689,266,1491"/>
+<area shape="rect" id="Node000003" href="$structSerdReaderImpl.html" title=" " alt="" coords="576,448,680,758"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="645,758,645,833,639,915,624,998,600,1077,564,1146,519,1210,469,1267,421,1315,417,1311,465,1264,515,1207,560,1143,595,1075,619,996,633,914,639,833,639,758"/>
+<area shape="rect" id="Node000004" href="$structSerdNode.html" title="A syntactic RDF node." alt="" coords="300,66,370,234"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="350,234,376,328,396,377,421,422,453,463,489,499,564,558,561,563,486,503,449,466,417,425,391,379,371,330,345,235"/>
+<area shape="rect" id="Node000011" href="$structSordNodeImpl.html" title=" " alt="" coords="164,549,257,656"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="314,235,232,534,227,532,309,233"/>
+<area shape="rect" id="Node000005" href="$structSerdError.html" title="An error description." alt="" coords="480,36,552,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="525,264,535,343,552,423,572,481,567,483,547,424,530,344,520,265"/>
+<area shape="rect" id="Node000006" href="$structSerdByteSource.html" title=" " alt="" coords="576,5,680,295"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="631,295,631,431,625,431,625,295"/>
+<area shape="rect" id="Node000008" href="$structSerdStack.html" title=" " alt="" coords="704,97,776,204"/>
+<area shape="poly" id="edge6_Node000003_Node000008" title=" " alt="" coords="735,204,717,307,691,424,687,437,682,436,685,423,712,306,730,203"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="268,2047,250,2113,245,2111,263,2046"/>
+<area shape="poly" id="edge7_Node000002_Node000009" title=" " alt="" coords="280,1980,303,1858,315,1748,324,1637,329,1637,320,1748,308,1859,285,1981"/>
+<area shape="poly" id="edge18_Node000001_Node000010" title=" " alt="" coords="49,1847,28,1895,12,1949,9,1977,9,2004,13,2030,23,2056,50,2094,85,2126,123,2152,161,2173,158,2177,120,2157,81,2130,46,2098,19,2058,8,2032,4,2004,3,1976,7,1948,23,1894,45,1845"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="125,1857,148,1913,164,1945,205,1970,203,1975,160,1948,143,1915,120,1859"/>
+<area shape="rect" id="Node000016" href="$structLilvPortImpl.html" title=" " alt="" coords="108,1970,188,2057"/>
+<area shape="poly" id="edge21_Node000016_Node000010" title=" " alt="" coords="69,1859,66,1903,69,1925,76,1945,98,1975,93,1978,71,1948,64,1926,61,1903,63,1858"/>
+<area shape="poly" id="edge16_Node000002_Node000011" title=" " alt="" coords="234,655,265,745,293,849,316,990,330,1130,324,1130,311,990,288,850,260,746,229,657"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="187,657,149,746,132,797,119,850,100,963,87,1079,79,1195,75,1308,77,1514,85,1674,80,1674,72,1515,70,1308,74,1195,81,1078,94,962,113,849,127,796,144,744,182,655"/>
+<area shape="rect" id="Node000014" href="$structLilvSpecImpl.html" title=" " alt="" coords="129,929,215,996"/>
+<area shape="poly" id="edge14_Node000014_Node000011" title=" " alt="" coords="208,656,180,913,175,912,202,656"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="187,995,265,1191,260,1193,182,997"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="216,932,234,940,240,950,242,963,240,976,233,986,229,983,235,974,237,962,235,951,230,944,214,937"/>
+<area shape="rect" id="Node000015" href="$structLilvOptions.html" title=" " alt="" coords="478,909,585,1016"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="510,1017,416,1219,411,1217,505,1015"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="167,2056,189,2111,185,2113,162,2058"/>
+</map>

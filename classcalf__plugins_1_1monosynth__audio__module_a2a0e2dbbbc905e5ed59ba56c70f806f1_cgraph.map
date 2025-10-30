@@ -1,0 +1,49 @@
+<map id="calf_plugins::monosynth_audio_module::process" name="calf_plugins::monosynth_audio_module::process">
+<area shape="rect" id="Node000001" title="Main processing function." alt="" coords="5,329,166,370"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1monosynth__audio__module.html#ac2dfd7179be6c6913a81a2e189a80a8e" title="Calculate control signals and produce step_size samples of output." alt="" coords="214,329,412,370"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,346,198,346,198,352,166,352"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1monosynth__audio__module.html#a5004871b1e00cbc9d2484062d148e1d6" title=" " alt="" coords="707,5,875,61"/>
+<area shape="poly" id="edge25_Node000001_Node000004" title=" " alt="" coords="100,327,152,263,233,177,283,133,338,91,397,55,459,27,518,11,579,5,638,6,692,11,692,17,638,11,579,11,519,17,461,32,399,60,341,96,286,137,237,181,156,267,104,330"/>
+<area shape="rect" id="Node000022" href="$namespacedsp.html#a3c28527ad9c78172345c5ff2175d2e1b" title="Set a float to zero." alt="" coords="277,394,349,419"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="167,367,262,391,261,396,165,372"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1monosynth__audio__module.html#a1aeb7d0ec4f33c885f248632d942b5c0" title="Apply anti&#45;click&#39;n&#39;pop fadeout (used at the end of the sound)." alt="" coords="460,41,654,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,327,335,280,364,217,405,150,430,120,458,92,465,88,468,92,462,97,434,123,409,153,369,219,340,282,323,329"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1monosynth__audio__module.html#a368f6e137ce1a346a11884cba8f52669" title="Run oscillators." alt="" coords="474,321,640,377"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="412,346,459,346,459,352,412,352"/>
+<area shape="rect" id="Node000006" href="$namespacedsp.html#ad310e31e6431e2004822d08b40ee5111" title="Clip a value to [min, max]." alt="" coords="757,170,825,195"/>
+<area shape="poly" id="edge13_Node000002_Node000006" title=" " alt="" coords="389,326,459,307,516,295,560,290,603,280,653,256,667,244,676,231,685,217,701,204,741,188,743,193,704,209,689,221,681,234,671,248,656,261,605,285,561,295,516,301,461,312,391,331"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1monosynth__audio__module.html#a7ac90c0da6b3e8189136cc88739b2a2b" title="Run two filters in series to produce mono output samples." alt="" coords="474,607,640,662"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="401,368,414,379,432,406,441,432,442,458,441,483,438,508,439,534,446,560,462,586,471,595,467,599,458,589,441,562,434,535,433,508,435,483,437,458,435,433,428,408,410,383,397,372"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1monosynth__audio__module.html#ad3aeaeb8c53a324a41c85b2b158c49c0" title="Run one filter to produce mono output samples." alt="" coords="474,687,640,742"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="401,368,414,379,438,417,447,454,446,491,440,527,434,563,433,599,440,635,462,673,465,676,461,679,458,676,435,637,427,599,429,562,435,526,441,490,442,455,433,419,410,383,398,372"/>
+<area shape="rect" id="Node000012" href="$classcalf__plugins_1_1monosynth__audio__module.html#abd7b1a3268000b70c61885e01e3a1891" title="Run two filters (one per channel) to produce stereo output samples." alt="" coords="474,767,640,822"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="402,368,414,379,431,404,443,428,450,452,453,475,450,521,441,567,431,612,427,658,436,705,446,729,462,753,465,756,461,759,458,756,442,731,431,706,422,658,426,612,435,566,445,521,448,475,445,453,438,430,427,406,410,383,398,372"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1mod__matrix__impl.html#a94a89aa97eb4166e002036837ab967cb" title="Process modulation matrix, calculate outputs from inputs." alt="" coords="702,398,880,439"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="381,368,460,387,577,403,687,411,686,417,577,408,460,392,380,373"/>
+<area shape="rect" id="Node000014" href="$classcalf__plugins_1_1monosynth__audio__module.html#a297c2c06e89e42a656e3e9dd78b297fe" title=" " alt="" coords="478,452,637,508"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="392,368,413,379,429,392,439,405,448,418,462,431,478,442,475,446,458,435,444,421,434,408,425,396,411,383,390,372"/>
+<area shape="rect" id="Node000017" href="$classcalf__plugins_1_1monosynth__audio__module.html#afa607e335c2887b64897a98479d28a7f" title="Update oscillator frequency based on base frequency, detune amount, pitch bend scaling factor and sam..." alt="" coords="928,521,1123,562"/>
+<area shape="poly" id="edge23_Node000002_Node000017" title=" " alt="" coords="399,368,414,379,428,397,434,416,437,452,440,487,447,503,462,518,517,551,577,574,641,587,706,591,771,590,832,583,938,563,939,568,833,589,771,595,706,597,640,592,576,579,514,556,458,522,443,506,435,488,431,453,429,417,423,400,410,383,396,372"/>
+<area shape="rect" id="Node000018" href="$classcalf__plugins_1_1monosynth__audio__module.html#afeef3a33c9beb7cc3e63b74152e6cc34" title=" " alt="" coords="478,106,637,147"/>
+<area shape="poly" id="edge20_Node000002_Node000018" title=" " alt="" coords="322,327,343,291,373,245,412,198,458,156,464,153,467,157,462,161,416,201,377,248,347,294,327,330"/>
+<area shape="rect" id="Node000020" href="$namespacedsp.html#a39d5fa90621bd9b344c10b81d317b828" title=" " alt="" coords="522,171,592,197"/>
+<area shape="poly" id="edge22_Node000002_Node000020" title=" " alt="" coords="328,327,381,266,418,233,459,205,506,188,508,193,461,210,421,238,385,270,332,330"/>
+<area shape="rect" id="Node000021" href="$namespacedsp.html#a870586ac5ee3dd8c04e793905875a536" title="&#39;Small value&#39; for integer and other types" alt="" coords="498,220,616,246"/>
+<area shape="poly" id="edge24_Node000002_Node000021" title=" " alt="" coords="345,326,397,294,459,263,494,249,496,254,461,268,400,299,348,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="655,47,691,42,692,48,655,52"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="629,319,652,301,669,277,675,253,682,228,701,204,720,193,741,186,743,191,722,198,704,209,686,231,680,254,673,279,656,304,632,323"/>
+<area shape="rect" id="Node000007" href="$namespacedsp.html#a95c518d4027020f85f8395f7f33e4892" title="Clip a double to [&#45;1.0, +1.0]." alt="" coords="750,268,832,294"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="640,322,702,304,734,295,735,300,703,309,641,327"/>
+<area shape="rect" id="Node000008" href="$lice__texgen_8cpp.html#ac5d5ed893b1dd0b429a5f33c56f74043" title=" " alt="" coords="770,219,812,245"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="623,318,653,300,667,288,676,277,686,265,701,254,727,242,754,235,755,240,729,247,704,258,689,269,680,280,670,292,656,305,625,323"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1monosynth__audio__module.html#a57dfac003464cc6eecb679861c0708c9" title="Set waveform addresses for oscillators." alt="" coords="711,319,871,374"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="641,346,696,345,696,350,641,351"/>
+<area shape="poly" id="edge18_Node000014_Node000009" title=" " alt="" coords="597,449,701,384,710,379,713,384,704,389,600,454"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="637,456,695,441,697,446,638,461"/>
+<area shape="rect" id="Node000015" href="$classcalf__plugins_1_1monosynth__audio__module.html#a5a145f805251da863bf958f92be28e33" title="Release a note (physically), called from note&#45;off handler or when note&#45;off has been scheduled after n..." alt="" coords="707,464,875,504"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="637,479,692,479,692,485,637,484"/>
+<area shape="poly" id="edge19_Node000014_Node000017" title=" " alt="" coords="638,499,703,513,810,527,912,534,912,540,810,532,702,518,637,505"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="876,502,925,514,924,519,875,507"/>
+<area shape="rect" id="Node000019" href="$structdsp_1_1triangle__lfo.html#a02e992429098e9506290dd0066541713" title=" " alt="" coords="723,114,859,139"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="637,124,708,124,708,129,637,129"/>
+</map>

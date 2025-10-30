@@ -1,0 +1,23 @@
+<map id="calf_plugins::vintage_delay_audio_module::process" name="calf_plugins::vintage_delay_audio_module::process">
+<area shape="rect" id="Node000001" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,40,157,95"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="45,39,46,29,52,21,64,15,81,13,100,16,112,23,109,27,98,21,81,18,66,20,56,25,51,31,51,39"/>
+<area shape="rect" id="Node000002" href="$modules__delay_8cpp.html#a25f3c3aca187d7cd5848c33dd60b1f63" title=" " alt="" coords="220,5,298,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,44,204,30,206,36,158,49"/>
+<area shape="rect" id="Node000004" href="$modules__delay_8cpp.html#a046f42b7ec655f21c14bde316a2c6920" title="Single delay line with tap output." alt="" coords="205,104,314,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,86,197,97,195,102,156,91"/>
+<area shape="rect" id="Node000009" href="$modules__delay_8cpp.html#a5b913e13befe50a25375e0b6838e6391" title="Single delay line with feedback at the same tap." alt="" coords="208,55,310,80"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="157,65,193,65,193,70,157,70"/>
+<area shape="rect" id="Node000003" href="$lice__texgen_8cpp.html#ac5d5ed893b1dd0b429a5f33c56f74043" title=" " alt="" coords="398,5,440,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,16,382,16,382,21,299,21"/>
+<area shape="rect" id="Node000005" href="$classdsp_1_1inertia.html#a89e07ded63eec2bfcdebfc94e2e6e70b" title="Get smoothed value of given source value." alt="" coords="366,55,473,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,101,360,83,361,88,304,106"/>
+<area shape="rect" id="Node000006" href="$namespacedsp.html#aaafcf4f2177c8673092dbfe99b2febb7" title=" " alt="" coords="373,104,465,130"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="314,114,358,114,358,120,314,120"/>
+<area shape="rect" id="Node000008" href="$classdsp_1_1inertia.html#ae4288dbf621ad52b2214ed8ae6567d6f" title="Do one inertia step, without returning the new value and without changing destination value." alt="" coords="362,153,476,179"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="304,128,361,146,360,151,303,133"/>
+<area shape="rect" id="Node000007" href="$namespacedsp.html#a870586ac5ee3dd8c04e793905875a536" title="&#39;Small value&#39; for integer and other types" alt="" coords="524,104,642,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="466,114,509,114,509,120,466,120"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="311,65,350,65,350,70,311,70"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="304,78,361,96,360,101,303,84"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="297,79,316,89,331,103,340,115,349,127,364,140,369,144,366,148,360,144,345,131,336,119,327,106,312,94,294,83"/>
+</map>

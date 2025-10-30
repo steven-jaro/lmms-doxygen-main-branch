@@ -1,0 +1,26 @@
+<map id="calf_plugins::plugin_gui::on_control_popup" name="calf_plugins::plugin_gui::on_control_popup">
+<area shape="rect" id="Node000001" title="Pop&#45;up a context menu for a control." alt="" coords="5,176,159,216"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1plugin__gui.html#a44a6dad91baaa45f53a6ce0de685fe54" title="Clean up callback data allocated for the automation pop&#45;up menu." alt="" coords="223,5,390,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,173,205,96,246,68,249,72,208,101,110,177"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__gui.html#a4fb71f4578ab700816a92ac37a07767d" title=" " alt="" coords="225,110,389,151"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,172,219,153,220,158,155,178"/>
+<area shape="rect" id="Node000007" href="$classcalf__plugins_1_1plugin__gui.html#aa49d78874305da958dc535762569814f" title=" " alt="" coords="218,176,396,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,193,202,193,202,198,159,198"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1plugin__gui.html#a63d17c604a430979d636d080a6fee34e" title=" " alt="" coords="207,241,406,282"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="155,214,220,233,219,238,153,219"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1plugin__gui.html#ab8022bc085b075682e11c68b01ab1297" title=" " alt="" coords="207,306,407,347"/>
+<area shape="poly" id="edge11_Node000001_Node000013" title=" " alt="" coords="107,215,151,253,208,291,221,297,219,302,205,295,148,257,103,219"/>
+<area shape="rect" id="Node000003" href="$unzipfx-carla-control_2unzip_8h.html#a6146ec4ac32d62cf01b4c4c6587d5131" title=" " alt="" coords="530,8,569,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,26,515,20,515,26,391,32"/>
+<area shape="rect" id="Node000005" href="$structcalf__plugins_1_1plugin__ctl__iface.html#afd7e2362d65f2c7fb7f444a517202193" title="Add or update parameter automation routing." alt="" coords="462,58,637,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="389,110,446,98,447,103,390,116"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1plugin__gui.html#a0f1f4f404d42750a99a8bc664ef0a7ec" title=" " alt="" coords="484,124,615,164"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="390,132,469,137,469,142,389,138"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1plugin__ctl__iface.html#a9443f24c3f6d77fdc92e1370e4b5bdd5" title="Remove parameter automation routing." alt="" coords="455,189,644,230"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="397,198,440,200,439,206,396,203"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1plugin__gui.html#aa1e6e181fdf171d90b6805013ea890fc" title=" " alt="" coords="469,269,630,325"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="407,273,454,280,453,286,406,279"/>
+<area shape="rect" id="Node000011" href="$structcalf__plugins_1_1parameter__properties.html#acf81140844f199f0da50068f81afffbb" title="convert from [min, max] to [0, 1] range (applying reverse scaling)" alt="" coords="692,277,847,318"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="631,294,677,294,677,300,631,300"/>
+<area shape="poly" id="edge12_Node000013_Node000010" title=" " alt="" coords="407,312,453,306,454,311,408,317"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="lmms::Song::addAutomationTrack" name="lmms::Song::addAutomationTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,142,188,182"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1Track.html#acf8c9f02d1c4d4f2454ea81ea3655136" title="Create a track based on the given track type and container." alt="" coords="236,149,370,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,160,220,160,220,165,188,165"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="418,5,593,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,147,353,96,383,67,417,41,428,35,431,40,419,46,386,71,357,100,315,151"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1AudioEngine.html#a8650b17deaa8f1eb4030651619050dab" title=" " alt="" coords="436,55,575,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="329,146,417,105,431,99,433,104,419,110,331,151"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Engine.html#aaf347fd0e67b58f2c99f2bff089d47e6" title=" " alt="" coords="418,120,593,146"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,150,402,145,403,150,371,155"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1AudioEngine.html#ae970a2bc94b7fa2d98fe114cb8953438" title="Block until a change in model can be done (i.e. wait for audio thread)." alt="" coords="428,170,583,210"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="371,169,413,175,413,180,370,174"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1Track.html#a0a2a82f3edb902e1f06cab2b501ec84e" title="Create a new (empty) track object." alt="" coords="440,235,571,260"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="328,173,369,196,419,220,439,227,437,232,417,225,367,201,325,178"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1TrackContainer.html#ad50c82e989d79623f7c7f24849e7af08" title=" " alt="" coords="430,284,581,325"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="317,174,359,221,388,247,419,271,427,275,424,280,417,275,384,251,355,224,313,177"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1Model.html#a91562bd45ea0e4d557f4f3139021482c" title=" " alt="" coords="641,211,777,236"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="571,237,626,231,626,236,572,242"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1Track.html#a8f965707df2eff121cfc237753b36d77" title=" " alt="" coords="648,260,770,286"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="572,253,633,261,632,266,571,258"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="675,212,668,202,672,192,686,186,709,184,734,187,747,194,744,198,732,192,709,189,688,191,676,196,674,201,679,209"/>
+</map>

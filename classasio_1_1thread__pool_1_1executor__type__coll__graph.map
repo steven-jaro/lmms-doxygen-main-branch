@@ -1,0 +1,39 @@
+<map id="asio::thread_pool::executor_type" name="asio::thread_pool::executor_type">
+<area shape="rect" id="Node000001" title="Executor used to submit functions to a thread pool." alt="" coords="1027,1858,1189,2082"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1thread__pool.html" title="A simple fixed&#45;size thread pool." alt="" coords="1050,1599,1166,1787"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1110,1787,1110,1842,1105,1842,1105,1787"/>
+<area shape="rect" id="Node000003" href="$classasio_1_1execution__context.html" title="A context for function object execution." alt="" coords="1274,253,1419,400"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1326,415,1301,542,1287,653,1280,747,1277,908,1272,1069,1265,1164,1250,1274,1226,1428,1208,1494,1178,1576,1167,1600,1162,1598,1173,1574,1203,1492,1220,1427,1245,1274,1259,1163,1267,1069,1271,908,1275,747,1282,653,1296,542,1321,414"/>
+<area shape="rect" id="Node000005" href="$classasio_1_1detail_1_1service__registry.html" title=" " alt="" coords="1310,684,1454,1132"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="1402,399,1427,445,1446,494,1455,537,1458,580,1454,668,1448,667,1453,581,1449,538,1441,496,1423,447,1397,402"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1detail_1_1noncopyable.html" title=" " alt="" coords="852,5,1001,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1016,72,1074,80,1138,96,1200,120,1257,155,1279,176,1298,200,1325,252,1321,254,1293,203,1275,179,1254,159,1198,124,1136,101,1073,86,1015,77"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="1016,79,1068,92,1121,112,1171,141,1214,180,1239,217,1253,251,1259,284,1260,317,1257,386,1258,426,1265,470,1319,684,1314,685,1260,472,1253,426,1251,386,1255,317,1254,285,1248,253,1234,219,1210,184,1168,146,1119,117,1066,97,1015,85"/>
+<area shape="rect" id="Node000016" href="$classasio_1_1detail_1_1conditionally__enabled__mutex.html" title=" " alt="" coords="5,230,159,423"/>
+<area shape="poly" id="edge11_Node000016_Node000004" title=" " alt="" coords="837,77,674,88,479,108,384,122,297,139,225,160,173,184,148,206,127,232,123,229,144,202,170,180,223,155,296,134,383,117,479,102,674,82,837,72"/>
+<area shape="rect" id="Node000017" href="$classasio_1_1detail_1_1conditionally__enabled__event.html" title=" " alt="" coords="184,182,360,471"/>
+<area shape="poly" id="edge13_Node000017_Node000004" title=" " alt="" coords="837,83,718,99,582,121,458,150,409,167,373,184,361,193,358,189,370,180,407,162,456,145,581,116,717,93,837,78"/>
+<area shape="rect" id="Node000021" href="$classasio_1_1detail_1_1op__queue.html" title=" " alt="" coords="541,215,674,438"/>
+<area shape="poly" id="edge16_Node000021_Node000004" title=" " alt="" coords="839,99,761,134,724,157,690,184,662,216,658,213,686,180,721,152,759,129,836,94"/>
+<area shape="rect" id="Node000023" href="$classasio_1_1detail_1_1null__thread.html" title=" " alt="" coords="1037,255,1199,398"/>
+<area shape="poly" id="edge18_Node000023_Node000004" title=" " alt="" coords="997,142,1028,180,1079,254,1075,257,1024,184,993,146"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1341,685,1332,590,1331,495,1336,417,1341,417,1336,495,1338,590,1346,684"/>
+<area shape="rect" id="Node000010" href="$classasio_1_1detail_1_1scheduler.html" title=" " alt="" coords="601,542,796,1274"/>
+<area shape="poly" id="edge7_Node000002_Node000010" title=" " alt="" coords="798,1189,873,1360,917,1445,964,1527,1000,1576,1040,1622,1036,1625,996,1580,960,1529,912,1448,868,1362,793,1191"/>
+<area shape="rect" id="Node000011" href="$classasio_1_1detail_1_1execution__context__service__base.html" title=" " alt="" coords="699,271,876,382"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="780,397,757,543,752,542,774,396"/>
+<area shape="rect" id="Node000015" href="$classasio_1_1detail_1_1thread__context.html" title=" " alt="" coords="900,286,1014,367"/>
+<area shape="poly" id="edge9_Node000010_Node000015" title=" " alt="" coords="936,382,798,690,793,687,931,380"/>
+<area shape="poly" id="edge10_Node000010_Node000016" title=" " alt="" coords="138,421,174,469,276,575,386,673,493,759,588,829,585,833,490,763,382,677,272,579,170,473,133,424"/>
+<area shape="poly" id="edge12_Node000010_Node000017" title=" " alt="" coords="362,453,374,469,593,764,589,767,370,473,357,456"/>
+<area shape="rect" id="Node000019" href="$structasio_1_1detail_1_1scheduler_1_1task__operation.html" title=" " alt="" coords="384,286,517,367"/>
+<area shape="poly" id="edge14_Node000010_Node000019" title=" " alt="" coords="468,366,527,517,596,676,592,678,523,519,463,368"/>
+<area shape="poly" id="edge15_Node000010_Node000021" title=" " alt="" coords="628,438,641,525,636,526,622,438"/>
+<area shape="poly" id="edge17_Node000010_Node000023" title=" " alt="" coords="1077,399,1029,473,916,628,808,771,804,768,912,625,1024,469,1073,396"/>
+<area shape="rect" id="Node000025" href="$structasio_1_1detail_1_1thread__group_1_1item.html" title=" " alt="" coords="1051,867,1164,949"/>
+<area shape="poly" id="edge21_Node000025_Node000023" title=" " alt="" coords="1120,398,1111,850,1106,850,1114,398"/>
+<area shape="rect" id="Node000024" href="$classasio_1_1detail_1_1thread__group.html" title=" " alt="" coords="1049,1345,1167,1528"/>
+<area shape="poly" id="edge19_Node000002_Node000024" title=" " alt="" coords="1110,1528,1110,1582,1105,1582,1105,1528"/>
+<area shape="poly" id="edge20_Node000024_Node000025" title=" " alt="" coords="1110,948,1110,1328,1105,1328,1105,948"/>
+<area shape="poly" id="edge22_Node000025_Node000025" title=" " alt="" coords="1120,866,1131,848,1143,836,1155,830,1167,832,1177,841,1185,857,1189,879,1191,908,1186,955,1180,971,1171,981,1161,986,1150,984,1139,977,1129,965,1133,962,1143,973,1152,979,1160,980,1168,977,1175,968,1181,954,1186,908,1184,880,1180,859,1173,845,1165,837,1156,836,1146,840,1135,851,1125,869"/>
+</map>

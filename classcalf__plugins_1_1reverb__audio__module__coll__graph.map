@@ -1,0 +1,64 @@
+<map id="calf_plugins::reverb_audio_module" name="calf_plugins::reverb_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1346,2713,1477,2896"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="341,1956,549,2622"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,2357,780,2482,1033,2620,1202,2704,1347,2772,1345,2776,1200,2709,1030,2624,777,2487,560,2362"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1reverb__metadata.html" title=" " alt="" coords="92,1308,214,1390"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,1404,208,1636,244,1784,287,1931,343,2074,338,2076,282,1933,238,1785,203,1637,159,1405"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="5,371,196,894"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,909,152,1309,147,1309,118,910"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="220,341,386,925"/>
+<area shape="poly" id="edge4_Node000002_Node000009" title=" " alt="" coords="300,940,305,1296,315,1490,331,1682,350,1819,374,1956,368,1957,344,1820,326,1682,310,1491,300,1296,295,940"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="341,1016,549,1682"/>
+<area shape="poly" id="edge8_Node000011_Node000009" title=" " alt="" coords="366,939,382,1016,377,1017,361,940"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1progress__report__iface.html" title=" " alt="" coords="512,582,676,684"/>
+<area shape="poly" id="edge5_Node000002_Node000010" title=" " alt="" coords="598,683,604,931,608,1293,603,1663,594,1817,579,1933,556,2025,551,2024,574,1932,588,1816,597,1662,603,1293,599,931,593,683"/>
+<area shape="poly" id="edge9_Node000011_Node000010" title=" " alt="" coords="578,684,483,950,473,1000,468,999,477,948,573,683"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="447,1697,447,1956,442,1956,442,1697"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="411,600,476,666"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="446,681,447,1016,441,1016,441,681"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1vumeters.html" title=" " alt="" coords="1043,2226,1182,2353"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="1119,2352,1127,2412,1142,2481,1164,2553,1198,2621,1227,2660,1261,2695,1334,2753,1330,2757,1257,2699,1222,2663,1193,2623,1159,2555,1136,2483,1122,2413,1114,2353"/>
+<area shape="rect" id="Node000014" href="$classdsp_1_1reverb.html" title=" " alt="" coords="1207,1961,1371,2617"/>
+<area shape="poly" id="edge11_Node000001_Node000014" title=" " alt="" coords="1367,2616,1385,2689,1387,2697,1381,2698,1379,2690,1362,2618"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1audio__effect.html" title=" " alt="" coords="1073,1306,1182,1392"/>
+<area shape="poly" id="edge12_Node000014_Node000015" title=" " alt="" coords="1140,1406,1235,1961,1230,1962,1134,1407"/>
+<area shape="rect" id="Node000016" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="1206,1199,1371,1499"/>
+<area shape="poly" id="edge13_Node000014_Node000016" title=" " alt="" coords="1291,1499,1291,1944,1286,1944,1286,1499"/>
+<area shape="rect" id="Node000017" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="1179,582,1305,684"/>
+<area shape="poly" id="edge14_Node000016_Node000017" title=" " alt="" coords="1243,684,1241,823,1246,992,1266,1182,1261,1183,1241,993,1236,823,1238,683"/>
+<area shape="rect" id="Node000020" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="1357,74,1506,181"/>
+<area shape="poly" id="edge15_Node000017_Node000020" title=" " alt="" coords="1394,195,1356,264,1320,342,1298,406,1280,471,1254,583,1249,581,1274,469,1293,404,1316,340,1351,262,1389,192"/>
+<area shape="rect" id="Node000031" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="1692,574,1819,691"/>
+<area shape="poly" id="edge27_Node000031_Node000020" title=" " alt="" coords="1457,193,1473,226,1493,259,1517,289,1546,314,1564,323,1581,327,1615,323,1648,322,1665,327,1682,339,1705,364,1722,392,1736,423,1746,455,1757,519,1760,575,1755,575,1752,519,1741,456,1731,425,1718,395,1700,367,1679,343,1663,331,1647,327,1615,329,1581,332,1562,328,1543,319,1513,293,1488,262,1468,228,1452,196"/>
+<area shape="rect" id="Node000021" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="1504,483,1668,783"/>
+<area shape="poly" id="edge16_Node000016_Node000021" title=" " alt="" coords="1568,798,1556,834,1540,868,1519,900,1493,927,1472,939,1451,943,1411,938,1373,933,1355,938,1338,951,1317,976,1300,1005,1287,1035,1278,1068,1269,1134,1268,1200,1263,1200,1264,1134,1273,1066,1282,1034,1295,1003,1312,973,1334,947,1353,933,1373,928,1412,932,1451,938,1470,934,1490,923,1515,896,1535,866,1551,832,1563,796"/>
+<area shape="rect" id="Node000030" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="1548,1192,1712,1506"/>
+<area shape="poly" id="edge28_Node000030_Node000021" title=" " alt="" coords="1589,798,1596,992,1614,1192,1609,1192,1591,992,1584,798"/>
+<area shape="rect" id="Node000024" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="735,1039,899,1659"/>
+<area shape="poly" id="edge17_Node000014_Node000024" title=" " alt="" coords="852,1658,876,1734,909,1808,953,1874,980,1904,1010,1930,1033,1943,1056,1947,1079,1946,1101,1941,1124,1936,1148,1934,1172,1939,1196,1954,1196,1955,1193,1959,1192,1958,1170,1944,1147,1940,1125,1941,1102,1946,1079,1951,1056,1953,1031,1948,1006,1935,976,1908,949,1878,905,1810,871,1736,847,1660"/>
+<area shape="rect" id="Node000025" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="756,358,878,907"/>
+<area shape="poly" id="edge18_Node000024_Node000025" title=" " alt="" coords="819,922,819,1039,814,1039,814,922"/>
+<area shape="rect" id="Node000026" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="923,1298,1049,1400"/>
+<area shape="poly" id="edge19_Node000014_Node000026" title=" " alt="" coords="998,1399,1025,1528,1063,1681,1080,1756,1090,1816,1097,1843,1108,1870,1125,1899,1149,1930,1160,1939,1172,1942,1184,1945,1196,1954,1199,1958,1194,1961,1192,1958,1181,1950,1170,1947,1158,1943,1145,1934,1121,1902,1103,1873,1092,1845,1085,1817,1074,1757,1058,1683,1020,1529,993,1400"/>
+<area shape="rect" id="Node000027" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="926,582,1046,684"/>
+<area shape="poly" id="edge20_Node000026_Node000027" title=" " alt="" coords="989,698,989,1298,983,1298,983,698"/>
+<area shape="rect" id="Node000028" href="$classdsp_1_1onepole.html" title=" " alt="" coords="1395,1133,1524,1565"/>
+<area shape="poly" id="edge29_Node000001_Node000028" title=" " alt="" coords="1470,1565,1473,1797,1472,2079,1461,2384,1451,2539,1437,2690,1436,2697,1431,2696,1431,2689,1445,2538,1455,2384,1466,2078,1468,1797,1464,1565"/>
+<area shape="poly" id="edge21_Node000014_Node000028" title=" " alt="" coords="1412,1566,1383,1706,1341,1945,1336,1944,1377,1706,1406,1565"/>
+<area shape="rect" id="Node000029" href="$classdsp_1_1onepole.html" title=" " alt="" coords="1330,396,1480,869"/>
+<area shape="poly" id="edge22_Node000028_Node000029" title=" " alt="" coords="1426,884,1446,1133,1440,1133,1421,885"/>
+<area shape="poly" id="edge23_Node000001_Node000030" title=" " alt="" coords="1646,1506,1654,1730,1653,1866,1647,2012,1634,2165,1612,2321,1580,2475,1537,2623,1516,2670,1489,2714,1484,2711,1511,2667,1531,2621,1575,2473,1607,2320,1629,2165,1642,2012,1648,1866,1649,1730,1641,1506"/>
+<area shape="poly" id="edge24_Node000030_Node000031" title=" " alt="" coords="1756,691,1748,829,1727,993,1708,1086,1685,1176,1680,1175,1703,1084,1722,992,1742,829,1751,691"/>
+<area shape="rect" id="Node000032" href="$classdsp_1_1fixed__size__buffer.html" title=" " alt="" coords="1599,79,1749,176"/>
+<area shape="poly" id="edge25_Node000031_Node000032" title=" " alt="" coords="1687,190,1749,574,1743,575,1681,190"/>
+<area shape="rect" id="Node000033" href="$structdsp_1_1stereo__sample.html" title=" " alt="" coords="1774,5,1897,249"/>
+<area shape="poly" id="edge26_Node000031_Node000033" title=" " alt="" coords="1819,250,1770,558,1764,557,1814,249"/>
+<area shape="rect" id="Node000035" href="$classdsp_1_1gain__smoothing.html" title=" " alt="" coords="1754,2246,1882,2332"/>
+<area shape="poly" id="edge30_Node000001_Node000035" title=" " alt="" coords="1811,2333,1788,2410,1749,2506,1722,2557,1692,2606,1656,2651,1614,2691,1555,2734,1493,2768,1491,2764,1552,2729,1611,2687,1652,2648,1687,2603,1718,2554,1744,2504,1783,2408,1806,2332"/>
+<area shape="rect" id="Node000036" href="$classdsp_1_1inertia.html" title=" " alt="" coords="1850,1217,1965,1481"/>
+<area shape="poly" id="edge31_Node000035_Node000036" title=" " alt="" coords="1896,1496,1825,2246,1819,2246,1891,1496"/>
+<area shape="rect" id="Node000037" href="$classdsp_1_1linear__ramp.html" title="Algorithm for a constant time linear ramp." alt="" coords="1996,528,2101,737"/>
+<area shape="poly" id="edge32_Node000036_Node000037" title=" " alt="" coords="2045,737,2033,860,2013,993,1988,1099,1959,1202,1953,1200,1983,1098,2007,992,2028,859,2040,737"/>
+<area shape="rect" id="Node000038" href="$classdsp_1_1inertia.html" title=" " alt="" coords="1843,488,1972,778"/>
+<area shape="poly" id="edge33_Node000036_Node000038" title=" " alt="" coords="1910,793,1910,1217,1905,1217,1905,793"/>
+</map>

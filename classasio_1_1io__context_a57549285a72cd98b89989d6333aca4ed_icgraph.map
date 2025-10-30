@@ -1,0 +1,36 @@
+<map id="asio::io_context::io_context" name="asio::io_context::io_context">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="645,194,772,234"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1io__context.html#a31177fab7e126f4c98d3ad99e6c7b8f2" title=" " alt="" coords="429,5,597,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,181,655,111,628,75,596,44,577,34,580,29,599,40,632,71,659,108,696,178"/>
+<area shape="rect" id="Node000003" href="$classasio_1_1io__context.html#a0d3fc2d448b45667eaf115ba9346178f" title=" " alt="" coords="430,79,596,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="677,184,640,150,596,119,569,107,571,102,599,115,643,146,680,180"/>
+<area shape="rect" id="Node000006" href="$structasio_1_1io__context_1_1initiate__dispatch.html#a70ef8e47ac3ae4be697263c2ed3e2f39" title=" " alt="" coords="436,128,590,169"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="630,191,575,172,577,167,632,186"/>
+<area shape="rect" id="Node000007" href="$structasio_1_1io__context_1_1initiate__post.html#ad8ba694b8d950065b5d6749bfa03e036" title=" " alt="" coords="436,194,590,234"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="630,217,591,217,591,212,630,212"/>
+<area shape="rect" id="Node000008" href="$classasio_1_1io__context.html#a6332bf04bb280c0b909a638ac881a5d5" title=" " alt="" coords="442,283,584,308"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="645,243,547,284,545,280,642,239"/>
+<area shape="rect" id="Node000009" href="$classasio_1_1io__context_1_1strand.html#aa423080ebb24839abb0c5d661eebc52b" title="Constructor." alt="" coords="437,332,589,373"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="683,248,645,287,599,323,578,334,576,330,596,319,641,283,679,244"/>
+<area shape="rect" id="Node000014" href="$classasio_1_1io__context_1_1work.html#afe556a4b78f1d991ce97bbd9f77a8848" title="Constructor notifies the io_context that work is starting." alt="" coords="441,463,585,504"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="690,249,649,313,599,386,535,464,531,461,595,383,645,311,685,246"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="547,66,536,60,513,57,493,59,482,64,479,69,485,77,480,80,474,70,478,60,491,54,513,52,537,55,550,62"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1io__context.html#ae5065cb2d72b35c2b5ac51f08278b3b0" title="Restart the io_context in preparation for a subsequent run() invocation." alt="" coords="213,115,366,140"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="416,110,367,118,366,113,415,105"/>
+<area shape="rect" id="Node000005" href="$classasio_1_1io__context.html#ab14f3cf018df3081464940c823db4577" title=" " alt="" coords="5,115,151,140"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="198,130,151,130,151,125,198,125"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="469,277,427,248,403,220,379,192,345,165,312,143,315,139,348,161,383,188,407,217,431,244,472,272"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="547,270,536,264,513,261,493,263,482,268,479,273,485,281,480,284,474,274,478,264,491,258,513,256,537,259,550,266"/>
+<area shape="rect" id="Node000010" href="$classasio_1_1io__context_1_1strand.html#a77dd32eb7098367d99acc4934c37559c" title="Compare two strands for inequality." alt="" coords="214,202,366,242"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="432,326,427,323,411,306,403,289,394,273,379,258,359,245,362,241,383,253,399,270,407,287,416,303,431,319,435,322"/>
+<area shape="rect" id="Node000011" href="$structasio_1_1io__context_1_1strand_1_1initiate__dispatch.html#a580468c8b3b1865ac46bedf64b6ee739" title=" " alt="" coords="199,267,381,308"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="426,330,361,311,363,306,428,325"/>
+<area shape="rect" id="Node000012" href="$structasio_1_1io__context_1_1strand_1_1initiate__post.html#afeda6a4b41e93ff507908024d48853b4" title=" " alt="" coords="211,332,369,373"/>
+<area shape="poly" id="edge14_Node000009_Node000012" title=" " alt="" coords="422,356,370,356,370,350,422,350"/>
+<area shape="rect" id="Node000013" href="$classasio_1_1io__context_1_1strand.html#a17e130eea2040d49be5c71b233f1b942" title="Compare two strands for equality." alt="" coords="214,398,366,438"/>
+<area shape="poly" id="edge15_Node000009_Node000013" title=" " alt="" coords="428,381,363,400,361,395,426,375"/>
+<area shape="rect" id="Node000015" href="$classasio_1_1io__context_1_1work.html#a1786ed1d3162aef2f3f4456f2cb7b405" title=" " alt="" coords="218,463,362,504"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="426,486,362,486,362,481,426,481"/>
+<area shape="rect" id="Node000016" href="$classasio_1_1io__context_1_1work.html#a147445ada746ab49b7b166c8b0581711" title="Copy constructor notifies the io_context that work is starting." alt="" coords="218,528,362,569"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="428,511,363,530,361,525,426,506"/>
+</map>

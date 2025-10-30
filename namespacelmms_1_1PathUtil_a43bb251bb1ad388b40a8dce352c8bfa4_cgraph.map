@@ -1,0 +1,40 @@
+<map id="lmms::PathUtil::oldRelativeUpgrade" name="lmms::PathUtil::oldRelativeUpgrade">
+<area shape="rect" id="Node000001" title="Upgrade prefix&#45;less relative paths to the new format." alt="" coords="5,375,182,416"/>
+<area shape="rect" id="Node000002" href="$namespacelmms_1_1PathUtil.html#afb638703372165aa5d4f073b8d93a9e9" title=" " alt="" coords="230,357,420,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,383,214,380,214,385,182,389"/>
+<area shape="rect" id="Node000020" href="$namespacelmms_1_1PathUtil.html#ac137f08ba93cc7257ee39ae09dd7dc12" title="Return the prefix used to denote this base in path strings." alt="" coords="239,407,411,432"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="182,402,223,406,223,412,182,407"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1Engine.html#a8b943018d0245555391473f4a7d75b5b" title=" " alt="" coords="468,5,620,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,356,337,299,361,215,380,169,403,123,432,80,466,42,471,37,475,41,470,45,436,83,408,125,385,171,366,217,342,300,331,357"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1ConfigManager.html#a598d28de397b778eb3beacab0372375a" title=" " alt="" coords="472,55,617,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="327,356,343,310,371,244,412,172,437,137,466,107,471,103,475,107,470,111,441,141,416,175,376,246,348,312,333,358"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1ConfigManager.html#aed1127d4ab5ccc02af03698c5c47e270" title=" " alt="" coords="472,120,617,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="330,356,349,320,379,272,419,219,466,172,473,167,476,172,470,176,423,223,384,275,354,323,335,358"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1ConfigManager.html#adba7cdbfbf7f120434970bb2b5040729" title=" " alt="" coords="472,186,617,226"/>
+<area shape="poly" id="edge6_Node000002_Node000010" title=" " alt="" coords="336,355,389,300,426,267,467,237,475,232,478,236,469,242,430,271,393,304,340,359"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1ConfigManager.html#aac702459d2d0856392d9de6b0a692293" title=" " alt="" coords="472,251,617,292"/>
+<area shape="poly" id="edge7_Node000002_Node000011" title=" " alt="" coords="354,354,467,302,481,296,483,301,469,307,356,359"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1ConfigManager.html#afe780c5916f2504628293fe2dc77f788" title=" " alt="" coords="472,316,617,357"/>
+<area shape="poly" id="edge8_Node000002_Node000012" title=" " alt="" coords="413,354,456,348,456,353,414,359"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1ConfigManager.html#aa31dd9a101cf7451c65bf3ac6cfc504f" title=" " alt="" coords="472,382,617,422"/>
+<area shape="poly" id="edge10_Node000002_Node000014" title=" " alt="" coords="418,381,457,387,456,392,417,386"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1ConfigManager.html#a0d6cdb70151c22cfe8a3915cb315c00d" title=" " alt="" coords="472,447,617,488"/>
+<area shape="poly" id="edge12_Node000002_Node000015" title=" " alt="" coords="395,381,421,392,436,402,446,411,470,432,479,437,476,442,466,436,443,415,433,406,419,397,393,386"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1ConfigManager.html#a53853fb0c5d8071c478730d0c707d259" title=" " alt="" coords="472,512,617,553"/>
+<area shape="poly" id="edge14_Node000002_Node000016" title=" " alt="" coords="405,381,422,392,434,405,441,418,448,445,453,472,459,485,470,498,474,501,470,505,466,501,455,487,448,473,442,446,437,420,430,408,418,396,402,386"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1ConfigManager.html#abba8cac98f42c6b93258fb4977ba6c8e" title=" " alt="" coords="472,578,617,618"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="407,381,422,392,438,414,447,435,448,478,449,520,456,542,470,563,473,566,469,570,466,566,451,544,444,521,443,478,441,436,434,416,418,396,404,386"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1ConfigManager.html#aed5eb281e7bf130cbcb04e7ee237fc0d" title=" " alt="" coords="472,643,617,684"/>
+<area shape="poly" id="edge18_Node000002_Node000018" title=" " alt="" coords="408,382,422,392,443,422,452,452,453,481,449,510,445,539,445,569,452,598,470,629,472,631,468,635,466,632,447,600,440,569,440,539,444,510,447,481,447,452,438,424,418,396,405,386"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1ConfigManager.html#a10a9e395be776c38955804d55428e3ef" title=" " alt="" coords="472,708,617,749"/>
+<area shape="poly" id="edge20_Node000002_Node000019" title=" " alt="" coords="408,381,422,392,447,430,457,468,456,505,450,543,443,580,441,617,448,655,470,694,472,696,468,700,466,697,443,657,436,617,438,579,445,542,451,505,452,469,442,433,418,396,405,386"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1ConfigManager.html#a92a5b4a26e8756e8d261d2cebbc6b074" title=" " alt="" coords="668,120,814,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="617,138,653,138,653,144,617,144"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1ConfigManager.html#a6a262d63c334e930dc6813685a0af423" title=" " alt="" coords="668,479,814,520"/>
+<area shape="poly" id="edge9_Node000012_Node000013" title=" " alt="" coords="601,355,622,368,676,416,718,465,714,468,672,420,619,372,598,360"/>
+<area shape="poly" id="edge11_Node000014_Node000013" title=" " alt="" coords="595,421,622,433,690,469,688,474,619,438,593,425"/>
+<area shape="poly" id="edge13_Node000015_Node000013" title=" " alt="" coords="618,477,654,483,653,488,617,482"/>
+<area shape="poly" id="edge15_Node000016_Node000013" title=" " alt="" coords="617,518,653,512,654,517,618,523"/>
+<area shape="poly" id="edge17_Node000017_Node000013" title=" " alt="" coords="593,575,619,562,689,525,691,530,622,567,595,580"/>
+<area shape="poly" id="edge19_Node000018_Node000013" title=" " alt="" coords="598,640,619,628,672,580,714,531,718,534,676,584,622,632,601,645"/>
+</map>

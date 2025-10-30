@@ -1,0 +1,27 @@
+var classdsp_1_1organ__voice =
+[
+    [ "organ_voice", "classdsp_1_1organ__voice.html#a8ce7634d892b0d85010661891599cb03", null ],
+    [ "get_active", "classdsp_1_1organ__voice.html#a347f4dfa5d12ca0feec8eaa3a2a1412c", null ],
+    [ "get_current_note", "classdsp_1_1organ__voice.html#ac73a9600436d05ce7c32e9415ffa7ec4", null ],
+    [ "get_priority", "classdsp_1_1organ__voice.html#a3f3ee06e430b4dc51d8b341a4ff399ee", null ],
+    [ "note_off", "classdsp_1_1organ__voice.html#a2a7c8a53cb86437589434ec050c211a9", null ],
+    [ "note_on", "classdsp_1_1organ__voice.html#aba0f8131ec04c07a1500813484319ba5", null ],
+    [ "render_block", "classdsp_1_1organ__voice.html#a74e5787ed33b9046378c36358317c799", null ],
+    [ "reset", "classdsp_1_1organ__voice.html#a75284af8e0576b501f509a8dd1a2c091", null ],
+    [ "steal", "classdsp_1_1organ__voice.html#a42aa6e629f03ab50eba65c81edde10ec", null ],
+    [ "update_pitch", "classdsp_1_1organ__voice.html#aebb22a4880609cfab94003f6189ff834", null ],
+    [ "use_percussion", "classdsp_1_1organ__voice.html#a72b9d79c85ae84c8dff9fc49dd7b058d", null ],
+    [ "aux_buffers", "classdsp_1_1organ__voice.html#a0f830dff11d5f5ba7faf797fd603ff0d", null ],
+    [ "dphase", "classdsp_1_1organ__voice.html#a138f2eb9bf110d3914c08c4966ffc2ee", null ],
+    [ "envs", "classdsp_1_1organ__voice.html#adac66483bdc13c39c9ece2506d56ce82", null ],
+    [ "expression", "classdsp_1_1organ__voice.html#a12e7ef35d3978a0e9bad92fbf750b049", null ],
+    [ "filterL", "classdsp_1_1organ__voice.html#a46144cbcf246e32dd95c70dc53a8df09", null ],
+    [ "filterR", "classdsp_1_1organ__voice.html#a32e18ac1a01ce895f46088c14acca895", null ],
+    [ "finishing", "classdsp_1_1organ__voice.html#aea07f32df62a6e13a2956824df39b052", null ],
+    [ "inertia_pitchbend", "classdsp_1_1organ__voice.html#a425038041b6abcde7c8a76d183a98a6f", null ],
+    [ "output_buffer", "classdsp_1_1organ__voice.html#ab3a0758f798f2860d6c733e452e4ff24", null ],
+    [ "perc_released", "classdsp_1_1organ__voice.html#a6cdcad1dbe05478d81e5523909299566", null ],
+    [ "phase", "classdsp_1_1organ__voice.html#a8095967ba8210c52717b2f5636f000da", null ],
+    [ "velocity", "classdsp_1_1organ__voice.html#a5c9427cdda461b34c61508f373940969", null ],
+    [ "vibrato", "classdsp_1_1organ__voice.html#aa785eb02411ee469d802a481d1f9b0c4", null ]
+];

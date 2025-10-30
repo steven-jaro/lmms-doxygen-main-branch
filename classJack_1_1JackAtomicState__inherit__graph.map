@@ -1,0 +1,19 @@
+<map id="Jack::JackAtomicState&lt; T &gt;" name="Jack::JackAtomicState&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A class to handle two states (switching from one to the other) in a lock&#45;free manner." alt="" coords="296,5,471,316"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackAtomicState.html" title=" " alt="" coords="33,387,203,692"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,232,230,282,205,311,182,341,158,388,153,386,178,338,201,307,227,279,283,228"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackAtomicState.html" title=" " alt="" coords="230,387,400,692"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,331,345,387,340,386,350,330"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackAtomicState.html" title=" " alt="" coords="425,387,601,692"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="445,329,449,339,465,386,460,388,444,341,440,331"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackAtomicState.html" title=" " alt="" coords="625,387,795,692"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="485,213,563,268,600,301,634,338,663,385,659,388,629,341,597,305,560,272,482,217"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackAtomicDelayLockedLoop.html" title=" " alt="" coords="5,1016,223,1184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,706,117,1016,112,1016,114,706"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackFrameTimer.html" title="A class using the JackAtomicState to manage jack time." alt="" coords="247,995,390,1204"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,706,320,995,315,995,314,706"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackGraphManager.html" title="Graph manager: contains the connection manager and the port array." alt="" coords="422,741,603,1458"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="516,707,516,741,510,741,510,707"/>
+<area shape="rect" id="Node000009" href="$classTestStateUser.html" title="The state wrapped with the 2 state atomic class." alt="" coords="633,1016,788,1184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="713,706,713,1016,708,1016,708,706"/>
+</map>

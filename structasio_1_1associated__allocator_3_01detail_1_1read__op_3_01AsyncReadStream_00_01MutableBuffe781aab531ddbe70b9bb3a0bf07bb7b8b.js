@@ -1,0 +1,5 @@
+var structasio_1_1associated__allocator_3_01detail_1_1read__op_3_01AsyncReadStream_00_01MutableBuffe781aab531ddbe70b9bb3a0bf07bb7b8b =
+[
+    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1read__op_3_01AsyncReadStream_00_01MutableBuffe781aab531ddbe70b9bb3a0bf07bb7b8b.html#ad375e5db198b6e8787683c70601dcd17", null ],
+    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1read__op_3_01AsyncReadStream_00_01MutableBuffe781aab531ddbe70b9bb3a0bf07bb7b8b.html#a029c5c7ccedae14f1e785eafc1307ac7", null ]
+];

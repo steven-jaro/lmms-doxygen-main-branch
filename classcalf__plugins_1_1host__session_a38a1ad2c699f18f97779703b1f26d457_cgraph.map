@@ -1,0 +1,21 @@
+<map id="calf_plugins::host_session::save" name="calf_plugins::host_session::save">
+<area shape="rect" id="Node000001" title="Save to session manager." alt="" coords="5,125,127,166"/>
+<area shape="rect" id="Node000002" href="$namespacecalf__utils.html#a9e1e9e02b68a21a63aa5b319a60e5012" title="Serialize a dictionary to a string." alt="" coords="192,18,346,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,122,124,87,173,54,189,46,191,51,176,58,127,91,89,126"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1plugin__preset.html#a4cdc7982a5a5e3b08fe1cce979fc458e" title="&quot;Download&quot; preset content from the plugin" alt="" coords="204,68,334,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,126,188,108,189,113,128,131"/>
+<area shape="rect" id="Node000006" href="$host__session_8cpp.html#a9897c6f385fa8cc18e0477f872574127" title=" " alt="" coords="236,132,302,158"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="127,142,221,142,221,148,127,148"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1plugin__preset.html#a244f68c4c5d8dab8010420dc480bedb0" title="Export preset as XML." alt="" coords="204,182,334,223"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="128,160,189,177,188,182,126,165"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1session__save__iface.html#a10026607f69ef8ace61b72db5262d2d7" title=" " alt="" coords="175,248,363,288"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="90,164,128,199,176,232,188,238,185,243,173,237,125,203,86,168"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1plugin__metadata__iface.html#aabfdb3d0e4c3b3c3e11284da0273c0f0" title=" " alt="" coords="414,5,556,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="334,69,399,52,400,57,335,74"/>
+<area shape="rect" id="Node000005" href="$structcalf__plugins_1_1plugin__metadata__iface.html#ab26cd66d3215fe6fee3bac8a2080faa9" title=" " alt="" coords="414,85,556,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="335,93,400,101,399,106,334,98"/>
+<area shape="rect" id="Node000008" href="$namespacecalf__utils.html#a964f2113953b69f019371f4a7ec8bf1a" title="Escape a string to be used in XML file." alt="" coords="411,190,559,215"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="334,200,396,200,396,205,334,205"/>
+<area shape="rect" id="Node000009" href="$namespacecalf__utils.html#ab47d1ee03d65289d4e6109757868a170" title="int&#45;to&#45;string" alt="" coords="607,190,704,215"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="560,200,592,200,592,205,560,205"/>
+</map>

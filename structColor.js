@@ -1,0 +1,26 @@
+var structColor =
+[
+    [ "Color", "structColor.html#acbbdba6661c2bbd987ef27de59813b47", null ],
+    [ "Color", "structColor.html#ab5f3b6caec37b3ba8f7a04c801c63847", null ],
+    [ "Color", "structColor.html#a77dd2b8f997aaf034c790ffd4ffe64bc", null ],
+    [ "Color", "structColor.html#a7ac8018890423379bf8cdce2c6bc9d7e", null ],
+    [ "Color", "structColor.html#a8d51b3f9457c1d9524ad67c94152b99a", null ],
+    [ "Color", "structColor.html#a8a4a6f40d5264bdec2e47a0d2e31a7aa", null ],
+    [ "fixBounds", "structColor.html#aad01f46af4cdb18b2bcbddd3f63d14d5", null ],
+    [ "fromHSL", "structColor.html#aed2ad47a75d37735f8791cc4836b26cb", null ],
+    [ "fromHTML", "structColor.html#a372d8ddd838289c00eac8f91102c30f4", null ],
+    [ "interpolate", "structColor.html#a96283f5b9ad6f6465e40f69012aca00f", null ],
+    [ "isEqual", "structColor.html#a16880d42b2d52ed23eb307ed2980a9a3", null ],
+    [ "isNotEqual", "structColor.html#aa0e84f05c440907e331590430da2e2e6", null ],
+    [ "operator NVGcolor", "structColor.html#a1ac9f71d30423f0abca0ada60a42fe62", null ],
+    [ "operator!=", "structColor.html#a9f9d6c0912a68159c13620660c460213", null ],
+    [ "operator=", "structColor.html#a954504e122a0af68dec2c7bf3cdd34cc", null ],
+    [ "operator==", "structColor.html#a3aa26bd1c31ea638f6fc1c06d4ee168e", null ],
+    [ "setFor", "structColor.html#a9bd4efab0718f412babc62398875a80f", null ],
+    [ "withAlpha", "structColor.html#a664780dcd74f376837dc6c5a219ca566", null ],
+    [ "alpha", "structColor.html#a57f88e0415184b98091d1ee8b86a61a7", null ],
+    [ "blue", "structColor.html#a175386a89265cede8f6ae694c32677c3", null ],
+    [ "green", "structColor.html#a7644dc2e2c23e40894929ce5127452a1", null ],
+    [ "red", "structColor.html#aa897fe858468c4bff0f286d0dfd43178", null ],
+    [ "rgba", "structColor.html#acba48124fc122e30aeafec4a7ba04d8e", null ]
+];

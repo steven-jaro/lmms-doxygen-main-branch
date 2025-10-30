@@ -1,0 +1,21 @@
+<map id="dsp::modulation_effect" name="dsp::modulation_effect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,141,418,594"/>
+<area shape="rect" id="Node000003" href="$classdsp_1_1chorus__base.html" title=" " alt="" coords="198,796,342,1004"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,609,288,796,282,796,310,608"/>
+<area shape="rect" id="Node000009" href="$classdsp_1_1simple__phaser.html" title=" " alt="" coords="366,643,488,1157"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="387,608,392,643,387,644,381,609"/>
+<area shape="rect" id="Node000002" href="$classdsp_1_1audio__effect.html" title=" " alt="" coords="294,5,403,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,106,351,142,346,142,346,106"/>
+<area shape="rect" id="Node000004" href="$classdsp_1_1multichorus.html" title=" " alt="" coords="62,1712,230,1981"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,1019,262,1151,250,1312,231,1487,203,1661,191,1713,186,1712,198,1659,225,1486,244,1312,257,1151,264,1019"/>
+<area shape="rect" id="Node000005" href="$classdsp_1_1simple__flanger.html" title=" " alt="" coords="266,1684,418,2009"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="273,1019,280,1256,298,1531,317,1684,312,1684,293,1532,275,1256,268,1019"/>
+<area shape="rect" id="Node000006" href="$classdsp_1_1multichorus.html" title=" " alt="" coords="5,1250,161,1488"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="226,1019,133,1251,128,1249,221,1017"/>
+<area shape="rect" id="Node000007" href="$classdsp_1_1simple__chorus.html" title=" " alt="" coords="308,1298,429,1440"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="297,1019,356,1297,351,1298,292,1020"/>
+<area shape="rect" id="Node000008" href="$classdsp_1_1simple__flanger.html" title=" " alt="" coords="454,1206,606,1532"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="292,1017,316,1089,334,1124,356,1155,377,1173,398,1180,420,1188,444,1204,456,1218,452,1221,440,1208,418,1192,396,1185,374,1177,352,1159,329,1127,311,1092,287,1019"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="60,1503,56,1581,58,1621,64,1659,80,1712,75,1713,59,1661,53,1621,51,1581,55,1503"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="463,1546,408,1685,403,1683,458,1544"/>
+</map>

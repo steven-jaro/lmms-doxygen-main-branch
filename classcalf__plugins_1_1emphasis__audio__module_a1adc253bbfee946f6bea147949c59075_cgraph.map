@@ -1,0 +1,6 @@
+<map id="calf_plugins::emphasis_audio_module::process" name="calf_plugins::emphasis_audio_module::process">
+<area shape="rect" id="Node000001" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,29,166,70"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="46,29,44,19,51,10,65,5,86,3,108,5,121,11,119,16,107,10,85,8,66,10,54,15,50,20,51,28"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1emphasis__audio__module.html#aa341216fed5b8b4dec1f96dd04dc47e6" title="Called when params are changed (before processing)." alt="" coords="214,22,371,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,47,198,47,198,52,166,52"/>
+</map>

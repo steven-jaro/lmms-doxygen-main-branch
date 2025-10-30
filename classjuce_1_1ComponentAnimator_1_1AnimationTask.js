@@ -1,0 +1,27 @@
+var classjuce_1_1ComponentAnimator_1_1AnimationTask =
+[
+    [ "ProxyComponent", "structjuce_1_1ComponentAnimator_1_1AnimationTask_1_1ProxyComponent.html", "structjuce_1_1ComponentAnimator_1_1AnimationTask_1_1ProxyComponent" ],
+    [ "AnimationTask", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#aef414199b60fcf46c84ec09bf4794f53", null ],
+    [ "~AnimationTask", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#aef5ae278c2e9ebf4d605e32073f131d9", null ],
+    [ "moveToFinalDestination", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a726b3dfa93a404161823751857761565", null ],
+    [ "reset", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a8c6df32335d3e1921fafc7ad672f5855", null ],
+    [ "timeToDistance", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a76f2e71914d3513468e35bd143edc847", null ],
+    [ "useTimeslice", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a80c7fd305bc44297b1d90ad13b034bba", null ],
+    [ "alpha", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a2babf262ae54d5c26d9aa7997b80d4ff", null ],
+    [ "bottom", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#adf5e632b5e4d45a291a6a3e337e63429", null ],
+    [ "component", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a27f5d5298c6fde0a0301f10cc6acf4f1", null ],
+    [ "destAlpha", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#ab10554a88f87857772efb341e9926081", null ],
+    [ "destination", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#acaecf54a3abb3ae1d3bab5c4014a7605", null ],
+    [ "endSpeed", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#ae83d1200cbd067f9122ed2ce538cecb8", null ],
+    [ "isChangingAlpha", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a0d7fdc1deca3c7a834e0b24371df16c4", null ],
+    [ "isMoving", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a84598db646503e5e066d51e5cfbcbca7", null ],
+    [ "lastProgress", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a89a1e135ec12af7fa9dae810c494da80", null ],
+    [ "left", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a65a8b323dd1b62bf86df22410c12ec11", null ],
+    [ "midSpeed", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a80e2479d95fdea05ba754ebd65235cfc", null ],
+    [ "msElapsed", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#afbf91e1540f1279e85d18fa89d37d33d", null ],
+    [ "msTotal", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#ab32017c6552bcf4ccebec2fcc5bcbc10", null ],
+    [ "proxy", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a3e1ee4529b63b3ba8612eef0d88b2194", null ],
+    [ "right", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#aa4104005f272f32a29bb511fda08d39b", null ],
+    [ "startSpeed", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#a6d4af18e79515b5691a6d3f8b64829dd", null ],
+    [ "top", "classjuce_1_1ComponentAnimator_1_1AnimationTask.html#ac0080d842bc9832779e7cd339210e454", null ]
+];

@@ -1,0 +1,25 @@
+var classlmms_1_1SamplePlayHandle =
+[
+    [ "SamplePlayHandle", "classlmms_1_1SamplePlayHandle.html#a6d0dc6aea9eb2e4270bbb6bfdb5d30ca", null ],
+    [ "SamplePlayHandle", "classlmms_1_1SamplePlayHandle.html#a2cdf0610fca63d7f60c76aca947282ae", null ],
+    [ "SamplePlayHandle", "classlmms_1_1SamplePlayHandle.html#ad0aa0bfded08a69bd812321dd857bea1", null ],
+    [ "~SamplePlayHandle", "classlmms_1_1SamplePlayHandle.html#a5060fc35bcd4910ffa64f2adf365eb6d", null ],
+    [ "affinityMatters", "classlmms_1_1SamplePlayHandle.html#a8f4a6f0641b903efada55896c9ada4f9", null ],
+    [ "framesDone", "classlmms_1_1SamplePlayHandle.html#a0df5eb134674e187dcb77605681b9f55", null ],
+    [ "isFinished", "classlmms_1_1SamplePlayHandle.html#ac3c766fbfb6a91199c60871d55d39d91", null ],
+    [ "isFromTrack", "classlmms_1_1SamplePlayHandle.html#a3f9c7731480571321056030d6a2167f8", null ],
+    [ "play", "classlmms_1_1SamplePlayHandle.html#afa64b728bc779dd72584746da21f85fa", null ],
+    [ "setDoneMayReturnTrue", "classlmms_1_1SamplePlayHandle.html#ae20226c70443e259cf5930a7f7e95115", null ],
+    [ "setPatternTrack", "classlmms_1_1SamplePlayHandle.html#a632f9d8f11ff22614361dfb5437b98c6", null ],
+    [ "setVolumeModel", "classlmms_1_1SamplePlayHandle.html#a6176f471218fc2c631dbfb0d1200278a", null ],
+    [ "totalFrames", "classlmms_1_1SamplePlayHandle.html#a392f89c6580fd897bdaedbc3b81c2684", null ],
+    [ "m_defaultVolumeModel", "classlmms_1_1SamplePlayHandle.html#aa84785c6efd77b71bb696c86b4b1867f", null ],
+    [ "m_doneMayReturnTrue", "classlmms_1_1SamplePlayHandle.html#ac006a128d51cce73f81444303a279183", null ],
+    [ "m_frame", "classlmms_1_1SamplePlayHandle.html#a955ef66c0bfdce9d21d840fe03978dd8", null ],
+    [ "m_ownAudioBusHandle", "classlmms_1_1SamplePlayHandle.html#acf0dbe0a55aadaeff0551d9a6a8b2717", null ],
+    [ "m_patternTrack", "classlmms_1_1SamplePlayHandle.html#ad4e5db9814a9b20da5cfb96792de36fb", null ],
+    [ "m_sample", "classlmms_1_1SamplePlayHandle.html#afe9c56a4b461a80216c82b6b1eac5573", null ],
+    [ "m_state", "classlmms_1_1SamplePlayHandle.html#a3bbc7f24d4259823dfe09c84220b9651", null ],
+    [ "m_track", "classlmms_1_1SamplePlayHandle.html#af2f06bad18e9665267cdb51bb4e5a564", null ],
+    [ "m_volumeModel", "classlmms_1_1SamplePlayHandle.html#a4728b27c2999eb93049dafca15d74107", null ]
+];

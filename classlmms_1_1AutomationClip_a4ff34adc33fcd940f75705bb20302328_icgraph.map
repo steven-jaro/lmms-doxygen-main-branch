@@ -1,0 +1,18 @@
+<map id="lmms::AutomationClip::removeNode" name="lmms::AutomationClip::removeNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="591,101,739,142"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1AutomationClip.html#abcdc8736e047b8e025a2b431e4ac517c" title=" " alt="" coords="5,5,153,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,100,543,92,437,72,331,56,153,35,153,30,332,51,438,67,544,87,577,95"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1AutomationClip.html#a127c2015a7eba964023b20bd3f377ab1" title="Removes all automation nodes between the given ticks." alt="" coords="396,101,543,142"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="576,124,544,124,544,119,576,119"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1AutomationClip.html#ac8b2fde5d2a2338271c90aa4f0519d32" title="Set the position of the point that is being dragged. Calling this function will also automatically se..." alt="" coords="5,136,153,177"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="580,149,500,168,405,184,303,192,251,192,200,188,153,180,153,174,201,183,251,187,303,187,405,178,499,162,579,144"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1AutomationClip.html#a58e0a8b99907a59938070386174418a3" title="Puts an automation node on the timeMap with the given value. The inValue and outValue of the created ..." alt="" coords="201,68,348,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,109,348,104,349,98,381,104"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1AutomationClip.html#ac0bd108baeae520cc935a0b4b9157338" title="Puts an automation node on the timeMap with the given inValue and outValue." alt="" coords="201,133,348,174"/>
+<area shape="poly" id="edge7_Node000003_Node000009" title=" " alt="" coords="381,139,349,144,348,139,380,134"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="194,65,144,49,146,44,195,60"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1AutomationClip.html#a28897f55a9ebbc31292f356fd175a128" title=" " alt="" coords="5,71,153,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="185,92,153,93,153,87,185,87"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="200,117,140,138,138,133,199,112"/>
+<area shape="poly" id="edge8_Node000009_Node000008" title=" " alt="" coords="185,158,153,158,153,153,185,152"/>
+</map>

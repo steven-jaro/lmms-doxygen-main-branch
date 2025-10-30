@@ -1,0 +1,26 @@
+var classhiir_1_1PhaseHalfPiF64Sse2 =
+[
+    [ "DataType", "classhiir_1_1PhaseHalfPiF64Sse2.html#a07cef4e489d89990d03605a5bda61315", null ],
+    [ "Filter", "classhiir_1_1PhaseHalfPiF64Sse2.html#a065bdbbdfacce210d2b82a261b0da820", null ],
+    [ "FilterBiPhase", "classhiir_1_1PhaseHalfPiF64Sse2.html#aa18a4824b127295621ce0e516d7b1f96", null ],
+    [ "PhaseHalfPiF64Sse2", "classhiir_1_1PhaseHalfPiF64Sse2.html#ac4c29cd3f22a95bbeca59fb63e87114f", null ],
+    [ "PhaseHalfPiF64Sse2", "classhiir_1_1PhaseHalfPiF64Sse2.html#a22d2547d8e8c08d2ad027cc3b034a0b6", null ],
+    [ "PhaseHalfPiF64Sse2", "classhiir_1_1PhaseHalfPiF64Sse2.html#a7c05e86d8fc3f23d488fe7e112bdfaac", null ],
+    [ "clear_buffers", "classhiir_1_1PhaseHalfPiF64Sse2.html#acce15bfdae05a97e5f0bb9377572909d", null ],
+    [ "operator!=", "classhiir_1_1PhaseHalfPiF64Sse2.html#a0c697a0ec1a5c82b91ab6337f3cb866a", null ],
+    [ "operator=", "classhiir_1_1PhaseHalfPiF64Sse2.html#ac298da7353faf8aa6271a4103bb5b25a", null ],
+    [ "operator=", "classhiir_1_1PhaseHalfPiF64Sse2.html#a0e1b006bac058c4c5782e91beb951492", null ],
+    [ "operator==", "classhiir_1_1PhaseHalfPiF64Sse2.html#ad532d135e075fdbf4de8da8560ea21e6", null ],
+    [ "process_block", "classhiir_1_1PhaseHalfPiF64Sse2.html#af0b2e43e9d7b408b6bef07c05688b255", null ],
+    [ "process_sample", "classhiir_1_1PhaseHalfPiF64Sse2.html#a61cdd30230f21998d1046ded725d5d40", null ],
+    [ "set_coefs", "classhiir_1_1PhaseHalfPiF64Sse2.html#a1d571bba5d6dfe4acea37eca10e58750", null ],
+    [ "_bifilter", "classhiir_1_1PhaseHalfPiF64Sse2.html#ac712680e0edcf6834b059d0c667a29a1", null ],
+    [ "_delay", "classhiir_1_1PhaseHalfPiF64Sse2.html#a7d26f6deb2acbb3cb4e3037a335261d9", null ],
+    [ "_nbr_chn", "classhiir_1_1PhaseHalfPiF64Sse2.html#a1cec7d812bd11a3e2350e59b3063fb6c", null ],
+    [ "_nbr_phases", "classhiir_1_1PhaseHalfPiF64Sse2.html#a7f1c17b58dbebae7b1c029864098d0fa", null ],
+    [ "_nbr_stages", "classhiir_1_1PhaseHalfPiF64Sse2.html#ab62e0d3b169abde95237e9cd09c6fc4d", null ],
+    [ "_phase", "classhiir_1_1PhaseHalfPiF64Sse2.html#a7027fb1416139d161323e3d91b57d39a", null ],
+    [ "_prev", "classhiir_1_1PhaseHalfPiF64Sse2.html#ac9f3a017afc003b8f53fd60173702bf2", null ],
+    [ "_stage_width", "classhiir_1_1PhaseHalfPiF64Sse2.html#a749df60c89ee0742941d9778f6cd4bbc", null ],
+    [ "NBR_COEFS", "classhiir_1_1PhaseHalfPiF64Sse2.html#afbf0876874e7ecfdfed828eba3c842fc", null ]
+];

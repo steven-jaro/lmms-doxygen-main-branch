@@ -1,0 +1,26 @@
+<map id="src/3rdparty/jack2/linux/firewire/JackFFADOMidiInputPort.h" name="src/3rdparty/jack2/linux/firewire/JackFFADOMidiInputPort.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,380,61"/>
+<area shape="rect" id="Node000002" href="$JackFFADOMidiReceiveQueue_8h.html" title=" " alt="" coords="417,109,630,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,59,476,101,475,106,357,64"/>
+<area shape="rect" id="Node000011" href="$JackMidiBufferWriteQueue_8h.html" title=" " alt="" coords="5,183,191,208"/>
+<area shape="poly" id="edge5_Node000001_Node000011" title=" " alt="" coords="235,64,201,86,169,111,140,141,117,171,113,168,136,138,166,107,198,81,232,59"/>
+<area shape="rect" id="Node000013" href="$JackMidiRawInputWriteQueue_8h.html" title=" " alt="" coords="179,109,385,135"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="285,61,285,93,279,93,279,61"/>
+<area shape="rect" id="Node000003" href="$JackMidiReceiveQueue_8h.html" title=" " alt="" coords="447,183,616,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,135,531,167,526,168,522,135"/>
+<area shape="rect" id="Node000004" href="$JackMidiReadQueue_8h.html" title=" " alt="" coords="456,256,607,282"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,209,534,241,529,241,529,209"/>
+<area shape="rect" id="Node000005" href="$JackMidiPort_8h.html" title=" " alt="" coords="256,330,364,356"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="495,285,363,327,361,322,493,280"/>
+<area shape="rect" id="Node000012" href="$JackMidiWriteQueue_8h.html" title=" " alt="" coords="121,256,272,282"/>
+<area shape="poly" id="edge6_Node000011_Node000012" title=" " alt="" coords="116,207,170,245,166,249,113,211"/>
+<area shape="poly" id="edge7_Node000012_Node000005" title=" " alt="" coords="217,280,279,319,276,324,214,285"/>
+<area shape="poly" id="edge14_Node000013_Node000012" title=" " alt="" coords="277,136,214,244,209,241,273,134"/>
+<area shape="rect" id="Node000014" href="$JackMidiAsyncQueue_8h.html" title=" " alt="" coords="266,183,423,208"/>
+<area shape="poly" id="edge9_Node000013_Node000014" title=" " alt="" coords="294,133,326,169,322,172,290,137"/>
+<area shape="poly" id="edge11_Node000014_Node000004" title=" " alt="" coords="377,206,486,248,484,253,375,211"/>
+<area shape="poly" id="edge10_Node000014_Node000005" title=" " alt="" coords="344,209,319,315,314,314,339,208"/>
+<area shape="poly" id="edge12_Node000014_Node000012" title=" " alt="" coords="321,211,237,252,235,247,318,206"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="348,256,432,282"/>
+<area shape="poly" id="edge13_Node000014_Node000015" title=" " alt="" coords="354,207,377,242,372,245,350,210"/>
+</map>

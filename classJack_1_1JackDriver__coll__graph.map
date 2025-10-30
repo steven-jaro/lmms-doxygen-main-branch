@@ -1,0 +1,39 @@
+<map id="Jack::JackDriver" name="Jack::JackDriver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1656,2532,1811,3656"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="170,1414,361,1480"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,1495,257,1571,253,1676,255,1801,266,1941,289,2089,306,2163,328,2237,354,2309,386,2378,423,2444,466,2506,529,2578,598,2645,673,2705,753,2760,836,2810,921,2854,1008,2894,1094,2930,1264,2988,1420,3031,1554,3061,1656,3079,1656,3084,1553,3066,1419,3036,1262,2993,1093,2935,1006,2899,919,2859,833,2814,750,2764,670,2709,594,2649,525,2582,462,2510,419,2447,381,2381,349,2311,323,2239,301,2165,284,2090,261,1942,250,1802,248,1676,252,1571,258,1494"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackDriverInterface.html" title="The base interface for drivers." alt="" coords="5,138,163,773"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="148,787,262,1413,257,1414,142,788"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="187,382,344,529"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,544,268,1414,263,1414,263,544"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackEngine.html" title="Engine description." alt="" coords="1239,976,1404,1917"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="265,529,268,612,281,710,293,761,309,811,331,860,358,904,402,959,451,1010,503,1059,559,1104,677,1184,799,1253,921,1310,1035,1356,1138,1392,1223,1417,1222,1423,1136,1397,1034,1361,918,1315,797,1258,674,1189,555,1108,500,1063,447,1014,398,962,354,907,326,862,304,813,288,763,276,711,263,612,260,529"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackLockedEngine.html" title="Locked Engine, access to methods is serialized using a mutex." alt="" coords="1404,1988,1568,2461"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1555,2460,1654,2804,1649,2806,1550,2462"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1407,1837,1435,1971,1430,1972,1401,1838"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackLockAble.html" title="Base class for &quot;lockable&quot; objects." alt="" coords="1870,382,1997,529"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1937,544,1932,624,1920,717,1897,814,1880,862,1860,907,1814,985,1760,1060,1700,1130,1637,1196,1512,1308,1406,1391,1402,1386,1509,1304,1633,1192,1696,1127,1755,1057,1809,982,1855,904,1875,860,1892,813,1914,716,1927,624,1931,544"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackGraphManager.html" title="Graph manager: contains the connection manager and the port array." alt="" coords="368,117,549,794"/>
+<area shape="poly" id="edge16_Node000001_Node000009" title=" " alt="" coords="528,792,563,904,573,928,587,951,890,1526,1193,2091,1650,2935,1646,2937,1188,2093,886,1529,582,954,569,931,558,906,523,794"/>
+<area shape="poly" id="edge7_Node000006_Node000009" title=" " alt="" coords="509,792,532,850,562,904,632,995,714,1078,802,1153,895,1220,987,1278,1075,1328,1225,1402,1222,1407,1073,1333,984,1283,892,1224,799,1157,710,1082,628,998,558,907,527,853,504,794"/>
+<area shape="rect" id="Node000031" href="$structJack_1_1JackEngineControl.html" title="Engine control in shared memory." alt="" coords="1677,5,1846,905"/>
+<area shape="poly" id="edge18_Node000001_Node000031" title=" " alt="" coords="1759,905,1742,2515,1737,2515,1754,905"/>
+<area shape="poly" id="edge8_Node000006_Node000031" title=" " alt="" coords="1680,880,1668,907,1659,919,1649,931,1524,1118,1415,1294,1410,1291,1520,1115,1645,928,1655,916,1663,904,1675,878"/>
+<area shape="rect" id="Node000040" href="$classJack_1_1JackAndroidSemaphore.html" title="Inter process synchronization using POSIX semaphore." alt="" coords="2021,290,2204,621"/>
+<area shape="poly" id="edge17_Node000001_Node000040" title=" " alt="" coords="2091,621,1816,2537,1811,2536,2086,620"/>
+<area shape="poly" id="edge10_Node000006_Node000040" title=" " alt="" coords="2118,621,2109,695,2090,772,2076,809,2058,844,2037,877,2011,907,1999,917,1987,922,1963,924,1938,924,1910,932,1836,974,1764,1022,1695,1074,1629,1129,1511,1239,1417,1338,1413,1334,1508,1235,1626,1125,1692,1070,1761,1018,1834,969,1908,927,1937,919,1962,919,1985,917,1996,913,2008,903,2033,874,2054,842,2071,807,2085,770,2103,694,2113,620"/>
+<area shape="rect" id="Node000042" href="$classJack_1_1JackSocketServerNotifyChannel.html" title="JackServerNotifyChannel using sockets." alt="" coords="573,374,793,537"/>
+<area shape="poly" id="edge11_Node000006_Node000042" title=" " alt="" coords="695,536,709,616,732,711,764,810,784,858,808,904,852,975,903,1045,958,1111,1015,1173,1128,1283,1227,1369,1224,1373,1125,1287,1011,1177,954,1114,899,1048,848,978,803,907,780,860,759,812,727,712,704,617,690,537"/>
+<area shape="rect" id="Node000047" href="$classJack_1_1JackPosixProcessSync.html" title="A synchronization primitive built using a condition variable." alt="" coords="817,331,999,580"/>
+<area shape="poly" id="edge12_Node000006_Node000047" title=" " alt="" coords="929,579,961,736,985,822,1013,904,1062,1015,1118,1123,1177,1223,1232,1311,1228,1314,1172,1226,1114,1125,1057,1017,1008,906,980,823,956,738,924,580"/>
+<area shape="rect" id="Node000049" href="$classJack_1_1JackMetadata.html" title="Metadata base." alt="" coords="1022,290,1180,621"/>
+<area shape="poly" id="edge13_Node000006_Node000049" title=" " alt="" coords="1136,620,1196,905,1238,1087,1233,1088,1191,906,1131,621"/>
+<area shape="rect" id="Node000045" href="$classJack_1_1detail_1_1JackChannelTransactionInterface.html" title=" " alt="" coords="1205,384,1438,526"/>
+<area shape="poly" id="edge14_Node000006_Node000045" title=" " alt="" coords="1324,526,1324,960,1319,960,1319,526"/>
+<area shape="rect" id="Node000050" href="$structJack_1_1JackSessionNotifyResult.html" title=" " alt="" coords="1462,371,1653,539"/>
+<area shape="poly" id="edge15_Node000006_Node000050" title=" " alt="" coords="1545,540,1509,729,1460,953,1411,1144,1406,1143,1455,952,1504,728,1540,539"/>
+<area shape="rect" id="Node000052" href="$structJack_1_1JackClientControl.html" title="Client control possibly in shared memory." alt="" coords="2064,2059,2211,2390"/>
+<area shape="poly" id="edge19_Node000001_Node000052" title=" " alt="" coords="2089,2391,2044,2509,1991,2626,1933,2742,1822,2946,1817,2944,1928,2739,1986,2623,2039,2507,2084,2389"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackShmMemAble.html" title="A class which objects possibly want to be allocated in shared memory derives from this class." alt="" coords="2064,1373,2219,1520"/>
+<area shape="poly" id="edge20_Node000052_Node000011" title=" " alt="" coords="2144,1536,2141,2059,2136,2059,2138,1535"/>
+</map>

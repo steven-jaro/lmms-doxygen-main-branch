@@ -1,0 +1,46 @@
+var namespacejuce_1_1universal__midi__packets =
+[
+    [ "UniversalMidiPacketTests", "classjuce_1_1universal__midi__packets_1_1UniversalMidiPacketTests.html", "classjuce_1_1universal__midi__packets_1_1UniversalMidiPacketTests" ],
+    [ "Packet", "classjuce_1_1universal__midi__packets_1_1Packet.html", "classjuce_1_1universal__midi__packets_1_1Packet" ],
+    [ "Packets", "classjuce_1_1universal__midi__packets_1_1Packets.html", "classjuce_1_1universal__midi__packets_1_1Packets" ],
+    [ "Conversion", "structjuce_1_1universal__midi__packets_1_1Conversion.html", "structjuce_1_1universal__midi__packets_1_1Conversion" ],
+    [ "ToUMP1Converter", "structjuce_1_1universal__midi__packets_1_1ToUMP1Converter.html", "structjuce_1_1universal__midi__packets_1_1ToUMP1Converter" ],
+    [ "ToUMP2Converter", "structjuce_1_1universal__midi__packets_1_1ToUMP2Converter.html", "structjuce_1_1universal__midi__packets_1_1ToUMP2Converter" ],
+    [ "GenericUMPConverter", "classjuce_1_1universal__midi__packets_1_1GenericUMPConverter.html", "classjuce_1_1universal__midi__packets_1_1GenericUMPConverter" ],
+    [ "ToBytestreamConverter", "structjuce_1_1universal__midi__packets_1_1ToBytestreamConverter.html", "structjuce_1_1universal__midi__packets_1_1ToBytestreamConverter" ],
+    [ "Dispatcher", "classjuce_1_1universal__midi__packets_1_1Dispatcher.html", "classjuce_1_1universal__midi__packets_1_1Dispatcher" ],
+    [ "BytestreamToUMPDispatcher", "classjuce_1_1universal__midi__packets_1_1BytestreamToUMPDispatcher.html", "classjuce_1_1universal__midi__packets_1_1BytestreamToUMPDispatcher" ],
+    [ "ToBytestreamDispatcher", "classjuce_1_1universal__midi__packets_1_1ToBytestreamDispatcher.html", "classjuce_1_1universal__midi__packets_1_1ToBytestreamDispatcher" ],
+    [ "Factory", "structjuce_1_1universal__midi__packets_1_1Factory.html", "structjuce_1_1universal__midi__packets_1_1Factory" ],
+    [ "Iterator", "classjuce_1_1universal__midi__packets_1_1Iterator.html", "classjuce_1_1universal__midi__packets_1_1Iterator" ],
+    [ "Midi1ToBytestreamTranslator", "classjuce_1_1universal__midi__packets_1_1Midi1ToBytestreamTranslator.html", "classjuce_1_1universal__midi__packets_1_1Midi1ToBytestreamTranslator" ],
+    [ "Midi1ToMidi2DefaultTranslator", "classjuce_1_1universal__midi__packets_1_1Midi1ToMidi2DefaultTranslator.html", "classjuce_1_1universal__midi__packets_1_1Midi1ToMidi2DefaultTranslator" ],
+    [ "Receiver", "structjuce_1_1universal__midi__packets_1_1Receiver.html", "structjuce_1_1universal__midi__packets_1_1Receiver" ],
+    [ "SysEx7", "structjuce_1_1universal__midi__packets_1_1SysEx7.html", "structjuce_1_1universal__midi__packets_1_1SysEx7" ],
+    [ "Utils", "structjuce_1_1universal__midi__packets_1_1Utils.html", "structjuce_1_1universal__midi__packets_1_1Utils" ],
+    [ "View", "classjuce_1_1universal__midi__packets_1_1View.html", "classjuce_1_1universal__midi__packets_1_1View" ],
+    [ "BytestreamInputHandler", "structjuce_1_1universal__midi__packets_1_1BytestreamInputHandler.html", "structjuce_1_1universal__midi__packets_1_1BytestreamInputHandler" ],
+    [ "BytestreamToBytestreamHandler", "structjuce_1_1universal__midi__packets_1_1BytestreamToBytestreamHandler.html", "structjuce_1_1universal__midi__packets_1_1BytestreamToBytestreamHandler" ],
+    [ "BytestreamToUMPHandler", "structjuce_1_1universal__midi__packets_1_1BytestreamToUMPHandler.html", "structjuce_1_1universal__midi__packets_1_1BytestreamToUMPHandler" ],
+    [ "U32InputHandler", "structjuce_1_1universal__midi__packets_1_1U32InputHandler.html", "structjuce_1_1universal__midi__packets_1_1U32InputHandler" ],
+    [ "U32ToBytestreamHandler", "structjuce_1_1universal__midi__packets_1_1U32ToBytestreamHandler.html", "structjuce_1_1universal__midi__packets_1_1U32ToBytestreamHandler" ],
+    [ "U32ToUMPHandler", "structjuce_1_1universal__midi__packets_1_1U32ToUMPHandler.html", "structjuce_1_1universal__midi__packets_1_1U32ToUMPHandler" ],
+    [ "PacketX1", "namespacejuce_1_1universal__midi__packets.html#a71df3b89b3ae2465d12db18912d8c047", null ],
+    [ "PacketX2", "namespacejuce_1_1universal__midi__packets.html#ae65f4725c7af7ac4a336b54c92650b1c", null ],
+    [ "PacketX3", "namespacejuce_1_1universal__midi__packets.html#a68858aa740cf81cf07f1f32e9d7ab8bb", null ],
+    [ "PacketX4", "namespacejuce_1_1universal__midi__packets.html#a239ee2bc9f1e2c314092221ad76bbe52", null ],
+    [ "MidiProtocol", "namespacejuce_1_1universal__midi__packets.html#a87d29aa31b614d28f9704c638581f2c7", [
+      [ "bytestream", "namespacejuce_1_1universal__midi__packets.html#a87d29aa31b614d28f9704c638581f2c7acd5d2f4342440069893ae9cbadf5e9aa", null ],
+      [ "UMP_MIDI_1_0", "namespacejuce_1_1universal__midi__packets.html#a87d29aa31b614d28f9704c638581f2c7a98a4a1eb3fa73945c8c5e63999ec2350", null ],
+      [ "UMP_MIDI_2_0", "namespacejuce_1_1universal__midi__packets.html#a87d29aa31b614d28f9704c638581f2c7adbe2336a17f58b0d2592fbd82aabad3c", null ]
+    ] ],
+    [ "PacketProtocol", "namespacejuce_1_1universal__midi__packets.html#a3e74f3b84e5509d275a56920f452c650", [
+      [ "MIDI_1_0", "namespacejuce_1_1universal__midi__packets.html#a3e74f3b84e5509d275a56920f452c650a0a17f896dbe40236df08f8f9cf922965", null ],
+      [ "MIDI_2_0", "namespacejuce_1_1universal__midi__packets.html#a3e74f3b84e5509d275a56920f452c650a9287da69dd7561e4680280c9df63543a", null ]
+    ] ],
+    [ "operator\"\"_u16", "namespacejuce_1_1universal__midi__packets.html#a28b1132c656bb22cd5cb1ea6b3c99d71", null ],
+    [ "operator\"\"_u32", "namespacejuce_1_1universal__midi__packets.html#a3e52f71f6c29bec144255d7862fee39f", null ],
+    [ "operator\"\"_u64", "namespacejuce_1_1universal__midi__packets.html#a54b899de941bc342ed85c33f58eb3a79", null ],
+    [ "operator\"\"_u8", "namespacejuce_1_1universal__midi__packets.html#a92b21191fa396ccbe3d045a3853a634e", null ],
+    [ "universalMidiPacketTests", "namespacejuce_1_1universal__midi__packets.html#a2253556998eda40d615283e16756139a", null ]
+];

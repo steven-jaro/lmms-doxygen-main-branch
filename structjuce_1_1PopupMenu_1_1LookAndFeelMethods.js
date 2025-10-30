@@ -1,0 +1,28 @@
+var structjuce_1_1PopupMenu_1_1LookAndFeelMethods =
+[
+    [ "~LookAndFeelMethods", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a3761d02a2bf7730d12faaf499bd55152", null ],
+    [ "drawMenuBarBackground", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#acdf067e73dc6a46df6894ed1feca41fe", null ],
+    [ "drawMenuBarItem", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a0938ecd724d16f0e90f1f95c2966f661", null ],
+    [ "drawPopupMenuBackground", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#adbd352f8a25aa2af7bd065b3cc7b2102", null ],
+    [ "drawPopupMenuBackgroundWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a6168afd60f598b30c1e7a95031393c98", null ],
+    [ "drawPopupMenuColumnSeparatorWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a724ecca6f683f02b6907b0b328bfc8f7", null ],
+    [ "drawPopupMenuItem", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#ae856c1290f0dafe911c01be21d5a7391", null ],
+    [ "drawPopupMenuItemWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a4b29bd16a195e7d19dd8b2ee9229a90a", null ],
+    [ "drawPopupMenuSectionHeader", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#abd66a538f6590759911a1e1fb97aea0b", null ],
+    [ "drawPopupMenuSectionHeaderWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a4cbc45c15edc134e824b39f57a97f383", null ],
+    [ "drawPopupMenuUpDownArrow", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a1571ccb859daf66eafc29b17a163326d", null ],
+    [ "drawPopupMenuUpDownArrowWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a996a040f95d6c7538108d6e8b6794ee4", null ],
+    [ "getDefaultMenuBarHeight", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a355bc267df9dfff7b0a83da4ea5d90c9", null ],
+    [ "getIdealPopupMenuItemSize", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#acfbe9d4199a6466c65204f30976b8ba8", null ],
+    [ "getIdealPopupMenuItemSizeWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a48c03d57e96b0c42070010863a202d39", null ],
+    [ "getMenuBarFont", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#af92917ac117b79542f0ebb278f6fe3f6", null ],
+    [ "getMenuBarItemWidth", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a91dcde9aba5fce1174035f1cd600c678", null ],
+    [ "getMenuWindowFlags", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#aa5365b656558f17fea116ae65bb87130", null ],
+    [ "getParentComponentForMenuOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#afdacf46bd4ded76c72c68285c55e880d", null ],
+    [ "getPopupMenuBorderSize", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a898379c5377b51f7e20f143371b33632", null ],
+    [ "getPopupMenuBorderSizeWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#af5c6a6f3f9b353a2db0e64df562ad351", null ],
+    [ "getPopupMenuColumnSeparatorWidthWithOptions", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a18cc5ae02ab6034d3ff946970559a1ce", null ],
+    [ "getPopupMenuFont", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#ad58b8ff698028f00052d8028b4754a37", null ],
+    [ "preparePopupMenuWindow", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a700a837c36c919afc39e38649e94abf1", null ],
+    [ "shouldPopupMenuScaleWithTargetComponent", "structjuce_1_1PopupMenu_1_1LookAndFeelMethods.html#a96e52d11c63378fdbf1c9c63f002b1bb", null ]
+];

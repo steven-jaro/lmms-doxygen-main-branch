@@ -1,0 +1,28 @@
+var juce__UnitTestCategories_8h =
+[
+    [ "juce::UnitTestCategories::analytics", "namespacejuce_1_1UnitTestCategories.html#a5ef837638ff779d15d0ff95de356a81c", null ],
+    [ "juce::UnitTestCategories::audio", "namespacejuce_1_1UnitTestCategories.html#afeec58b9bfc8fcde788438c09435f898", null ],
+    [ "juce::UnitTestCategories::audioProcessorParameters", "namespacejuce_1_1UnitTestCategories.html#a411fca70eb957606576b17dac1097095", null ],
+    [ "juce::UnitTestCategories::audioProcessors", "namespacejuce_1_1UnitTestCategories.html#a3d9bcc33bab039c769341e51a2725614", null ],
+    [ "juce::UnitTestCategories::blocks", "namespacejuce_1_1UnitTestCategories.html#aff94f4fb04a13d6440fac444cb1a434b", null ],
+    [ "juce::UnitTestCategories::compression", "namespacejuce_1_1UnitTestCategories.html#a7bf253e437a12a1c74ef0010bdebfaca", null ],
+    [ "juce::UnitTestCategories::containers", "namespacejuce_1_1UnitTestCategories.html#a31b6d40119de1dc34003fb191a3a887f", null ],
+    [ "juce::UnitTestCategories::cryptography", "namespacejuce_1_1UnitTestCategories.html#ab6fcde23ac017c291fc22479362ca4c9", null ],
+    [ "juce::UnitTestCategories::dsp", "namespacejuce_1_1UnitTestCategories.html#ab33a3fe2289826418ae7edf8d08d9d18", null ],
+    [ "juce::UnitTestCategories::files", "namespacejuce_1_1UnitTestCategories.html#a3f0b6cd50498a267e0632c865dcbc53d", null ],
+    [ "juce::UnitTestCategories::function", "namespacejuce_1_1UnitTestCategories.html#a7d795c80a8c93c31d4f08fb27aae44e6", null ],
+    [ "juce::UnitTestCategories::graphics", "namespacejuce_1_1UnitTestCategories.html#aae3bfb05845ee5fbe89b1416afd147de", null ],
+    [ "juce::UnitTestCategories::gui", "namespacejuce_1_1UnitTestCategories.html#af44b1841eeaff20b32d3fa46405615e3", null ],
+    [ "juce::UnitTestCategories::json", "namespacejuce_1_1UnitTestCategories.html#a84838b8fa8b220b95385965beb3a70be", null ],
+    [ "juce::UnitTestCategories::maths", "namespacejuce_1_1UnitTestCategories.html#a38646f8a42a05bb9e53abe621b195268", null ],
+    [ "juce::UnitTestCategories::midi", "namespacejuce_1_1UnitTestCategories.html#af254598a87805106c38c522518cff014", null ],
+    [ "juce::UnitTestCategories::networking", "namespacejuce_1_1UnitTestCategories.html#a96f4bad8e83f09823cb2d14f2e083b33", null ],
+    [ "juce::UnitTestCategories::osc", "namespacejuce_1_1UnitTestCategories.html#a9d8d97a777916eebf99c6b5530670690", null ],
+    [ "juce::UnitTestCategories::smoothedValues", "namespacejuce_1_1UnitTestCategories.html#abf6e9ffe46c2f65e34d1d8d4b439ced2", null ],
+    [ "juce::UnitTestCategories::streams", "namespacejuce_1_1UnitTestCategories.html#a07193bd68af68be66c6f063d7f128df5", null ],
+    [ "juce::UnitTestCategories::text", "namespacejuce_1_1UnitTestCategories.html#addc4f9c69b163115152e8b40021dae80", null ],
+    [ "juce::UnitTestCategories::threads", "namespacejuce_1_1UnitTestCategories.html#aba98cba94f5d4bb32dd88a7bf49944c9", null ],
+    [ "juce::UnitTestCategories::time", "namespacejuce_1_1UnitTestCategories.html#a9bf4f3afdcd5d9f52394d96edf44edd7", null ],
+    [ "juce::UnitTestCategories::values", "namespacejuce_1_1UnitTestCategories.html#a77b18953645f02f13b73b0b38e5240a9", null ],
+    [ "juce::UnitTestCategories::xml", "namespacejuce_1_1UnitTestCategories.html#a40c8ddf2c1457d62fa6dfab1f530f337", null ]
+];

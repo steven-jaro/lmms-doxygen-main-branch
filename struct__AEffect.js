@@ -1,0 +1,28 @@
+var struct__AEffect =
+[
+    [ "float", "struct__AEffect.html#a78942728c542053f03c96d5decd81621", null ],
+    [ "intptr_t", "struct__AEffect.html#a52c3a5356e22b20f6e6a3a527cf84abd", null ],
+    [ "void", "struct__AEffect.html#a12149b299e46527538afa4b936dcd327", null ],
+    [ "void", "struct__AEffect.html#a033f7c2abf78ac067593f9fdee558981", null ],
+    [ "void", "struct__AEffect.html#ac875c89862c121e12d6eb90c60347d26", null ],
+    [ "empty2", "struct__AEffect.html#a8dec4d92a638d03fb906c7b415ede276", null ],
+    [ "flags", "struct__AEffect.html#a6c3485a4c0a0bcd675b3ecb3b31f4165", null ],
+    [ "float", "struct__AEffect.html#af42a04ea3f252814fcbc498104f84b7d", null ],
+    [ "float", "struct__AEffect.html#a1a04183fb6f928c0fea21e24ba7ff94d", null ],
+    [ "initialDelay", "struct__AEffect.html#a8faf6078abb05e07bc7c9a5b194c03a8", null ],
+    [ "int", "struct__AEffect.html#a537a8a6d2498f07b6f50f34386f2091a", null ],
+    [ "int", "struct__AEffect.html#a537a8a6d2498f07b6f50f34386f2091a", null ],
+    [ "intptr_t", "struct__AEffect.html#ae47f9047767e27ccc6bfe1d0297c3267", null ],
+    [ "magic", "struct__AEffect.html#a860dbd3727e20b5a9ea5d7a47a593a03", null ],
+    [ "numInputs", "struct__AEffect.html#ad13c1c461f3811ce5a0e0fa2d2c7561a", null ],
+    [ "numOutputs", "struct__AEffect.html#a3bea5e23a21ee5fa0dc98012ae6c718d", null ],
+    [ "numParams", "struct__AEffect.html#a79eacba9f234cc2244c889e35886dfbf", null ],
+    [ "numPrograms", "struct__AEffect.html#a373aaca9def34df8ec985c1e394eeafe", null ],
+    [ "object", "struct__AEffect.html#aa6c16828f136c5cd8f8557c7a84f9e37", null ],
+    [ "ptr1", "struct__AEffect.html#a6609c7db1e00b229ca39e2a356fcbcba", null ],
+    [ "ptr2", "struct__AEffect.html#a9952e8b1d2c322cb7f5198df86cc1dd9", null ],
+    [ "uniqueID", "struct__AEffect.html#a376e250b3aa8887ae024afebddb551f9", null ],
+    [ "unkown_float", "struct__AEffect.html#ae5718e40ed668233b907faad2a525bad", null ],
+    [ "user", "struct__AEffect.html#a1a0f94f9ceced5ee165122c8be215c0f", null ],
+    [ "version", "struct__AEffect.html#a0ac4f8d2b9366f10fe0103657f35cc5c", null ]
+];

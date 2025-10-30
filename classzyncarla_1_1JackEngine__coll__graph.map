@@ -1,0 +1,20 @@
+<map id="zyncarla::JackEngine" name="zyncarla::JackEngine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,961,416,1556"/>
+<area shape="rect" id="Node000002" href="$classzyncarla_1_1AudioOut.html" title=" " alt="" coords="133,620,254,890"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,903,272,1012,267,1014,235,905"/>
+<area shape="rect" id="Node000003" href="$classzyncarla_1_1Engine.html" title=" " alt="" coords="6,330,109,458"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,471,145,620,140,622,84,473"/>
+<area shape="rect" id="Node000007" href="$classzyncarla_1_1MidiIn.html" title=" " alt="" coords="5,702,109,809"/>
+<area shape="poly" id="edge6_Node000007_Node000003" title=" " alt="" coords="60,473,60,702,55,702,55,473"/>
+<area shape="rect" id="Node000004" href="$structzyncarla_1_1SYNTH__T.html" title=" " alt="" coords="132,239,257,549"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,549,197,603,191,603,191,549"/>
+<area shape="rect" id="Node000005" href="$classzyncarla_1_1m__unique__ptr.html" title=" " alt="" coords="120,5,269,168"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,168,197,222,192,222,192,168"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="89,821,124,889,199,1020,272,1141,267,1144,194,1023,119,891,85,823"/>
+<area shape="rect" id="Node000008" href="$structzyncarla_1_1JackEngine_1_1audio.html" title=" " alt="" coords="277,684,408,826"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="345,826,345,944,340,944,340,826"/>
+<area shape="rect" id="Node000009" href="$structzyncarla_1_1JackEngine_1_1osc.html" title=" " alt="" coords="432,722,590,788"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="503,789,423,1025,418,1023,498,787"/>
+<area shape="rect" id="Node000010" href="$structzyncarla_1_1JackEngine_1_1midi.html" title=" " alt="" coords="613,704,744,806"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="654,807,604,891,514,1025,428,1146,424,1143,510,1022,599,889,649,805"/>
+</map>

@@ -1,0 +1,67 @@
+<map id="Steinberg::Buffer::setSize" name="Steinberg::Buffer::setSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="758,460,880,501"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1Buffer.html#a6f6364578abf6139ab73279444cd08a2" title="copies a number of bytes from one position to another, the size may be adapted" alt="" coords="560,324,709,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,449,756,405,708,364,685,352,687,347,711,359,760,401,797,446"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1Buffer.html#a48b1b3bf36fd8550170330f4adfde0c1" title=" " alt="" coords="573,373,696,414"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="759,455,678,417,681,412,761,450"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1Buffer.html#aea99df48185fa1694327fa2a6e585ca0" title=" " alt="" coords="559,525,710,550"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="744,506,679,527,677,522,742,501"/>
+<area shape="rect" id="Node000047" href="$classSteinberg_1_1Buffer.html#a2d8af5ac9b8f4badea33904fae08e45a" title=" " alt="" coords="573,575,696,615"/>
+<area shape="poly" id="edge29_Node000001_Node000047" title=" " alt="" coords="784,513,750,540,711,565,689,577,687,572,708,561,747,535,781,508"/>
+<area shape="rect" id="Node000048" href="$classSteinberg_1_1Buffer.html#a1511e5b70102c6ad471d5914adee8263" title="takes another Buffer&#39;s memory, frees the current Buffer&#39;s memory" alt="" coords="176,70,323,96"/>
+<area shape="poly" id="edge30_Node000001_Node000048" title=" " alt="" coords="742,481,698,476,650,466,602,451,558,428,511,391,478,352,455,311,437,270,419,229,397,188,366,148,321,109,303,99,305,94,325,105,370,145,402,186,424,227,442,268,459,309,482,349,514,387,561,423,604,446,651,461,698,470,742,476"/>
+<area shape="rect" id="Node000049" href="$classSteinberg_1_1Buffer.html#a36c014db08992e7c192facd675874b16" title=" " alt="" coords="572,640,697,681"/>
+<area shape="poly" id="edge33_Node000001_Node000049" title=" " alt="" coords="802,516,764,573,739,602,711,629,692,642,689,637,708,625,736,599,760,569,797,513"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1Buffer.html#a91e9f298605b915d2e5661e2e473a09f" title="append value at end, grows Buffer if necessary" alt="" coords="371,602,511,628"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="576,559,561,565,513,593,486,604,484,599,510,589,558,561,574,554"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1Buffer.html#abdb8e2ca256976e0ee365335a210b9cb" title="append bytes from a given buffer, grows Buffer if necessary" alt="" coords="371,652,511,677"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="568,560,561,565,545,584,538,603,530,622,513,642,495,653,492,649,510,638,525,620,533,601,541,581,558,561,565,556"/>
+<area shape="rect" id="Node000007" href="$classSteinberg_1_1Buffer.html#a2ce8fcd794d035acccf5c36aa1944c8f" title="append value at end, grows Buffer if necessary" alt="" coords="371,553,511,578"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="544,553,512,558,511,553,543,548"/>
+<area shape="rect" id="Node000037" href="$classSteinberg_1_1Buffer.html#ab7419632c889d4216fd72d7dd02dd305" title="see grow()" alt="" coords="380,488,502,529"/>
+<area shape="poly" id="edge26_Node000004_Node000037" title=" " alt="" coords="543,527,502,520,503,515,544,521"/>
+<area shape="rect" id="Node000038" href="$classSteinberg_1_1Buffer.html#af5beb6ba89666e595dd980b072436032" title="moves memory starting at the given position" alt="" coords="380,877,502,918"/>
+<area shape="poly" id="edge27_Node000004_Node000038" title=" " alt="" coords="565,561,562,564,514,696,452,878,447,876,509,694,557,562,562,557"/>
+<area shape="rect" id="Node000008" href="$classSteinberg_1_1Buffer.html#a6605d8084459232469c316d698f7e33e" title=" " alt="" coords="188,284,310,325"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="372,545,369,542,351,516,343,490,342,465,343,440,345,415,344,390,337,365,321,339,307,327,311,323,325,336,342,363,349,389,350,415,349,440,347,465,348,489,356,514,373,539,376,542"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1Buffer.html#ae746a5b45acaa891ec4d4b3af541eb4e" title=" " alt="" coords="188,349,310,390"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="373,546,369,542,355,525,348,507,344,473,340,439,333,422,321,405,306,393,310,389,325,401,338,419,345,438,349,472,353,505,360,522,373,539,377,542"/>
+<area shape="rect" id="Node000010" href="$classSteinberg_1_1Buffer.html#aed6cf62537b33cd20a8a54ead6d6f602" title=" " alt="" coords="188,415,310,455"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="377,547,369,542,353,524,344,506,336,488,321,470,303,458,306,454,325,466,341,485,349,504,357,521,373,538,380,543"/>
+<area shape="rect" id="Node000017" href="$classSteinberg_1_1Buffer.html#acc987472a5b4145f7a171290330bdeba" title=" " alt="" coords="188,480,310,521"/>
+<area shape="poly" id="edge10_Node000007_Node000017" title=" " alt="" coords="386,550,310,524,312,519,388,545"/>
+<area shape="rect" id="Node000018" href="$classSteinberg_1_1Buffer.html#a15b9baf804c3f2cdde0d553cbff8d5f0" title=" " alt="" coords="188,545,310,586"/>
+<area shape="poly" id="edge11_Node000007_Node000018" title=" " alt="" coords="356,568,311,568,311,563,356,563"/>
+<area shape="rect" id="Node000023" href="$classSteinberg_1_1Buffer.html#aa41e17faab961032673480f96c7a9387" title=" " alt="" coords="188,611,310,651"/>
+<area shape="poly" id="edge12_Node000007_Node000023" title=" " alt="" coords="388,587,312,613,310,608,386,582"/>
+<area shape="rect" id="Node000024" href="$classSteinberg_1_1Buffer.html#adc5e0b57e15c5b2727f34caf03c5e931" title=" " alt="" coords="188,676,310,717"/>
+<area shape="poly" id="edge13_Node000007_Node000024" title=" " alt="" coords="377,588,373,592,357,609,349,627,341,646,325,665,306,678,303,673,321,661,336,643,344,625,352,606,369,588,374,584"/>
+<area shape="rect" id="Node000025" href="$classSteinberg_1_1Buffer.html#acd09f6f3fa5ea932212eea948e561654" title=" " alt="" coords="188,5,310,46"/>
+<area shape="poly" id="edge14_Node000007_Node000025" title=" " alt="" coords="371,545,369,542,348,510,334,479,326,448,323,418,329,358,342,300,356,242,363,183,360,153,353,122,341,91,321,59,309,48,313,44,325,56,345,89,358,121,366,152,368,183,362,243,348,301,334,359,328,418,331,447,339,477,352,507,373,539,375,541"/>
+<area shape="rect" id="Node000027" href="$classSteinberg_1_1Buffer.html#a80b72945bd715a26d019880ba65fa68e" title=" " alt="" coords="188,988,310,1029"/>
+<area shape="poly" id="edge16_Node000007_Node000027" title=" " alt="" coords="374,590,373,591,356,616,344,640,338,664,335,687,338,734,348,781,358,828,361,876,359,901,353,926,342,952,325,978,313,990,309,986,321,975,337,949,348,924,354,900,356,876,352,829,342,782,333,735,329,687,332,663,339,638,351,613,369,588,370,587"/>
+<area shape="rect" id="Node000029" href="$classSteinberg_1_1Buffer.html#a79ba22e28d98db4cb6960a22645cc5f0" title="append value at end, grows Buffer if necessary" alt="" coords="179,741,320,766"/>
+<area shape="poly" id="edge18_Node000007_Node000029" title=" " alt="" coords="375,590,373,591,360,608,353,625,350,659,346,694,339,712,325,730,308,742,305,738,321,726,334,710,341,693,344,659,348,624,355,606,369,588,371,586"/>
+<area shape="rect" id="Node000030" href="$classSteinberg_1_1Buffer.html#abaa6b9a3e350b91b7358e0205d23cea3" title="append bytes from a given buffer, grows Buffer if necessary" alt="" coords="179,790,320,816"/>
+<area shape="poly" id="edge19_Node000007_Node000030" title=" " alt="" coords="374,590,373,591,357,615,350,638,350,684,351,708,350,732,342,756,325,781,311,792,308,788,321,777,337,754,345,731,346,708,345,685,344,637,352,612,369,588,371,586"/>
+<area shape="rect" id="Node000031" href="$classSteinberg_1_1Buffer.html#acffc823e137a60700c5ea6c58529c5a0" title="append bytes from a given buffer, grows Buffer if necessary" alt="" coords="179,840,320,865"/>
+<area shape="poly" id="edge20_Node000007_Node000031" title=" " alt="" coords="374,590,373,591,354,621,346,650,346,679,350,709,354,739,353,769,345,799,325,830,311,841,308,837,321,827,340,797,348,768,348,739,345,710,341,680,341,650,349,619,369,588,370,587"/>
+<area shape="rect" id="Node000032" href="$classSteinberg_1_1Buffer.html#a5b13b8b7cfea4f19b8b5b078dd736626" title="append String at end, grows Buffer if necessary" alt="" coords="179,889,320,914"/>
+<area shape="poly" id="edge21_Node000007_Node000032" title=" " alt="" coords="374,590,373,591,351,627,343,663,344,698,350,733,356,769,357,805,348,842,325,879,312,890,309,886,321,876,343,840,352,805,351,770,345,734,339,699,337,662,346,625,369,588,370,587"/>
+<area shape="rect" id="Node000033" href="$classSteinberg_1_1Buffer.html#ae6d29a26f1956cdf70e9eb4dca12f907" title="append bytes from a given buffer, grows Buffer if necessary" alt="" coords="179,938,320,964"/>
+<area shape="poly" id="edge22_Node000007_Node000033" title=" " alt="" coords="374,590,373,591,358,613,348,634,339,676,342,717,350,758,358,800,361,842,352,885,341,907,325,929,312,940,309,936,321,925,336,904,346,883,355,842,353,800,345,759,336,717,334,675,343,632,353,610,369,588,370,587"/>
+<area shape="rect" id="Node000034" href="$classSteinberg_1_1Buffer.html#ae45efc6528d982cc495819faf84195bb" title="append bytes from a given buffer, grows Buffer if necessary" alt="" coords="179,120,320,145"/>
+<area shape="poly" id="edge23_Node000007_Node000034" title=" " alt="" coords="371,545,369,542,352,517,340,492,334,467,331,442,335,394,345,347,355,300,359,254,356,230,350,206,338,182,321,158,309,148,312,144,325,155,343,180,355,205,361,229,364,253,361,301,350,348,340,395,336,442,339,466,345,490,356,514,373,539,375,541"/>
+<area shape="rect" id="Node000035" href="$classSteinberg_1_1Buffer.html#a788ac20557bfdf863602b9fddd1c0a03" title="append bytes from a given buffer, grows Buffer if necessary" alt="" coords="179,169,320,194"/>
+<area shape="poly" id="edge24_Node000007_Node000035" title=" " alt="" coords="371,545,369,542,354,520,343,498,334,456,337,414,345,373,352,332,355,292,346,251,336,230,321,209,307,197,310,193,325,205,340,227,351,249,360,291,358,333,350,374,342,415,340,455,348,497,358,517,373,539,375,541"/>
+<area shape="rect" id="Node000036" href="$classSteinberg_1_1FStreamer.html#a4ee7e3c5b339b04e5e12bdb06db9fb21" title="read a UTF8 string" alt="" coords="178,219,321,259"/>
+<area shape="poly" id="edge25_Node000007_Node000036" title=" " alt="" coords="372,545,369,542,347,507,338,473,339,440,343,407,348,375,348,342,341,308,321,274,308,262,311,258,325,271,346,307,353,341,353,375,348,408,344,440,344,472,352,505,373,539,376,542"/>
+<area shape="rect" id="Node000026" href="$classSteinberg_1_1Buffer.html#a6502e2255257c61787e02827418ecb2b" title=" " alt="" coords="5,35,128,75"/>
+<area shape="poly" id="edge15_Node000025_Node000026" title=" " alt="" coords="173,41,128,48,127,43,172,35"/>
+<area shape="rect" id="Node000028" href="$classSteinberg_1_1Buffer.html#a3f98129b5ae59c97dad82b39d025c7aa" title=" " alt="" coords="5,529,128,570"/>
+<area shape="poly" id="edge17_Node000027_Node000028" title=" " alt="" coords="175,979,174,978,138,927,112,871,92,811,79,752,66,645,64,570,70,570,71,644,84,751,97,810,116,869,143,924,178,975,179,976"/>
+<area shape="rect" id="Node000039" href="$classSteinberg_1_1Buffer.html#a18afcb36986457182c1fc601a2256fd8" title="moves all memory by given amount, grows the Buffer if necessary" alt="" coords="188,1053,310,1094"/>
+<area shape="poly" id="edge28_Node000038_Node000039" title=" " alt="" coords="421,933,380,988,354,1017,325,1042,305,1055,302,1050,321,1038,350,1013,376,984,417,929"/>
+<area shape="poly" id="edge31_Node000048_Node000026" title=" " alt="" coords="160,72,128,67,129,62,161,67"/>
+<area shape="poly" id="edge32_Node000048_Node000028" title=" " alt="" coords="179,107,178,109,157,141,138,190,107,313,85,439,73,529,68,529,80,439,102,312,133,188,152,139,174,105,175,104"/>
+</map>

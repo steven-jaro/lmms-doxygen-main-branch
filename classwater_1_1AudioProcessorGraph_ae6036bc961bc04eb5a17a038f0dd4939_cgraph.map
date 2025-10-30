@@ -1,0 +1,31 @@
+<map id="water::AudioProcessorGraph::processBlockWithCV" name="water::AudioProcessorGraph::processBlockWithCV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,257,192,298"/>
+<area shape="rect" id="Node000002" href="$classwater_1_1AudioProcessorGraph.html#a569e5b0a1fe9cc0872a40228ea634882" title=" " alt="" coords="240,257,426,298"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,275,224,275,224,280,192,280"/>
+<area shape="rect" id="Node000003" href="$classwater_1_1MidiBuffer.html#a690894bea0f145a612439e202db969da" title=" " alt="" coords="512,61,636,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,256,395,186,431,147,473,113,496,100,499,104,475,117,435,151,399,189,349,259"/>
+<area shape="rect" id="Node000011" href="$classwater_1_1AudioSampleBuffer.html#aa5d263e13b4162489e6450965ff65cf3" title=" " alt="" coords="489,127,659,167"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="357,255,409,217,473,178,487,171,490,176,475,183,412,221,361,259"/>
+<area shape="rect" id="Node000013" href="$classwater_1_1MidiBuffer.html#ad7e9c31d589b0c838b12ffbe1b77923b" title=" " alt="" coords="512,192,636,233"/>
+<area shape="poly" id="edge8_Node000002_Node000013" title=" " alt="" coords="410,254,497,230,498,236,411,259"/>
+<area shape="rect" id="Node000014" href="$classwater_1_1AudioSampleBuffer.html#a6cf32df2db03b26c5ada0185436c2b77" title=" " alt="" coords="489,257,659,298"/>
+<area shape="poly" id="edge9_Node000002_Node000014" title=" " alt="" coords="426,275,473,275,473,280,426,280"/>
+<area shape="rect" id="Node000017" href="$classwater_1_1AudioSampleBuffer.html#a204ee3f4bef6cff9381405060c73c4c0" title=" " alt="" coords="489,323,659,363"/>
+<area shape="poly" id="edge13_Node000002_Node000017" title=" " alt="" coords="411,296,482,315,481,321,410,301"/>
+<area shape="rect" id="Node000018" href="$classwater_1_1AudioSampleBuffer.html#a202ac500319c87f523a3222c29c62abb" title=" " alt="" coords="489,388,659,429"/>
+<area shape="poly" id="edge14_Node000002_Node000018" title=" " alt="" coords="361,296,412,334,475,373,490,379,487,384,473,377,409,339,357,300"/>
+<area shape="rect" id="Node000019" href="$structwater_1_1GraphRenderingOps_1_1AudioGraphRenderingOpBase.html#af70461a02cad3d763c00f681a7d97798" title=" " alt="" coords="474,452,674,508"/>
+<area shape="poly" id="edge15_Node000002_Node000019" title=" " alt="" coords="349,297,400,365,435,404,476,438,481,442,478,446,472,442,432,408,396,369,345,300"/>
+<area shape="rect" id="Node000004" href="$classwater_1_1MidiBuffer.html#a4d4a11d6fff141cda93135414225ce61" title=" " alt="" coords="746,29,869,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="636,71,730,58,731,63,636,76"/>
+<area shape="rect" id="Node000010" href="$classwater_1_1MidiBuffer.html#aafad773366a4f342c83eb285fdf52dec" title=" " alt="" coords="746,95,869,135"/>
+<area shape="poly" id="edge5_Node000003_Node000010" title=" " alt="" coords="636,88,731,101,730,107,636,93"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="764,29,761,19,769,10,784,5,808,3,833,5,848,11,846,16,831,10,807,8,785,10,772,15,767,21,769,28"/>
+<area shape="rect" id="Node000012" href="$CarlaMathUtils_8hpp.html#aa7b46092c61b8e78c11aee86fd2267c6" title=" " alt="" coords="749,168,866,193"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="660,156,734,167,734,173,659,162"/>
+<area shape="poly" id="edge12_Node000014_Node000012" title=" " alt="" coords="640,254,673,242,766,198,769,203,675,247,642,259"/>
+<area shape="rect" id="Node000015" href="$classwater_1_1AudioSampleBuffer.html#a447f6d8fd1fbb442206b367f553eef2c" title=" " alt="" coords="722,253,893,294"/>
+<area shape="poly" id="edge10_Node000014_Node000015" title=" " alt="" coords="659,274,707,273,707,278,659,279"/>
+<area shape="rect" id="Node000016" href="$CarlaMathUtils_8hpp.html#af74df394f53b3e80b0791d6b9c6a2cca" title=" " alt="" coords="748,318,867,344"/>
+<area shape="poly" id="edge11_Node000014_Node000016" title=" " alt="" coords="660,294,734,311,732,317,659,300"/>
+</map>

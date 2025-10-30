@@ -1,0 +1,28 @@
+var classjuce_1_1FileChooser =
+[
+    [ "Pimpl", "structjuce_1_1FileChooser_1_1Pimpl.html", "structjuce_1_1FileChooser_1_1Pimpl" ],
+    [ "Native", "classjuce_1_1FileChooser_1_1Native.html", "classjuce_1_1FileChooser_1_1Native" ],
+    [ "NonNative", "classjuce_1_1FileChooser_1_1NonNative.html", "classjuce_1_1FileChooser_1_1NonNative" ],
+    [ "FileChooser", "classjuce_1_1FileChooser.html#ae98a32a8e55a39ab7a8526ebbb87c70c", null ],
+    [ "~FileChooser", "classjuce_1_1FileChooser.html#a4ecf9bb28df123072bbcca786a02e58a", null ],
+    [ "createPimpl", "classjuce_1_1FileChooser.html#aa9619ba86eb79a59d135b3c426893c7e", null ],
+    [ "finished", "classjuce_1_1FileChooser.html#a94fe981f288d0bc4df7eaa95b819e65c", null ],
+    [ "getResult", "classjuce_1_1FileChooser.html#ade4d4aaebf86c651478ddcfec2f17be7", null ],
+    [ "getResults", "classjuce_1_1FileChooser.html#a7206c5ff6a3193c0b42627068ba1407f", null ],
+    [ "getURLResult", "classjuce_1_1FileChooser.html#a6747dc8c5ea06088d502bbd5330d5427", null ],
+    [ "getURLResults", "classjuce_1_1FileChooser.html#a0b69921d4e3263e6eebc5d1ff621fec5", null ],
+    [ "isPlatformDialogAvailable", "classjuce_1_1FileChooser.html#a3cfaea7f63173b4e9e9f24f32255599b", null ],
+    [ "launchAsync", "classjuce_1_1FileChooser.html#a788b01896d5d3b7ec7d0eb76ca3b84c6", null ],
+    [ "showPlatformDialog", "classjuce_1_1FileChooser.html#ac9fd64fb09bc716adf06d23a5fafb7bc", null ],
+    [ "Native", "classjuce_1_1FileChooser.html#aec7c6692ff0e84ece3313b2cd1e1b032", null ],
+    [ "NonNative", "classjuce_1_1FileChooser.html#a8054f206f382ebc31ec583c01da8b3ed", null ],
+    [ "asyncCallback", "classjuce_1_1FileChooser.html#aef0f6314eeadabe75d0f2936a9623771", null ],
+    [ "filters", "classjuce_1_1FileChooser.html#a81d07c47a1a9e6f4bf7c93423ccc11ac", null ],
+    [ "parent", "classjuce_1_1FileChooser.html#a22f7a064ff85136725a015aa6f6dda15", null ],
+    [ "pimpl", "classjuce_1_1FileChooser.html#aceba0b3326dbf4b131c4e27e54feb725", null ],
+    [ "results", "classjuce_1_1FileChooser.html#a1cc17c881987f54cb486645a7bba6bf9", null ],
+    [ "startingFile", "classjuce_1_1FileChooser.html#ad43c8504ebe4f217c413cc8885887aa9", null ],
+    [ "title", "classjuce_1_1FileChooser.html#a47fa1ede4e79d869fc61719acae7a8b6", null ],
+    [ "treatFilePackagesAsDirs", "classjuce_1_1FileChooser.html#a3fabae00f6a38946b40a7529befe74ac", null ],
+    [ "useNativeDialogBox", "classjuce_1_1FileChooser.html#a26b367b2b9bcc4442dba72b546f3f439", null ]
+];

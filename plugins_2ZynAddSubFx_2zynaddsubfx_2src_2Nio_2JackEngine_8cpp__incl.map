@@ -1,0 +1,70 @@
+<map id="plugins/ZynAddSubFx/zynaddsubfx/src/Nio/JackEngine.cpp" name="plugins/ZynAddSubFx/zynaddsubfx/src/Nio/JackEngine.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="739,5,886,61"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="109,109,180,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,44,498,70,200,112,196,112,195,107,199,106,498,65,738,39"/>
+<area shape="rect" id="Node000003" href="$midiport_8h.html" title=" " alt="" coords="10,256,116,282"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="739,45,582,68,492,87,403,112,357,128,322,145,244,185,103,252,100,247,242,180,320,140,355,123,401,106,490,82,581,63,738,40"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="868,109,925,135"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="841,59,876,96,872,100,837,63"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="948,109,1026,135"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="868,59,950,99,948,104,866,64"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1050,109,1114,135"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="888,56,1036,103,1034,108,886,61"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1138,109,1199,135"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="887,49,1124,106,1122,111,886,54"/>
+<area shape="rect" id="Node000012" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2Nio_8h.html" title=" " alt="" coords="414,109,465,135"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="739,54,481,114,480,108,738,49"/>
+<area shape="rect" id="Node000015" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2InMgr_8h.html" title=" " alt="" coords="780,109,845,135"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="815,61,815,93,810,93,810,61"/>
+<area shape="rect" id="Node000021" href="$plugins_2ZynAddSubFx_2zynaddsubfx_2src_2Nio_2JackEngine_8h.html" title=" " alt="" coords="658,109,756,135"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="781,63,735,101,732,97,778,59"/>
+<area shape="rect" id="Node000004" href="$weakmacros_8h.html" title=" " alt="" coords="91,330,224,356"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,280,131,318,128,323,78,285"/>
+<area shape="rect" id="Node000005" href="$src_23rdparty_2jack2_2common_2jack_2types_8h.html" title=" " alt="" coords="257,330,347,356"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="104,280,247,322,246,328,103,285"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,330,68,356"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="61,283,49,316,44,314,56,281"/>
+<area shape="rect" id="Node000006" href="$systemdeps_8h.html" title=" " alt="" coords="278,404,408,429"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="311,355,331,389,326,392,306,357"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="763,330,816,356"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="440,135,436,165,437,204,445,245,454,264,466,280,486,293,515,305,591,321,676,332,748,337,747,342,675,337,591,327,513,310,483,298,463,284,449,267,440,247,431,205,431,165,434,135"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="256,183,295,208"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="414,137,310,182,308,177,412,132"/>
+<area shape="poly" id="edge15_Node000015_Node000013" title=" " alt="" coords="824,134,837,155,847,182,857,233,855,256,847,283,835,304,820,321,816,317,831,301,842,281,850,255,852,233,842,183,832,158,819,137"/>
+<area shape="rect" id="Node000016" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2ZynSema_8h.html" title=" " alt="" coords="964,256,1050,282"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="846,130,896,149,948,181,975,210,996,241,992,244,971,213,944,185,894,154,844,135"/>
+<area shape="rect" id="Node000018" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2SafeQueue_8h.html" title=" " alt="" coords="1043,183,1139,208"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="846,129,857,132,1029,176,1028,181,856,137,845,134"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="920,330,1015,356"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1003,284,984,318,979,315,998,281"/>
+<area shape="poly" id="edge20_Node000018_Node000016" title=" " alt="" coords="1079,211,1035,248,1031,244,1075,207"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1075,256,1134,282"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1096,208,1102,240,1097,241,1091,209"/>
+<area shape="rect" id="Node000020" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2SafeQueue_8cpp.html" title=" " alt="" coords="1159,256,1269,282"/>
+<area shape="poly" id="edge21_Node000018_Node000020" title=" " alt="" coords="1113,207,1182,246,1179,251,1111,211"/>
+<area shape="poly" id="edge23_Node000021_Node000013" title=" " alt="" coords="743,133,776,152,791,165,803,181,814,216,815,252,810,287,802,316,797,315,805,286,810,252,809,217,798,184,787,169,773,156,740,138"/>
+<area shape="poly" id="edge25_Node000021_Node000017" title=" " alt="" coords="740,133,782,153,826,181,864,214,899,251,952,315,948,319,895,254,861,218,823,185,779,158,737,138"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="623,183,698,208"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="702,136,679,171,674,168,697,133"/>
+<area shape="rect" id="Node000023" href="$jack_8h.html" title=" " alt="" coords="319,183,402,208"/>
+<area shape="poly" id="edge26_Node000021_Node000023" title=" " alt="" coords="658,136,418,185,417,180,657,131"/>
+<area shape="rect" id="Node000025" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2MidiIn_8h.html" title=" " alt="" coords="722,183,788,208"/>
+<area shape="poly" id="edge33_Node000021_Node000025" title=" " alt="" coords="717,133,741,168,736,171,713,136"/>
+<area shape="rect" id="Node000027" href="$ZynAddSubFx_2zynaddsubfx_2src_2Nio_2AudioOut_8h.html" title=" " alt="" coords="514,183,599,208"/>
+<area shape="poly" id="edge36_Node000021_Node000027" title=" " alt="" coords="683,138,597,178,595,173,680,133"/>
+<area shape="poly" id="edge32_Node000023_Node000004" title=" " alt="" coords="319,211,234,236,199,249,181,258,166,285,161,315,155,314,161,283,177,254,197,244,233,231,318,206"/>
+<area shape="poly" id="edge28_Node000023_Node000005" title=" " alt="" coords="358,210,315,316,310,314,353,208"/>
+<area shape="poly" id="edge27_Node000023_Node000006" title=" " alt="" coords="364,209,366,272,362,356,354,389,349,388,357,355,361,272,359,209"/>
+<area shape="rect" id="Node000024" href="$transport_8h.html" title=" " alt="" coords="191,256,301,282"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="342,211,280,250,277,245,340,207"/>
+<area shape="poly" id="edge31_Node000024_Node000004" title=" " alt="" coords="233,285,186,322,183,318,229,280"/>
+<area shape="poly" id="edge30_Node000024_Node000005" title=" " alt="" coords="257,281,285,316,281,319,253,284"/>
+<area shape="rect" id="Node000026" href="$plugins_2ZynAddSubFx_2zynaddsubfx_2src_2Nio_2Engine_8h.html" title=" " alt="" coords="719,256,789,282"/>
+<area shape="poly" id="edge34_Node000025_Node000026" title=" " alt="" coords="758,209,757,241,752,240,752,209"/>
+<area shape="poly" id="edge35_Node000026_Node000013" title=" " alt="" coords="762,281,779,315,775,317,757,283"/>
+<area shape="poly" id="edge39_Node000027_Node000026" title=" " alt="" coords="591,206,707,248,705,253,589,211"/>
+<area shape="rect" id="Node000028" href="$ZynAddSubFx_2zynaddsubfx_2src_2Misc_2Stereo_8h.html" title=" " alt="" coords="477,256,588,282"/>
+<area shape="poly" id="edge37_Node000027_Node000028" title=" " alt="" coords="555,209,544,243,539,241,550,208"/>
+<area shape="rect" id="Node000030" href="$ZynAddSubFx_2zynaddsubfx_2src_2globals_8h.html" title=" " alt="" coords="613,256,695,282"/>
+<area shape="poly" id="edge38_Node000027_Node000030" title=" " alt="" coords="575,207,627,245,624,249,571,211"/>
+</map>

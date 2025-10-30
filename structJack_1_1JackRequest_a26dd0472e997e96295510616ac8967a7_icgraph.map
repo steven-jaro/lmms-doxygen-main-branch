@@ -1,0 +1,133 @@
+<map id="Jack::JackRequest::Write" name="Jack::JackRequest::Write">
+<area shape="rect" id="Node000001" title=" " alt="" coords="793,2160,931,2201"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackGenericClientChannel.html#adea05ecd5801170e54a7e7c46d703a50" title=" " alt="" coords="530,445,739,486"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="856,2144,846,1960,825,1663,792,1307,769,1122,743,941,717,804,687,672,639,487,644,486,692,671,722,803,748,940,774,1121,797,1306,831,1663,852,1959,862,2144"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackGenericClientChannel.html#a1d22da774c65a6d3ffb50dd9dfe55cfc" title=" " alt="" coords="530,952,739,993"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="856,2145,845,2007,824,1798,791,1551,769,1424,743,1300,718,1209,690,1122,642,994,647,992,695,1120,724,1208,748,1298,774,1423,796,1550,830,1797,851,2007,861,2144"/>
+<area shape="rect" id="Node000034" href="$structJack_1_1JackActivateRequest.html#aea273c233edeb48b5613c11f4e08d34d" title=" " alt="" coords="545,1311,724,1351"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="858,2145,854,1980,838,1747,824,1627,804,1518,777,1427,761,1393,743,1366,723,1350,726,1346,747,1363,766,1390,782,1426,809,1516,829,1626,844,1746,859,1980,863,2144"/>
+<area shape="rect" id="Node000035" href="$structJack_1_1JackClientCheckRequest.html#a3ae7c03b235c7ecac84d423a5c904bdd" title=" " alt="" coords="534,1376,735,1417"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="857,2145,851,1992,834,1778,820,1669,800,1569,775,1487,760,1456,743,1431,729,1419,733,1415,747,1428,764,1453,780,1485,805,1568,825,1668,840,1777,857,1991,863,2144"/>
+<area shape="rect" id="Node000036" href="$structJack_1_1JackClientCloseRequest.html#a5f9e35cd43fb8f54065a98a80c13c70a" title=" " alt="" coords="536,1441,733,1482"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="857,2144,849,2003,830,1809,815,1711,796,1621,772,1547,759,1518,743,1497,729,1485,733,1481,747,1493,763,1516,777,1545,801,1619,821,1710,836,1809,854,2003,862,2144"/>
+<area shape="rect" id="Node000037" href="$structJack_1_1JackClientHasSessionCallbackRequest.html#af946d94b31594215b39b5bd362cad347" title=" " alt="" coords="541,1507,728,1547"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="856,2145,847,2016,826,1841,811,1753,793,1673,770,1607,757,1581,743,1562,727,1549,731,1545,747,1559,762,1579,775,1605,798,1671,817,1752,832,1841,852,2016,861,2145"/>
+<area shape="rect" id="Node000038" href="$structJack_1_1JackClientNotificationRequest.html#ad9c9afab873379fb91a4c7063b630dee" title=" " alt="" coords="544,1572,725,1613"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="855,2145,844,2028,822,1873,807,1795,789,1725,768,1667,743,1627,724,1612,727,1608,747,1624,772,1664,794,1723,812,1794,827,1872,849,2028,861,2144"/>
+<area shape="rect" id="Node000043" href="$structJack_1_1JackClientOpenRequest.html#ac415bb3eec745ec7f852be5e9a86d590" title=" " alt="" coords="537,1637,732,1678"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="854,2144,841,2040,818,1905,802,1838,785,1776,765,1727,743,1693,728,1681,732,1677,747,1689,770,1724,790,1775,808,1836,823,1904,846,2039,859,2144"/>
+<area shape="rect" id="Node000044" href="$structJack_1_1JackComputeTotalLatenciesRequest.html#a739ae23e281c2230933a4c95534c57ef" title=" " alt="" coords="524,1703,745,1743"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="859,2145,856,2066,841,1962,827,1907,806,1853,779,1803,743,1758,728,1746,731,1742,747,1754,783,1800,811,1851,832,1906,846,1961,861,2065,864,2145"/>
+<area shape="rect" id="Node000045" href="$structJack_1_1JackDeactivateRequest.html#ab5675df6c5b27c88b2299abf5797612d" title=" " alt="" coords="538,1768,731,1809"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="857,2145,850,2077,833,1991,818,1945,799,1901,774,1860,743,1824,727,1811,730,1807,747,1820,778,1857,803,1899,823,1943,838,1989,856,2076,862,2144"/>
+<area shape="rect" id="Node000046" href="$structJack_1_1JackGetClientNameRequest.html#addb621f75a41bbf5b01d28a907b923f7" title=" " alt="" coords="524,1833,745,1874"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="854,2145,844,2089,824,2020,791,1949,769,1917,744,1889,726,1877,729,1872,747,1885,774,1914,796,1947,829,2018,849,2088,859,2144"/>
+<area shape="rect" id="Node000047" href="$structJack_1_1JackGetInternalClientNameRequest.html#a631c89d871ade6269ee685326bbc3539" title=" " alt="" coords="544,1899,725,1939"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="850,2146,836,2102,814,2050,784,1998,765,1975,744,1954,724,1941,727,1937,747,1950,769,1971,788,1995,819,2048,841,2100,855,2144"/>
+<area shape="rect" id="Node000048" href="$structJack_1_1JackGetUUIDRequest.html#a02cc622afa2145d56cddd21274a3097b" title=" " alt="" coords="542,1964,727,2005"/>
+<area shape="poly" id="edge47_Node000001_Node000048" title=" " alt="" coords="843,2147,803,2082,776,2048,744,2020,723,2008,725,2003,747,2016,780,2045,808,2079,847,2145"/>
+<area shape="rect" id="Node000049" href="$structJack_1_1JackInternalClientHandleRequest.html#a29165d44e98376f6d8f73eda15135000" title=" " alt="" coords="555,2029,714,2070"/>
+<area shape="poly" id="edge48_Node000001_Node000049" title=" " alt="" coords="829,2151,790,2117,744,2085,714,2072,716,2067,747,2081,794,2113,833,2147"/>
+<area shape="rect" id="Node000050" href="$structJack_1_1JackInternalClientLoadRequest.html#ae54af58e72c62d5b7757dd76fd434cf5" title=" " alt="" coords="555,2095,714,2135"/>
+<area shape="poly" id="edge49_Node000001_Node000050" title=" " alt="" coords="778,2159,707,2139,709,2133,780,2154"/>
+<area shape="rect" id="Node000051" href="$structJack_1_1JackInternalClientUnloadRequest.html#a30b91056f3c609dc15c85ca78fe6b4d1" title=" " alt="" coords="555,2160,714,2201"/>
+<area shape="poly" id="edge50_Node000001_Node000051" title=" " alt="" coords="778,2183,715,2183,715,2178,778,2178"/>
+<area shape="rect" id="Node000052" href="$structJack_1_1JackPortConnectNameRequest.html#a7adee2a2620e31d81f8bc338bc677b48" title=" " alt="" coords="540,2225,730,2266"/>
+<area shape="poly" id="edge51_Node000001_Node000052" title=" " alt="" coords="780,2207,709,2227,707,2222,778,2202"/>
+<area shape="rect" id="Node000053" href="$structJack_1_1JackPortConnectRequest.html#ac70ff563c2254d4bc59038574ae7f936" title=" " alt="" coords="533,2291,736,2331"/>
+<area shape="poly" id="edge52_Node000001_Node000053" title=" " alt="" coords="833,2214,794,2248,747,2280,719,2293,716,2288,744,2275,790,2244,829,2210"/>
+<area shape="rect" id="Node000054" href="$structJack_1_1JackPortDisconnectNameRequest.html#afab549e21f436468f587dcb68bf4a91a" title=" " alt="" coords="548,2356,721,2397"/>
+<area shape="poly" id="edge53_Node000001_Node000054" title=" " alt="" coords="847,2216,808,2282,780,2316,747,2345,722,2359,720,2354,744,2341,776,2312,803,2279,843,2213"/>
+<area shape="rect" id="Node000055" href="$structJack_1_1JackPortDisconnectRequest.html#a5cc9a3a843e28d1c37d2df9a57c902ec" title=" " alt="" coords="548,2421,721,2462"/>
+<area shape="poly" id="edge54_Node000001_Node000055" title=" " alt="" coords="855,2217,841,2261,819,2313,788,2365,769,2389,747,2410,723,2426,720,2421,744,2406,765,2386,784,2362,814,2311,836,2259,850,2215"/>
+<area shape="rect" id="Node000056" href="$structJack_1_1JackPortRegisterRequest.html#a1751245ded715d08bbd783ffbdde8832" title=" " alt="" coords="533,2487,736,2527"/>
+<area shape="poly" id="edge55_Node000001_Node000056" title=" " alt="" coords="859,2217,849,2273,829,2343,796,2414,774,2447,747,2476,729,2488,726,2484,744,2472,769,2443,791,2411,824,2341,844,2272,854,2216"/>
+<area shape="rect" id="Node000057" href="$structJack_1_1JackPortRenameRequest.html#a654acbbcac6de9ac5b674bfb7146fe07" title=" " alt="" coords="533,2552,736,2593"/>
+<area shape="poly" id="edge56_Node000001_Node000057" title=" " alt="" coords="862,2216,856,2285,838,2371,823,2417,803,2462,778,2504,747,2541,730,2554,727,2549,743,2537,774,2501,799,2460,818,2415,833,2370,850,2284,857,2216"/>
+<area shape="rect" id="Node000058" href="$structJack_1_1JackPortUnRegisterRequest.html#af4db066edfd6fb1f7aefe1f6b6d853f7" title=" " alt="" coords="548,2617,721,2658"/>
+<area shape="poly" id="edge57_Node000001_Node000058" title=" " alt="" coords="864,2216,861,2295,846,2400,832,2455,811,2510,783,2561,747,2606,723,2624,719,2619,744,2602,779,2558,806,2507,827,2454,841,2399,856,2295,859,2216"/>
+<area shape="rect" id="Node000059" href="$structJack_1_1JackPropertyChangeNotifyRequest.html#afd71d7dffb8d40ca3b3d8925b5b3f69c" title=" " alt="" coords="547,2683,722,2723"/>
+<area shape="poly" id="edge58_Node000001_Node000059" title=" " alt="" coords="859,2217,846,2321,823,2457,808,2524,790,2586,770,2636,747,2671,724,2688,721,2684,743,2668,765,2634,785,2584,802,2523,818,2456,841,2320,854,2216"/>
+<area shape="rect" id="Node000060" href="$structJack_1_1JackReleaseTimebaseRequest.html#add83cbadc80226072a212763be19f9b7" title=" " alt="" coords="541,2748,728,2789"/>
+<area shape="poly" id="edge59_Node000001_Node000060" title=" " alt="" coords="861,2216,849,2333,827,2488,812,2567,794,2638,772,2696,747,2737,730,2751,727,2746,743,2733,768,2694,789,2636,807,2565,822,2487,844,2333,855,2216"/>
+<area shape="rect" id="Node000061" href="$structJack_1_1JackReserveNameRequest.html#ae557196fdd923c9bf6aa4109b80c9111" title=" " alt="" coords="528,2813,742,2854"/>
+<area shape="poly" id="edge60_Node000001_Node000061" title=" " alt="" coords="861,2216,852,2345,832,2520,817,2609,798,2689,775,2756,762,2782,747,2802,732,2815,729,2811,743,2799,757,2779,770,2754,793,2688,811,2608,826,2519,847,2345,856,2216"/>
+<area shape="rect" id="Node000062" href="$structJack_1_1JackSessionNotifyRequest.html#a07359136fc28e668e9d8dfa6261d8867" title=" " alt="" coords="528,2879,741,2919"/>
+<area shape="poly" id="edge61_Node000001_Node000062" title=" " alt="" coords="862,2216,854,2358,836,2552,821,2651,801,2741,777,2816,763,2845,747,2867,733,2880,729,2876,743,2864,759,2842,772,2814,796,2740,815,2650,830,2551,849,2357,857,2216"/>
+<area shape="rect" id="Node000063" href="$structJack_1_1JackSessionReplyRequest.html#ab10cd5b04af842eb8b9fded677e7ce42" title=" " alt="" coords="530,2944,740,2985"/>
+<area shape="poly" id="edge62_Node000001_Node000063" title=" " alt="" coords="863,2216,857,2369,840,2583,825,2693,805,2793,780,2875,764,2908,747,2933,733,2945,729,2941,743,2929,760,2905,775,2874,800,2792,820,2692,834,2583,851,2369,857,2216"/>
+<area shape="rect" id="Node000064" href="$structJack_1_1JackSetBufferSizeRequest.html#ab5190631bbb352c979fbdef5aec4a8f1" title=" " alt="" coords="530,3009,740,3050"/>
+<area shape="poly" id="edge63_Node000001_Node000064" title=" " alt="" coords="863,2216,859,2381,844,2615,829,2734,809,2844,782,2935,766,2971,747,2998,733,3011,729,3007,743,2995,761,2968,777,2933,804,2843,824,2734,838,2614,854,2381,858,2216"/>
+<area shape="rect" id="Node000065" href="$structJack_1_1JackSetFreeWheelRequest.html#a9cb5ae73a9f03ef271c71dcb79413ea8" title=" " alt="" coords="528,3075,741,3115"/>
+<area shape="poly" id="edge64_Node000001_Node000065" title=" " alt="" coords="864,2217,861,2393,856,2515,847,2646,833,2777,813,2896,785,2995,767,3034,747,3063,733,3076,729,3072,743,3060,763,3031,780,2993,807,2895,828,2776,842,2646,851,2515,856,2393,858,2216"/>
+<area shape="rect" id="Node000066" href="$structJack_1_1JackSetTimebaseCallbackRequest.html#a5e23bd5d5ccfef17a2fd8cc7167886cd" title=" " alt="" coords="530,3140,740,3181"/>
+<area shape="poly" id="edge65_Node000001_Node000066" title=" " alt="" coords="864,2216,863,2404,860,2535,851,2677,837,2818,816,2947,803,3004,787,3055,769,3096,747,3129,733,3142,729,3138,743,3125,764,3094,782,3053,798,3003,811,2946,832,2817,846,2677,854,2535,858,2404,859,2216"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackGenericClientChannel.html#a0e40b5702a03a627b46c2127d648ae09" title=" " alt="" coords="266,5,474,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="627,430,614,354,588,255,568,202,543,151,512,103,474,61,457,49,460,44,478,57,516,100,547,148,573,200,593,253,620,353,632,429"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackGenericClientChannel.html#ae976251ab3a4d1923c9e9b7eb01c8c1f" title=" " alt="" coords="266,71,474,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="621,938,575,751,521,498,515,414,512,304,508,249,501,199,490,156,474,126,460,114,464,110,478,123,495,154,507,198,513,249,517,304,520,413,527,497,580,750,627,937"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackGenericClientChannel.html#a7752f84bec48b160d584a44ace7a573a" title=" " alt="" coords="266,136,474,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="622,938,576,751,521,498,515,428,509,338,498,251,488,216,474,191,460,179,464,175,478,188,493,214,503,250,515,338,520,428,527,497,581,749,627,936"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackGenericClientChannel.html#a90a105662578494b418810f04fbb4c05" title=" " alt="" coords="266,201,474,242"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="622,938,521,498,516,460,514,426,516,367,515,340,509,313,496,286,474,257,460,245,463,240,478,253,500,283,514,312,520,339,521,367,520,426,521,459,527,497,627,936"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1JackGenericClientChannel.html#a6e631a78f272e30b65ecc00320260984" title=" " alt="" coords="266,267,474,307"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="623,937,541,583,497,403,474,322,459,310,462,306,478,319,502,402,546,582,628,936"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackGenericClientChannel.html#ad575702ae65eab51ccd7fa37e9a22fbd" title=" " alt="" coords="266,332,474,373"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="623,937,553,632,510,473,490,417,474,387,459,375,462,371,478,384,495,415,515,471,559,631,628,936"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackGenericClientChannel.html#ace12fd7875433b8fb086837e17f8ae31" title=" " alt="" coords="266,397,474,438"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="631,937,624,841,616,779,603,711,583,642,556,573,520,509,474,453,458,441,461,436,478,449,524,506,560,571,588,640,608,710,621,778,630,841,636,936"/>
+<area shape="rect" id="Node000013" href="$classJack_1_1JackGenericClientChannel.html#a61bcb6ce97550644ed45114009d6d830" title=" " alt="" coords="266,463,474,503"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="629,937,619,852,594,740,574,680,548,621,515,566,474,518,458,506,461,502,478,514,519,563,553,619,579,678,599,738,624,851,634,936"/>
+<area shape="rect" id="Node000014" href="$classJack_1_1JackGenericClientChannel.html#a627a2a6602a53fd4f3c5691d81dc5b07" title=" " alt="" coords="266,528,474,569"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="626,937,613,863,586,768,566,718,541,669,510,624,474,584,457,571,460,567,478,580,515,620,545,667,571,716,591,766,618,862,632,936"/>
+<area shape="rect" id="Node000015" href="$classJack_1_1JackGenericClientChannel.html#aa5da3f23460055aa34fff6513df95818" title=" " alt="" coords="266,593,474,634"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="623,938,606,876,577,798,557,757,534,718,506,681,474,649,456,637,459,632,478,645,510,678,538,715,562,755,582,796,611,874,629,936"/>
+<area shape="rect" id="Node000016" href="$classJack_1_1JackGenericClientChannel.html#a67830b7dcaff968119b6937214f716d6" title=" " alt="" coords="266,659,474,699"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="619,938,598,888,567,828,526,767,502,739,474,714,454,702,457,698,478,710,505,735,530,764,572,825,603,886,624,936"/>
+<area shape="rect" id="Node000017" href="$classJack_1_1JackGenericClientChannel.html#ad3939bbc92e8549415ba24151f15d35a" title=" " alt="" coords="266,724,474,765"/>
+<area shape="poly" id="edge16_Node000004_Node000017" title=" " alt="" coords="612,940,589,903,557,860,519,817,474,780,452,768,455,763,478,775,522,813,561,856,593,900,617,937"/>
+<area shape="rect" id="Node000018" href="$classJack_1_1JackGenericClientChannel.html#a7252da8719a33478f7cbca0960e0b567" title=" " alt="" coords="266,789,474,830"/>
+<area shape="poly" id="edge17_Node000004_Node000018" title=" " alt="" coords="601,943,545,893,511,868,475,845,448,833,450,828,477,841,514,863,548,889,605,939"/>
+<area shape="rect" id="Node000019" href="$classJack_1_1JackGenericClientChannel.html#a84dd28782648f33ff745151efbeb96b7" title=" " alt="" coords="266,855,474,895"/>
+<area shape="poly" id="edge18_Node000004_Node000019" title=" " alt="" coords="570,948,475,911,439,898,441,893,477,906,572,943"/>
+<area shape="rect" id="Node000020" href="$classJack_1_1JackGenericClientChannel.html#ace8ec29dde042c57df432580ca6328f2" title=" " alt="" coords="266,920,474,961"/>
+<area shape="poly" id="edge19_Node000004_Node000020" title=" " alt="" coords="515,960,474,956,475,950,515,955"/>
+<area shape="rect" id="Node000021" href="$classJack_1_1JackGenericClientChannel.html#a08b499336ecfb2517a09830c788ccbe2" title=" " alt="" coords="266,985,474,1026"/>
+<area shape="poly" id="edge20_Node000004_Node000021" title=" " alt="" coords="515,990,475,995,474,990,515,985"/>
+<area shape="rect" id="Node000022" href="$classJack_1_1JackGenericClientChannel.html#ab229bf105db01bbb5bfe14c8222ade50" title=" " alt="" coords="266,1051,474,1091"/>
+<area shape="poly" id="edge21_Node000004_Node000022" title=" " alt="" coords="573,1002,477,1040,441,1053,439,1048,475,1035,571,997"/>
+<area shape="rect" id="Node000023" href="$classJack_1_1JackGenericClientChannel.html#a15807286442fde53e5d14fd9668efc97" title=" " alt="" coords="266,1116,474,1157"/>
+<area shape="poly" id="edge22_Node000004_Node000023" title=" " alt="" coords="605,1005,549,1056,514,1082,477,1105,450,1118,448,1113,475,1101,511,1078,545,1052,602,1001"/>
+<area shape="rect" id="Node000024" href="$classJack_1_1JackGenericClientChannel.html#a8b77c55f70b2523cd7247957381188de" title=" " alt="" coords="266,1181,474,1222"/>
+<area shape="poly" id="edge23_Node000004_Node000024" title=" " alt="" coords="617,1007,594,1045,562,1089,523,1133,478,1171,455,1183,452,1178,474,1166,519,1129,557,1085,589,1042,613,1004"/>
+<area shape="rect" id="Node000025" href="$classJack_1_1JackGenericClientChannel.html#a14197256ba99adead4ebda02b061cf15" title=" " alt="" coords="266,1247,474,1287"/>
+<area shape="poly" id="edge24_Node000004_Node000025" title=" " alt="" coords="624,1008,603,1059,572,1120,530,1182,505,1211,478,1236,457,1248,454,1244,474,1232,502,1207,526,1179,568,1117,598,1057,619,1006"/>
+<area shape="rect" id="Node000026" href="$classJack_1_1JackGenericClientChannel.html#a3d5c6999bfe5dc9708062c842c44c7a1" title=" " alt="" coords="266,1312,474,1353"/>
+<area shape="poly" id="edge25_Node000004_Node000026" title=" " alt="" coords="629,1009,611,1071,582,1150,562,1191,538,1231,510,1268,478,1301,459,1314,456,1309,474,1297,506,1265,534,1228,557,1188,577,1148,606,1070,623,1007"/>
+<area shape="rect" id="Node000027" href="$classJack_1_1JackGenericClientChannel.html#a1b0cad17ba48f4d143995eab646b0ae3" title=" " alt="" coords="266,1377,474,1418"/>
+<area shape="poly" id="edge26_Node000004_Node000027" title=" " alt="" coords="626,1008,600,1093,563,1200,521,1300,499,1339,478,1366,460,1379,457,1375,474,1362,495,1336,516,1298,558,1198,595,1092,621,1007"/>
+<area shape="rect" id="Node000028" href="$classJack_1_1JackGenericClientChannel.html#a9a6d015e5c4323ce36b6f1774db06395" title=" " alt="" coords="266,1443,474,1483"/>
+<area shape="poly" id="edge27_Node000004_Node000028" title=" " alt="" coords="624,1008,541,1256,478,1431,461,1444,458,1440,474,1428,536,1254,619,1006"/>
+<area shape="rect" id="Node000029" href="$classJack_1_1JackGenericClientChannel.html#a12cdbe499dba1e2987dc2122be486e7a" title=" " alt="" coords="266,1508,474,1549"/>
+<area shape="poly" id="edge28_Node000004_Node000029" title=" " alt="" coords="623,1008,578,1136,527,1300,520,1330,517,1357,516,1405,514,1427,508,1450,497,1473,478,1497,462,1510,459,1506,474,1493,492,1470,503,1448,509,1426,511,1405,512,1357,515,1329,521,1298,573,1134,618,1007"/>
+<area shape="rect" id="Node000030" href="$classJack_1_1JackGenericClientChannel.html#a0ba86188fdca6a86febf84792ccb7fb4" title=" " alt="" coords="266,1573,474,1614"/>
+<area shape="poly" id="edge29_Node000004_Node000030" title=" " alt="" coords="622,1008,576,1136,527,1300,519,1340,518,1376,521,1439,520,1469,515,1499,502,1530,478,1562,463,1575,460,1571,474,1559,497,1527,510,1497,515,1469,516,1439,512,1376,514,1339,521,1298,571,1134,617,1006"/>
+<area shape="rect" id="Node000031" href="$classJack_1_1JackGenericClientChannel.html#a64cab0f949e70ad4026ba3ccae0692e4" title=" " alt="" coords="266,1639,474,1679"/>
+<area shape="poly" id="edge30_Node000004_Node000031" title=" " alt="" coords="622,1008,575,1135,549,1217,527,1299,519,1372,514,1468,504,1562,493,1599,478,1627,464,1640,460,1636,474,1624,489,1597,499,1561,509,1468,513,1372,521,1299,544,1215,570,1134,617,1006"/>
+<area shape="rect" id="Node000032" href="$classJack_1_1JackGenericClientChannel.html#a60adf3f8b94e158626df2f9b5efcc22c" title=" " alt="" coords="266,1704,474,1745"/>
+<area shape="poly" id="edge31_Node000004_Node000032" title=" " alt="" coords="622,1008,574,1135,548,1216,527,1300,521,1338,519,1387,516,1502,513,1560,507,1614,496,1659,478,1693,464,1705,460,1702,474,1689,491,1657,502,1613,508,1560,511,1502,514,1387,516,1337,521,1298,543,1215,569,1134,617,1006"/>
+<area shape="rect" id="Node000033" href="$classJack_1_1JackGenericClientChannel.html#ac28ddc42f7e2d19101d1a71fcd24ec52" title=" " alt="" coords="266,1769,474,1810"/>
+<area shape="poly" id="edge32_Node000004_Node000033" title=" " alt="" coords="621,1008,574,1135,548,1216,527,1299,521,1344,519,1401,519,1535,516,1603,510,1666,498,1719,478,1758,464,1771,460,1767,474,1755,493,1717,505,1665,511,1603,513,1535,514,1401,516,1344,521,1299,543,1215,569,1133,616,1006"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackSocketClientChannel.html#a14dcdc748684fd9b26f5019441418ffd" title=" " alt="" coords="9,104,213,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="250,144,213,140,214,134,251,139"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackWinNamedPipeClientChannel.html#a1718c524186e0a3cb916e9f0da53718c" title=" " alt="" coords="8,169,214,210"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="251,174,215,179,214,174,250,169"/>
+<area shape="rect" id="Node000039" href="$classJack_1_1JackSocketServerNotifyChannel.html#a2a76cf04913c28fcb87dcbe3c260ba4b" title=" " alt="" coords="272,1835,468,1875"/>
+<area shape="poly" id="edge38_Node000038_Node000039" title=" " alt="" coords="533,1621,526,1627,509,1651,502,1675,501,1699,502,1723,504,1748,503,1773,496,1798,478,1823,462,1836,459,1832,474,1820,491,1796,498,1772,499,1748,497,1724,495,1699,496,1674,504,1649,522,1624,529,1617"/>
+<area shape="rect" id="Node000041" href="$classJack_1_1JackWinNamedPipeServerNotifyChannel.html#aae70cf6211601b7787c6f66372dd204d" title=" " alt="" coords="265,1900,476,1941"/>
+<area shape="poly" id="edge40_Node000038_Node000041" title=" " alt="" coords="533,1621,526,1627,505,1660,497,1692,497,1723,502,1756,507,1788,508,1821,500,1855,478,1889,463,1902,460,1898,474,1885,495,1853,503,1821,502,1789,497,1757,492,1724,492,1691,500,1657,522,1624,529,1617"/>
+<area shape="rect" id="Node000040" href="$classJack_1_1JackSocketServerNotifyChannel.html#a77e7dee2f2d52b9180ff73e9a3abac77" title=" " alt="" coords="13,1835,209,1875"/>
+<area shape="poly" id="edge39_Node000039_Node000040" title=" " alt="" coords="257,1858,210,1858,210,1852,257,1852"/>
+<area shape="rect" id="Node000042" href="$classJack_1_1JackWinNamedPipeServerNotifyChannel.html#a044e8582469889751704f7645beb1632" title=" " alt="" coords="5,1900,217,1941"/>
+<area shape="poly" id="edge41_Node000041_Node000042" title=" " alt="" coords="249,1923,217,1923,217,1918,249,1918"/>
+</map>

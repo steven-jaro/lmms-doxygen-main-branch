@@ -1,0 +1,27 @@
+var codec__internal_8h =
+[
+    [ "vorbis_block_internal", "structvorbis__block__internal.html", "structvorbis__block__internal" ],
+    [ "vorbis_info_mode", "structvorbis__info__mode.html", "structvorbis__info__mode" ],
+    [ "private_state", "structprivate__state.html", "structprivate__state" ],
+    [ "codec_setup_info", "structcodec__setup__info.html", "structcodec__setup__info" ],
+    [ "vorbis_look_floor1", "structvorbis__look__floor1.html", "structvorbis__look__floor1" ],
+    [ "BLOCKTYPE_IMPULSE", "codec__internal_8h.html#a8544dbc4ecb4614f705db6799be19e8e", null ],
+    [ "BLOCKTYPE_LONG", "codec__internal_8h.html#a903968ea9d9ee5136a20c58b8a748e4b", null ],
+    [ "BLOCKTYPE_PADDING", "codec__internal_8h.html#a1614174c4bfcebeae9cb251a8d5f68d4", null ],
+    [ "BLOCKTYPE_TRANSITION", "codec__internal_8h.html#ad10bb4990b7012efd180790e2df468a6", null ],
+    [ "PACKETBLOBS", "codec__internal_8h.html#a9293c5a15a78abadbe212d944080e04b", null ],
+    [ "codec_setup_info", "codec__internal_8h.html#a10df4b7428f226704204362b8cd42af5", null ],
+    [ "private_state", "codec__internal_8h.html#ae56a3e6a3aba902372e4d507cd073e34", null ],
+    [ "vorbis_block_internal", "codec__internal_8h.html#ac59b76d53fea88f08ac9150549cacf8b", null ],
+    [ "vorbis_info_floor", "codec__internal_8h.html#a8b87cd2e3f6cc302c907d0f741db62fd", null ],
+    [ "vorbis_info_mapping", "codec__internal_8h.html#ac950fba32fc1ede78f8bb7b83796969e", null ],
+    [ "vorbis_info_residue", "codec__internal_8h.html#a8b8240a541e288532d710b22512b4524", null ],
+    [ "vorbis_look_floor", "codec__internal_8h.html#af4cb27874fc2abb2b43a025d7a3c900a", null ],
+    [ "vorbis_look_residue", "codec__internal_8h.html#a88a17b2922962e44ed846e09a212d0f0", null ],
+    [ "vorbis_look_transform", "codec__internal_8h.html#aa6baacf2249071bb7fbccedb526ea4bb", null ],
+    [ "_vp_global_free", "codec__internal_8h.html#a49f7f01467273e321456d340b7ad516a", null ],
+    [ "_vp_global_look", "codec__internal_8h.html#ab283b4194504908e9d7267c849f1fe2e", null ],
+    [ "floor1_encode", "codec__internal_8h.html#a412dda71482901941e7f85df60347253", null ],
+    [ "floor1_fit", "codec__internal_8h.html#a2b73d541111f26c23cee111baa840144", null ],
+    [ "floor1_interpolate_fit", "codec__internal_8h.html#aa114904de536543d18e1351642c3ae1d", null ]
+];

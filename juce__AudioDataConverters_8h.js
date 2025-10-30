@@ -1,0 +1,26 @@
+var juce__AudioDataConverters_8h =
+[
+    [ "juce::AudioData", "classjuce_1_1AudioData.html", "classjuce_1_1AudioData" ],
+    [ "juce::AudioData::BigEndian", "classjuce_1_1AudioData_1_1BigEndian.html", "classjuce_1_1AudioData_1_1BigEndian" ],
+    [ "juce::AudioData::LittleEndian", "classjuce_1_1AudioData_1_1LittleEndian.html", "classjuce_1_1AudioData_1_1LittleEndian" ],
+    [ "juce::AudioData::NativeEndian", "classjuce_1_1AudioData_1_1NativeEndian.html", null ],
+    [ "juce::AudioData::Int8", "classjuce_1_1AudioData_1_1Int8.html", "classjuce_1_1AudioData_1_1Int8" ],
+    [ "juce::AudioData::UInt8", "classjuce_1_1AudioData_1_1UInt8.html", "classjuce_1_1AudioData_1_1UInt8" ],
+    [ "juce::AudioData::Int16", "classjuce_1_1AudioData_1_1Int16.html", "classjuce_1_1AudioData_1_1Int16" ],
+    [ "juce::AudioData::Int24", "classjuce_1_1AudioData_1_1Int24.html", "classjuce_1_1AudioData_1_1Int24" ],
+    [ "juce::AudioData::Int32", "classjuce_1_1AudioData_1_1Int32.html", "classjuce_1_1AudioData_1_1Int32" ],
+    [ "juce::AudioData::Int24in32", "classjuce_1_1AudioData_1_1Int24in32.html", "classjuce_1_1AudioData_1_1Int24in32" ],
+    [ "juce::AudioData::Float32", "classjuce_1_1AudioData_1_1Float32.html", "classjuce_1_1AudioData_1_1Float32" ],
+    [ "juce::AudioData::NonInterleaved", "classjuce_1_1AudioData_1_1NonInterleaved.html", "classjuce_1_1AudioData_1_1NonInterleaved" ],
+    [ "juce::AudioData::Interleaved", "classjuce_1_1AudioData_1_1Interleaved.html", "classjuce_1_1AudioData_1_1Interleaved" ],
+    [ "juce::AudioData::NonConst", "classjuce_1_1AudioData_1_1NonConst.html", "classjuce_1_1AudioData_1_1NonConst" ],
+    [ "juce::AudioData::Const", "classjuce_1_1AudioData_1_1Const.html", "classjuce_1_1AudioData_1_1Const" ],
+    [ "juce::AudioData::Pointer&lt; SampleFormat, Endianness, InterleavingType, Constness &gt;", "classjuce_1_1AudioData_1_1Pointer.html", "classjuce_1_1AudioData_1_1Pointer" ],
+    [ "juce::AudioData::Converter", "classjuce_1_1AudioData_1_1Converter.html", "classjuce_1_1AudioData_1_1Converter" ],
+    [ "juce::AudioData::ConverterInstance&lt; SourceSampleType, DestSampleType &gt;", "classjuce_1_1AudioData_1_1ConverterInstance.html", "classjuce_1_1AudioData_1_1ConverterInstance" ],
+    [ "juce::AudioData::Format&lt; DataFormatIn, EndiannessIn &gt;", "structjuce_1_1AudioData_1_1Format.html", "structjuce_1_1AudioData_1_1Format" ],
+    [ "juce::AudioData::ChannelDataSubtypes&lt; IsInterleaved, IsConst, DataFormat, Endianness &gt;", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01DataFormat_00_01Endianness_01_4.html", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01DataFormat_00_01Endianness_01_4" ],
+    [ "juce::AudioData::ChannelDataSubtypes&lt; IsInterleaved, IsConst, Format&lt; DataFormat, Endianness &gt; &gt;", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01Format_3_01Daf923aaf2f3c8dedd9edb77c8ffb05e55.html", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01Format_3_01Daf923aaf2f3c8dedd9edb77c8ffb05e55" ],
+    [ "juce::AudioData::ChannelData&lt; IsInterleaved, IsConst, Format &gt;", "structjuce_1_1AudioData_1_1ChannelData.html", "structjuce_1_1AudioData_1_1ChannelData" ],
+    [ "juce::AudioDataConverters", "classjuce_1_1AudioDataConverters.html", "classjuce_1_1AudioDataConverters" ]
+];

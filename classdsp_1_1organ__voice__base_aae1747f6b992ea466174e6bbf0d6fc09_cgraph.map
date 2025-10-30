@@ -1,0 +1,38 @@
+<map id="dsp::organ_voice_base::precalculate_waves" name="dsp::organ_voice_base::precalculate_waves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,159,158"/>
+<area shape="rect" id="Node000002" href="$structdsp_1_1bandlimiter.html#a7be340dcc6cb4b64df58e52ba4792223" title="Import time domain waveform and calculate spectrum from it." alt="" coords="401,5,568,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,115,144,72,173,51,206,35,250,22,297,15,385,13,385,18,297,20,251,27,208,40,176,56,147,77,103,119"/>
+<area shape="rect" id="Node000005" href="$namespacedsp.html#a1649ef9e7a86db00f9e797f0bda55767" title="Simple stupid inline function to normalize a waveform (by removing DC offset and ensuring max absolut..." alt="" coords="401,136,568,161"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,156,164,172,207,184,280,193,353,184,376,178,400,170,421,164,423,169,402,175,378,183,353,190,280,198,206,190,163,177,123,161"/>
+<area shape="rect" id="Node000006" href="$calf_2veal_2src_2organ_8cpp.html#a8134863ad0c7764b245a6acde4977163" title=" " alt="" coords="243,149,316,174"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,144,229,153,228,158,158,150"/>
+<area shape="rect" id="Node000010" href="$calf_2veal_2src_2organ_8cpp.html#a2e34f740804a4f8a4beb2557afcd5f0d" title=" " alt="" coords="239,50,320,76"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="131,114,206,85,224,78,226,83,208,89,133,119"/>
+<area shape="rect" id="Node000011" href="$structcalf__plugins_1_1progress__report__iface.html#adbd70dfc62615212d9cfe1f875c27680" title=" " alt="" coords="207,272,353,328"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="110,157,235,260,231,265,107,161"/>
+<area shape="rect" id="Node000013" href="$calf_2veal_2src_2organ_8cpp.html#acc19f0ca6d506137637084a36b9b047c" title=" " alt="" coords="241,100,319,125"/>
+<area shape="poly" id="edge20_Node000001_Node000013" title=" " alt="" coords="158,125,225,117,226,122,159,131"/>
+<area shape="rect" id="Node000003" href="$classdsp_1_1fft.html#ad7dcaa3cfe73a43b5391aef8bbab92ec" title=" " alt="" coords="634,17,752,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="569,25,619,26,619,31,568,30"/>
+<area shape="rect" id="Node000004" href="$structdsp_1_1bandlimiter.html#ab91fb8dd24f32b8048ff318b546849c2" title=" " alt="" coords="616,70,770,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="562,44,630,63,628,68,560,49"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="316,153,335,146,351,136,367,117,375,98,383,78,399,57,405,53,408,57,403,61,387,80,380,100,372,120,355,140,337,151,318,158"/>
+<area shape="poly" id="edge13_Node000006_Node000005" title=" " alt="" coords="317,157,385,152,386,157,317,162"/>
+<area shape="rect" id="Node000007" href="$ZynAddSubFx_2zynaddsubfx_2src_2Synth_2OscilGen_8cpp.html#adda12e7fc328654a5ba8c2cf415ae6c5" title=" " alt="" coords="464,209,506,234"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="318,170,450,209,448,214,316,175"/>
+<area shape="rect" id="Node000008" href="$structdsp_1_1bandlimiter.html#ab7bb52c59ce003ea3d4a8d11a113ddbf" title="Generate the waveform from the contained spectrum." alt="" coords="401,71,568,111"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="316,147,352,135,411,115,412,120,354,140,318,152"/>
+<area shape="rect" id="Node000009" href="$structdsp_1_1waveform__family.html#a394519749cd75e8c80592150e3dc96b6" title=" " alt="" coords="408,259,561,299"/>
+<area shape="poly" id="edge12_Node000006_Node000009" title=" " alt="" coords="299,173,344,207,402,245,411,249,409,254,400,249,341,212,295,177"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="462,217,446,206,445,194,459,185,485,182,507,184,520,190,526,198,521,208,517,205,520,199,517,194,505,189,485,187,460,190,450,196,451,203,465,212"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="555,68,632,45,633,50,557,73"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="568,85,601,84,601,89,569,90"/>
+<area shape="poly" id="edge15_Node000010_Node000002" title=" " alt="" coords="321,53,385,41,386,46,322,58"/>
+<area shape="poly" id="edge17_Node000010_Node000005" title=" " alt="" coords="322,71,354,85,379,103,402,121,417,127,415,132,400,125,375,107,352,89,320,76"/>
+<area shape="poly" id="edge16_Node000010_Node000008" title=" " alt="" coords="321,66,386,75,385,80,321,71"/>
+<area shape="rect" id="Node000012" href="$adplugdb_8cpp.html#afadda4184a4f0275271a46b2b0cc7f8b" title=" " alt="" coords="448,324,522,349"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="354,311,433,325,432,330,353,316"/>
+<area shape="poly" id="edge21_Node000013_Node000002" title=" " alt="" coords="318,99,352,86,376,72,400,57,413,50,416,55,402,61,379,76,354,91,320,104"/>
+<area shape="poly" id="edge23_Node000013_Node000005" title=" " alt="" coords="320,116,393,130,392,135,319,122"/>
+<area shape="poly" id="edge22_Node000013_Node000008" title=" " alt="" coords="319,106,385,99,386,104,319,111"/>
+</map>

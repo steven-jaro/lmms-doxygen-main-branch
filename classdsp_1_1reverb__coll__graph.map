@@ -1,0 +1,31 @@
+<map id="dsp::reverb" name="dsp::reverb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="327,2001,491,2657"/>
+<area shape="rect" id="Node000002" href="$classdsp_1_1audio__effect.html" title=" " alt="" coords="5,1373,114,1460"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,1474,93,1591,109,1659,129,1725,174,1846,226,1966,330,2177,325,2179,221,1968,169,1848,124,1727,104,1660,88,1592,66,1475"/>
+<area shape="rect" id="Node000003" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="139,1267,304,1566"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,1565,341,1984,336,1985,249,1567"/>
+<area shape="rect" id="Node000004" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="11,314,138,416"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,416,66,528,63,682,72,859,83,948,99,1035,112,1071,129,1106,177,1250,172,1251,124,1108,107,1073,94,1036,78,949,67,859,58,683,60,528,67,416"/>
+<area shape="rect" id="Node000005" href="$classdsp_1_1fixed__size__buffer.html" title=" " alt="" coords="24,5,157,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,101,80,314,74,314,85,101"/>
+<area shape="rect" id="Node000007" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="112,136,261,243"/>
+<area shape="poly" id="edge6_Node000007_Node000005" title=" " alt="" coords="128,97,153,135,149,138,123,100"/>
+<area shape="poly" id="edge5_Node000004_Node000007" title=" " alt="" coords="143,257,135,268,105,316,101,313,131,266,138,254"/>
+<area shape="rect" id="Node000009" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="162,322,310,408"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="208,257,226,321,221,322,203,258"/>
+<area shape="rect" id="Node000008" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="149,611,314,911"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="232,926,226,1267,221,1267,226,926"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="238,408,236,594,231,594,233,408"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="327,1107,491,1726"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="412,1726,412,1984,406,1984,406,1726"/>
+<area shape="rect" id="Node000012" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="348,487,470,1036"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="412,1050,412,1107,406,1107,406,1050"/>
+<area shape="rect" id="Node000013" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="516,1366,641,1467"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="572,1467,476,1984,471,1983,567,1466"/>
+<area shape="rect" id="Node000014" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="516,710,636,812"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="579,827,581,1366,576,1366,573,827"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1onepole.html" title=" " alt="" coords="669,1200,798,1633"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="684,1633,656,1727,580,1937,500,2131,495,2129,575,1935,651,1726,678,1632"/>
+<area shape="rect" id="Node000016" href="$classdsp_1_1onepole.html" title=" " alt="" coords="660,525,809,998"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="737,1013,736,1201,731,1201,731,1013"/>
+</map>

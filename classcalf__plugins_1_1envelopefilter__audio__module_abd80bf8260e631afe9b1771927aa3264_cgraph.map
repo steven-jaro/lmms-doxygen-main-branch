@@ -1,0 +1,17 @@
+<map id="calf_plugins::envelopefilter_audio_module::activate" name="calf_plugins::envelopefilter_audio_module::activate">
+<area shape="rect" id="Node000001" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,39,178,79"/>
+<area shape="rect" id="Node000002" href="$classdsp_1_1biquad__filter__module.html#aa36bcaa15f281860bf35f396626b6df7" title="Reset filter state." alt="" coords="256,5,409,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,44,240,36,241,41,179,50"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1envelopefilter__audio__module.html#a52aaef5f08064b3b35170a608bdd64c6" title="Called when params are changed (before processing)." alt="" coords="226,71,439,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,68,210,72,210,77,178,73"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1envelopefilter__audio__module.html#a5155b3be3bf810200dd130392b7739b1" title=" " alt="" coords="487,5,659,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,68,480,48,482,53,410,73"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1envelopefilter__audio__module.html#a7051a3ee473da661deece6ad0cf2aae5" title=" " alt="" coords="487,71,659,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="440,88,471,88,471,94,440,94"/>
+<area shape="rect" id="Node000010" href="$namespacedsp.html#aa7895889a13d54d21ea6855e30cc4568" title="fast float to int conversion using default rounding mode" alt="" coords="516,136,630,161"/>
+<area shape="poly" id="edge7_Node000003_Node000010" title=" " alt="" coords="421,109,502,129,501,134,420,115"/>
+<area shape="rect" id="Node000006" href="$classdsp_1_1biquad__filter__module.html#ad201e16f52a5070d6a0ab4e1daba1412" title="Calculate filter coefficients based on parameters &#45; cutoff/center frequency, q, filter type,..." alt="" coords="714,39,873,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="660,76,698,70,699,75,660,81"/>
+<area shape="rect" id="Node000007" href="$classcalf__plugins_1_1envelopefilter__audio__module.html#aa0f4cd4da5979d16414597658ff2132f" title=" " alt="" coords="707,104,880,145"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="660,101,692,106,692,112,659,107"/>
+</map>

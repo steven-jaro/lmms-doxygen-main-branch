@@ -1,0 +1,31 @@
+<map id="lmms::gui::TrackContentWidget::addClipView" name="lmms::gui::TrackContentWidget::addClipView">
+<area shape="rect" id="Node000001" title="Adds a ClipView to this widget." alt="" coords="5,159,206,199"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1TrackContentWidget.html#a07f608d9f0490537ba58d20212aad93f" title="Move the trackContentWidget to a new place in time." alt="" coords="254,113,454,154"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,158,238,152,239,157,207,163"/>
+<area shape="rect" id="Node000055" href="$classlmms_1_1gui_1_1ClipView.html#a863266f31b482aed70964335874a2df9" title=" " alt="" coords="287,203,420,243"/>
+<area shape="poly" id="edge15_Node000001_Node000055" title=" " alt="" coords="207,194,272,206,271,211,206,199"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1TrackContentWidget.html#a85dd5d0c3c9114141b345fb683995930" title="Return the end position of the trackContentWidget in Bars." alt="" coords="502,5,702,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,110,501,62,531,50,533,54,503,67,398,115"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1TimePos.html#ac47e9df2390423d50a509c8ba0167e83" title=" " alt="" coords="758,41,943,66"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="454,115,750,67,751,72,455,120"/>
+<area shape="rect" id="Node000005" href="$namespacelmms_1_1gui.html#a0f9bd49bea2bc61619a8b3966223cce5" title=" " alt="" coords="788,118,913,144"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="455,130,772,129,772,134,455,136"/>
+<area shape="rect" id="Node000049" href="$classlmms_1_1Engine.html#aaf347fd0e67b58f2c99f2bff089d47e6" title=" " alt="" coords="514,172,690,197"/>
+<area shape="poly" id="edge6_Node000002_Node000049" title=" " alt="" coords="455,152,521,165,520,170,454,157"/>
+<area shape="rect" id="Node000050" href="$classlmms_1_1gui_1_1TrackContentWidget.html#a66a54d9622aaa1f3fbab313fc7a35019" title="Updates the background tile pixmap." alt="" coords="502,223,702,263"/>
+<area shape="poly" id="edge8_Node000002_Node000050" title=" " alt="" coords="430,152,455,165,470,176,480,187,489,197,503,207,515,213,512,218,501,212,486,201,476,190,467,180,453,169,427,157"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="703,34,743,39,742,44,702,40"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1GuiApplication.html#ac376550c6eab0be216a675c26679b8b4" title=" " alt="" coords="1001,111,1167,151"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="913,128,985,128,985,134,913,134"/>
+<area shape="poly" id="edge9_Node000050_Node000005" title=" " alt="" coords="678,220,701,207,715,195,724,181,733,167,749,154,772,143,774,148,752,159,737,171,728,184,719,198,704,212,680,225"/>
+<area shape="rect" id="Node000051" href="$classlmms_1_1gui_1_1SongEditor.html#a858d17b3478000ec07ab189b77271a90" title="Return grid size as number of bars." alt="" coords="778,168,923,209"/>
+<area shape="poly" id="edge10_Node000050_Node000051" title=" " alt="" coords="697,219,762,205,763,210,698,225"/>
+<area shape="rect" id="Node000052" href="$classlmms_1_1gui_1_1TrackContainerView.html#a000a2fb715ec939d3deafe8a5c0636ce" title=" " alt="" coords="999,200,1169,241"/>
+<area shape="poly" id="edge12_Node000050_Node000052" title=" " alt="" coords="703,236,983,222,983,228,703,241"/>
+<area shape="rect" id="Node000053" href="$classlmms_1_1gui_1_1GuiApplication.html#ab938cc99b72dd5fe2e183a3d484842f5" title=" " alt="" coords="767,283,934,323"/>
+<area shape="poly" id="edge13_Node000050_Node000053" title=" " alt="" coords="690,261,753,277,752,282,689,267"/>
+<area shape="rect" id="Node000054" href="$classlmms_1_1gui_1_1TrackContentWidget.html#ad5700518fdf7c488f026aba6ab57ab24" title="Update ourselves by updating all the ClipViews attached." alt="" coords="750,348,951,389"/>
+<area shape="poly" id="edge14_Node000050_Node000054" title=" " alt="" coords="634,262,687,297,752,333,767,339,765,344,749,337,684,302,631,266"/>
+<area shape="poly" id="edge11_Node000051_Node000052" title=" " alt="" coords="924,196,984,204,983,209,923,201"/>
+<area shape="poly" id="edge16_Node000055_Node000055" title=" " alt="" coords="307,203,305,193,313,184,329,178,354,176,381,178,396,185,395,190,379,184,354,181,330,183,316,188,310,194,312,201"/>
+</map>

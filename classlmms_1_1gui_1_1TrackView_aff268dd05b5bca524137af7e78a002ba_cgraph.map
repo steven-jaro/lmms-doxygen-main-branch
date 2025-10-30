@@ -1,0 +1,52 @@
+<map id="lmms::gui::TrackView::mouseMoveEvent" name="lmms::gui::TrackView::mouseMoveEvent">
+<area shape="rect" id="Node000001" title="Handle a mouse move event on this track View." alt="" coords="5,393,150,434"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1ConfigManager.html#aed1127d4ab5ccc02af03698c5c47e270" title=" " alt="" coords="608,71,754,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,392,128,327,195,240,236,194,283,152,334,114,390,85,440,69,493,63,545,64,593,69,592,75,545,69,494,69,442,75,392,89,337,119,286,156,240,198,199,243,133,330,93,394"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1TrackView.html#a68201ea87819915bc8fb26e83e44f7b5" title=" " alt="" coords="198,425,342,466"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="151,423,183,429,183,434,150,428"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1TrackView.html#afdee2701a55a6eb8485564f3a2753523" title="Create a new track View." alt="" coords="198,360,342,401"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="150,399,183,393,184,398,151,404"/>
+<area shape="rect" id="Node000026" href="$classlmms_1_1ConfigManager.html#a47e588549a148e796b1f8003aea45270" title=" " alt="" coords="198,515,343,555"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="113,432,225,504,222,508,110,437"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1ConfigManager.html#a92a5b4a26e8756e8d261d2cebbc6b074" title=" " alt="" coords="819,71,964,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="754,88,803,88,803,94,754,94"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1ConfigManager.html#a8d5429a1661272d8f98fc0718f15bbfb" title=" " alt="" coords="1031,5,1176,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="959,68,1020,49,1021,54,960,73"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1ConfigManager.html#a687770844ec2e8fe8455308717d17c4c" title=" " alt="" coords="1031,71,1176,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="964,88,1015,88,1015,94,964,94"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1ConfigManager.html#a77d51cb6829adde1cd01fcddf8a539b1" title=" " alt="" coords="1012,160,1195,201"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="943,109,1040,151,1038,156,941,114"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="1063,160,1061,150,1068,141,1082,135,1104,133,1127,136,1140,142,1138,147,1125,141,1104,139,1084,141,1071,145,1067,151,1069,159"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1TrackView.html#a1ebc66859c185327c3dcca3baad4842d" title="Close this track View." alt="" coords="395,164,539,205"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="280,358,322,290,353,251,389,216,396,211,399,215,393,220,357,254,327,293,284,361"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1TrackView.html#ac2b505473f89731007a81f26dcb749bf" title="Create a Clip View in this track View." alt="" coords="395,229,539,270"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="292,357,336,320,390,281,399,275,402,280,392,285,339,324,295,361"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1TrackGrip.html#a8457f9c3e79f74fe5968c8caf1857543" title=" " alt="" coords="398,295,537,335"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="333,357,388,338,390,343,334,362"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1ModelView.html#a780137a2876c215debff0c81df4d01bc" title=" " alt="" coords="394,360,540,401"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="343,378,378,378,378,383,343,383"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1gui_1_1TrackView.html#a2860a7f642fef69f1d2df8dc7ee40664" title=" " alt="" coords="395,425,539,466"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="334,399,390,417,388,422,333,404"/>
+<area shape="rect" id="Node000021" href="$classlmms_1_1gui_1_1TrackView.html#adb24045bb3cd7b6deb45d991fb00c2ba" title=" " alt="" coords="394,491,541,531"/>
+<area shape="poly" id="edge19_Node000008_Node000021" title=" " alt="" coords="326,399,345,412,360,428,369,444,378,460,393,476,399,480,396,484,389,480,374,463,365,447,356,432,341,416,323,403"/>
+<area shape="rect" id="Node000022" href="$classlmms_1_1gui_1_1TrackView.html#ad1e9980db99651c6e03bf82129c59eb2" title=" " alt="" coords="391,556,543,597"/>
+<area shape="poly" id="edge20_Node000008_Node000022" title=" " alt="" coords="330,399,345,412,358,429,365,446,369,478,374,510,381,525,393,541,396,545,393,548,389,545,376,528,369,511,364,479,360,447,353,432,341,415,326,403"/>
+<area shape="rect" id="Node000023" href="$classlmms_1_1gui_1_1TrackGrip.html#ae84a559149e2116faeb68dea00373cdb" title=" " alt="" coords="398,621,537,662"/>
+<area shape="poly" id="edge21_Node000008_Node000023" title=" " alt="" coords="331,399,345,412,361,438,369,463,369,511,370,558,377,582,393,607,396,610,392,613,389,610,372,584,365,559,364,511,364,464,357,440,341,415,327,403"/>
+<area shape="rect" id="Node000024" href="$classlmms_1_1gui_1_1TrackView.html#a7c7e7effdbb8abab71e2881f0adbad9c" title="Resize this track View." alt="" coords="395,99,539,139"/>
+<area shape="poly" id="edge22_Node000008_Node000024" title=" " alt="" coords="275,359,289,317,312,261,346,203,366,175,389,150,394,146,398,150,393,154,370,179,350,206,317,264,294,318,280,361"/>
+<area shape="rect" id="Node000025" href="$classlmms_1_1gui_1_1TrackView.html#a3fbb30b4c5c34d4f36a86d3912860fd6" title="Update this track View and all its content objects." alt="" coords="395,687,539,727"/>
+<area shape="poly" id="edge24_Node000008_Node000025" title=" " alt="" coords="332,399,345,412,365,447,373,480,373,513,369,544,365,576,366,607,373,639,393,672,395,675,391,678,389,675,369,641,360,607,360,575,364,544,368,512,368,481,360,449,341,415,328,403"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1selectableObject.html#aa797d7326b858ce601d14e75cb21ab51" title=" " alt="" coords="591,229,771,270"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="540,247,576,247,576,252,540,252"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1gui_1_1ModelView.html#a327f035b406407a77b1f8fe1e7fdee3f" title=" " alt="" coords="608,295,754,335"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="535,357,596,338,598,343,537,362"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1gui_1_1ModelView.html#a20499da452f52175dacea1cb6c129b20" title=" " alt="" coords="608,360,754,401"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="541,378,592,378,592,383,541,383"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1gui_1_1TrackView.html#ad56fd203c6423c87c7fd7f35fa53ec3d" title=" " alt="" coords="609,425,753,466"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="540,443,593,443,593,448,540,448"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1gui_1_1TrackView.html#adf118215873fc23b3db69b074806e2c4" title=" " alt="" coords="609,491,753,531"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="537,464,598,483,596,488,535,469"/>
+<area shape="poly" id="edge23_Node000024_Node000002" title=" " alt="" coords="540,107,592,100,593,105,540,112"/>
+<area shape="poly" id="edge26_Node000026_Node000026" title=" " alt="" coords="234,515,232,505,238,496,251,490,270,488,291,490,304,497,301,501,290,496,270,493,252,495,241,500,237,506,239,513"/>
+</map>

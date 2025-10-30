@@ -1,0 +1,28 @@
+var nukedopl_8h =
+[
+    [ "_opl3_slot", "struct__opl3__slot.html", "struct__opl3__slot" ],
+    [ "_opl3_channel", "struct__opl3__channel.html", "struct__opl3__channel" ],
+    [ "_opl3_writebuf", "struct__opl3__writebuf.html", "struct__opl3__writebuf" ],
+    [ "_opl3_chip", "struct__opl3__chip.html", "struct__opl3__chip" ],
+    [ "OPL_WRITEBUF_DELAY", "nukedopl_8h.html#a9207ec942ee9f4dc0181722c58db215c", null ],
+    [ "OPL_WRITEBUF_SIZE", "nukedopl_8h.html#ad50432ba1ccce3e7cc87277a47c58e2a", null ],
+    [ "Bit16s", "nukedopl_8h.html#a48d5300d8305356ddb6cc32425136a16", null ],
+    [ "Bit16u", "nukedopl_8h.html#a0c9e225cbc96b036610418f16841182d", null ],
+    [ "Bit32s", "nukedopl_8h.html#a1721d47535294757ddc820707991d665", null ],
+    [ "Bit32u", "nukedopl_8h.html#a87632ceeca33fdf8d5f0c918b57dac2e", null ],
+    [ "Bit64s", "nukedopl_8h.html#a256950c522f619ab24daccd33a6fa9b6", null ],
+    [ "Bit64u", "nukedopl_8h.html#aa363e1b0f4384db19c0a136dbc9b3e15", null ],
+    [ "Bit8s", "nukedopl_8h.html#a07a2fa78fe35d1bdde052b1d009394a4", null ],
+    [ "Bit8u", "nukedopl_8h.html#a8b20be863e6d90ec1019d62b5501cf3c", null ],
+    [ "Bits", "nukedopl_8h.html#a43702c927aa30ef8d470abd924d19396", null ],
+    [ "Bitu", "nukedopl_8h.html#ae8b24624560a4de3ab953c57ef099375", null ],
+    [ "opl3_channel", "nukedopl_8h.html#a2c6538c9f85774e2c83316be8c62baa2", null ],
+    [ "opl3_slot", "nukedopl_8h.html#a13f850c91d540843a018756984558fac", null ],
+    [ "opl3_writebuf", "nukedopl_8h.html#a03f3c24f340be73ee94215a60b33bdc7", null ],
+    [ "OPL3_Generate", "nukedopl_8h.html#a19fab3cad5778cced216600e375cd1a7", null ],
+    [ "OPL3_GenerateResampled", "nukedopl_8h.html#aa18d6be2ee0269475e3f9f6c73a9fd48", null ],
+    [ "OPL3_GenerateStream", "nukedopl_8h.html#a243609101289d02dce0379696fb3a6b6", null ],
+    [ "OPL3_Reset", "nukedopl_8h.html#a62a643b59366410cdcce83dbd48bb3b6", null ],
+    [ "OPL3_WriteReg", "nukedopl_8h.html#a087dee0e4ac8cdd6135ecead99547e68", null ],
+    [ "OPL3_WriteRegBuffered", "nukedopl_8h.html#a99a47428525f27212ee89dd3f8bea597", null ]
+];

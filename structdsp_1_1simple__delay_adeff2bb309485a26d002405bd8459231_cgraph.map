@@ -1,0 +1,7 @@
+<map id="dsp::simple_delay::get_interp" name="dsp::simple_delay::get_interp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,135,64"/>
+<area shape="rect" id="Node000002" href="$namespacedsp.html#a39d5fa90621bd9b344c10b81d317b828" title=" " alt="" coords="209,5,278,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,31,194,23,195,28,135,37"/>
+<area shape="rect" id="Node000003" href="$namespacedsp.html#a7449afa1cea11ce3b972f3f9fa107b99" title="decrease by N if &gt;= N (useful for circular buffers)" alt="" coords="183,55,305,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,50,168,54,167,60,135,55"/>
+</map>

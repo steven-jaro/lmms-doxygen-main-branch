@@ -1,0 +1,83 @@
+<map id="lmms::gui::TrackOperationsWidget::updateMenu" name="lmms::gui::TrackOperationsWidget::updateMenu">
+<area shape="rect" id="Node000001" title="Update the trackOperationsWidget context menu." alt="" coords="5,530,184,570"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#ae81a9747fac7f08d26e6be97a16c2830" title="Clear this track &#45; clears all Clips from the track." alt="" coords="238,162,416,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,529,107,468,130,384,148,338,170,293,197,251,230,214,234,210,238,214,234,217,201,254,174,296,153,340,135,385,112,469,101,530"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a9d11e2aea589cf03a6e839e15c06ca1a" title="Clone this track." alt="" coords="238,227,416,268"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,528,230,369,298,279,302,282,234,372,113,531"/>
+<area shape="rect" id="Node000039" href="$namespacelmms_1_1embed.html#a4f7f1b44dee66037edaa734b33b42af5" title=" " alt="" coords="232,447,422,472"/>
+<area shape="poly" id="edge16_Node000001_Node000039" title=" " alt="" coords="133,527,231,482,253,475,255,480,233,487,135,532"/>
+<area shape="rect" id="Node000040" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#aa3e4d907c690100051cf8b6282be51c8" title=" " alt="" coords="232,496,422,537"/>
+<area shape="poly" id="edge17_Node000001_Node000040" title=" " alt="" coords="184,535,217,530,217,535,184,540"/>
+<area shape="rect" id="Node000045" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a2909946b2daf8eca16e51cf5268abbbd" title=" " alt="" coords="238,758,416,798"/>
+<area shape="poly" id="edge24_Node000001_Node000045" title=" " alt="" coords="107,570,126,607,154,653,190,701,233,743,240,748,237,752,230,747,186,705,149,656,121,609,103,572"/>
+<area shape="rect" id="Node000047" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#ad05861082b4c811efbfe005352f0ef5b" title=" " alt="" coords="238,823,416,864"/>
+<area shape="poly" id="edge26_Node000001_Node000047" title=" " alt="" coords="104,570,119,619,145,682,183,750,206,781,233,808,239,812,235,817,230,812,202,784,178,753,140,685,114,620,99,572"/>
+<area shape="rect" id="Node000048" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#afd6fafd0f5113554edc48524f570952f" title="Remove this track from the track list." alt="" coords="238,382,416,422"/>
+<area shape="poly" id="edge28_Node000001_Node000048" title=" " alt="" coords="113,527,164,480,196,454,230,432,239,427,242,432,233,436,199,459,167,484,117,531"/>
+<area shape="rect" id="Node000053" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#af34a03066ba118a8972fc8fa8b22e04a" title=" " alt="" coords="238,562,416,602"/>
+<area shape="poly" id="edge36_Node000001_Node000053" title=" " alt="" coords="184,560,223,565,222,570,184,565"/>
+<area shape="rect" id="Node000054" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#aef166ea0405b9e25672be87ea80af2d2" title=" " alt="" coords="238,627,416,668"/>
+<area shape="poly" id="edge39_Node000001_Node000054" title=" " alt="" coords="139,569,233,612,251,619,249,624,231,617,136,574"/>
+<area shape="rect" id="Node000055" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a407d30260395c20f209b459889aece42" title=" " alt="" coords="238,692,416,733"/>
+<area shape="poly" id="edge42_Node000001_Node000055" title=" " alt="" coords="115,569,165,623,197,652,233,677,244,683,241,688,230,682,194,656,161,626,111,573"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1TrackContainerView.html#a16c2e4814c3c43eccdf3963b70f3a1eb" title=" " alt="" coords="489,104,659,145"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,224,420,212,435,198,444,185,453,170,468,156,478,150,481,155,472,160,457,174,448,187,439,202,424,216,401,229"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1TrackContainerView.html#a5f7b86ddb9809502f1a8f971c262bf98" title=" " alt="" coords="489,170,659,210"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="416,224,474,211,475,216,417,229"/>
+<area shape="rect" id="Node000030" href="$classlmms_1_1Track.html#a95f5b63222e5cb795dd4e6319d71b2e3" title="Invert the track&#39;s solo state." alt="" coords="494,235,654,260"/>
+<area shape="poly" id="edge9_Node000003_Node000030" title=" " alt="" coords="416,245,479,245,479,250,416,250"/>
+<area shape="rect" id="Node000037" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a223252baf64a094686b1f614202af094" title=" " alt="" coords="485,308,663,349"/>
+<area shape="poly" id="edge13_Node000003_Node000037" title=" " alt="" coords="392,266,496,301,495,306,390,271"/>
+<area shape="rect" id="Node000038" href="$classlmms_1_1gui_1_1TrackContainerView.html#a2ec80967016acf5d0413fbdad230ec23" title=" " alt="" coords="489,39,659,80"/>
+<area shape="poly" id="edge15_Node000003_Node000038" title=" " alt="" coords="404,224,420,212,432,198,439,183,443,153,448,122,455,106,468,91,474,86,478,90,472,95,460,109,453,124,448,154,444,185,437,200,424,216,407,229"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Track.html#a4adee72ff57807c7b12085b221ba7f56" title=" " alt="" coords="730,5,893,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="652,102,677,89,691,78,700,66,710,53,725,41,737,35,739,40,728,46,713,57,704,69,695,81,680,94,655,106"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1TrackView.html#a88f49644f1345ff451577beb887415d0" title=" " alt="" coords="739,186,884,226"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="660,193,724,198,724,203,659,199"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1TrackContainerView.html#aef98872926655feb70fb9ce660b7e8b9" title=" " alt="" coords="726,55,897,96"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="652,167,677,155,691,143,700,132,710,119,725,107,734,101,737,105,728,111,714,123,705,135,695,147,680,159,655,172"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1PatternTrack.html#aa683933dfdffe9b7ca96bbe0fe05cdc0" title=" " alt="" coords="741,120,882,161"/>
+<area shape="poly" id="edge8_Node000006_Node000010" title=" " alt="" coords="659,170,726,156,727,161,660,175"/>
+<area shape="rect" id="Node000031" href="$classlmms_1_1ConfigManager.html#aed1127d4ab5ccc02af03698c5c47e270" title=" " alt="" coords="739,300,884,341"/>
+<area shape="poly" id="edge10_Node000030_Node000031" title=" " alt="" coords="635,258,679,270,744,292,742,297,678,275,634,263"/>
+<area shape="rect" id="Node000036" href="$classlmms_1_1ConfigManager.html#a47e588549a148e796b1f8003aea45270" title=" " alt="" coords="945,358,1090,398"/>
+<area shape="poly" id="edge11_Node000030_Node000036" title=" " alt="" coords="654,244,709,247,772,254,836,266,898,286,946,313,986,345,983,349,943,318,896,291,834,272,771,259,709,252,654,249"/>
+<area shape="poly" id="edge12_Node000036_Node000036" title=" " alt="" coords="978,358,976,348,983,339,997,333,1017,331,1040,334,1053,340,1051,345,1038,339,1017,336,998,338,986,343,982,349,983,357"/>
+<area shape="poly" id="edge14_Node000037_Node000037" title=" " alt="" coords="530,309,527,299,535,289,550,284,574,282,600,284,615,290,613,295,599,289,574,287,551,289,538,294,533,300,535,307"/>
+<area shape="rect" id="Node000041" href="$classlmms_1_1gui_1_1ColorChooser.html#a6fddfbadaa922cc92af1679c56918e01" title="Return a certain palette." alt="" coords="494,504,654,545"/>
+<area shape="poly" id="edge18_Node000040_Node000041" title=" " alt="" coords="422,517,478,519,478,524,422,523"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1Engine.html#a8b943018d0245555391473f4a7d75b5b" title=" " alt="" coords="498,569,650,595"/>
+<area shape="poly" id="edge21_Node000040_Node000019" title=" " alt="" coords="401,535,471,554,502,562,501,568,469,559,400,540"/>
+<area shape="rect" id="Node000044" href="$classlmms_1_1Song.html#a5ee918c525104b78a73e429cf536f4b0" title=" " alt="" coords="494,643,655,668"/>
+<area shape="poly" id="edge22_Node000040_Node000044" title=" " alt="" coords="401,535,424,548,439,563,449,577,457,591,472,605,521,634,519,639,468,610,453,594,444,580,435,566,420,552,399,540"/>
+<area shape="rect" id="Node000042" href="$classlmms_1_1gui_1_1ColorChooser.html#abab1cb9bb38a5a4538a60f7aea116589" title="Copy the current QColorDialog palette into an array." alt="" coords="731,504,892,545"/>
+<area shape="poly" id="edge19_Node000041_Node000042" title=" " alt="" coords="655,522,716,522,716,528,655,528"/>
+<area shape="rect" id="Node000043" href="$classlmms_1_1gui_1_1ColorChooser.html#a629379d43bc97cb1a8103b38f0b69d4b" title="Generate a nice palette, with adjustable value." alt="" coords="731,570,892,610"/>
+<area shape="poly" id="edge20_Node000041_Node000043" title=" " alt="" coords="651,543,721,563,720,568,650,548"/>
+<area shape="poly" id="edge23_Node000044_Node000044" title=" " alt="" coords="535,644,527,634,532,624,548,618,574,616,604,619,618,626,616,631,602,624,574,621,549,623,535,628,532,633,539,641"/>
+<area shape="rect" id="Node000046" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a160d9b5ef54a7398e7c136989d1ec0f1" title=" " alt="" coords="485,790,663,830"/>
+<area shape="poly" id="edge25_Node000045_Node000046" title=" " alt="" coords="417,787,470,794,470,799,416,792"/>
+<area shape="poly" id="edge27_Node000047_Node000046" title=" " alt="" coords="416,829,470,822,470,827,417,834"/>
+<area shape="rect" id="Node000049" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a96b51c9b8154ee1cae512a001b620633" title="Show a message box warning the user that this track is about to be closed." alt="" coords="485,374,663,414"/>
+<area shape="poly" id="edge29_Node000048_Node000049" title=" " alt="" coords="416,397,469,395,469,400,417,402"/>
+<area shape="rect" id="Node000052" href="$classlmms_1_1gui_1_1TrackOperationsWidget.html#a8fe0f2a6cae12ba4b9d1613bd9241872" title=" " alt="" coords="470,439,678,480"/>
+<area shape="poly" id="edge35_Node000048_Node000052" title=" " alt="" coords="417,420,470,433,468,438,416,425"/>
+<area shape="poly" id="edge30_Node000049_Node000031" title=" " alt="" coords="641,371,728,344,729,349,643,376"/>
+<area shape="poly" id="edge34_Node000049_Node000036" title=" " alt="" coords="663,388,929,379,929,384,664,394"/>
+<area shape="rect" id="Node000050" href="$classlmms_1_1ConfigManager.html#a909577dfffb617c145bafd10de02e7aa" title=" " alt="" coords="739,439,884,480"/>
+<area shape="poly" id="edge31_Node000049_Node000050" title=" " alt="" coords="651,412,724,433,723,438,650,418"/>
+<area shape="poly" id="edge33_Node000050_Node000036" title=" " alt="" coords="864,436,949,402,951,407,866,441"/>
+<area shape="poly" id="edge32_Node000050_Node000050" title=" " alt="" coords="772,439,771,429,777,420,791,415,812,413,834,415,847,421,845,426,832,420,811,418,792,420,780,424,776,430,778,438"/>
+<area shape="poly" id="edge37_Node000053_Node000019" title=" " alt="" coords="416,580,482,580,482,585,416,585"/>
+<area shape="poly" id="edge38_Node000053_Node000044" title=" " alt="" coords="398,600,514,635,513,640,397,606"/>
+<area shape="poly" id="edge40_Node000054_Node000019" title=" " alt="" coords="396,624,469,604,497,597,499,602,471,609,398,629"/>
+<area shape="poly" id="edge41_Node000054_Node000044" title=" " alt="" coords="417,648,478,650,478,655,416,653"/>
+<area shape="poly" id="edge43_Node000055_Node000019" title=" " alt="" coords="400,690,420,677,436,660,443,641,451,622,468,604,482,596,485,601,472,608,456,625,448,643,440,662,424,682,403,694"/>
+<area shape="poly" id="edge44_Node000055_Node000044" title=" " alt="" coords="416,690,500,670,501,675,417,695"/>
+<area shape="rect" id="Node000056" href="$classlmms_1_1gui_1_1ColorChooser.html#a72388287d5afffa153f48f41d0260c1f" title="Set palette via enum, return self pointer for chaining." alt="" coords="494,692,654,733"/>
+<area shape="poly" id="edge45_Node000055_Node000056" title=" " alt="" coords="416,710,478,710,478,716,416,716"/>
+<area shape="rect" id="Node000057" href="$classlmms_1_1gui_1_1ColorChooser.html#a8f077f0cfd6126724a86dc369d69f059" title=" " alt="" coords="731,664,892,705"/>
+<area shape="poly" id="edge46_Node000056_Node000057" title=" " alt="" coords="655,701,715,693,716,699,655,706"/>
+<area shape="rect" id="Node000058" href="$classlmms_1_1gui_1_1ColorChooser.html#a34b13abf8a5cf4c9b5c21d7c60ef4d34" title="Set global palette via array, checking bounds." alt="" coords="731,730,892,770"/>
+<area shape="poly" id="edge47_Node000056_Node000058" title=" " alt="" coords="655,723,717,733,716,738,655,728"/>
+</map>

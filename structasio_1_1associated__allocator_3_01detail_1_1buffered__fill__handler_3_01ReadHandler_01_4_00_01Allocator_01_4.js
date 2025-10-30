@@ -1,0 +1,5 @@
+var structasio_1_1associated__allocator_3_01detail_1_1buffered__fill__handler_3_01ReadHandler_01_4_00_01Allocator_01_4 =
+[
+    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1buffered__fill__handler_3_01ReadHandler_01_4_00_01Allocator_01_4.html#a068f847fe53a81872479226aad5cae37", null ],
+    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1buffered__fill__handler_3_01ReadHandler_01_4_00_01Allocator_01_4.html#ad67fb89782baeed2da0c59af226293d0", null ]
+];

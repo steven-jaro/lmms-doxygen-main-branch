@@ -1,0 +1,33 @@
+<map id="asio::detail::strand_service" name="asio::detail::strand_service">
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,1177,539,1442"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1detail_1_1service__base.html" title=" " alt="" coords="174,946,326,1028"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,1039,379,1182,375,1185,281,1042"/>
+<area shape="rect" id="Node000003" href="$classasio_1_1io__context_1_1service.html" title="Base class for all io_context services." alt="" coords="5,235,153,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,438,68,514,70,600,81,689,103,775,125,824,153,870,213,945,209,948,149,873,120,827,98,777,76,690,65,601,62,514,65,438"/>
+<area shape="rect" id="Node000013" href="$classasio_1_1detail_1_1service__base.html" title=" " alt="" coords="113,614,232,695"/>
+<area shape="poly" id="edge10_Node000013_Node000003" title=" " alt="" coords="113,437,164,613,159,615,108,438"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1execution__context_1_1service.html" title="Base class for all io_context services." alt="" coords="7,5,152,168"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,183,82,235,76,235,76,183"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="152,65,170,72,178,86,176,96,169,102,166,98,171,93,173,87,167,76,151,70"/>
+<area shape="rect" id="Node000011" href="$classasio_1_1detail_1_1service__id.html" title=" " alt="" coords="256,614,390,695"/>
+<area shape="poly" id="edge5_Node000002_Node000011" title=" " alt="" coords="321,695,311,765,295,844,271,931,266,930,290,843,305,764,316,694"/>
+<area shape="rect" id="Node000007" href="$classasio_1_1execution__context_1_1id.html" title="Class used to uniquely identify a service." alt="" coords="244,54,405,120"/>
+<area shape="poly" id="edge6_Node000011_Node000007" title=" " alt="" coords="299,134,278,174,263,218,252,280,249,329,254,378,263,441,284,534,310,613,305,615,279,536,258,441,249,378,244,329,246,279,258,217,273,172,294,131"/>
+<area shape="rect" id="Node000012" href="$classasio_1_1detail_1_1service__id.html" title=" " alt="" coords="273,288,392,370"/>
+<area shape="poly" id="edge8_Node000012_Node000007" title=" " alt="" coords="329,134,334,288,329,289,323,134"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="331,384,327,465,325,614,320,614,322,465,326,384"/>
+<area shape="poly" id="edge9_Node000002_Node000013" title=" " alt="" coords="168,710,166,774,169,809,175,843,196,898,224,946,219,948,191,900,170,844,163,810,161,775,163,710"/>
+<area shape="rect" id="Node000010" href="$classasio_1_1detail_1_1null__mutex.html" title=" " alt="" coords="418,258,519,400"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="470,400,462,1161,457,1161,465,400"/>
+<area shape="rect" id="Node000015" href="$classasio_1_1detail_1_1strand__service_1_1strand__impl.html" title=" " alt="" coords="506,614,639,695"/>
+<area shape="poly" id="edge15_Node000015_Node000010" title=" " alt="" coords="487,399,517,508,551,597,546,599,512,509,482,401"/>
+<area shape="rect" id="Node000014" href="$classasio_1_1detail_1_1scoped__ptr.html" title=" " alt="" coords="499,868,646,1106"/>
+<area shape="poly" id="edge12_Node000001_Node000014" title=" " alt="" coords="533,1107,513,1162,508,1161,528,1105"/>
+<area shape="poly" id="edge13_Node000014_Node000015" title=" " alt="" coords="575,695,575,851,570,851,570,695"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="545,296,608,362"/>
+<area shape="poly" id="edge14_Node000015_Node000016" title=" " alt="" coords="579,377,576,614,570,614,573,377"/>
+<area shape="rect" id="Node000017" href="$classasio_1_1detail_1_1op__queue.html" title=" " alt="" coords="632,217,766,441"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="658,442,597,599,592,597,653,440"/>
+<area shape="rect" id="Node000019" href="$classasio_1_1detail_1_1scoped__ptr.html" title=" " alt="" coords="663,532,783,776"/>
+<area shape="poly" id="edge17_Node000014_Node000019" title=" " alt="" coords="664,791,629,869,624,867,659,789"/>
+</map>

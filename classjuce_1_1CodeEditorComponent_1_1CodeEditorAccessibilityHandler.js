@@ -1,0 +1,5 @@
+var classjuce_1_1CodeEditorComponent_1_1CodeEditorAccessibilityHandler =
+[
+    [ "CodeEditorComponentTextInterface", "classjuce_1_1CodeEditorComponent_1_1CodeEditorAccessibilityHandler_1_1CodeEditorComponentTextInterface.html", "classjuce_1_1CodeEditorComponent_1_1CodeEditorAccessibilityHandler_1_1CodeEditorComponentTextInterface" ],
+    [ "CodeEditorAccessibilityHandler", "classjuce_1_1CodeEditorComponent_1_1CodeEditorAccessibilityHandler.html#a3f63f2b081f0c23b9df2f0873d75e44e", null ]
+];

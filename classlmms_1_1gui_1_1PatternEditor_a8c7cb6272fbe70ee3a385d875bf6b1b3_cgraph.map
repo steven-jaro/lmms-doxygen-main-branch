@@ -1,0 +1,24 @@
+<map id="lmms::gui::PatternEditor::addSampleTrack" name="lmms::gui::PatternEditor::addSampleTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,163,212"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1Track.html#acf8c9f02d1c4d4f2454ea81ea3655136" title="Create a track based on the given track type and container." alt="" coords="229,149,363,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,178,213,171,214,176,164,183"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1TrackContainerView.html#a044c23eb419d3e037d7b76784238243e" title=" " alt="" coords="211,199,381,240"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="164,199,196,204,195,209,163,205"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="430,5,604,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,147,355,96,390,67,428,41,441,35,443,39,430,46,393,71,359,100,310,151"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1AudioEngine.html#a8650b17deaa8f1eb4030651619050dab" title=" " alt="" coords="447,55,586,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="327,146,428,105,443,99,445,104,430,110,329,151"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Engine.html#aaf347fd0e67b58f2c99f2bff089d47e6" title=" " alt="" coords="429,120,604,146"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="363,151,413,144,414,149,364,156"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1AudioEngine.html#ae970a2bc94b7fa2d98fe114cb8953438" title="Block until a change in model can be done (i.e. wait for audio thread)." alt="" coords="440,170,594,210"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="364,168,425,176,424,181,363,173"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1Track.html#a0a2a82f3edb902e1f06cab2b501ec84e" title="Create a new (empty) track object." alt="" coords="451,235,582,260"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="352,173,382,185,407,203,430,220,446,227,444,232,428,224,403,207,380,190,350,178"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1TrackContainer.html#ad50c82e989d79623f7c7f24849e7af08" title=" " alt="" coords="442,284,592,325"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="362,173,383,185,401,207,408,229,415,250,431,271,435,274,431,278,427,275,410,253,403,231,396,210,379,190,359,178"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1Model.html#a91562bd45ea0e4d557f4f3139021482c" title=" " alt="" coords="652,211,788,236"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="582,237,637,231,637,236,583,242"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1Track.html#a8f965707df2eff121cfc237753b36d77" title=" " alt="" coords="659,260,781,286"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="583,253,644,261,643,266,582,258"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="686,212,679,202,683,192,697,186,720,184,745,187,758,194,755,198,743,192,720,189,699,191,687,196,685,201,690,209"/>
+</map>

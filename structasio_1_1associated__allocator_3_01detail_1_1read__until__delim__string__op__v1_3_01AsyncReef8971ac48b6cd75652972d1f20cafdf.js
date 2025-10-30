@@ -1,0 +1,5 @@
+var structasio_1_1associated__allocator_3_01detail_1_1read__until__delim__string__op__v1_3_01AsyncReef8971ac48b6cd75652972d1f20cafdf =
+[
+    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1read__until__delim__string__op__v1_3_01AsyncReef8971ac48b6cd75652972d1f20cafdf.html#a6c6ec298f31c01c07abd66959f680e84", null ],
+    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1read__until__delim__string__op__v1_3_01AsyncReef8971ac48b6cd75652972d1f20cafdf.html#af623653a4face0a069cf278f9a153c03", null ]
+];

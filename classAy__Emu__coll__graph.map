@@ -1,0 +1,39 @@
+<map id="Ay_Emu" name="Ay_Emu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="912,3162,1029,3635"/>
+<area shape="rect" id="Node000002" href="$classAy__Cpu.html" title=" " alt="" coords="222,2761,413,3010"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,2968,914,3350,911,3354,423,2973"/>
+<area shape="rect" id="Node000003" href="$structAy__Cpu_1_1state__t.html" title=" " alt="" coords="5,1739,107,1826"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,1825,47,1957,48,2148,55,2256,69,2368,90,2480,121,2587,140,2632,162,2675,214,2756,210,2759,157,2678,135,2634,116,2589,85,2481,64,2369,50,2257,43,2148,42,1957,49,1825"/>
+<area shape="rect" id="Node000004" href="$structAy__Cpu_1_1registers__t.html" title=" " alt="" coords="130,1647,504,1917"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,1917,320,2744,315,2744,315,1917"/>
+<area shape="rect" id="Node000005" href="$structAy__Cpu_1_1regs__t.html" title=" " alt="" coords="146,341,244,550"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,549,306,1630,301,1630,202,549"/>
+<area shape="rect" id="Node000006" href="$structAy__Cpu_1_1pairs__t.html" title=" " alt="" coords="267,382,368,509"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="320,509,320,1630,315,1630,315,509"/>
+<area shape="rect" id="Node000007" href="$classClassic__Emu.html" title=" " alt="" coords="732,2679,873,3091"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="877,3105,915,3219,910,3221,872,3107"/>
+<area shape="rect" id="Node000008" href="$structMusic__Emu.html" title=" " alt="" coords="577,976,743,2588"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="748,2438,779,2679,774,2680,742,2439"/>
+<area shape="rect" id="Node000009" href="$structGme__File.html" title=" " alt="" coords="392,5,526,885"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="530,899,580,1231,575,1232,525,900"/>
+<area shape="rect" id="Node000013" href="$structgme__equalizer__t.html" title=" " alt="" coords="550,320,655,570"/>
+<area shape="poly" id="edge9_Node000008_Node000013" title=" " alt="" coords="602,570,595,909,595,959,590,959,590,909,597,570"/>
+<area shape="rect" id="Node000014" href="$classMulti__Buffer.html" title=" " alt="" coords="701,209,880,682"/>
+<area shape="poly" id="edge11_Node000007_Node000014" title=" " alt="" coords="795,681,804,2662,799,2662,789,681"/>
+<area shape="poly" id="edge10_Node000008_Node000014" title=" " alt="" coords="736,682,714,795,697,909,691,960,686,959,692,909,709,794,731,681"/>
+<area shape="rect" id="Node000015" href="$structAy__Emu_1_1file__t.html" title=" " alt="" coords="925,2842,1017,2929"/>
+<area shape="poly" id="edge12_Node000001_Node000015" title=" " alt="" coords="974,2928,974,3145,968,3145,968,2928"/>
+<area shape="rect" id="Node000016" href="$structAy__Emu_1_1header__t.html" title=" " alt="" coords="914,1668,1028,1897"/>
+<area shape="poly" id="edge13_Node000015_Node000016" title=" " alt="" coords="974,1897,974,2825,968,2825,968,1897"/>
+<area shape="rect" id="Node000017" href="$classBlip__Buffer.html" title=" " alt="" coords="1024,36,1169,854"/>
+<area shape="poly" id="edge14_Node000001_Node000017" title=" " alt="" coords="1092,854,1065,2150,1048,2748,1040,2962,1031,3092,1024,3146,1019,3145,1026,3091,1034,2961,1043,2747,1060,2150,1087,854"/>
+<area shape="rect" id="Node000019" href="$structAy__Apu_1_1osc__t.html" title=" " alt="" coords="1103,1718,1196,1846"/>
+<area shape="poly" id="edge17_Node000019_Node000017" title=" " alt="" coords="1115,854,1149,1702,1144,1702,1110,854"/>
+<area shape="rect" id="Node000018" href="$classAy__Apu.html" title=" " alt="" coords="1141,2679,1240,3091"/>
+<area shape="poly" id="edge15_Node000001_Node000018" title=" " alt="" coords="1144,3005,1087,3139,1038,3250,1034,3248,1082,3137,1139,3003"/>
+<area shape="poly" id="edge16_Node000018_Node000019" title=" " alt="" coords="1155,1846,1185,2663,1180,2663,1149,1846"/>
+<area shape="rect" id="Node000020" href="$classBlip__Synth.html" title=" " alt="" coords="1220,1630,1359,1935"/>
+<area shape="poly" id="edge18_Node000018_Node000020" title=" " alt="" coords="1285,1934,1265,2266,1249,2461,1229,2656,1229,2663,1223,2662,1224,2655,1244,2461,1259,2265,1280,1934"/>
+<area shape="rect" id="Node000021" href="$classBlip__Synth.html" title=" " alt="" coords="1224,303,1355,588"/>
+<area shape="poly" id="edge19_Node000020_Node000021" title=" " alt="" coords="1292,603,1292,1630,1287,1630,1287,603"/>
+</map>

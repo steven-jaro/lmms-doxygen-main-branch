@@ -1,0 +1,28 @@
+<map id="calf_plugins::line_graph_param_control::create" name="calf_plugins::line_graph_param_control::create">
+<area shape="rect" id="Node000001" title="called to create a widget for a control" alt="" coords="5,225,155,281"/>
+<area shape="rect" id="Node000002" href="$ctl__linegraph_8cpp.html#a01c93cb4f7f1aa8b3a3da12fc5d60e70" title=" " alt="" coords="224,5,363,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,224,103,183,127,134,159,84,201,41,209,36,212,41,204,46,163,87,131,136,108,185,92,225"/>
+<area shape="rect" id="Node000003" href="$ctl__linegraph_8cpp.html#ae706dbbf16298e806afd79efe5ba13b4" title=" " alt="" coords="227,55,360,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,223,139,164,168,133,201,105,211,99,214,104,204,110,172,137,143,168,100,226"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1line__graph__param__control.html#ab1a5ce3bbd139361804c256db6ff22ed" title=" " alt="" coords="203,120,384,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,222,201,185,213,180,215,185,204,190,134,227"/>
+<area shape="rect" id="Node000008" href="$classcalf__plugins_1_1control__base.html#aaa4c903c0d0333d41ac5c5a43cca09de" title=" " alt="" coords="226,199,361,240"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="155,239,210,230,211,235,155,244"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1control__base.html#a605668b5adb4f4e606d62a927e88405b" title=" " alt="" coords="226,264,361,305"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="155,261,210,270,210,275,155,267"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1parameter__properties.html#acf81140844f199f0da50068f81afffbb" title="convert from [min, max] to [0, 1] range (applying reverse scaling)" alt="" coords="216,330,370,370"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="133,279,204,314,219,321,217,326,202,319,130,283"/>
+<area shape="rect" id="Node000011" href="$gui__controls_8cpp.html#a39307e1f525ce8918ad52dc8cd29f5e1" title=" " alt="" coords="257,395,330,420"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="103,280,146,331,173,357,204,380,243,396,241,401,201,384,170,362,142,335,99,283"/>
+<area shape="rect" id="Node000012" href="$gui__controls_8cpp.html#aead734e08a6e00c763899923b06aa2bd" title=" " alt="" coords="257,444,330,470"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="95,280,112,315,136,356,167,396,204,431,222,441,242,447,241,452,220,446,201,435,163,400,131,359,107,318,90,282"/>
+<area shape="rect" id="Node000005" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="481,297,538,323"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="366,174,386,185,445,235,490,284,486,287,441,239,382,190,363,178"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1param__control.html#a50121acf0cb44658ecf1b1f5626fba6c" title="called to transfer the value from control to parameter(s)" alt="" coords="444,95,576,136"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="384,131,428,125,428,130,385,137"/>
+<area shape="rect" id="Node000007" href="$classcalf__plugins_1_1param__control.html#a793c5146801958f09aa86f12f1c166f0" title=" " alt="" coords="432,160,587,201"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="385,159,417,164,417,169,384,164"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="370,333,465,316,466,321,371,339"/>
+<area shape="rect" id="Node000013" href="$namespacecalf__plugins.html#a2dfe1003b61b844b59815a66e01197fe" title="convert amplitude value to normalized grid&#45;ish value" alt="" coords="440,444,580,470"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="330,454,424,454,424,460,330,460"/>
+</map>

@@ -1,0 +1,88 @@
+<map id="dsp::small_value" name="dsp::small_value">
+<area shape="rect" id="Node000001" title="&#39;Small value&#39; for integer and other types" alt="" coords="698,310,816,335"/>
+<area shape="rect" id="Node000002" href="$namespacedsp.html#a3f42698c5c80f560180882cd02ca1eda" title=" " alt="" coords="502,108,601,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,296,731,262,711,221,683,181,649,147,626,135,600,128,602,123,628,130,652,143,687,178,715,218,736,259,750,294"/>
+<area shape="rect" id="Node000003" href="$namespacedsp.html#a0c2863a05929fbfdf1c7475313192636" title=" " alt="" coords="502,158,601,183"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="737,298,700,251,675,227,649,206,625,193,600,184,602,179,627,189,652,202,679,223,704,248,741,295"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1monosynth__audio__module.html#ac2dfd7179be6c6913a81a2e189a80a8e" title="Calculate control signals and produce step_size samples of output." alt="" coords="452,216,650,256"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="712,305,649,277,606,259,608,254,651,272,715,300"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1organ__voice.html#a74e5787ed33b9046378c36358317c799" title=" " alt="" coords="236,281,396,322"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="683,322,397,308,397,302,683,316"/>
+<area shape="rect" id="Node000012" href="$classdsp_1_1organ__voice__base.html#a35a6e7be6af97c9f43d03a5c82c1131e" title=" " alt="" coords="474,330,628,371"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="683,335,629,343,628,337,682,330"/>
+<area shape="rect" id="Node000013" href="$namespacedsp.html#aa9b71af18baffe0cdda2cf64b15727e8" title=" " alt="" coords="505,395,597,421"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="724,346,690,366,651,385,598,401,597,396,649,380,687,362,722,342"/>
+<area shape="rect" id="Node000014" href="$namespacedsp.html#aaafcf4f2177c8673092dbfe99b2febb7" title=" " alt="" coords="505,848,597,874"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="748,351,560,849,555,847,743,349"/>
+<area shape="rect" id="Node000045" href="$classdsp_1_1adsr.html#ac1f1c7fb608a58016622fab36937edc5" title=" " alt="" coords="502,898,600,923"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="757,351,749,467,731,628,717,710,700,785,678,846,666,870,652,888,628,904,601,912,600,907,626,900,648,885,661,867,674,844,695,783,712,709,726,627,744,466,752,350"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1gain__reduction2__audio__module.html#af27b18cc491215b07134b541ddf83b94" title=" " alt="" coords="229,5,404,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,165,450,149,433,131,425,112,417,94,402,75,387,64,390,59,406,71,422,91,430,110,437,128,454,144,487,160"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1vocoder__audio__module.html#a3fdef75c1c10587f61ab4ab223fcc739" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="236,85,396,126"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="486,158,451,149,382,129,384,124,453,144,487,153"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1line__graph__param__control.html#a639c9322c77aff3affefb7bf6c508960" title="called to transfer the value from parameter(s) to control" alt="" coords="230,150,403,191"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="486,173,403,173,403,168,486,168"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1gain__reduction2__audio__module.html#a62e6585462b8c2d5917156de2d3dff1d" title=" " alt="" coords="5,5,181,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,36,181,36,181,30,213,30"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1line__graph__param__control.html#af72d041fe19726b5fe3d9af89200c8f3" title=" " alt="" coords="18,143,168,198"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="214,173,168,173,168,168,214,168"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1monosynth__audio__module.html#a2a0e2dbbbc905e5ed59ba56c70f806f1" title="Main processing function." alt="" coords="236,216,396,256"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="436,238,397,238,397,233,436,233"/>
+<area shape="poly" id="edge12_Node000012_Node000011" title=" " alt="" coords="459,334,397,321,398,315,460,329"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1simple__phaser.html#abb6ee7c0847efcaeae2299af23d39e7f" title=" " alt="" coords="250,346,382,387"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="546,833,539,749,531,694,518,634,500,572,475,510,443,452,402,400,381,385,385,381,406,397,447,449,480,508,505,570,523,633,536,693,545,749,552,832"/>
+<area shape="rect" id="Node000019" href="$modules__delay_8cpp.html#a046f42b7ec655f21c14bde316a2c6920" title="Single delay line with tap output." alt="" coords="262,411,371,437"/>
+<area shape="poly" id="edge18_Node000014_Node000019" title=" " alt="" coords="546,833,537,757,515,653,496,598,472,544,441,494,402,450,388,440,371,433,373,428,390,435,406,446,445,491,477,541,501,596,520,652,542,756,551,832"/>
+<area shape="rect" id="Node000021" href="$modules__delay_8cpp.html#a5b913e13befe50a25375e0b6838e6391" title="Single delay line with feedback at the same tap." alt="" coords="265,460,368,486"/>
+<area shape="poly" id="edge21_Node000014_Node000021" title=" " alt="" coords="544,833,533,765,508,675,490,627,466,580,437,537,402,499,386,488,367,482,369,477,388,484,406,495,441,534,471,578,495,625,513,673,538,764,550,833"/>
+<area shape="rect" id="Node000022" href="$structdsp_1_1vumeter.html#a3dfa5131dd0a4d3a2cecb358ec9e9c5d" title=" " alt="" coords="257,510,376,535"/>
+<area shape="poly" id="edge23_Node000014_Node000022" title=" " alt="" coords="542,834,528,775,501,698,483,658,460,618,434,582,402,550,375,535,377,530,406,546,438,578,465,615,488,655,506,696,533,773,547,833"/>
+<area shape="rect" id="Node000025" href="$classcalf__plugins_1_1expander__audio__module.html#a739cfb442ee8eddb872d86497221b135" title=" " alt="" coords="236,560,396,600"/>
+<area shape="poly" id="edge25_Node000014_Node000025" title=" " alt="" coords="538,835,520,788,491,728,452,667,428,639,402,614,386,603,389,599,406,610,432,635,456,664,496,726,525,786,543,833"/>
+<area shape="rect" id="Node000027" href="$classcalf__plugins_1_1gain__reduction__audio__module.html#a4f6feaa433d69911ab317e414e110507" title=" " alt="" coords="232,624,400,680"/>
+<area shape="poly" id="edge27_Node000014_Node000027" title=" " alt="" coords="531,837,478,767,442,729,402,694,385,682,388,678,406,690,446,725,482,764,535,834"/>
+<area shape="rect" id="Node000029" href="$structdsp_1_1biquad__d2.html#a87265209de6025d5ae0fa20691ca00d2" title="direct II form with two state variables" alt="" coords="237,704,396,730"/>
+<area shape="poly" id="edge29_Node000014_Node000029" title=" " alt="" coords="525,839,471,791,438,766,403,745,374,733,376,728,405,740,441,762,475,787,528,835"/>
+<area shape="rect" id="Node000030" href="$classdsp_1_1organ__vibrato.html#aca8304ecebdec3c178dd6e4dba72d68d" title=" " alt="" coords="253,754,380,795"/>
+<area shape="poly" id="edge30_Node000014_Node000030" title=" " alt="" coords="500,845,403,809,373,798,375,793,405,804,501,840"/>
+<area shape="rect" id="Node000031" href="$classdsp_1_1reverb.html#ac4403720bada0174a5fc7af4ea95ff82" title=" " alt="" coords="248,819,384,845"/>
+<area shape="poly" id="edge31_Node000014_Node000031" title=" " alt="" coords="489,856,385,843,385,838,490,851"/>
+<area shape="rect" id="Node000034" href="$classdsp_1_1simple__flanger.html#af730e3ee62c2d70e8ffc4fd632270e03" title=" " alt="" coords="251,869,382,910"/>
+<area shape="poly" id="edge33_Node000014_Node000034" title=" " alt="" coords="490,871,383,884,382,879,489,866"/>
+<area shape="rect" id="Node000035" href="$structdsp_1_1simple__delay.html#ab4db01f4d6f98b2d901216369e5d9816" title=" " alt="" coords="239,934,394,975"/>
+<area shape="poly" id="edge34_Node000014_Node000035" title=" " alt="" coords="491,874,453,888,429,905,405,923,379,936,377,931,403,919,426,900,451,883,489,869"/>
+<area shape="rect" id="Node000036" href="$structdsp_1_1simple__delay.html#ae84725c74f1d55bcc1ba54e5bb4320fb" title=" " alt="" coords="239,999,394,1054"/>
+<area shape="poly" id="edge35_Node000014_Node000036" title=" " alt="" coords="491,870,471,877,454,887,442,899,436,910,429,935,423,961,406,988,391,1000,388,996,402,985,419,959,424,934,431,908,438,896,450,883,469,872,489,865"/>
+<area shape="rect" id="Node000037" href="$structdsp_1_1simple__delay.html#ada1a70652c9018d3c12e1387212aba48" title=" " alt="" coords="252,1078,381,1119"/>
+<area shape="poly" id="edge36_Node000014_Node000037" title=" " alt="" coords="491,868,471,875,454,887,438,908,430,930,428,952,429,975,429,1021,422,1045,406,1068,383,1085,380,1081,402,1065,417,1042,424,1020,424,975,423,952,425,929,433,906,450,883,468,871,489,863"/>
+<area shape="rect" id="Node000038" href="$structdsp_1_1simple__delay.html#a85b17601c47142064b525f3feefe2d58" title=" " alt="" coords="242,1144,390,1184"/>
+<area shape="poly" id="edge37_Node000014_Node000038" title=" " alt="" coords="491,867,471,875,454,887,433,916,425,946,425,976,429,1006,433,1036,433,1068,426,1100,406,1132,392,1145,388,1141,402,1129,421,1098,428,1067,428,1037,423,1006,419,976,420,945,428,914,450,883,468,870,489,862"/>
+<area shape="rect" id="Node000039" href="$structdsp_1_1biquad__d1.html#a1d2c9671e4b0ad2b60a14cb81e4167e9" title="Sanitize (set to 0 if potentially denormal) filter state." alt="" coords="238,1208,395,1234"/>
+<area shape="poly" id="edge38_Node000014_Node000039" title=" " alt="" coords="491,867,471,875,454,887,439,906,429,925,420,963,422,1001,430,1039,437,1078,440,1118,431,1157,421,1178,406,1198,391,1210,387,1206,402,1194,416,1175,426,1156,434,1117,432,1079,425,1040,417,1001,415,962,424,923,435,903,450,883,468,870,489,862"/>
+<area shape="rect" id="Node000040" href="$structdsp_1_1biquad__d1__lerp.html#a0753736e6d55ef85e60ac34680995c7b" title="Sanitize (set to 0 if potentially denormal) filter state." alt="" coords="249,1258,384,1299"/>
+<area shape="poly" id="edge39_Node000014_Node000040" title=" " alt="" coords="491,867,471,874,454,887,437,909,425,931,419,953,416,975,419,1019,428,1063,438,1108,442,1154,433,1200,422,1224,406,1248,386,1265,383,1260,402,1245,418,1222,428,1199,436,1153,432,1109,423,1064,413,1019,410,975,413,952,421,929,432,906,450,883,468,870,489,862"/>
+<area shape="rect" id="Node000041" href="$structdsp_1_1biquad__d2.html#aee634196789d4ce7199f902e9eb8d067" title="Sanitize (set to 0 if potentially denormal) filter state." alt="" coords="238,1323,395,1349"/>
+<area shape="poly" id="edge40_Node000014_Node000041" title=" " alt="" coords="491,867,470,874,454,887,434,913,421,939,414,965,411,991,417,1044,429,1096,442,1149,448,1203,446,1230,439,1257,426,1285,406,1312,391,1324,388,1320,402,1309,421,1282,434,1255,440,1229,443,1203,437,1150,424,1097,411,1045,406,991,409,964,416,938,430,910,450,883,468,870,489,862"/>
+<area shape="rect" id="Node000042" href="$classdsp_1_1onepole.html#adfb66de53e160495d200d8a8cb060967" title=" " alt="" coords="245,1372,388,1398"/>
+<area shape="poly" id="edge41_Node000014_Node000042" title=" " alt="" coords="491,867,470,874,454,887,432,917,418,946,410,975,408,1004,414,1063,430,1122,445,1181,452,1241,450,1271,442,1302,428,1332,406,1363,390,1376,387,1372,402,1359,423,1329,437,1300,445,1270,447,1241,440,1182,424,1123,409,1064,402,1004,405,974,413,944,428,914,450,883,468,870,489,862"/>
+<area shape="rect" id="Node000043" href="$namespacedsp.html#ab2b42db4ce9ee06d121bbaefa42f6303" title=" " alt="" coords="270,1422,362,1447"/>
+<area shape="poly" id="edge42_Node000014_Node000043" title=" " alt="" coords="491,867,470,874,454,887,442,906,434,930,425,992,426,1067,430,1147,435,1228,435,1303,427,1366,418,1392,406,1412,387,1427,364,1435,362,1430,384,1422,402,1409,414,1390,422,1365,430,1303,429,1228,425,1148,420,1067,420,992,428,929,437,904,450,883,468,869,489,862"/>
+<area shape="rect" id="Node000044" href="$structdsp_1_1vumeter.html#a2396e6b710a6598b1ad1cb82adb544c3" title="Update clip meter as if update was called with all&#45;zero input signal." alt="" coords="246,1472,386,1512"/>
+<area shape="poly" id="edge43_Node000014_Node000044" title=" " alt="" coords="490,866,470,874,454,887,441,908,432,934,423,1002,423,1083,429,1171,434,1259,435,1341,428,1410,419,1439,406,1462,389,1477,385,1473,402,1458,414,1437,422,1409,430,1341,429,1259,423,1171,418,1083,418,1002,427,933,436,905,450,883,468,869,489,862"/>
+<area shape="rect" id="Node000016" href="$classdsp_1_1simple__phaser.html#a1e9185376ebb8a73efae2c25b80ebe17" title=" " alt="" coords="27,269,159,310"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="240,343,153,313,155,308,242,338"/>
+<area shape="rect" id="Node000017" href="$classdsp_1_1simple__phaser.html#a673f581def12e7f690b0c25b3ea31685" title=" " alt="" coords="27,334,159,375"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="235,365,160,361,160,355,235,359"/>
+<area shape="rect" id="Node000020" href="$classcalf__plugins_1_1vintage__delay__audio__module.html#ae22c8b0eff6c8c3e0335839b39479e5b" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="17,423,169,478"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="246,435,169,444,169,439,246,430"/>
+<area shape="poly" id="edge20_Node000020_Node000020" title=" " alt="" coords="129,410,115,404,93,401,73,403,61,408,55,414,54,422,49,422,50,412,58,403,72,398,93,396,117,399,131,405"/>
+<area shape="poly" id="edge22_Node000021_Node000020" title=" " alt="" coords="249,469,169,461,169,456,250,464"/>
+<area shape="rect" id="Node000023" href="$structdsp_1_1vumeter.html#a99829b698f3a691e90afe75d7cec22e8" title="Update peak meter based on louder of two input signals." alt="" coords="23,502,163,543"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="242,525,164,525,164,520,242,520"/>
+<area shape="rect" id="Node000026" href="$classcalf__plugins_1_1expander__audio__module.html#a5e7761c06ba79681a0c6811ee6ff5d06" title=" " alt="" coords="13,568,173,608"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="221,586,174,588,173,582,221,581"/>
+<area shape="rect" id="Node000028" href="$classcalf__plugins_1_1gain__reduction__audio__module.html#a14bf8bdc074a22cfe1187e9e05b3b890" title=" " alt="" coords="9,632,177,688"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="217,658,178,659,177,654,216,653"/>
+<area shape="rect" id="Node000032" href="$benchmark_8cpp.html#a80827c19048bda10896c83bcd8069044" title=" " alt="" coords="45,819,141,845"/>
+<area shape="poly" id="edge32_Node000031_Node000032" title=" " alt="" coords="232,834,141,834,141,829,232,829"/>
+</map>

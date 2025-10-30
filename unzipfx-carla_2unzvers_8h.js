@@ -1,0 +1,27 @@
+var unzipfx_carla_2unzvers_8h =
+[
+    [ "DW_MAJORVER", "unzipfx-carla_2unzvers_8h.html#a7de11b417f01458626249106e30a8fbe", null ],
+    [ "DW_MINORVER", "unzipfx-carla_2unzvers_8h.html#a9997ef693ba357d75080678bc0ad3ffb", null ],
+    [ "DW_PATCHLEVEL", "unzipfx-carla_2unzvers_8h.html#a27e047b3b2d86017db9743b62f49f993", null ],
+    [ "IZ_COMPANY_NAME", "unzipfx-carla_2unzvers_8h.html#aa40fff69a8e0ce1f612376b68c7598bf", null ],
+    [ "RELEASE", "unzipfx-carla_2unzvers_8h.html#a5bd9a30fc22d9a737ee060d41a4ec479", null ],
+    [ "UNZ_DLL_VERSION", "unzipfx-carla_2unzvers_8h.html#a30bd1d75bffbf57ede95d6bd4acba892", null ],
+    [ "UZ_BETALEVEL", "unzipfx-carla_2unzvers_8h.html#a1929c44fbe20a93a20675abf45956661", null ],
+    [ "UZ_GENAPI_COMP_MAJOR", "unzipfx-carla_2unzvers_8h.html#a3f434e48b08c2bf29a5fd7a749e49526", null ],
+    [ "UZ_GENAPI_COMP_MINOR", "unzipfx-carla_2unzvers_8h.html#aa2b32efc51bf990f51b68dcb7e8df3a4", null ],
+    [ "UZ_GENAPI_COMP_REVIS", "unzipfx-carla_2unzvers_8h.html#a75bfebf579e4248c6d46fdcacdd4a20b", null ],
+    [ "UZ_MAJORVER", "unzipfx-carla_2unzvers_8h.html#a7676d56c3f8b10e25f17ac720e935f25", null ],
+    [ "UZ_MINORVER", "unzipfx-carla_2unzvers_8h.html#a10163a44db29699e901a54b3671dbf68", null ],
+    [ "UZ_OS2API_COMP_MAJOR", "unzipfx-carla_2unzvers_8h.html#a2dde4c1dc09b28b56412372c939a3dcf", null ],
+    [ "UZ_OS2API_COMP_MINOR", "unzipfx-carla_2unzvers_8h.html#ace8170b497af2d60cf9e41740a3eeffa", null ],
+    [ "UZ_OS2API_COMP_REVIS", "unzipfx-carla_2unzvers_8h.html#a5f6ead511e4158e8953f68454ce65607", null ],
+    [ "UZ_PATCHLEVEL", "unzipfx-carla_2unzvers_8h.html#a8f50d1ee2131c7d69557440e5f38a895", null ],
+    [ "UZ_VER_STRING", "unzipfx-carla_2unzvers_8h.html#a7c0a54d911eeae834492608de7a65656", null ],
+    [ "UZ_VERSION_DATE", "unzipfx-carla_2unzvers_8h.html#a4dd22649e0bd92f4bc5d76c8c4f0603c", null ],
+    [ "UZ_WINAPI_COMP_MAJOR", "unzipfx-carla_2unzvers_8h.html#aae5b27fbbf92b085ccc51b58d8286fa3", null ],
+    [ "UZ_WINAPI_COMP_MINOR", "unzipfx-carla_2unzvers_8h.html#ab44d552a35e76836178d3b8f966b9f27", null ],
+    [ "UZ_WINAPI_COMP_REVIS", "unzipfx-carla_2unzvers_8h.html#a2078f0bcdb2ba13250e6c48fb06ed7c9", null ],
+    [ "WIN_VERSION_DATE", "unzipfx-carla_2unzvers_8h.html#aeb4c95b2f19cbd87edb82b070f05bfc6", null ],
+    [ "ZI_MAJORVER", "unzipfx-carla_2unzvers_8h.html#a2774b8a69528d57b8e302fb2d3a7a483", null ],
+    [ "ZI_MINORVER", "unzipfx-carla_2unzvers_8h.html#ade5462461fe8e88c0299d938ecd86f4d", null ]
+];

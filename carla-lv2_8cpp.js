@@ -1,0 +1,26 @@
+var carla_lv2_8cpp =
+[
+    [ "PreviewData", "structPreviewData.html", "structPreviewData" ],
+    [ "NativePlugin", "classNativePlugin.html", "classNativePlugin" ],
+    [ "CARLA_NATIVE_PLUGIN_LV2", "carla-lv2_8cpp.html#a85a1451e3cff2e04d52b06141e5ade12", null ],
+    [ "handlePtr", "carla-lv2_8cpp.html#ad4746cc8274bd84714183ad115c20e4b", null ],
+    [ "instancePtr", "carla-lv2_8cpp.html#a51be56ef19e4a20c01a944ae9d6a53c3", null ],
+    [ "lv2_activate", "carla-lv2_8cpp.html#acfef0643d6e74ff121a7533ab36d5549", null ],
+    [ "lv2_cleanup", "carla-lv2_8cpp.html#a896efa8bb78ce9d3e25ae7fdbc7286db", null ],
+    [ "lv2_connect_port", "carla-lv2_8cpp.html#a535775f2f009219b8ef1f83cf4fba08f", null ],
+    [ "lv2_deactivate", "carla-lv2_8cpp.html#acee04f258b36f3cf431f377c84bc6ec6", null ],
+    [ "lv2_descriptor", "group__lv2core.html#ga85931188a8e12a97aff7512f08dd96a5", null ],
+    [ "lv2_extension_data", "carla-lv2_8cpp.html#a070be122fa61c41b2137f4a6653b810b", null ],
+    [ "lv2_get_options", "carla-lv2_8cpp.html#a059f6bc3f22c6cd588b40ecf8d0b9f65", null ],
+    [ "lv2_get_program", "carla-lv2_8cpp.html#aeb6577db6a641dcdb81a66417b283c72", null ],
+    [ "lv2_idisp_render", "carla-lv2_8cpp.html#aaac599848cc411f69294e475e2bf12a6", null ],
+    [ "lv2_instantiate", "carla-lv2_8cpp.html#a2962d914af20fb0c5e033ed2341cfffb", null ],
+    [ "lv2_restore", "carla-lv2_8cpp.html#a3bb1aa08eb5fb8e4ff0da9112e96e69f", null ],
+    [ "lv2_run", "carla-lv2_8cpp.html#a56ae1aea95c5ecd59125d1591758b3d9", null ],
+    [ "lv2_save", "carla-lv2_8cpp.html#ab720f873bed90518fff2c6a6332f5f0e", null ],
+    [ "lv2_select_program", "carla-lv2_8cpp.html#a3be5967c4d62cfa6fcc8f9ed69c9b8a8", null ],
+    [ "lv2_set_options", "carla-lv2_8cpp.html#ae1e6929c153c79cbb4cfc54f5ecd22cb", null ],
+    [ "lv2_work", "carla-lv2_8cpp.html#a050adde280b1c09dc4f4cb5144cee413", null ],
+    [ "lv2_work_resp", "carla-lv2_8cpp.html#a37525fe196cd907a4f3c2e695923b73e", null ],
+    [ "kPathForCarlaFiles", "carla-lv2_8cpp.html#a4268e3e041317cd9fcf697ee68222dbf", null ]
+];

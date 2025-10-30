@@ -1,0 +1,26 @@
+var classhiir_1_1Upsampler2xNeonOld =
+[
+    [ "DataType", "classhiir_1_1Upsampler2xNeonOld.html#a1b967579f4621072f1ab2770c574465e", null ],
+    [ "Filter", "classhiir_1_1Upsampler2xNeonOld.html#a2490e50a59dc0bbe03faae29e1995ee1", null ],
+    [ "Upsampler2xNeonOld", "classhiir_1_1Upsampler2xNeonOld.html#a0b266f970134573bc283e278d7eb1a5b", null ],
+    [ "Upsampler2xNeonOld", "classhiir_1_1Upsampler2xNeonOld.html#aaa8c1b5f6bbaa6b24833204a9de9c11f", null ],
+    [ "Upsampler2xNeonOld", "classhiir_1_1Upsampler2xNeonOld.html#abee09a1b58150535dafdbaf234553f92", null ],
+    [ "~Upsampler2xNeonOld", "classhiir_1_1Upsampler2xNeonOld.html#aa47037f013cd69a073b1146036882aa8", null ],
+    [ "clear_buffers", "classhiir_1_1Upsampler2xNeonOld.html#a019c94329df228aad0d62c5b604eccea", null ],
+    [ "operator!=", "classhiir_1_1Upsampler2xNeonOld.html#adde01aa797cb0933f7b0637b0c603a5b", null ],
+    [ "operator=", "classhiir_1_1Upsampler2xNeonOld.html#a8ad52febada3d0ef164012fcf1a49de2", null ],
+    [ "operator=", "classhiir_1_1Upsampler2xNeonOld.html#a3b96e0db6bd2a9ababd553e3cd3a1688", null ],
+    [ "operator==", "classhiir_1_1Upsampler2xNeonOld.html#a349d3cae551e621d7d5dccd8e6f86e6c", null ],
+    [ "process_block", "classhiir_1_1Upsampler2xNeonOld.html#aae1139a106384cb4a422b15c037212cb", null ],
+    [ "process_block_quad", "classhiir_1_1Upsampler2xNeonOld.html#aa692dba823e7064b28496c4b974f15a3", null ],
+    [ "process_sample", "classhiir_1_1Upsampler2xNeonOld.html#a7ca10dd267bcabb4dfdea5f31cbedcfb", null ],
+    [ "set_coefs", "classhiir_1_1Upsampler2xNeonOld.html#a3dd9bf8792f68755b2e4b29c98229173", null ],
+    [ "set_single_coef", "classhiir_1_1Upsampler2xNeonOld.html#ab21ed01f290702a79727551a4cea152c", null ],
+    [ "_coef_shift", "classhiir_1_1Upsampler2xNeonOld.html#acc83fc5c32e44ff9df229e51c0575d86", null ],
+    [ "_delay", "classhiir_1_1Upsampler2xNeonOld.html#ab3339a5906b4189edf3c12c963750425", null ],
+    [ "_filter", "classhiir_1_1Upsampler2xNeonOld.html#a2af7e36626914a43dde42752bee028fb", null ],
+    [ "_nbr_chn", "classhiir_1_1Upsampler2xNeonOld.html#ae89f00d53ecc1025aba103c5e33bf3c8", null ],
+    [ "_nbr_stages", "classhiir_1_1Upsampler2xNeonOld.html#a52d9b178e7dcd9d92e1851cb6dd0affc", null ],
+    [ "_stage_width", "classhiir_1_1Upsampler2xNeonOld.html#a25e91df09374beff4c78b95306ee8493", null ],
+    [ "NBR_COEFS", "classhiir_1_1Upsampler2xNeonOld.html#a47d678b1668a4f9b417e5742fa91f840", null ]
+];

@@ -1,0 +1,9 @@
+<map id="calf_plugins::multibandlimiter_audio_module::set_srates" name="calf_plugins::multibandlimiter_audio_module::set_srates">
+<area shape="rect" id="Node000001" title=" " alt="" coords="502,39,689,79"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1multibandlimiter__audio__module.html#ac2237c8ce8744e6c56dd04c8d93eee7c" title="Called when params are changed (before processing)." alt="" coords="241,5,454,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,47,454,43,455,37,487,42"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1multibandlimiter__audio__module.html#a699aaa6176f8fcc40abe19bfca5cb13b" title="Set sample rate for the plugin." alt="" coords="242,71,452,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="487,76,453,80,452,75,486,70"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1multibandlimiter__audio__module.html#a8e590f012d5e65f1200c2dbcea6a1494" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,5,193,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,28,193,28,193,23,225,23"/>
+</map>

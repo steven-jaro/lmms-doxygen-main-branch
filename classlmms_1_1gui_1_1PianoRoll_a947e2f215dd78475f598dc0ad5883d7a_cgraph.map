@@ -1,0 +1,45 @@
+<map id="lmms::gui::PianoRoll::keyReleaseEvent" name="lmms::gui::PianoRoll::keyReleaseEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,284,143,325"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="36,284,34,274,41,265,54,259,74,257,96,260,108,266,106,271,94,265,74,263,55,265,44,269,40,275,41,283"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1PianoRoll.html#a88b09f65945dcb07983d500fd469fdac" title=" " alt="" coords="191,87,354,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,282,189,181,235,136,239,140,193,185,97,285"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1PianoRoll.html#a9c5f802daf777f38b629ac0031edcc58" title=" " alt="" coords="673,179,810,219"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="138,323,232,347,290,357,352,365,416,368,481,365,545,354,606,334,641,314,671,287,717,231,722,234,675,291,644,318,608,339,546,359,482,370,416,373,351,370,289,363,231,352,137,328"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1PianoView.html#a14cc939638bf9b01451cc7a5ac65b9c3" title="Map a keyboard key being pressed to a note in our keyboard view." alt="" coords="196,284,348,325"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="143,302,180,302,180,307,143,307"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1PianoRoll.html#a53c75493872b7762271629e98d9b1fd9" title=" " alt="" coords="204,507,341,547"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="96,324,245,493,241,497,92,327"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1gui_1_1PianoRoll.html#abbc365f55106dbfe5bf3154f01c1cfce" title="Computes which notes belong to which chords from the selection." alt="" coords="197,219,348,259"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="137,281,193,262,195,267,139,286"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="235,87,233,77,239,68,252,62,272,60,294,62,307,69,304,73,292,68,272,65,254,67,242,72,238,78,240,85"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="355,114,475,131,608,156,664,171,662,176,607,162,474,136,354,119"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1PianoRoll.html#a9c94d93834104c9e24eff2b3e6f6c26b" title=" " alt="" coords="436,29,573,70"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="354,84,420,68,422,73,355,89"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="461,29,459,19,466,10,481,5,505,3,530,5,545,11,543,16,528,10,505,8,482,10,469,15,464,21,466,28"/>
+<area shape="rect" id="Node000006" href="$namespacelmms_1_1gui.html#ad2a0c34c2bdc8f7a78ec5ab5e8a40a44" title=" " alt="" coords="411,284,598,325"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="349,302,396,302,396,307,349,307"/>
+<area shape="poly" id="edge19_Node000007_Node000007" title=" " alt="" coords="235,507,233,497,239,488,252,482,272,480,294,482,307,489,304,493,292,488,272,485,254,487,242,492,238,498,240,505"/>
+<area shape="rect" id="Node000008" href="$structlmms_1_1InstrumentFunctionNoteStacking_1_1ChordTable.html#a30d0c0f3300dc1ab87fecc227d207072" title=" " alt="" coords="418,399,591,455"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="316,504,401,465,415,459,417,464,403,469,318,508"/>
+<area shape="rect" id="Node000010" href="$structlmms_1_1InstrumentFunctionNoteStacking_1_1ChordTable.html#a4bf858238c95dd8c83ba347954e35afc" title=" " alt="" coords="418,594,591,650"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="325,545,421,585,419,590,323,550"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1Piano.html#a2978fa7aec7f772618d8f72310125e77" title="Handle a note being released on our keyboard display." alt="" coords="402,674,607,700"/>
+<area shape="poly" id="edge15_Node000007_Node000012" title=" " alt="" coords="290,546,336,603,368,634,403,659,416,666,413,670,401,664,364,638,332,607,286,550"/>
+<area shape="rect" id="Node000014" href="$structlmms_1_1InstrumentFunctionNoteStacking_1_1Chord.html#a6964d1c3bd5bffc4faa6a0292250ffc4" title=" " alt="" coords="408,479,601,519"/>
+<area shape="poly" id="edge17_Node000007_Node000014" title=" " alt="" coords="341,516,393,510,394,515,342,521"/>
+<area shape="rect" id="Node000015" href="$structlmms_1_1InstrumentFunctionNoteStacking_1_1Chord.html#aa1c475956d2eb06866205647892bb8ba" title=" " alt="" coords="656,504,827,545"/>
+<area shape="poly" id="edge20_Node000007_Node000015" title=" " alt="" coords="342,527,402,528,607,528,640,527,640,533,607,534,402,534,342,532"/>
+<area shape="rect" id="Node000009" href="$structlmms_1_1InstrumentFunctionNoteStacking_1_1ChordTable.html#a08bfce26132c362d0ce729e32eddf5ba" title=" " alt="" coords="655,399,828,455"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="591,424,640,424,640,430,591,430"/>
+<area shape="rect" id="Node000011" href="$structlmms_1_1InstrumentFunctionNoteStacking_1_1ChordTable.html#a7a7cacb1efbd15344d4134ebd9287e15" title=" " alt="" coords="655,594,828,650"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="591,619,640,619,640,624,591,624"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1Piano.html#a590c0908ed2dcd26d71861a52bc5a86b" title=" " alt="" coords="662,674,821,700"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="608,684,646,684,646,690,608,690"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="602,507,640,511,640,516,601,512"/>
+<area shape="poly" id="edge25_Node000016_Node000003" title=" " alt="" coords="309,216,353,196,401,180,468,171,536,170,601,174,658,181,657,186,600,179,536,175,469,177,403,186,354,201,312,220"/>
+<area shape="poly" id="edge26_Node000016_Node000016" title=" " alt="" coords="235,219,233,209,239,200,252,194,272,192,294,194,307,201,304,205,292,200,272,197,254,199,242,204,238,210,240,217"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1gui_1_1PianoRoll.html#a4f0a65c99f59ebc2a29b5d3e69599299" title=" " alt="" coords="436,219,573,259"/>
+<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="348,236,420,236,420,242,348,242"/>
+<area shape="poly" id="edge24_Node000017_Node000003" title=" " alt="" coords="573,225,657,211,658,216,574,230"/>
+<area shape="poly" id="edge23_Node000017_Node000017" title=" " alt="" coords="461,219,459,209,466,200,481,194,505,192,530,194,545,201,543,206,528,200,505,197,482,199,469,204,464,210,466,217"/>
+</map>

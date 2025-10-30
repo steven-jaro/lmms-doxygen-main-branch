@@ -1,0 +1,25 @@
+var CarlaBackendUtils_8hpp =
+[
+    [ "BinaryType2Str", "CarlaBackendUtils_8hpp.html#aa14e48ab73fc2aeb3f09b840dd3ff4af", null ],
+    [ "EngineCallbackOpcode2Str", "CarlaBackendUtils_8hpp.html#a788537d40db0fc446dfde61e8af7c0d1", null ],
+    [ "EngineOption2Str", "CarlaBackendUtils_8hpp.html#a7d9e05b850fcfd13cea7f20bd56425b2", null ],
+    [ "EngineProcessMode2Str", "CarlaBackendUtils_8hpp.html#a40c689c62e3fdecca1584573a760ff47", null ],
+    [ "EngineTransportMode2Str", "CarlaBackendUtils_8hpp.html#af98cb205dbbf184514bc9573649d0129", null ],
+    [ "FileCallbackOpcode2Str", "CarlaBackendUtils_8hpp.html#a90652b3a4c41457af74d134f3b285c13", null ],
+    [ "FileType2Str", "CarlaBackendUtils_8hpp.html#a8f2fae31ffb93e1447d70d205d93533a", null ],
+    [ "getBinaryTypeAsString", "CarlaBackendUtils_8hpp.html#a217491b93ac3fe8a3ca8d1fb44966c73", null ],
+    [ "getBinaryTypeFromString", "CarlaBackendUtils_8hpp.html#a3e8dc4407d710c4ca735ebcf43777785", null ],
+    [ "getPluginCategoryAsString", "CarlaBackendUtils_8hpp.html#a39480effd8647da0875ae54d02f46d00", null ],
+    [ "getPluginCategoryFromName", "CarlaBackendUtils_8hpp.html#a579ac16bc6f1646ab4c6a5b3a43ff09f", null ],
+    [ "getPluginCategoryFromString", "CarlaBackendUtils_8hpp.html#aa59abfc3da4fcb469186ff79293524a4", null ],
+    [ "getPluginTypeAsString", "CarlaBackendUtils_8hpp.html#a05882f4999cd3adbe41f5dae69e2ddcb", null ],
+    [ "getPluginTypeFromString", "CarlaBackendUtils_8hpp.html#a23fd7ab32753fc792b527983933d48a9", null ],
+    [ "InternalParameterIndex2Str", "CarlaBackendUtils_8hpp.html#a1c0631b3be1957ae9a3d68da7abf22e3", null ],
+    [ "isPluginOptionEnabled", "CarlaBackendUtils_8hpp.html#a35ed828e3fe3f0239a0ad4ad0dde670b", null ],
+    [ "isPluginOptionInverseEnabled", "CarlaBackendUtils_8hpp.html#a3dcf4dd3efdd719684740465e86c583a", null ],
+    [ "ParameterType2Str", "CarlaBackendUtils_8hpp.html#a542f44096e2e3f3cd8e1ce4aab0a77b6", null ],
+    [ "PatchbayIcon2Str", "CarlaBackendUtils_8hpp.html#a572425b5631620ea4099be153e24098e", null ],
+    [ "PluginCategory2Str", "CarlaBackendUtils_8hpp.html#a1ab9022585c7ca2e24362dd52097b2a3", null ],
+    [ "PluginOption2Str", "CarlaBackendUtils_8hpp.html#a7417b901d9a3f63caaa12b04e59f1924", null ],
+    [ "PluginType2Str", "CarlaBackendUtils_8hpp.html#a81f8d13a5c9076e96e6441a88a91f5eb", null ]
+];

@@ -1,0 +1,19 @@
+<map id="Jack::JackClient" name="Jack::JackClient">
+<area shape="rect" id="Node000001" title="The base class for clients: share part of the implementation for JackInternalClient and JackLibClient..." alt="" coords="187,201,370,1508"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackDebugClient.html" title="A &quot;decorator&quot; debug client to validate API use." alt="" coords="5,1556,180,2273"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,1393,158,1556,153,1555,181,1392"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackInternalClient.html" title="Internal clients in the server." alt="" coords="204,1800,352,2029"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="281,1523,281,1800,276,1800,276,1523"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackLibClient.html" title="Client on the library side." alt="" coords="377,1800,515,2029"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="375,1446,431,1799,426,1800,369,1447"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="105,5,262,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,168,201,201,196,201,192,168"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="285,16,463,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="367,158,362,202,357,201,362,157"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackLoadableInternalClient.html" title=" " alt="" coords="180,2321,376,2483"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="281,2044,281,2321,276,2321,276,2044"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackLoadableInternalClient1.html" title=" " alt="" coords="63,2531,266,2694"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="230,2498,211,2533,206,2530,225,2495"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackLoadableInternalClient2.html" title=" " alt="" coords="290,2531,493,2694"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="331,2495,350,2530,346,2533,326,2498"/>
+</map>

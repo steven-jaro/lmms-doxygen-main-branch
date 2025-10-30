@@ -1,0 +1,43 @@
+<map id="lmms::Song::stop" name="lmms::Song::stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,385,126,411"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="175,5,350,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,385,66,324,80,232,93,181,112,130,138,83,172,42,176,38,180,42,176,45,142,86,117,133,98,182,85,233,72,324,69,385"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1AudioEngine.html#ae3bb3e9d370b9d5bfcabb815dc47281c" title=" " alt="" coords="194,55,331,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,385,73,335,91,263,123,184,145,146,172,112,183,102,187,106,176,116,149,149,128,186,96,265,79,336,71,385"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1Song.html#a5b690582c1ab3154ca014372015d4fd0" title=" " alt="" coords="176,171,348,196"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="68,384,80,349,101,301,131,250,150,227,172,207,179,202,182,206,175,211,154,231,135,253,105,303,85,351,73,386"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Engine.html#a5e9f32825d363cf882023a39f937c663" title=" " alt="" coords="399,145,588,171"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="65,385,72,339,89,275,103,241,121,209,144,180,172,156,204,140,238,129,273,123,309,121,377,127,436,138,435,143,377,132,309,127,274,128,239,134,206,144,175,160,148,183,125,212,108,243,94,277,77,340,71,386"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1AudioEngine.html#a8650b17deaa8f1eb4030651619050dab" title=" " alt="" coords="193,220,332,261"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="74,383,113,333,141,304,172,277,190,266,192,271,175,282,145,308,117,336,78,386"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1Song.html#ac0a9956b80f685c6db28227ee8684f0d" title=" " alt="" coords="413,285,574,311"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="79,383,119,350,145,334,173,321,229,305,288,296,397,290,398,296,289,301,230,310,175,326,147,339,122,355,82,387"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1Song.html#afcb9cc442c4b1af5b403221a05d20bd8" title=" " alt="" coords="190,336,335,362"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="119,382,193,363,194,369,121,387"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1Song.html#a5eb3681621a29be2650a0b5e44426ba8" title=" " alt="" coords="181,385,344,411"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="126,396,166,396,166,401,126,401"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1Song.html#a4125bae4973c69aa24ca61085cc222c4" title=" " alt="" coords="174,435,351,476"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="113,409,177,428,175,433,112,414"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1AudioEngine.html#ae970a2bc94b7fa2d98fe114cb8953438" title="Block until a change in model can be done (i.e. wait for audio thread)." alt="" coords="185,500,340,541"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="81,409,121,446,175,485,186,491,184,496,172,490,118,450,78,413"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1Song_1_1PlayPos.html#a8e70bae72950da1487f69256d4fe2b8c" title=" " alt="" coords="191,566,334,606"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="75,410,111,477,140,516,175,551,182,556,179,560,172,555,136,520,107,479,70,413"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1TimePos.html#a14ae5fd465b4fc3ffda660466fe35d77" title=" " alt="" coords="179,631,346,656"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="72,411,82,451,101,506,132,566,152,593,175,616,182,621,178,625,172,620,148,596,127,568,96,509,77,452,67,412"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1Song.html#a8d329d2ecb5641144885efe41c3644d2" title=" " alt="" coords="184,704,341,730"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="71,411,81,457,99,524,130,599,151,635,176,667,192,682,212,694,209,699,189,686,172,671,147,638,126,601,94,526,75,458,66,412"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1AutomatableModel.html#a137d7cba93be5842981f1d2250567dc9" title=" " alt="" coords="179,754,346,794"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="70,411,74,470,88,558,101,606,120,655,144,700,176,740,177,742,173,746,172,744,140,703,115,657,96,608,83,559,68,471,64,412"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1Song.html#afa3cef5da7f0180b3cf9919dcc035b98" title=" " alt="" coords="192,819,333,844"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="71,411,83,491,105,610,137,728,155,774,176,804,180,809,177,813,172,808,151,776,132,729,100,611,78,492,66,412"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="349,171,383,168,384,173,349,177"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1Song.html#a81c8e6ea39c3c9d2dc6a16d2590695ec" title=" " alt="" coords="636,285,798,311"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="318,194,649,278,648,284,316,200"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="575,296,621,296,621,301,575,301"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1Song.html#a6d785cd8801e71667a06890f1695883a" title=" " alt="" coords="414,335,574,360"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="335,346,398,345,398,351,335,351"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="555,331,640,312,641,318,556,337"/>
+<area shape="poly" id="edge19_Node000016_Node000016" title=" " alt="" coords="229,705,223,695,227,686,240,679,262,677,287,680,299,687,296,692,285,685,262,683,242,685,231,689,228,695,234,702"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1Model.html#a140ee903da70ba289abf1ee473df34cb" title=" " alt="" coords="406,761,582,787"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="346,772,390,772,390,777,346,777"/>
+</map>

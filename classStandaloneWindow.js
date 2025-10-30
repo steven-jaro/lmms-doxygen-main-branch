@@ -1,0 +1,25 @@
+var classStandaloneWindow =
+[
+    [ "StandaloneWindow", "classStandaloneWindow.html#a28d4f09b9f280c1d03cc77fc63465b48", null ],
+    [ "StandaloneWindow", "classStandaloneWindow.html#a86e7db3cd8830628b37d0608df40963c", null ],
+    [ "addIdleCallback", "classStandaloneWindow.html#a998f83b8ca12e4024b8579b807d0b531", null ],
+    [ "done", "classStandaloneWindow.html#a3b13bbbe8b8c431806ab50d2ea3410ad", null ],
+    [ "getApp", "classStandaloneWindow.html#a89b6935587aafecd876dbe35313d7f54", null ],
+    [ "getGraphicsContext", "classStandaloneWindow.html#a8fa694d77e63343dc4f038fd35b1266b", null ],
+    [ "getHeight", "classStandaloneWindow.html#a73bbd4db4435db6bf182b2313462ece8", null ],
+    [ "getScaleFactor", "classStandaloneWindow.html#a5b8e1fe44d2e2a7443e78c2485ef87e2", null ],
+    [ "getSize", "classStandaloneWindow.html#a6c096e47215f4083c096097c2cbb9b2e", null ],
+    [ "getWidth", "classStandaloneWindow.html#a8c774feb91252d04b9d239a3cc698a6c", null ],
+    [ "hide", "classStandaloneWindow.html#aadbc0c9094886df8c935a3135566464f", null ],
+    [ "isVisible", "classStandaloneWindow.html#a645f7c56f44d9a8a72e81595b28650e2", null ],
+    [ "removeIdleCallback", "classStandaloneWindow.html#ac632d59d957ef846c2a09c057bede3b7", null ],
+    [ "repaint", "classStandaloneWindow.html#aa1475d362245c793b516a232deab70ff", null ],
+    [ "setGeometryConstraints", "classStandaloneWindow.html#adfcc60ee3e74ae2042a2d708ddc0c7aa", null ],
+    [ "setHeight", "classStandaloneWindow.html#aad7b6ee28085ee9437496c48696072f4", null ],
+    [ "setSize", "classStandaloneWindow.html#a852ce7534ac02c4072959a2df7219312", null ],
+    [ "setSize", "classStandaloneWindow.html#a22f216c11386b46e6aa32c10f188852b", null ],
+    [ "setVisible", "classStandaloneWindow.html#aed1c4bcb15863e45ee9a9a1d879684de", null ],
+    [ "setWidth", "classStandaloneWindow.html#a22eed5b20668a70230f51a8baa3619cb", null ],
+    [ "show", "classStandaloneWindow.html#a1fc522817ac8f85005a373b4298e3e01", null ],
+    [ "sgc", "classStandaloneWindow.html#ad992a0875f0a0ba2b5b9e29e83bde37d", null ]
+];

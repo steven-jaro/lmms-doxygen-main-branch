@@ -1,0 +1,5 @@
+var structasio_1_1associated__allocator_3_01detail_1_1read__at__op_3_01AsyncRandomAccessReadDevice_015df343974f2aaab46ea7f7eb2c97189 =
+[
+    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1read__at__op_3_01AsyncRandomAccessReadDevice_015df343974f2aaab46ea7f7eb2c97189.html#a91b65ced622b2c6db4e58abef1fc77b6", null ],
+    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1read__at__op_3_01AsyncRandomAccessReadDevice_015df343974f2aaab46ea7f7eb2c97189.html#a2c800b90f0688114c2bd795c7bf602d1", null ]
+];

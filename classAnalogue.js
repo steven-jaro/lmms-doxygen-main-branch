@@ -1,0 +1,25 @@
+var classAnalogue =
+[
+    [ "Analogue", "classAnalogue.html#a087cd14a94a908751db8cbd2aa986e23", null ],
+    [ "~Analogue", "classAnalogue.html#a11c25a5996de6130a847b752ce7e53c9", null ],
+    [ "activate", "classAnalogue.html#a05d69e0991c2a2f2ab592f8e6b94ad86", null ],
+    [ "calc_a_b_c", "classAnalogue.html#a4f7f8b677152b89b4e8b82362a81b825", null ],
+    [ "envelope", "classAnalogue.html#abf03c5c1d33a2c118256d60e9a663926", null ],
+    [ "fast_sin", "classAnalogue.html#a1e69f5f20c6bd1465beb58f6413edaaf", null ],
+    [ "inc", "classAnalogue.html#a88a96b63bb9adda09d16b195c43b5810", null ],
+    [ "multiplier", "classAnalogue.html#a26f979f9aa6296e36fe01469f3d9e281", null ],
+    [ "osc", "classAnalogue.html#ac929537269c44bed486cd12067296405", null ],
+    [ "run", "classAnalogue.html#accd3ae7c010e1b8b33e7baeda4fd4189", null ],
+    [ "tri", "classAnalogue.html#a3e40aef9551cc9a4ce868d9640c49c61", null ],
+    [ "d1", "classAnalogue.html#ae567fdaffda590590e797de6e8245fb6", null ],
+    [ "d2", "classAnalogue.html#adfd9911b81fc3985056531c54dbfc66e", null ],
+    [ "dco1_accum", "classAnalogue.html#ac86c80de05a1b8f3daa773150e5f7b67", null ],
+    [ "dco1_env", "classAnalogue.html#afdf132c226d24d540889502e337903f6", null ],
+    [ "dco2_accum", "classAnalogue.html#ad3415fc3057cd3866a7b2ae5d8444915", null ],
+    [ "dco2_env", "classAnalogue.html#a5a497aeba9849d6a6066c3191cddc1ad", null ],
+    [ "filt_env", "classAnalogue.html#a43a66ddf059ef447c779f266c07f9a64", null ],
+    [ "lfo_accum", "classAnalogue.html#af79e3613653b4289871756b8b41168b2", null ],
+    [ "lfo_vol", "classAnalogue.html#a58d2197089265f2f2a3102f05b0ca15d", null ],
+    [ "sample_rate", "classAnalogue.html#ac5246860b091b071260149292ac3edc4", null ],
+    [ "trigger", "classAnalogue.html#a1e1b4b56f6585e5d8d100b4ad0d5a5e0", null ]
+];

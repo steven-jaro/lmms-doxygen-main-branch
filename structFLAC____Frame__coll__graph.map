@@ -1,0 +1,20 @@
+<map id="FLAC__Frame" name="FLAC__Frame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,722,401,789"/>
+<area shape="rect" id="Node000002" href="$structFLAC____FrameHeader.html" title=" " alt="" coords="129,402,272,651"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,650,295,697,306,709,302,712,291,700,259,653"/>
+<area shape="rect" id="Node000003" href="$structFLAC____Subframe.html" title=" " alt="" coords="296,473,411,580"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="356,580,356,706,351,706,351,580"/>
+<area shape="rect" id="Node000004" href="$structFLAC____Subframe__Constant.html" title=" " alt="" coords="5,214,179,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,278,177,326,240,376,263,386,274,391,286,400,309,427,327,457,323,460,305,430,282,404,271,396,261,391,237,380,174,330,121,282"/>
+<area shape="rect" id="Node000005" href="$structFLAC____Subframe__Fixed.html" title=" " alt="" coords="202,194,355,300"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="295,300,338,456,333,458,290,301"/>
+<area shape="rect" id="Node000006" href="$structFLAC____EntropyCodingMethod.html" title=" " alt="" coords="273,5,458,92"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="296,93,278,117,269,146,267,177,262,177,263,145,273,115,291,90"/>
+<area shape="rect" id="Node000009" href="$structFLAC____Subframe__LPC.html" title=" " alt="" coords="380,163,527,331"/>
+<area shape="poly" id="edge7_Node000009_Node000006" title=" " alt="" coords="414,90,431,115,443,145,438,147,426,117,409,93"/>
+<area shape="poly" id="edge6_Node000003_Node000009" title=" " alt="" coords="426,332,381,458,376,456,421,330"/>
+<area shape="rect" id="Node000010" href="$structFLAC____Subframe__Verbatim.html" title=" " alt="" coords="552,214,726,280"/>
+<area shape="poly" id="edge8_Node000003_Node000010" title=" " alt="" coords="605,282,540,333,507,353,479,366,453,380,425,404,403,430,386,459,381,457,399,427,421,400,450,375,477,361,505,348,537,329,602,278"/>
+<area shape="rect" id="Node000011" href="$structFLAC____FrameFooter.html" title=" " alt="" coords="435,494,568,560"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="498,561,478,628,461,666,438,700,417,721,413,717,434,697,456,663,473,626,493,559"/>
+</map>

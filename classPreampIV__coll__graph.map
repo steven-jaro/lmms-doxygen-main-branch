@@ -1,0 +1,33 @@
+<map id="PreampIV" name="PreampIV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,1571,540,1719"/>
+<area shape="rect" id="Node000002" href="$classPreampIII.html" title=" " alt="" coords="444,1342,540,1490"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,1505,495,1572,489,1572,489,1505"/>
+<area shape="rect" id="Node000003" href="$classAmpStub.html" title=" " alt="" coords="426,1002,544,1170"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="490,1184,493,1343,488,1343,485,1184"/>
+<area shape="rect" id="Node000004" href="$classPlugin.html" title=" " alt="" coords="569,183,721,839"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="568,811,560,840,513,1003,507,1002,555,839,563,810"/>
+<area shape="rect" id="Node000014" href="$struct__LADSPA__PortRangeHint.html" title=" " alt="" coords="5,5,168,112"/>
+<area shape="poly" id="edge4_Node000004_Node000014" title=" " alt="" coords="168,69,272,86,388,111,491,143,531,161,559,181,560,182,556,186,556,185,528,166,489,148,386,116,271,92,167,74"/>
+<area shape="rect" id="Node000020" href="$structPortInfo.html" title=" " alt="" coords="314,1042,395,1129"/>
+<area shape="poly" id="edge11_Node000020_Node000014" title=" " alt="" coords="74,113,45,245,31,333,22,430,19,533,26,637,46,740,61,790,80,838,99,875,124,908,182,968,244,1017,301,1053,298,1057,241,1021,179,972,120,912,95,877,75,840,56,792,40,742,21,638,14,533,16,430,26,332,40,244,69,111"/>
+<area shape="rect" id="Node000015" href="$classDSP_1_1TwelveAX7__3.html" title=" " alt="" coords="746,397,870,626"/>
+<area shape="poly" id="edge5_Node000003_Node000015" title=" " alt="" coords="810,626,803,680,790,737,768,792,735,841,714,861,692,872,647,879,602,886,580,895,558,912,531,947,512,987,507,985,527,944,554,908,577,890,601,880,646,874,690,867,711,856,731,838,763,790,785,736,798,679,805,625"/>
+<area shape="rect" id="Node000016" href="$classDSP_1_1OnePoleHP.html" title=" " alt="" coords="137,387,250,636"/>
+<area shape="poly" id="edge6_Node000003_Node000016" title=" " alt="" coords="199,635,206,686,218,739,237,791,264,838,279,856,295,866,337,884,357,890,374,893,390,897,408,908,438,944,460,985,455,987,434,947,405,912,388,902,373,898,355,896,335,889,292,871,276,860,259,841,232,793,213,741,201,687,194,636"/>
+<area shape="rect" id="Node000017" href="$classDSP_1_1FIRUpsampler.html" title=" " alt="" coords="274,366,401,656"/>
+<area shape="poly" id="edge7_Node000003_Node000017" title=" " alt="" coords="371,656,416,839,457,985,452,986,411,840,366,657"/>
+<area shape="rect" id="Node000018" href="$classDSP_1_1FIR.html" title=" " alt="" coords="426,346,545,677"/>
+<area shape="poly" id="edge8_Node000003_Node000018" title=" " alt="" coords="488,677,488,985,483,985,483,677"/>
+<area shape="rect" id="Node000019" href="$classDSP_1_1BiQuad.html" title=" " alt="" coords="568,931,674,1241"/>
+<area shape="poly" id="edge9_Node000002_Node000019" title=" " alt="" coords="571,1230,558,1262,532,1328,527,1326,554,1260,566,1228"/>
+<area shape="poly" id="edge16_Node000001_Node000020" title=" " alt="" coords="349,1129,340,1202,336,1296,337,1347,343,1399,353,1450,368,1499,381,1525,397,1550,435,1592,431,1596,393,1553,376,1528,364,1501,348,1452,337,1400,332,1347,330,1295,335,1201,344,1129"/>
+<area shape="poly" id="edge10_Node000002_Node000020" title=" " alt="" coords="365,1128,386,1213,401,1261,420,1307,437,1338,433,1341,416,1309,396,1263,381,1214,360,1130"/>
+<area shape="rect" id="Node000021" href="$classToneControls.html" title=" " alt="" coords="793,1332,909,1500"/>
+<area shape="poly" id="edge12_Node000001_Node000021" title=" " alt="" coords="794,1456,555,1607,552,1603,792,1452"/>
+<area shape="rect" id="Node000022" href="$classDSP_1_1Eq.html" title=" " alt="" coords="805,910,896,1261"/>
+<area shape="poly" id="edge13_Node000021_Node000022" title=" " alt="" coords="853,1261,853,1316,848,1316,848,1261"/>
+<area shape="rect" id="Node000023" href="$classDSP_1_1Eq.html" title=" " alt="" coords="895,328,1022,694"/>
+<area shape="poly" id="edge14_Node000022_Node000023" title=" " alt="" coords="924,709,886,911,881,910,919,708"/>
+<area shape="rect" id="Node000024" href="$structPreampBand.html" title=" " alt="" coords="920,1032,1006,1139"/>
+<area shape="poly" id="edge15_Node000021_Node000024" title=" " alt="" coords="950,1140,911,1262,891,1317,886,1316,905,1260,945,1138"/>
+</map>

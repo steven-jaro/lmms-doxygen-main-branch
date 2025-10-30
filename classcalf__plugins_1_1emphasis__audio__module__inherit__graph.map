@@ -1,0 +1,20 @@
+<map id="calf_plugins::emphasis_audio_module" name="calf_plugins::emphasis_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,2131,529,2538"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="239,1396,447,2082"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,2096,410,2131,405,2132,399,2097"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1emphasis__metadata.html" title="Damien&#39;s RIAA and CD Emphasis &#45; metadata." alt="" coords="66,941,208,1023"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,1036,252,1396,247,1397,149,1038"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="5,16,216,580"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,594,138,942,133,942,120,594"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="240,5,406,590"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="324,605,324,639,321,982,324,1325,326,1396,321,1396,319,1325,315,982,319,639,319,605"/>
+<area shape="rect" id="Node000008" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="333,639,541,1325"/>
+<area shape="poly" id="edge7_Node000008_Node000007" title=" " alt="" coords="377,604,383,639,377,640,371,605"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="395,1340,388,1397,383,1396,390,1339"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="430,264,495,331"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="464,345,453,639,447,639,458,345"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1frequency__response__line__graph.html" title="Line graph interface implementation for frequency response graphs." alt="" coords="517,1658,661,1820"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="568,1835,494,2132,489,2131,563,1834"/>
+<area shape="rect" id="Node000011" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="565,880,709,1084"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="633,1099,597,1658,592,1658,627,1098"/>
+</map>

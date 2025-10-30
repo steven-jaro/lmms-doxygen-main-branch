@@ -1,0 +1,28 @@
+var ladspa_util_8h =
+[
+    [ "fixp16", "unionfixp16.html", "unionfixp16" ],
+    [ "fixp32", "unionfixp32.html", "unionfixp32" ],
+    [ "ls_pcast32", "unionls__pcast32.html", "unionls__pcast32" ],
+    [ "_USE_MATH_DEFINES", "ladspa-util_8h.html#a525335710b53cb064ca56b936120431e", null ],
+    [ "CO_DB", "ladspa-util_8h.html#a36f686d86976a00da402e559d1b5ff00", null ],
+    [ "DB_CO", "ladspa-util_8h.html#a53ed5adfe4689d3eb8a352c0666e21db", null ],
+    [ "DN_CHECK", "ladspa-util_8h.html#a34a24cb217b2cb994fa68a17223b16cc", null ],
+    [ "f_abs", "ladspa-util_8h.html#aa1ce8853c997979961860315b3725ebb", null ],
+    [ "f_exp", "ladspa-util_8h.html#a8b00799ea4319ebb01a6ae07e20e3467", null ],
+    [ "LIMIT", "ladspa-util_8h.html#adccbc76e8c256f081a05419edc55b443", null ],
+    [ "LIN_INTERP", "ladspa-util_8h.html#a552aad91b0d7ed23a2061e6b15743192", null ],
+    [ "LN2R", "ladspa-util_8h.html#af603a3b3d727c1a3d3970029fa07aad1", null ],
+    [ "MOD", "ladspa-util_8h.html#ac70a0bb1d6c72e1bcfded1a1cd14fb88", null ],
+    [ "NEG_MOD", "ladspa-util_8h.html#a76e9fdb416e151885f18781b80eb4596", null ],
+    [ "cube_interp", "ladspa-util_8h.html#aaa7d00014e73b7e466967d49b4e562cd", null ],
+    [ "f_clamp", "ladspa-util_8h.html#a08557adee155c74db82e57cb67c9b960", null ],
+    [ "f_max", "ladspa-util_8h.html#ab747a5cf2b7b42a155e22bb06ddb65d7", null ],
+    [ "f_min", "ladspa-util_8h.html#a96431c792ddeed67035ab7c3d08c342e", null ],
+    [ "f_pow2", "ladspa-util_8h.html#a88ec980655b6c98cc00dbd09636f1ac4", null ],
+    [ "f_round", "ladspa-util_8h.html#ace2d316d2ffe1638948510868148c875", null ],
+    [ "f_sin_sq", "ladspa-util_8h.html#a9885aba306714106b383cce1c91d918d", null ],
+    [ "f_trunc", "ladspa-util_8h.html#a1ea0e25afdd980453a4b128d3e4c0210", null ],
+    [ "flush_to_zero", "ladspa-util_8h.html#af746c6b74f319e86ddab8790551d84f4", null ],
+    [ "lrintf", "ladspa-util_8h.html#a16173bca19eef93d0230bfb7c86b5740", null ],
+    [ "round_to_zero", "ladspa-util_8h.html#a3bf5da8abd2e8ecf1869bbc905afa549", null ]
+];

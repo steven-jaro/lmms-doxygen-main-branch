@@ -1,0 +1,37 @@
+<map id="lmms::gui::PluginView::PluginView" name="lmms::gui::PluginView::PluginView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="876,359,1023,399"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1EffectView.html#a2b1e3b6ea46ac5b70d2ca94271a35678" title=" " alt="" coords="669,196,813,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="908,351,767,239,770,235,911,347"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1gui_1_1InstrumentView.html#a9f394f922534c3440a4b0132d74642b0" title=" " alt="" coords="654,359,828,399"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="860,382,828,382,828,376,860,376"/>
+<area shape="rect" id="Node000022" href="$classlmms_1_1gui_1_1ToolPluginView.html#ad3f1a9b13b367f0fb4810975d68f266f" title=" " alt="" coords="655,489,827,530"/>
+<area shape="poly" id="edge17_Node000001_Node000022" title=" " alt="" coords="903,410,777,491,774,486,901,406"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1EffectView.html#abde996224bbb80cb4e8a813a512d50d3" title=" " alt="" coords="441,63,585,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="690,190,548,106,551,102,693,185"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1EffectView.html#a870b0222093fa27aa130d884029cdcad" title=" " alt="" coords="441,163,585,203"/>
+<area shape="poly" id="edge5_Node000002_Node000013" title=" " alt="" coords="653,206,585,196,586,191,654,201"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1gui_1_1EffectView.html#a82b7f93c431cbf5531013e149e74d5dd" title=" " alt="" coords="441,228,585,269"/>
+<area shape="poly" id="edge9_Node000002_Node000016" title=" " alt="" coords="654,231,586,241,585,236,653,226"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1EffectView.html#a3bad0c39126485164b7daa68e5a4d3ef" title=" " alt="" coords="228,5,372,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="425,62,372,48,373,42,427,57"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1EffectRackView.html#a8f3d354c54e42485ca92762691486aff" title=" " alt="" coords="5,171,180,211"/>
+<area shape="poly" id="edge4_Node000003_Node000006" title=" " alt="" coords="426,98,330,115,228,140,141,173,139,168,227,135,329,110,425,93"/>
+<area shape="poly" id="edge8_Node000013_Node000006" title=" " alt="" coords="426,169,372,162,300,157,228,162,168,173,167,167,227,156,300,151,372,156,426,163"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1EffectView.html#a63ee99075612c3df016ba88b7c4c328d" title=" " alt="" coords="228,171,372,211"/>
+<area shape="poly" id="edge6_Node000013_Node000014" title=" " alt="" coords="425,189,373,191,372,186,425,184"/>
+<area shape="poly" id="edge7_Node000014_Node000006" title=" " alt="" coords="212,194,180,194,180,188,212,188"/>
+<area shape="poly" id="edge12_Node000016_Node000006" title=" " alt="" coords="426,247,330,239,227,226,173,215,174,209,228,220,331,233,426,241"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1gui_1_1EffectView.html#a532a11c692910f89ab5bf366c8e6e4ad" title=" " alt="" coords="228,285,372,326"/>
+<area shape="poly" id="edge10_Node000016_Node000017" title=" " alt="" coords="427,274,373,289,372,284,425,269"/>
+<area shape="poly" id="edge11_Node000017_Node000006" title=" " alt="" coords="245,280,226,269,129,214,131,209,229,265,248,275"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1gui_1_1CarlaParamsView.html#a33846195ea7671fd55e8e8d886bddc23" title=" " alt="" coords="420,293,606,334"/>
+<area shape="poly" id="edge14_Node000018_Node000019" title=" " alt="" coords="653,357,586,337,588,332,654,351"/>
+<area shape="rect" id="Node000020" href="$classlmms_1_1gui_1_1Lv2InsView.html#a4b87ee4c93915aabc969148a21799be0" title=" " alt="" coords="438,359,589,399"/>
+<area shape="poly" id="edge15_Node000018_Node000020" title=" " alt="" coords="639,382,589,382,589,376,639,376"/>
+<area shape="rect" id="Node000021" href="$classlmms_1_1gui_1_1SlicerTView.html#a15379acaee0d90f86a456d24375d2188" title=" " alt="" coords="437,424,589,465"/>
+<area shape="poly" id="edge16_Node000018_Node000021" title=" " alt="" coords="654,407,588,426,586,421,653,401"/>
+<area shape="rect" id="Node000023" href="$classlmms_1_1gui_1_1LadspaBrowserView.html#a996405efd700f9de6b41d1fe8e5eb2c9" title=" " alt="" coords="425,489,601,530"/>
+<area shape="poly" id="edge18_Node000022_Node000023" title=" " alt="" coords="639,512,602,512,602,507,639,507"/>
+<area shape="rect" id="Node000024" href="$classlmms_1_1gui_1_1TapTempoView.html#adfa66ce770d192457c264d3388e23acc" title=" " alt="" coords="426,555,600,595"/>
+<area shape="poly" id="edge19_Node000022_Node000024" title=" " alt="" coords="654,537,588,557,586,551,653,532"/>
+</map>

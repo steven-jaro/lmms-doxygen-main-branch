@@ -1,0 +1,5 @@
+var structasio_1_1associated__allocator_3_01detail_1_1write__dynbuf__v2__op_3_01AsyncWriteStream_00_3db2425be3163b61cbf4328b383521c1 =
+[
+    [ "type", "structasio_1_1associated__allocator_3_01detail_1_1write__dynbuf__v2__op_3_01AsyncWriteStream_00_3db2425be3163b61cbf4328b383521c1.html#a2e564f75ea6cbdaf45046edf9b1cd22b", null ],
+    [ "get", "structasio_1_1associated__allocator_3_01detail_1_1write__dynbuf__v2__op_3_01AsyncWriteStream_00_3db2425be3163b61cbf4328b383521c1.html#aaf1aaaa8f7f27b8c4e2e14b0a924e0dd", null ]
+];

@@ -1,0 +1,44 @@
+<map id="lmms::AudioFileProcessor::setAudioFile" name="lmms::AudioFileProcessor::setAudioFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,258,178,298"/>
+<area shape="rect" id="Node000002" href="$namespacelmms_1_1PathUtil.html#a30e48b81fa18dfc8812d1f04a623c9a4" title="Get the filename for a path, handling prefixed paths correctly." alt="" coords="231,85,409,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,255,158,203,224,145,273,116,276,121,227,150,162,207,113,259"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1SampleLoader.html#a37caf962ec15d7ecef21393054860c7a" title=" " alt="" coords="237,159,403,200"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="131,255,225,210,242,203,244,208,227,215,134,260"/>
+<area shape="rect" id="Node000055" href="$classlmms_1_1Instrument.html#a0190782643cb68d41739520dd3451242" title=" " alt="" coords="226,224,414,265"/>
+<area shape="poly" id="edge12_Node000001_Node000055" title=" " alt="" coords="178,263,210,258,210,263,179,268"/>
+<area shape="rect" id="Node000056" href="$classlmms_1_1AudioFileProcessor.html#a5a4ece2dfd056ecc238c913821198f54" title=" " alt="" coords="234,290,406,330"/>
+<area shape="poly" id="edge13_Node000001_Node000056" title=" " alt="" coords="179,288,219,293,218,299,178,293"/>
+<area shape="rect" id="Node000059" href="$classlmms_1_1AudioFileProcessor.html#a276d5afaeb92acca8ae72482728b6e3a" title=" " alt="" coords="234,355,406,396"/>
+<area shape="poly" id="edge16_Node000001_Node000059" title=" " alt="" coords="134,296,227,340,244,347,242,352,225,345,132,301"/>
+<area shape="rect" id="Node000060" href="$classlmms_1_1InstrumentTrack.html#a5820c282ac63e7cb2b4839580e744834" title=" " alt="" coords="243,420,397,461"/>
+<area shape="poly" id="edge17_Node000001_Node000060" title=" " alt="" coords="111,297,160,351,192,380,227,405,237,411,234,416,224,410,189,384,156,354,107,301"/>
+<area shape="rect" id="Node000003" href="$namespacelmms_1_1PathUtil.html#ab2f28c94cc70333f674eadaa6944a191" title="Remove the prefix from a path, iff there is one." alt="" coords="464,52,633,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,83,447,77,448,82,409,88"/>
+<area shape="rect" id="Node000004" href="$namespacelmms_1_1PathUtil.html#a232d23cb52de913c734bee7fb80eb46d" title=" " alt="" coords="682,5,866,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="614,49,693,32,694,37,615,54"/>
+<area shape="rect" id="Node000005" href="$namespacelmms_1_1PathUtil.html#ac137f08ba93cc7257ee39ae09dd7dc12" title="Return the prefix used to denote this base in path strings." alt="" coords="914,31,1086,56"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="633,58,898,46,898,51,634,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="866,26,899,29,898,35,866,31"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1SampleLoader.html#a170f67d7c7ece70117df27d8e8190972" title=" " alt="" coords="465,102,631,142"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="403,156,449,144,450,149,404,161"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1SampleBuffer.html#ac68f5453951576da0174eeeff33ebc71" title=" " alt="" coords="480,167,617,208"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="403,180,464,182,464,187,403,185"/>
+<area shape="rect" id="Node000010" href="$namespacelmms_1_1gui.html#a0f9bd49bea2bc61619a8b3966223cce5" title=" " alt="" coords="486,232,610,258"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="394,198,487,225,485,230,392,203"/>
+<area shape="rect" id="Node000008" href="$adplugdb_8cpp.html#afadda4184a4f0275271a46b2b0cc7f8b" title=" " alt="" coords="737,109,811,135"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="632,120,721,120,721,125,632,125"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1GuiApplication.html#ac376550c6eab0be216a675c26679b8b4" title=" " alt="" coords="691,224,857,265"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="610,242,675,242,675,248,610,248"/>
+<area shape="rect" id="Node000057" href="$classlmms_1_1AudioFileProcessor.html#a4f1e7a997c0baf266766c4e4209f90d3" title=" " alt="" coords="462,290,634,330"/>
+<area shape="poly" id="edge14_Node000056_Node000057" title=" " alt="" coords="406,308,446,308,446,313,406,313"/>
+<area shape="rect" id="Node000058" href="$classlmms_1_1Model.html#a140ee903da70ba289abf1ee473df34cb" title=" " alt="" coords="686,297,862,323"/>
+<area shape="poly" id="edge15_Node000057_Node000058" title=" " alt="" coords="635,308,670,308,670,313,635,313"/>
+<area shape="rect" id="Node000061" href="$classlmms_1_1Track.html#a02c11d1e451334fe608c82c135dc9f01" title=" " alt="" coords="483,403,613,428"/>
+<area shape="poly" id="edge18_Node000060_Node000061" title=" " alt="" coords="397,430,468,422,468,427,398,435"/>
+<area shape="rect" id="Node000062" href="$classlmms_1_1Track.html#a94a393326f28141895b87640a71309d7" title=" " alt="" coords="472,452,624,478"/>
+<area shape="poly" id="edge19_Node000060_Node000062" title=" " alt="" coords="398,446,457,453,457,458,397,452"/>
+<area shape="rect" id="Node000029" href="$classlmms_1_1Engine.html#a8b943018d0245555391473f4a7d75b5b" title=" " alt="" coords="698,427,850,452"/>
+<area shape="poly" id="edge20_Node000062_Node000029" title=" " alt="" coords="624,454,682,447,682,452,625,459"/>
+<area shape="rect" id="Node000063" href="$classlmms_1_1Track.html#aa9b7818435363c40633d51531ae2ded4" title=" " alt="" coords="683,476,865,502"/>
+<area shape="poly" id="edge21_Node000062_Node000063" title=" " alt="" coords="625,470,668,475,667,480,624,476"/>
+</map>

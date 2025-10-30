@@ -1,0 +1,50 @@
+<map id="plugins/CarlaBase/carla/source/modules/water/processors/AudioProcessor.h" name="plugins/CarlaBase/carla/source/modules/water/processors/AudioProcessor.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,5,384,61"/>
+<area shape="rect" id="Node000002" href="$AudioProcessor_8cpp.html" title=" " alt="" coords="60,109,269,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,73,199,110,195,106,240,69"/>
+<area shape="rect" id="Node000004" href="$AudioProcessorGraph_8h.html" title=" " alt="" coords="328,109,558,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,67,402,106,399,111,339,72"/>
+<area shape="rect" id="Node000003" href="$water_8cpp.html" title=" " alt="" coords="5,316,164,372"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,180,138,214,97,317,92,315,133,212,146,178"/>
+<area shape="rect" id="Node000005" href="$CarlaEngineGraph_8hpp.html" title=" " alt="" coords="424,213,583,268"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="469,177,489,211,485,213,465,179"/>
+<area shape="rect" id="Node000012" href="$CarlaEngineInternal_8hpp.html" title=" " alt="" coords="1254,213,1416,268"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="574,150,1254,227,1254,233,573,156"/>
+<area shape="rect" id="Node000024" href="$AudioProcessorGraph_8cpp.html" title=" " alt="" coords="148,213,392,268"/>
+<area shape="poly" id="edge26_Node000004_Node000024" title=" " alt="" coords="385,175,318,214,315,210,383,170"/>
+<area shape="rect" id="Node000006" href="$CarlaEngineDummy_8cpp.html" title=" " alt="" coords="793,316,955,372"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="599,264,781,314,793,317,792,322,780,319,597,270"/>
+<area shape="rect" id="Node000007" href="$CarlaEngineGraph_8cpp.html" title=" " alt="" coords="980,316,1139,372"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="598,251,771,276,968,314,980,317,978,322,967,319,770,282,598,256"/>
+<area shape="rect" id="Node000008" href="$CarlaEngineJuce_8cpp.html" title=" " alt="" coords="238,316,398,372"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="442,278,369,318,366,313,439,274"/>
+<area shape="rect" id="Node000009" href="$CarlaEnginePorts_8cpp.html" title=" " alt="" coords="642,420,802,476"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="409,270,227,318,220,332,217,345,219,357,228,370,255,390,296,407,348,419,406,429,531,440,642,444,642,449,531,445,406,434,347,425,294,412,252,395,224,374,214,359,211,344,215,330,224,314,408,265"/>
+<area shape="rect" id="Node000010" href="$CarlaEngineRtAudio_8cpp.html" title=" " alt="" coords="421,316,585,372"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="506,284,506,316,500,316,500,284"/>
+<area shape="rect" id="Node000011" href="$CarlaEngineSDL_8cpp.html" title=" " alt="" coords="609,316,768,372"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="567,274,640,313,637,318,564,278"/>
+<area shape="poly" id="edge13_Node000012_Node000006" title=" " alt="" coords="1240,262,1110,287,968,319,956,322,955,317,967,314,1109,282,1239,257"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="1248,277,1134,318,1132,313,1246,272"/>
+<area shape="poly" id="edge17_Node000012_Node000008" title=" " alt="" coords="1239,246,1080,251,872,263,641,285,524,300,409,319,398,321,397,316,408,314,523,295,640,279,872,258,1079,246,1238,240"/>
+<area shape="poly" id="edge21_Node000012_Node000010" title=" " alt="" coords="1239,249,951,270,774,291,597,319,586,321,585,316,596,314,773,285,950,265,1239,243"/>
+<area shape="poly" id="edge23_Node000012_Node000011" title=" " alt="" coords="1239,253,1028,278,904,296,781,319,769,322,768,316,780,314,903,291,1027,272,1239,248"/>
+<area shape="rect" id="Node000013" href="$CarlaEngine_8cpp.html" title=" " alt="" coords="1940,316,2099,372"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1431,247,1659,271,1794,290,1928,314,1940,316,1938,322,1927,319,1793,295,1658,276,1431,252"/>
+<area shape="rect" id="Node000014" href="$CarlaEngineInternal_8cpp.html" title=" " alt="" coords="2122,316,2284,372"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="1432,243,1566,250,1736,263,1924,284,2112,314,2123,316,2122,321,2111,319,1923,289,1736,269,1566,255,1431,248"/>
+<area shape="rect" id="Node000015" href="$CarlaEngineJack_8cpp.html" title=" " alt="" coords="2308,316,2467,372"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="1432,240,1596,245,1812,257,2054,278,2177,294,2297,314,2308,316,2307,321,2296,319,2176,300,2054,284,1812,262,1596,250,1431,245"/>
+<area shape="rect" id="Node000016" href="$CarlaEngineNative_8cpp.html" title=" " alt="" coords="2492,316,2651,372"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="1431,238,1624,241,1885,251,2181,274,2332,291,2480,314,2492,316,2491,321,2479,319,2332,297,2181,279,1885,256,1624,246,1431,244"/>
+<area shape="rect" id="Node000017" href="$CarlaEnginePorts_8hpp.html" title=" " alt="" coords="1164,316,1323,372"/>
+<area shape="poly" id="edge19_Node000012_Node000017" title=" " alt="" coords="1302,282,1270,317,1266,314,1299,278"/>
+<area shape="rect" id="Node000021" href="$CarlaEngineRunner_8cpp.html" title=" " alt="" coords="1348,316,1507,372"/>
+<area shape="poly" id="edge22_Node000012_Node000021" title=" " alt="" coords="1372,278,1404,314,1400,317,1368,282"/>
+<area shape="rect" id="Node000022" href="$CarlaBridgeSingleLV2_8cpp.html" title=" " alt="" coords="1531,316,1707,372"/>
+<area shape="poly" id="edge24_Node000012_Node000022" title=" " alt="" coords="1426,271,1544,313,1542,318,1425,276"/>
+<area shape="rect" id="Node000023" href="$plugins_2CarlaBase_2carla_2source_2tests_8old_2Engine_8cpp.html" title=" " alt="" coords="1731,324,1915,364"/>
+<area shape="poly" id="edge25_Node000012_Node000023" title=" " alt="" coords="1432,256,1720,314,1749,321,1748,326,1719,319,1431,262"/>
+<area shape="poly" id="edge20_Node000017_Node000009" title=" " alt="" coords="1149,375,959,413,802,438,801,433,958,408,1148,370"/>
+<area shape="poly" id="edge27_Node000024_Node000003" title=" " alt="" coords="209,278,136,318,133,313,206,274"/>
+</map>

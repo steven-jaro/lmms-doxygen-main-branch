@@ -1,0 +1,24 @@
+<map id="hiir::Downsampler2xF64Sse2::process_block" name="hiir::Downsampler2xF64Sse2::process_block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,194,166"/>
+<area shape="rect" id="Node000002" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="544,32,601,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,123,166,69,201,42,241,22,279,11,318,5,398,5,470,15,529,29,528,34,470,20,397,10,319,10,280,16,243,27,204,47,169,73,119,127"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1Downsampler2xF64Sse2.html#a391971328083a42a6bd974041ab6e5e6" title=" " alt="" coords="242,60,430,101"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,122,244,103,245,108,176,128"/>
+<area shape="rect" id="Node000004" href="$classhiir_1_1Downsampler2xF64Sse2.html#a52058f10aeab60419b714763ca6a807d" title=" " alt="" coords="242,215,430,255"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="157,164,267,206,265,211,155,169"/>
+<area shape="rect" id="Node000006" href="$classhiir_1_1Downsampler2xF64Sse2.html#aacdce703d55697b3dbd12850fbd80fd8" title=" " alt="" coords="478,272,666,313"/>
+<area shape="poly" id="edge13_Node000001_Node000006" title=" " alt="" coords="119,165,170,217,205,244,243,265,297,282,354,293,410,297,462,298,462,304,410,303,353,298,296,287,241,270,202,248,167,221,115,168"/>
+<area shape="rect" id="Node000007" href="$classhiir_1_1Downsampler2xF64Sse2.html#a41312bfeda197541cfb134cc30f8bcc0" title=" " alt="" coords="242,125,430,166"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="194,143,226,143,226,148,194,148"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="291,60,289,50,296,41,312,35,336,33,361,36,376,42,374,47,360,41,336,39,313,41,300,45,294,51,297,59"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="291,215,289,205,296,196,312,190,336,188,361,191,376,197,374,202,360,196,336,193,313,195,300,200,294,206,297,214"/>
+<area shape="rect" id="Node000005" href="$classhiir_1_1Downsampler2xF64Sse2.html#adef90a66f5c5ff49fc847ea4b94a415a" title=" " alt="" coords="478,207,666,247"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="430,229,462,228,463,234,431,235"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="423,253,471,265,470,271,422,259"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="397,122,429,110,531,62,533,67,431,115,399,127"/>
+<area shape="rect" id="Node000008" href="$classhiir_1_1StageProcF64Sse2.html#af493ac8232e975d878da64be4338c02b" title=" " alt="" coords="494,125,651,166"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="431,143,478,143,478,148,431,148"/>
+<area shape="rect" id="Node000009" href="$classhiir_1_1StageProcF64Sse2.html#af40012344266b6d70994f91727178b51" title=" " alt="" coords="714,125,890,166"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="651,143,699,143,699,148,651,148"/>
+<area shape="poly" id="edge12_Node000009_Node000009" title=" " alt="" coords="759,125,757,116,764,106,779,101,802,99,827,101,842,107,840,112,826,106,802,104,780,106,767,111,762,117,764,124"/>
+</map>

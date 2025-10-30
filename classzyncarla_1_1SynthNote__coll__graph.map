@@ -1,0 +1,34 @@
+<map id="zyncarla::SynthNote" name="zyncarla::SynthNote">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,2499,414,2728"/>
+<area shape="rect" id="Node000002" href="$classzyncarla_1_1Allocator.html" title=" " alt="" coords="5,1693,177,2222"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,2221,85,2286,98,2351,119,2415,148,2473,173,2507,205,2535,240,2559,275,2578,272,2583,237,2564,202,2539,169,2510,143,2476,114,2417,93,2353,80,2287,73,2222"/>
+<area shape="rect" id="Node000003" href="$structzyncarla_1_1AllocatorImpl.html" title=" " alt="" coords="22,742,161,829"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,829,94,1676,89,1676,89,829"/>
+<area shape="rect" id="Node000004" href="$structzyncarla_1_1next__t.html" title=" " alt="" coords="42,361,141,427"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,427,94,726,89,726,89,427"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="124,358,139,356,154,361,164,374,167,394,165,409,160,421,152,429,142,432,140,427,149,424,156,418,160,408,162,394,159,376,151,365,139,361,125,364"/>
+<area shape="rect" id="Node000005" href="$classzyncarla_1_1SynthNote_1_1Legato.html" title=" " alt="" coords="158,975,283,1463"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="214,1462,209,1715,209,1992,214,2124,221,2245,232,2348,248,2427,263,2469,283,2509,278,2511,258,2471,243,2428,227,2349,216,2245,208,2124,204,1992,203,1715,209,1462"/>
+<area shape="rect" id="Node000006" href="$structzyncarla_1_1SYNTH__T.html" title=" " alt="" coords="276,239,400,549"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="340,549,339,620,339,951,352,2482,347,2482,334,951,334,620,334,549"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="278,498,261,535,248,574,228,669,215,768,209,865,208,958,202,958,204,865,210,767,223,668,243,573,256,533,273,496"/>
+<area shape="rect" id="Node000009" href="$classzyncarla_1_1Controller.html" title=" " alt="" coords="457,1487,608,2428"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="402,459,458,532,482,575,502,619,520,687,533,773,543,872,550,983,556,1225,554,1470,549,1470,551,1225,545,984,538,873,528,773,514,688,497,621,478,577,453,535,398,462"/>
+<area shape="rect" id="Node000010" href="$classzyncarla_1_1AbsTime.html" title=" " alt="" coords="349,692,487,880"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="372,549,398,674,393,675,367,550"/>
+<area shape="rect" id="Node000007" href="$classzyncarla_1_1m__unique__ptr.html" title=" " alt="" coords="264,5,412,168"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="341,168,341,222,335,222,335,168"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="460,2349,437,2429,416,2484,411,2482,431,2427,455,2348"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="417,879,359,2482,353,2482,412,879"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="428,879,449,1142,478,1463,479,1470,474,1471,473,1463,444,1142,422,880"/>
+<area shape="rect" id="Node000011" href="$structrtosc_1_1Ports.html" title=" " alt="" coords="602,620,714,951"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="643,951,587,1471,582,1470,638,950"/>
+<area shape="rect" id="Node000012" href="$classrtosc_1_1Port__Matcher.html" title=" " alt="" coords="581,300,717,488"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="654,488,656,603,651,604,648,488"/>
+<area shape="rect" id="Node000013" href="$structzyncarla_1_1WatchManager.html" title=" " alt="" coords="657,1812,808,2102"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="728,2102,716,2182,696,2267,666,2351,646,2391,623,2429,581,2478,531,2520,479,2554,430,2581,427,2576,476,2549,528,2515,577,2474,619,2426,641,2389,661,2349,691,2265,711,2181,723,2101"/>
+<area shape="rect" id="Node000014" href="$classrtosc_1_1ThreadLink.html" title=" " alt="" coords="756,630,867,941"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="804,941,746,1795,741,1795,798,940"/>
+<area shape="rect" id="Node000015" href="$structrtosc_1_1internal__ringbuffer__t.html" title=" " alt="" coords="741,330,900,458"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="822,458,818,614,813,613,817,457"/>
+</map>

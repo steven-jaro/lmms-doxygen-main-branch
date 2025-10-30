@@ -1,0 +1,69 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,935,80,961"/>
+<area shape="rect" id="Node000001" href="$classasio_1_1detail_1_1winrt__async__op_3_01void_01_4.html" title=" " alt="" coords="139,393,268,434"/>
+<area shape="poly" id="edge3228_Node000000_Node000001" title=" " alt="" coords="42,919,49,816,64,675,75,604,88,538,105,483,126,445,139,432,143,436,130,448,110,486,94,539,80,605,69,676,55,816,48,919"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1detail_1_1completion__handler.html" title=" " alt="" coords="128,458,279,499"/>
+<area shape="poly" id="edge3229_Node000000_Node000002" title=" " alt="" coords="43,919,52,828,67,706,92,589,107,542,126,509,138,497,142,501,130,512,112,544,97,590,73,707,57,829,48,920"/>
+<area shape="rect" id="Node000003" href="$classasio_1_1detail_1_1reactor__op.html" title=" " alt="" coords="129,523,278,549"/>
+<area shape="poly" id="edge3230_Node000000_Node000003" title=" " alt="" coords="52,920,194,548,199,550,57,922"/>
+<area shape="rect" id="Node000024" href="$classasio_1_1detail_1_1resolve__op.html" title=" " alt="" coords="128,878,279,903"/>
+<area shape="poly" id="edge3251_Node000000_Node000024" title=" " alt="" coords="91,927,127,913,161,901,163,906,129,918,93,932"/>
+<area shape="rect" id="Node000027" href="$structasio_1_1detail_1_1scheduler_1_1task__operation.html" title=" " alt="" coords="131,928,276,968"/>
+<area shape="poly" id="edge3254_Node000000_Node000027" title=" " alt="" coords="95,945,131,945,131,950,95,950"/>
+<area shape="rect" id="Node000028" href="$classasio_1_1detail_1_1signal__op.html" title=" " alt="" coords="132,992,275,1018"/>
+<area shape="poly" id="edge3255_Node000000_Node000028" title=" " alt="" coords="93,964,129,977,163,989,161,994,127,982,91,969"/>
+<area shape="rect" id="Node000030" href="$classasio_1_1detail_1_1strand__service_1_1strand__impl.html" title=" " alt="" coords="132,1042,275,1083"/>
+<area shape="poly" id="edge3257_Node000000_Node000030" title=" " alt="" coords="66,971,95,1000,129,1028,148,1039,145,1044,126,1033,91,1004,62,974"/>
+<area shape="rect" id="Node000031" href="$classasio_1_1detail_1_1wait__op.html" title=" " alt="" coords="137,1107,270,1133"/>
+<area shape="poly" id="edge3258_Node000000_Node000031" title=" " alt="" coords="55,974,83,1034,104,1065,129,1092,149,1104,146,1109,126,1097,99,1069,78,1037,50,977"/>
+<area shape="rect" id="Node000033" href="$classasio_1_1detail_1_1winrt__async__op.html" title=" " alt="" coords="128,1157,278,1198"/>
+<area shape="poly" id="edge3260_Node000000_Node000033" title=" " alt="" coords="51,975,61,1012,76,1057,99,1103,130,1143,143,1154,140,1158,126,1147,94,1106,71,1059,56,1014,46,976"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1detail_1_1descriptor__read__op__base.html" title=" " alt="" coords="327,17,596,58"/>
+<area shape="poly" id="edge3231_Node000003_Node000004" title=" " alt="" coords="275,511,277,509,296,481,308,454,315,427,318,400,312,347,299,294,287,240,282,186,284,159,292,131,305,104,325,75,349,56,352,60,329,79,310,106,297,133,290,160,287,186,292,239,305,292,317,346,323,400,320,428,313,455,300,484,281,512,279,515"/>
+<area shape="rect" id="Node000006" href="$classasio_1_1detail_1_1descriptor__write__op__base.html" title=" " alt="" coords="332,89,592,130"/>
+<area shape="poly" id="edge3233_Node000003_Node000006" title=" " alt="" coords="275,511,277,509,293,485,304,462,310,439,312,416,308,370,298,325,288,279,285,233,288,209,295,186,307,163,325,139,338,128,341,132,329,143,312,166,300,188,293,211,290,233,293,278,303,323,314,369,318,416,315,440,309,464,298,488,281,512,279,515"/>
+<area shape="rect" id="Node000008" href="$classasio_1_1detail_1_1reactive__null__buffers__op.html" title=" " alt="" coords="374,153,549,209"/>
+<area shape="poly" id="edge3235_Node000003_Node000008" title=" " alt="" coords="274,512,277,509,299,473,307,437,306,401,300,366,294,330,292,293,301,257,325,219,347,201,373,190,375,195,350,206,329,223,306,259,298,294,299,329,305,365,311,401,313,437,304,475,281,512,278,515"/>
+<area shape="rect" id="Node000009" href="$classasio_1_1detail_1_1reactive__socket__accept__op__base.html" title=" " alt="" coords="377,233,546,289"/>
+<area shape="poly" id="edge3236_Node000003_Node000009" title=" " alt="" coords="274,512,277,509,294,483,302,457,302,432,300,406,297,379,298,353,306,326,325,299,349,281,376,269,378,274,351,286,329,303,311,328,304,354,303,379,305,405,308,431,307,458,299,485,281,512,277,516"/>
+<area shape="rect" id="Node000011" href="$classasio_1_1detail_1_1reactive__socket__connect__op__base.html" title=" " alt="" coords="374,313,550,354"/>
+<area shape="poly" id="edge3238_Node000003_Node000011" title=" " alt="" coords="273,512,277,509,290,491,297,473,300,437,303,400,310,381,325,363,347,348,372,338,374,343,350,353,329,367,315,384,308,401,305,437,302,474,295,494,281,512,277,516"/>
+<area shape="rect" id="Node000013" href="$classasio_1_1detail_1_1reactive__socket__recv__op__base.html" title=" " alt="" coords="375,377,548,433"/>
+<area shape="poly" id="edge3240_Node000003_Node000013" title=" " alt="" coords="270,513,277,508,292,492,300,476,309,459,325,442,349,428,374,418,376,423,351,433,329,446,313,462,305,478,297,495,281,513,272,518"/>
+<area shape="rect" id="Node000015" href="$classasio_1_1detail_1_1reactive__socket__recvfrom__op__base.html" title=" " alt="" coords="371,456,552,527"/>
+<area shape="poly" id="edge3242_Node000003_Node000015" title=" " alt="" coords="293,518,370,505,371,510,294,523"/>
+<area shape="rect" id="Node000017" href="$classasio_1_1detail_1_1reactive__socket__recvmsg__op__base.html" title=" " alt="" coords="371,551,552,606"/>
+<area shape="poly" id="edge3244_Node000003_Node000017" title=" " alt="" coords="294,548,371,561,370,566,293,553"/>
+<area shape="rect" id="Node000019" href="$classasio_1_1detail_1_1reactive__socket__send__op__base.html" title=" " alt="" coords="378,631,545,686"/>
+<area shape="poly" id="edge3246_Node000003_Node000019" title=" " alt="" coords="234,556,277,587,328,616,379,636,377,641,326,621,274,591,231,561"/>
+<area shape="rect" id="Node000021" href="$classasio_1_1detail_1_1reactive__socket__sendto__op__base.html" title=" " alt="" coords="377,710,546,780"/>
+<area shape="poly" id="edge3248_Node000003_Node000021" title=" " alt="" coords="221,561,263,629,294,665,329,696,352,711,378,722,375,727,350,715,325,701,290,669,259,632,216,564"/>
+<area shape="rect" id="Node000023" href="$classasio_1_1detail_1_1reactive__wait__op.html" title=" " alt="" coords="358,805,566,846"/>
+<area shape="poly" id="edge3250_Node000003_Node000023" title=" " alt="" coords="212,563,225,612,247,674,281,737,303,765,329,790,358,807,356,812,325,794,299,769,277,740,243,676,220,614,207,564"/>
+<area shape="rect" id="Node000005" href="$classasio_1_1detail_1_1descriptor__read__op.html" title=" " alt="" coords="649,5,876,61"/>
+<area shape="poly" id="edge3232_Node000004_Node000005" title=" " alt="" coords="612,33,648,32,648,37,612,38"/>
+<area shape="rect" id="Node000007" href="$classasio_1_1detail_1_1descriptor__write__op.html" title=" " alt="" coords="653,85,872,141"/>
+<area shape="poly" id="edge3234_Node000006_Node000007" title=" " alt="" coords="608,108,653,109,653,114,608,114"/>
+<area shape="rect" id="Node000010" href="$classasio_1_1detail_1_1reactive__socket__accept__op.html" title=" " alt="" coords="661,217,864,273"/>
+<area shape="poly" id="edge3237_Node000009_Node000010" title=" " alt="" coords="562,253,660,248,661,253,562,259"/>
+<area shape="rect" id="Node000012" href="$classasio_1_1detail_1_1reactive__socket__connect__op.html" title=" " alt="" coords="662,297,863,353"/>
+<area shape="poly" id="edge3239_Node000011_Node000012" title=" " alt="" coords="565,328,662,325,662,331,566,333"/>
+<area shape="rect" id="Node000014" href="$classasio_1_1detail_1_1reactive__socket__recv__op.html" title=" " alt="" coords="657,377,868,433"/>
+<area shape="poly" id="edge3241_Node000013_Node000014" title=" " alt="" coords="564,402,656,402,656,408,564,408"/>
+<area shape="rect" id="Node000016" href="$classasio_1_1detail_1_1reactive__socket__recvfrom__op.html" title=" " alt="" coords="661,456,864,527"/>
+<area shape="poly" id="edge3243_Node000015_Node000016" title=" " alt="" coords="568,489,661,489,661,494,568,494"/>
+<area shape="rect" id="Node000018" href="$classasio_1_1detail_1_1reactive__socket__recvmsg__op.html" title=" " alt="" coords="644,551,881,606"/>
+<area shape="poly" id="edge3245_Node000017_Node000018" title=" " alt="" coords="568,576,644,576,644,581,568,581"/>
+<area shape="rect" id="Node000020" href="$classasio_1_1detail_1_1reactive__socket__send__op.html" title=" " alt="" coords="657,631,868,686"/>
+<area shape="poly" id="edge3247_Node000019_Node000020" title=" " alt="" coords="561,656,657,656,657,661,561,661"/>
+<area shape="rect" id="Node000022" href="$classasio_1_1detail_1_1reactive__socket__sendto__op.html" title=" " alt="" coords="656,710,869,780"/>
+<area shape="poly" id="edge3249_Node000021_Node000022" title=" " alt="" coords="562,742,656,742,656,748,562,748"/>
+<area shape="rect" id="Node000025" href="$classasio_1_1detail_1_1resolve__endpoint__op.html" title=" " alt="" coords="381,869,542,925"/>
+<area shape="poly" id="edge3252_Node000024_Node000025" title=" " alt="" coords="295,890,381,892,380,898,295,896"/>
+<area shape="rect" id="Node000026" href="$classasio_1_1detail_1_1resolve__query__op.html" title=" " alt="" coords="388,949,536,1005"/>
+<area shape="poly" id="edge3253_Node000024_Node000026" title=" " alt="" coords="262,906,280,913,328,935,388,954,386,960,326,940,278,918,260,911"/>
+<area shape="rect" id="Node000029" href="$classasio_1_1detail_1_1signal__handler.html" title=" " alt="" coords="359,1029,564,1070"/>
+<area shape="poly" id="edge3256_Node000028_Node000029" title=" " alt="" coords="291,1017,359,1029,358,1034,290,1023"/>
+<area shape="rect" id="Node000032" href="$classasio_1_1detail_1_1wait__handler.html" title=" " alt="" coords="359,1100,564,1140"/>
+<area shape="poly" id="edge3259_Node000031_Node000032" title=" " alt="" coords="285,1117,358,1117,358,1122,285,1122"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="dsp::midi_note_to_phase" name="dsp::midi_note_to_phase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="862,95,1026,121"/>
+<area shape="rect" id="Node000002" href="$structdsp_1_1drawbar__organ.html#afd69841456637d6c48ef02475ce376a5" title=" " alt="" coords="670,18,804,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="888,92,799,62,801,57,890,87"/>
+<area shape="rect" id="Node000004" href="$classdsp_1_1organ__voice.html#aebb22a4880609cfab94003f6189ff834" title=" " alt="" coords="449,150,612,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="881,128,814,142,709,158,613,167,612,162,709,152,813,137,880,122"/>
+<area shape="rect" id="Node000009" href="$classdsp_1_1organ__voice__base.html#af234745170580eb50c98e398660a71e4" title=" " alt="" coords="660,88,814,128"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="846,110,814,110,814,105,846,105"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1organ__audio__module.html#a17b944446bcf83669223f5156ff1bfe3" title="Called when params are changed (before processing)." alt="" coords="452,5,609,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="655,39,610,38,610,33,655,34"/>
+<area shape="rect" id="Node000005" href="$classdsp_1_1organ__voice.html#aba0f8131ec04c07a1500813484319ba5" title="a note was pressed" alt="" coords="231,94,401,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,148,361,122,362,117,446,143"/>
+<area shape="rect" id="Node000006" href="$structdsp_1_1drawbar__organ.html#a5ffac3261fde6cd68692e724396d4199" title="amt = &#45;8192 to 8191" alt="" coords="249,148,382,188"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="434,172,383,171,383,166,434,167"/>
+<area shape="rect" id="Node000008" href="$classdsp_1_1organ__voice.html#a74e5787ed33b9046378c36358317c799" title=" " alt="" coords="236,213,396,254"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="445,198,389,215,387,210,443,193"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1organ__audio__module.html#a409cd5a8ba3bb9a2f843322f76eac4c3" title=" " alt="" coords="5,148,183,188"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="234,170,183,170,183,165,234,165"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="654,136,601,152,599,147,653,131"/>
+<area shape="rect" id="Node000010" href="$classdsp_1_1organ__voice__base.html#aa4caa43d6243697ab84cfee7ad9d0aaa" title=" " alt="" coords="454,85,607,126"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="644,109,608,109,608,103,645,104"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="438,108,402,109,402,103,438,103"/>
+</map>

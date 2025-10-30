@@ -1,0 +1,41 @@
+<map id="juce::JUCE_DECL_JACK_FUNCTION" name="juce::JUCE_DECL_JACK_FUNCTION">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,173,203"/>
+<area shape="rect" id="Node000002" href="$group__PortFunctions.html#gafa704768d67d1a30f263a9384d845b14" title=" " alt="" coords="234,198,375,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,191,218,197,218,202,173,197"/>
+<area shape="rect" id="Node000016" href="$namespacejuce.html#ae3ac64addb88638c853e0e9ce806dd66" title=" " alt="" coords="221,123,388,163"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="173,165,205,159,206,164,174,170"/>
+<area shape="rect" id="Node000003" href="$structJack_1_1JackGlobals.html#adf4bc0472a237936fd3c5a974c49ffbc" title=" " alt="" coords="685,5,818,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,195,369,186,386,173,402,150,408,126,415,102,434,80,461,62,490,49,552,30,614,21,670,18,670,24,614,26,553,35,492,54,464,67,438,84,420,105,413,127,407,152,390,177,372,190,352,200"/>
+<area shape="rect" id="Node000004" href="$JackAPI_8cpp.html#aab334f0d73fb8e55246c76cddc770188" title=" " alt="" coords="479,269,561,294"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="342,222,437,255,465,264,463,269,435,260,341,227"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackGraphManager.html#a1e1bc13795db34e7b94fc1b01e5fabe9" title=" " alt="" coords="436,483,604,523"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="318,223,497,469,493,472,313,226"/>
+<area shape="rect" id="Node000008" href="$namespaceJack.html#af1867e2a2c0bcd6227f125d66ab3f774" title=" " alt="" coords="671,169,832,194"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="375,204,655,185,655,191,376,209"/>
+<area shape="rect" id="Node000009" href="$JackAPI_8cpp.html#a73ff55095a0fc1477d0ead05ed27056a" title=" " alt="" coords="457,220,583,245"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="376,215,442,222,441,227,375,221"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackConnectionManager.html#a2612e789c5020b4f001a102430bfa24f" title="Get the connection number of a given port." alt="" coords="652,483,851,523"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="605,500,637,500,637,506,605,506"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackAtomicState.html#aa53afb4e2496ce6297e54fd7c648abb6" title=" " alt="" coords="664,547,839,603"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="588,521,650,541,648,546,587,526"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="582,216,674,196,675,201,583,221"/>
+<area shape="rect" id="Node000010" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="723,120,780,145"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="539,217,589,185,651,154,707,137,709,142,653,159,591,190,542,221"/>
+<area shape="rect" id="Node000011" href="$namespaceJack.html#a5e3233390977f6a0ccaeb1f7425c973a" title=" " alt="" coords="673,218,830,244"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="584,229,658,229,658,234,584,235"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackAtomicState.html#adc152f2a959d87bd30183f51d8e8ce9d" title=" " alt="" coords="674,268,829,309"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="577,243,659,263,658,268,576,248"/>
+<area shape="rect" id="Node000013" href="$group__ControlAPI.html#ga35f69faaee3bb9b958ed8c9a5f62246c" title=" " alt="" coords="899,202,968,228"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="585,243,606,254,622,271,630,289,638,305,654,318,706,340,751,347,797,340,849,318,872,303,891,283,918,241,922,243,895,286,875,307,852,323,798,345,751,352,705,345,651,323,633,308,625,291,617,274,603,258,582,248"/>
+<area shape="rect" id="Node000014" href="$JackAndroidThread_8cpp.html#a8e59f1959c82f240a337d1b8a724643b" title=" " alt="" coords="706,384,797,409"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="585,242,606,254,618,268,626,282,631,310,636,337,643,350,654,362,672,375,692,383,690,388,669,379,651,366,638,352,631,338,626,311,621,284,614,271,603,258,582,246"/>
+<area shape="rect" id="Node000015" href="$JackTime_8h.html#a046db7fef672f19b1f7f36b79ecb80e6" title=" " alt="" coords="710,433,793,458"/>
+<area shape="poly" id="edge15_Node000009_Node000015" title=" " alt="" coords="585,240,606,254,622,276,630,297,631,339,632,381,639,400,654,420,673,433,696,440,694,445,671,437,651,424,634,403,627,382,625,339,624,298,617,278,603,258,582,245"/>
+<area shape="rect" id="Node000017" href="$group__ClientFunctions.html#gafd4dabe3396e2dfcbd6bd4d3bf466961" title=" " alt="" coords="461,94,579,120"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="388,126,445,117,446,122,389,132"/>
+<area shape="poly" id="edge19_Node000017_Node000003" title=" " alt="" coords="555,91,651,55,670,49,671,54,653,60,557,96"/>
+<area shape="poly" id="edge18_Node000017_Node000010" title=" " alt="" coords="580,111,708,125,707,130,580,116"/>
+<area shape="rect" id="Node000018" href="$JackLibAPI_8cpp.html#a2d60a2d678cd2247ed6cf7b6e7952ad6" title=" " alt="" coords="679,70,824,96"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="580,98,663,89,664,95,580,104"/>
+<area shape="poly" id="edge21_Node000018_Node000013" title=" " alt="" coords="826,92,852,105,874,123,893,144,921,187,917,190,889,148,871,127,849,109,824,97"/>
+</map>

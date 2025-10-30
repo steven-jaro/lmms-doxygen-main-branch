@@ -1,0 +1,27 @@
+var CarlaEngineGraph_8cpp =
+[
+    [ "CarlaPluginInstance", "classCarlaPluginInstance.html", "classCarlaPluginInstance" ],
+    [ "NamedAudioGraphIOProcessor", "classNamedAudioGraphIOProcessor.html", "classNamedAudioGraphIOProcessor" ],
+    [ "AudioProcessor", "classAudioProcessor.html", "classAudioProcessor" ],
+    [ "MidiBuffer", "classMidiBuffer.html", "classMidiBuffer" ],
+    [ "MAX_GRAPH_AUDIO_IO", "CarlaEngineGraph_8cpp.html#af89d1da620833a21d5739861ba8b17cb", null ],
+    [ "MAX_GRAPH_CV_IO", "CarlaEngineGraph_8cpp.html#a9181483bbb15d8fa7efbe9e32e680439", null ],
+    [ "addNodeToPatchbay", "CarlaEngineGraph_8cpp.html#ae5c722d9d9cdc75b69eb5f8622c953c7", null ],
+    [ "adjustPatchbayPortIdForWater", "CarlaEngineGraph_8cpp.html#a2bd4e951ab1203ea4b047343fb40778f", null ],
+    [ "getExternalGraphFullPortNameFromId", "CarlaEngineGraph_8cpp.html#ab27c34e81539d2a2c2e4f8711a758f34", null ],
+    [ "getExternalGraphPortIdFromName", "CarlaEngineGraph_8cpp.html#abbcf8aca2e2af3205f5d5a3a709ac235", null ],
+    [ "getProcessorFullPortName", "CarlaEngineGraph_8cpp.html#a4784566d870cf48e9cd9c8ac43b2de51", null ],
+    [ "jmax", "CarlaEngineGraph_8cpp.html#ad294b8477886cae80a4cbfaffbdf3772", null ],
+    [ "jmin", "CarlaEngineGraph_8cpp.html#a51eb9b3403bff872a24b0b65fcf49b62", null ],
+    [ "removeNodeFromPatchbay", "CarlaEngineGraph_8cpp.html#ab9adafdab1711a9de98706d6f81241a2", null ],
+    [ "kAudioInputPortOffset", "CarlaEngineGraph_8cpp.html#a9d7284bf07cde2d50a793806321846f7", null ],
+    [ "kAudioOutputPortOffset", "CarlaEngineGraph_8cpp.html#aa297f393560d5ee43019fe3b339c8619", null ],
+    [ "kCVInputPortOffset", "CarlaEngineGraph_8cpp.html#aa5bfd636af340ee4f8dd62f815ca3b24", null ],
+    [ "kCVOutputPortOffset", "CarlaEngineGraph_8cpp.html#a89cc7994afd7ebdc15d7b0aecaa0b157", null ],
+    [ "kMaxPortOffset", "CarlaEngineGraph_8cpp.html#a1473eab51785f9b49c2ecd70a8db8024", null ],
+    [ "kMaxPortsPerPlugin", "CarlaEngineGraph_8cpp.html#a4d8680046ceb3a77e15f625200c8a3b9", null ],
+    [ "kMidiInputPortOffset", "CarlaEngineGraph_8cpp.html#a2b2463f84e3e3279c4fc62b9d55304d0", null ],
+    [ "kMidiOutputPortOffset", "CarlaEngineGraph_8cpp.html#a67b6c3693de90facb31bc3f6c4eb1165", null ],
+    [ "kPortNameToIdFallback", "CarlaEngineGraph_8cpp.html#a96e6e1f5b647fc4371041e459ab9cbca", null ],
+    [ "kPortNameToIdFallbackNC", "CarlaEngineGraph_8cpp.html#a0073256a369d681c6cf038ec8d1578eb", null ]
+];

@@ -1,0 +1,43 @@
+<map id="carla_register_native_plugin" name="carla_register_native_plugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="648,528,790,569"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="754,515,741,509,719,507,699,509,686,513,682,519,684,527,679,528,677,518,683,509,698,503,719,501,742,504,756,510"/>
+<area shape="rect" id="Node000002" href="$audio-file_8cpp.html#af8da6ad2d1a66e9310f1b0426f5c1f08" title=" " alt="" coords="435,5,576,46"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="711,513,697,409,673,274,657,206,640,145,620,95,598,61,575,44,578,39,602,57,625,93,645,143,662,205,678,273,702,408,716,512"/>
+<area shape="rect" id="Node000005" href="$bigmeter_8cpp.html#ac33cb8d0b4643281507c2ff137c3de7b" title=" " alt="" coords="435,71,576,111"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="716,513,711,434,695,331,681,276,660,222,633,171,598,126,575,109,578,105,602,122,637,168,665,220,686,274,701,330,717,434,721,513"/>
+<area shape="rect" id="Node000006" href="$CarlaEngineNative_8cpp.html#ae3213e49170515e430da4ba5fd16aad7" title=" " alt="" coords="435,136,576,177"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="713,513,706,446,687,360,672,314,653,270,629,228,599,192,575,175,578,171,602,188,633,225,658,268,677,313,692,358,711,445,719,513"/>
+<area shape="rect" id="Node000007" href="$distrho-3bandeq_8cpp.html#ac377f7bc1f0c7ed16ba5851e9d3a9a20" title=" " alt="" coords="424,201,588,242"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="710,513,699,457,678,388,646,318,624,286,599,257,582,245,585,240,602,253,628,282,650,315,683,386,704,456,716,512"/>
+<area shape="rect" id="Node000008" href="$distrho-3bandsplitter_8cpp.html#a59c5c4083573df49a875b39d88695de7" title=" " alt="" coords="411,267,600,307"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="706,514,691,470,669,419,638,367,599,322,581,310,584,306,602,318,643,364,674,416,696,468,711,512"/>
+<area shape="rect" id="Node000009" href="$distrho-kars_8cpp.html#a5ff160bb89f9e87c61cecd19d8770506" title=" " alt="" coords="435,332,576,373"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="699,516,659,451,631,417,599,388,575,374,578,370,602,384,635,413,663,448,703,513"/>
+<area shape="rect" id="Node000010" href="$distrho-nekobi_8cpp.html#ac516247643ee546dfba59715673d705c" title=" " alt="" coords="429,397,582,438"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="685,519,645,485,599,453,573,441,576,436,602,449,649,481,688,515"/>
+<area shape="rect" id="Node000011" href="$distrho-pingpongpan_8cpp.html#a38f0bb9c9be9ce2dbda984d59990e55d" title=" " alt="" coords="412,463,600,503"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="635,526,574,507,575,501,637,520"/>
+<area shape="rect" id="Node000012" href="$distrho-prom_8cpp.html#af07b9034857a36ba52f308ef162d63d6" title=" " alt="" coords="434,528,578,569"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="633,551,578,551,578,546,633,546"/>
+<area shape="rect" id="Node000013" href="$distrho-vectorjuice_8cpp.html#a4f9f2a7b748692608358f9733084b896" title=" " alt="" coords="416,593,595,634"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="637,576,575,595,574,590,635,571"/>
+<area shape="rect" id="Node000014" href="$distrho-wobblejuice_8cpp.html#aea133ba61728a7cdb9dfbd0035f18548" title=" " alt="" coords="414,659,597,699"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="688,581,649,616,602,648,576,660,573,656,599,643,645,611,685,577"/>
+<area shape="rect" id="Node000015" href="$midi-file_8cpp.html#aec0c3ccafe9f0e79b947d56c908c9d58" title=" " alt="" coords="435,724,576,765"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="703,584,663,649,635,683,602,713,578,727,575,723,599,709,631,680,659,646,699,581"/>
+<area shape="rect" id="Node000016" href="$midi-pattern_8cpp.html#ae9c80647b32071287e5d1f15710880d1" title=" " alt="" coords="435,789,576,830"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="711,585,696,629,674,680,643,733,602,778,578,794,575,789,599,774,638,730,669,678,691,627,706,583"/>
+<area shape="rect" id="Node000017" href="$notes_8cpp.html#a9b0b683da8eebd7eab9ae180e3a00e62" title=" " alt="" coords="435,855,576,895"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="716,585,704,641,683,710,650,781,628,814,602,844,578,860,575,856,599,840,624,811,646,779,678,708,699,640,710,584"/>
+<area shape="rect" id="Node000018" href="$xycontroller_8cpp.html#aac499a9769790b3af9e026cc5863cd37" title=" " alt="" coords="435,920,576,961"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="719,584,711,652,692,738,677,784,658,829,633,871,602,909,578,926,575,922,599,905,629,868,653,827,672,782,687,737,706,651,713,584"/>
+<area shape="rect" id="Node000019" href="$zynaddsubfx-fx_8cpp.html#afc19a7cc747031b45ab29adcefe2c1d1" title=" " alt="" coords="427,985,584,1026"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="721,584,717,663,701,767,686,822,665,877,637,928,602,974,586,987,583,983,598,970,633,925,660,875,681,821,695,766,711,662,716,584"/>
+<area shape="rect" id="Node000020" href="$zynaddsubfx-synth_8cpp.html#af794e697ed112a4255a6ea6ed3c326c8" title=" " alt="" coords="416,1051,595,1091"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="716,585,702,689,678,824,662,892,645,953,625,1004,602,1039,587,1052,584,1048,598,1036,620,1002,640,952,657,890,673,823,697,688,711,584"/>
+<area shape="rect" id="Node000003" href="$carla-lv2-bundles_8cpp.html#a10c9d77441f3e04120dab14a586bb7bb" title=" " alt="" coords="212,365,363,406"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="423,53,413,61,382,97,358,137,338,181,322,224,302,306,293,365,288,364,297,305,317,223,333,179,353,135,378,94,409,57,420,48"/>
+<area shape="rect" id="Node000004" href="$structPluginRegisterer.html#a43cebcd94be7f15c4486c197de92288d" title=" " alt="" coords="5,365,164,406"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="196,388,164,388,164,383,196,383"/>
+<area shape="poly" id="edge16_Node000015_Node000003" title=" " alt="" coords="420,722,409,713,378,677,353,636,333,592,317,548,297,466,288,407,293,406,302,465,322,546,338,590,358,633,383,673,413,709,423,717"/>
+</map>

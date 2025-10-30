@@ -1,0 +1,5 @@
+var plugins_2CarlaBase_2carla_2source_2modules_2juce__audio__formats_2codecs_2flac_2libFLAC_2include_2private_2metadata_8h =
+[
+    [ "FLAC__metadata_object_cuesheet_track_delete_data", "plugins_2CarlaBase_2carla_2source_2modules_2juce__audio__formats_2codecs_2flac_2libFLAC_2include_2private_2metadata_8h.html#a5939a700b45d299a76eacad321eb733a", null ],
+    [ "FLAC__metadata_object_delete_data", "plugins_2CarlaBase_2carla_2source_2modules_2juce__audio__formats_2codecs_2flac_2libFLAC_2include_2private_2metadata_8h.html#adca9ba17ba21fe5f9e9c19ba2784ea38", null ]
+];

@@ -1,0 +1,5 @@
+var structasio_1_1associated__executor_3_01detail_1_1write__at__streambuf__op_3_01Executor_00_01Writ2f1b444b150d3c8b9633dd18701a5855 =
+[
+    [ "type", "structasio_1_1associated__executor_3_01detail_1_1write__at__streambuf__op_3_01Executor_00_01Writ2f1b444b150d3c8b9633dd18701a5855.html#ae0ea2e7f52753ff2b48a2d6fce677fae", null ],
+    [ "get", "structasio_1_1associated__executor_3_01detail_1_1write__at__streambuf__op_3_01Executor_00_01Writ2f1b444b150d3c8b9633dd18701a5855.html#ab10bac15b5dc2c69b2783db5d57f9868", null ]
+];

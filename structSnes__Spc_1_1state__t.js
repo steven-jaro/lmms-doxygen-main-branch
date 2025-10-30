@@ -1,0 +1,28 @@
+var structSnes__Spc_1_1state__t =
+[
+    [ "align", "structSnes__Spc_1_1state__t.html#afe9efa99d3bc85bf449c8ea1c2a1f182", null ],
+    [ "buf_begin", "structSnes__Spc_1_1state__t.html#af7346400075a12002c9e13199b3ed1ed", null ],
+    [ "buf_end", "structSnes__Spc_1_1state__t.html#a789e402258c0dd2a27fa95141836ade1", null ],
+    [ "cpu_error", "structSnes__Spc_1_1state__t.html#aee042faf99bfcdf6c35730d8265bcfb3", null ],
+    [ "cpu_regs", "structSnes__Spc_1_1state__t.html#ab30cd7abf3d2f1b9ce28ec7756922f64", null ],
+    [ "cycle_table", "structSnes__Spc_1_1state__t.html#a9520870bf587ac339b803b7ee2c1ea0c", null ],
+    [ "dsp_time", "structSnes__Spc_1_1state__t.html#a53e1db6ec5e79c5f78c145e36a17a7cb", null ],
+    [ "echo_accessed", "structSnes__Spc_1_1state__t.html#afd67570d334a5d394944ec598fc55094", null ],
+    [ "extra_buf", "structSnes__Spc_1_1state__t.html#a81f0ae65ce7a363cbdd246d578fd358d", null ],
+    [ "extra_clocks", "structSnes__Spc_1_1state__t.html#abff5673a3776b8e3cb7b2d5ec8c0930f", null ],
+    [ "extra_pos", "structSnes__Spc_1_1state__t.html#a06c746fb90512ab5647b5a98e26e30c5", null ],
+    [ "hi_ram", "structSnes__Spc_1_1state__t.html#a76f4d481c400d540936a4dec4967ad1f", null ],
+    [ "padding1", "structSnes__Spc_1_1state__t.html#a980f84301ce3ce8da901ac41d7b22495", null ],
+    [ "padding1", "structSnes__Spc_1_1state__t.html#a4d06567e59edd6677688954da097b394", null ],
+    [ "padding2", "structSnes__Spc_1_1state__t.html#a8121f8a48b8a2d17612bc2f7e56e797e", null ],
+    [ "ram", "structSnes__Spc_1_1state__t.html#a1c6c9bd4a169ab9ed17155ebcdfb012f", null ],
+    [ "ram", "structSnes__Spc_1_1state__t.html#a162a410760e8e9d9086979d72d250116", null ],
+    [ "rom", "structSnes__Spc_1_1state__t.html#a9b1202a7122d712755ef1663b89756ba", null ],
+    [ "rom_enabled", "structSnes__Spc_1_1state__t.html#a41b859c4a65f4dd074a0bef7b86a3c5b", null ],
+    [ "skipped_koff", "structSnes__Spc_1_1state__t.html#a0f23c8df2417258ccaea690f7888cc11", null ],
+    [ "skipped_kon", "structSnes__Spc_1_1state__t.html#ad56fe6603d4e39c7d2de81a709c0e4a9", null ],
+    [ "smp_regs", "structSnes__Spc_1_1state__t.html#a0dc8ab8acdc4033565fa1b07083d002e", null ],
+    [ "spc_time", "structSnes__Spc_1_1state__t.html#a4af7055a7c3ef2f2cefd21ba1df572e3", null ],
+    [ "tempo", "structSnes__Spc_1_1state__t.html#a4e35de76933a2416f2d899988f07f1ab", null ],
+    [ "timers", "structSnes__Spc_1_1state__t.html#a6a89ecbf2877fb65efd572263073f67d", null ]
+];

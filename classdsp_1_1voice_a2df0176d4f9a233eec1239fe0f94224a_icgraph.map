@@ -1,0 +1,9 @@
+<map id="dsp::voice::setup" name="dsp::voice::setup">
+<area shape="rect" id="Node000001" title="reset voice to default state (used when a voice is to be reused)" alt="" coords="431,46,548,72"/>
+<area shape="rect" id="Node000002" href="$structdsp_1_1basic__synth.html#abc40aebbeb97b10da2f2c67203894585" title=" " alt="" coords="214,46,383,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,62,383,62,383,56,416,56"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1organ__audio__module.html#aabf2bbabd052d7929f15e9fc9110157b" title="Handle MIDI Note On." alt="" coords="5,5,166,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,46,166,41,167,36,199,41"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1wavetable__audio__module.html#af63834b2db4564e4591f722a834b9096" title="Handle MIDI Note On." alt="" coords="5,71,166,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,77,167,82,166,76,198,71"/>
+</map>

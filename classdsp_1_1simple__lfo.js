@@ -1,0 +1,26 @@
+var classdsp_1_1simple__lfo =
+[
+    [ "simple_lfo", "classdsp_1_1simple__lfo.html#ac277665e7dd5a0cc2a080a3c24762271", null ],
+    [ "activate", "classdsp_1_1simple__lfo.html#a542e936c7164e50a33ecf1da3ff5912c", null ],
+    [ "advance", "classdsp_1_1simple__lfo.html#a3fb76969729b399a344f02fdd81ab491", null ],
+    [ "deactivate", "classdsp_1_1simple__lfo.html#a1c0e17356cbb5d0948a96b1a55f52916", null ],
+    [ "get_dot", "classdsp_1_1simple__lfo.html#af461d1512c7e1e9de8aa421ac09bd640", null ],
+    [ "get_graph", "classdsp_1_1simple__lfo.html#a2c0bf1e361217a58ea20624cacd6acf7", null ],
+    [ "get_value", "classdsp_1_1simple__lfo.html#a35c496e9d0474c781a7decddc8f002ca", null ],
+    [ "get_value_from_phase", "classdsp_1_1simple__lfo.html#a2e4182ce6d51ca48a2181f2f9fa7018f", null ],
+    [ "set_amount", "classdsp_1_1simple__lfo.html#a0a15d4e08c4df95ec5e223c56e7f2cf6", null ],
+    [ "set_freq", "classdsp_1_1simple__lfo.html#a857d312182c05ccd46ed252fe113934a", null ],
+    [ "set_mode", "classdsp_1_1simple__lfo.html#ae9293ce739104cec163c9e1db479c6a3", null ],
+    [ "set_offset", "classdsp_1_1simple__lfo.html#a234f622ea004837cecdf0bace3dc44ec", null ],
+    [ "set_params", "classdsp_1_1simple__lfo.html#a3bb2664a4cb846eef9d2e4f3258251de", null ],
+    [ "set_phase", "classdsp_1_1simple__lfo.html#a9aa52835049c1ac4617883ac045e75a7", null ],
+    [ "set_pwidth", "classdsp_1_1simple__lfo.html#a5111671af7245c9e869d18207b4dd8f0", null ],
+    [ "amount", "classdsp_1_1simple__lfo.html#adc1cdd1a57275d9f084e97dd70db2897", null ],
+    [ "freq", "classdsp_1_1simple__lfo.html#ae3eec36e888313b02dc0d0477eb4d2fc", null ],
+    [ "is_active", "classdsp_1_1simple__lfo.html#a3ffef942df2295def058df28ca85cad8", null ],
+    [ "mode", "classdsp_1_1simple__lfo.html#ac0bb9a0c209e973487c430461f17e4fa", null ],
+    [ "offset", "classdsp_1_1simple__lfo.html#a22719fc324409be2e575e0d081686caa", null ],
+    [ "phase", "classdsp_1_1simple__lfo.html#a6332a08765efbbaf2baad511e158a93a", null ],
+    [ "pwidth", "classdsp_1_1simple__lfo.html#abd859af9aec046a830e864905dc4ea13", null ],
+    [ "srate", "classdsp_1_1simple__lfo.html#aa611b0e12108a2a1e4d2ee63548db5c3", null ]
+];

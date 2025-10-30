@@ -1,0 +1,27 @@
+var classlmms_1_1RemotePluginClient =
+[
+    [ "RemotePluginClient", "classlmms_1_1RemotePluginClient.html#a8959a9c8398100cd12e802a5c1855ad3", null ],
+    [ "~RemotePluginClient", "classlmms_1_1RemotePluginClient.html#a1acb0f088d56e7b5d25e40ac049f1613", null ],
+    [ "bufferSize", "classlmms_1_1RemotePluginClient.html#a3ef45d7343fb9bd246b6401aeff492b2", null ],
+    [ "debugMessage", "classlmms_1_1RemotePluginClient.html#a265753cf2d02d5dd3b83994d271bbb0a", null ],
+    [ "doProcessing", "classlmms_1_1RemotePluginClient.html#a024a4eb9ee08ebe86eb7b211ef260241", null ],
+    [ "getVstSyncData", "classlmms_1_1RemotePluginClient.html#a49cd783b2b92a9081ea9873b461f4198", null ],
+    [ "inputCount", "classlmms_1_1RemotePluginClient.html#a686378e7dda993b7fd8e3b45bf20913a", null ],
+    [ "outputCount", "classlmms_1_1RemotePluginClient.html#a18237f40e6eaff411aa1431e05888332", null ],
+    [ "process", "classlmms_1_1RemotePluginClient.html#a7423bd7834a36857a32dee6d2ed16b7c", null ],
+    [ "processMessage", "classlmms_1_1RemotePluginClient.html#a43c2d1aa03f8b3f5982e7140afb3166b", null ],
+    [ "processMidiEvent", "classlmms_1_1RemotePluginClient.html#a14c252da6200921da10bafa6fffa1f5e", null ],
+    [ "sampleRate", "classlmms_1_1RemotePluginClient.html#a7258c8942f0afdf29e358f444abfe78e", null ],
+    [ "setInputCount", "classlmms_1_1RemotePluginClient.html#a06fecea52bcd91b73d44aeff1423932f", null ],
+    [ "setInputOutputCount", "classlmms_1_1RemotePluginClient.html#a64a0da8a644ced7d46a6aa00be28b092", null ],
+    [ "setOutputCount", "classlmms_1_1RemotePluginClient.html#a7277ab7fb84df7db3b67f48e1a55efc0", null ],
+    [ "setShmKey", "classlmms_1_1RemotePluginClient.html#a9ab7f7a12fb12d98e3ac5983f90986d6", null ],
+    [ "updateBufferSize", "classlmms_1_1RemotePluginClient.html#ad1e5a59338022a5c80fc94aa1c97a7cf", null ],
+    [ "updateSampleRate", "classlmms_1_1RemotePluginClient.html#a2464f2f2eb776ea234b5df5ea354667d", null ],
+    [ "m_audioBuffer", "classlmms_1_1RemotePluginClient.html#aff8d5340801c8539585e5a8aa37826a6", null ],
+    [ "m_bufferSize", "classlmms_1_1RemotePluginClient.html#a822682241c0251ab478b01632a6eb5ca", null ],
+    [ "m_inputCount", "classlmms_1_1RemotePluginClient.html#ab8e6eac533d8b7c85bd72fa28e281546", null ],
+    [ "m_outputCount", "classlmms_1_1RemotePluginClient.html#ac44f3396360ee5aadb33fe005d7730ea", null ],
+    [ "m_sampleRate", "classlmms_1_1RemotePluginClient.html#a884205f6503c1e3df5aa400f1e2783fb", null ],
+    [ "m_vstSyncData", "classlmms_1_1RemotePluginClient.html#a7fae6289702b8d08af0966e3c021603d", null ]
+];

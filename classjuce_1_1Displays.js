@@ -1,0 +1,27 @@
+var classjuce_1_1Displays =
+[
+    [ "Display", "structjuce_1_1Displays_1_1Display.html", "structjuce_1_1Displays_1_1Display" ],
+    [ "Displays", "classjuce_1_1Displays.html#aae4a1c846c2f7a4bc744c33fc6dbcd5d", null ],
+    [ "findDisplayForPoint", "classjuce_1_1Displays.html#a8ffa8e5f9eedbcf96c585f608d129220", null ],
+    [ "findDisplayForRect", "classjuce_1_1Displays.html#ac1f1d473cddd07bf84fd5c92e2592fe0", null ],
+    [ "findDisplays", "classjuce_1_1Displays.html#ad2fb3c0968324f7f8553ebde00bbf3a7", null ],
+    [ "getDisplayContaining", "classjuce_1_1Displays.html#a5ce948db34d54386084d3e9e1ae5f530", null ],
+    [ "getDisplayForPoint", "classjuce_1_1Displays.html#a73427a79acb26fb7c2cc6f7d7bc36d12", null ],
+    [ "getDisplayForRect", "classjuce_1_1Displays.html#a81df2184f1c5abe8b6e45aa457afa475", null ],
+    [ "getMainDisplay", "classjuce_1_1Displays.html#aa1d44e17b96d9613543bd896aa697a7e", null ],
+    [ "getPrimaryDisplay", "classjuce_1_1Displays.html#ac92a2a41569e434931052e613c3e55e6", null ],
+    [ "getRectangleList", "classjuce_1_1Displays.html#afcdace5491a0ee8a788700a5827a3c8f", null ],
+    [ "getTotalBounds", "classjuce_1_1Displays.html#ab751393644f4cb496e79b5413c7e8480", null ],
+    [ "init", "classjuce_1_1Displays.html#ab0d1843f5f09e8fa46c85dfcd039980b", null ],
+    [ "logicalToPhysical", "classjuce_1_1Displays.html#a2c4e2d38996acfdc7f55189c4278f606", null ],
+    [ "logicalToPhysical", "classjuce_1_1Displays.html#ae330f5d4738361283ae11fd95f92dc55", null ],
+    [ "logicalToPhysical", "classjuce_1_1Displays.html#a497df35cc874a22449c91b46e47fef8b", null ],
+    [ "physicalToLogical", "classjuce_1_1Displays.html#aa6da21c2754ff634504cf5456332f86e", null ],
+    [ "physicalToLogical", "classjuce_1_1Displays.html#a44dc8b757052bcbf1c311d61ec083721", null ],
+    [ "physicalToLogical", "classjuce_1_1Displays.html#a9305d8c50cb8672978a2a821c580723e", null ],
+    [ "refresh", "classjuce_1_1Displays.html#a22a0dc62b50ade3593b8236794f82ded", null ],
+    [ "updateToLogical", "classjuce_1_1Displays.html#a33634d3e6937d2a12eca088ee37943d9", null ],
+    [ "Desktop", "classjuce_1_1Displays.html#a64b53215e12b57b18e3259620a91aa51", null ],
+    [ "displays", "classjuce_1_1Displays.html#a88db91ee2f1062e8256c4bb2ac1867a9", null ],
+    [ "emptyDisplay", "classjuce_1_1Displays.html#a31a2f23a285dcadcf7933464f92f30b2", null ]
+];

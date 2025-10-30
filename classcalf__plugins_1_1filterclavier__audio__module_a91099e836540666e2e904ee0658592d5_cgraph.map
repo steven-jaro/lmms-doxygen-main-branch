@@ -1,0 +1,9 @@
+<map id="calf_plugins::filterclavier_audio_module::activate" name="calf_plugins::filterclavier_audio_module::activate">
+<area shape="rect" id="Node000001" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,13,166,54"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a72f891fce58a923fae617bc020d8723d" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="214,5,357,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,30,198,30,198,36,166,36"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a74ea0a0f2a9fa7a6f67c66dd89239b52" title="Called when params are changed (before processing)." alt="" coords="405,5,548,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,30,390,30,390,36,357,36"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1filter__module__with__inertia.html#a0332fed27af76e746336283dcd3a5592" title=" " alt="" coords="596,5,740,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="549,30,581,30,581,36,549,36"/>
+</map>

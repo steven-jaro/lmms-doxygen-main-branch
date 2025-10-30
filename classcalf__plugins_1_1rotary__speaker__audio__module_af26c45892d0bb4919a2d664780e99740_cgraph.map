@@ -1,0 +1,11 @@
+<map id="calf_plugins::rotary_speaker_audio_module::control_change" name="calf_plugins::rotary_speaker_audio_module::control_change">
+<area shape="rect" id="Node000001" title="Handle MIDI Control Change." alt="" coords="5,24,167,79"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#acca7646f77dd6e00043060ab605fe36f" title=" " alt="" coords="215,24,376,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,49,199,49,199,54,167,54"/>
+<area shape="rect" id="Node000003" href="$namespacedsp.html#aa7895889a13d54d21ea6855e30cc4568" title="fast float to int conversion using default rounding mode" alt="" coords="448,5,561,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,36,433,27,434,32,377,41"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#ae290941f4798ac865d3ecdf9cb92a0c2" title="Set delta&#45;phase variables based on current calculated (and interpolated) RPM speed." alt="" coords="424,56,585,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="377,61,409,66,408,71,376,67"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#a3dd8e3ba0b5a4ca50abca3f30e704cf5" title="Convert RPM speed to delta&#45;phase." alt="" coords="633,56,795,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="586,81,618,81,618,86,586,86"/>
+</map>

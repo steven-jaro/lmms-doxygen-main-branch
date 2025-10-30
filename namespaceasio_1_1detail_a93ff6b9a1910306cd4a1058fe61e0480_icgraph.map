@@ -1,0 +1,129 @@
+<map id="asio::detail::adapt_completion_condition_result" name="asio::detail::adapt_completion_condition_result">
+<area shape="rect" id="Node000001" title=" " alt="" coords="627,772,778,828"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1detail_1_1base__from__completion__cond.html#ac1e557edd956367409f816cbca2c76f0" title=" " alt="" coords="420,226,579,282"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,759,509,283,514,281,688,757"/>
+<area shape="rect" id="Node000010" href="$namespaceasio.html#aaa22b8532143e0b27c0af29d69cc1d15" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="462,660,538,685"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="662,764,623,729,578,699,537,683,539,678,581,694,627,725,666,760"/>
+<area shape="rect" id="Node000011" href="$namespaceasio.html#acb17bc14c1e92bc3209991b706b6495d" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="462,709,538,734"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="627,768,578,748,538,735,539,730,580,743,629,763"/>
+<area shape="rect" id="Node000012" href="$namespaceasio.html#a926222f6d0bb8a716a17161a1eb725aa" title=" " alt="" coords="452,758,547,784"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="612,790,547,780,548,775,613,785"/>
+<area shape="rect" id="Node000013" href="$namespaceasio_1_1detail.html#a09db0cafe1759550c0ce1ad1f639f87a" title=" " alt="" coords="429,808,570,849"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="613,815,571,821,570,816,612,810"/>
+<area shape="rect" id="Node000021" href="$namespaceasio_1_1detail.html#a0575700f1775ca99ac0f6d49beecdd32" title=" " alt="" coords="438,873,561,914"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="633,838,580,863,552,875,550,870,578,858,631,833"/>
+<area shape="rect" id="Node000036" href="$namespaceasio_1_1detail.html#a9ab3ad449fd77f1141a023f100035fb3" title=" " alt="" coords="429,1152,570,1193"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="681,843,514,1153,510,1150,677,840"/>
+<area shape="rect" id="Node000045" href="$namespaceasio_1_1detail.html#ad48e1fdaaad0a85c547713960ef80f5f" title=" " alt="" coords="438,1711,561,1751"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="695,844,508,1711,503,1710,689,843"/>
+<area shape="rect" id="Node000003" href="$classasio_1_1detail_1_1read__at__op.html#a92a5961405057f4e225c77ee54682f35" title=" " alt="" coords="218,5,340,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,213,460,176,436,136,406,96,370,61,339,43,341,39,374,57,410,92,440,133,465,174,483,210"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1detail_1_1read__at__streambuf__op.html#a0ab130b8f14c9d8a9600881766321ef2" title=" " alt="" coords="186,71,372,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="465,215,423,169,371,127,347,114,350,110,373,122,427,165,469,212"/>
+<area shape="rect" id="Node000005" href="$classasio_1_1detail_1_1read__dynbuf__v1__op.html#af940e90ca5c1890a44d38b527107f365" title=" " alt="" coords="194,136,364,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="431,221,371,192,340,180,342,175,373,187,434,216"/>
+<area shape="rect" id="Node000006" href="$classasio_1_1detail_1_1read__dynbuf__v2__op.html#a8d6fd31bae7b32e3e29ef87e78da5fe5" title=" " alt="" coords="194,201,364,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="404,243,364,237,364,231,405,237"/>
+<area shape="rect" id="Node000007" href="$classasio_1_1detail_1_1read__op.html#aeda5d034efd12a2ef7bd436125842d7e" title=" " alt="" coords="222,267,336,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="405,271,336,281,336,276,404,265"/>
+<area shape="rect" id="Node000008" href="$classasio_1_1detail_1_1write__at__op.html#a5f59f254754078adcb3e8f500ab7197f" title=" " alt="" coords="218,332,340,373"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="435,291,373,321,341,334,339,329,371,317,433,286"/>
+<area shape="rect" id="Node000009" href="$classasio_1_1detail_1_1write__op.html#ae295400ec56f069ef76c5b26a742c5e2" title=" " alt="" coords="221,397,337,438"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="470,295,427,342,373,387,339,404,336,399,371,382,424,339,466,292"/>
+<area shape="rect" id="Node000014" href="$namespaceasio.html#a88604242259da9fb0bacf3c4f0cc0002" title=" " alt="" coords="232,462,326,488"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="421,801,418,798,385,760,357,717,334,672,316,626,291,544,280,489,285,487,296,543,321,624,339,670,362,714,389,757,422,794,424,797"/>
+<area shape="rect" id="Node000015" href="$namespaceasio.html#a301406c670bc22190df6e8628cbf0037" title=" " alt="" coords="24,289,119,314"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="216,469,199,462,184,452,171,436,163,420,158,389,154,358,148,343,136,328,117,315,120,311,139,324,152,340,159,356,164,388,168,419,175,433,187,448,202,458,218,464"/>
+<area shape="rect" id="Node000016" href="$namespaceasio.html#a4511bad893697fc58d379d6e00aa84ff" title=" " alt="" coords="24,338,119,364"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="216,467,184,452,167,433,159,414,151,395,136,377,118,366,120,362,139,373,156,392,164,412,171,430,187,448,218,463"/>
+<area shape="rect" id="Node000017" href="$namespaceasio.html#a0126c00568f324b47c24b494c97ece14" title=" " alt="" coords="24,388,119,413"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="216,463,185,452,137,427,111,416,113,411,139,422,187,447,217,458"/>
+<area shape="rect" id="Node000018" href="$namespaceasio.html#a4ef7a26ff401494d673ad462a3f3f5c0" title=" " alt="" coords="24,437,119,462"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="216,470,119,458,119,453,216,465"/>
+<area shape="rect" id="Node000019" href="$namespaceasio.html#a6587e766e26325457154a5dac2a0b785" title=" " alt="" coords="24,486,119,512"/>
+<area shape="poly" id="edge18_Node000014_Node000019" title=" " alt="" coords="216,485,119,496,119,491,216,480"/>
+<area shape="rect" id="Node000020" href="$namespaceasio.html#aa16ebd52ad98e521ea4b75676d4db9fd" title=" " alt="" coords="24,536,119,561"/>
+<area shape="poly" id="edge19_Node000014_Node000020" title=" " alt="" coords="227,496,111,537,110,532,225,491"/>
+<area shape="rect" id="Node000022" href="$namespaceasio.html#ac2d04c42f9c62cfdfad22c1e47371afe" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="241,881,317,906"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="423,896,317,896,317,891,423,891"/>
+<area shape="rect" id="Node000023" href="$namespaceasio.html#a762fc24a5be2db44f5b4095af618b8b9" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,585,110,610"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="268,866,252,815,225,750,187,682,163,651,136,624,109,609,111,604,139,620,167,648,191,679,230,748,257,813,273,865"/>
+<area shape="rect" id="Node000024" href="$namespaceasio.html#ae2bc01a3cfbb23d492c75dc6414d24f1" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,634,110,660"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="265,868,246,825,218,773,181,720,136,673,109,658,111,654,139,669,186,716,223,771,251,823,270,866"/>
+<area shape="rect" id="Node000025" href="$namespaceasio.html#a8fee811dd4da39d29632f7eff041b6fc" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,684,110,709"/>
+<area shape="poly" id="edge24_Node000022_Node000025" title=" " alt="" coords="260,869,211,796,176,757,136,723,109,709,111,704,139,718,180,753,215,793,265,866"/>
+<area shape="rect" id="Node000026" href="$namespaceasio.html#aaeda9d140628ff399cbe4a076cb15cee" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,733,110,758"/>
+<area shape="poly" id="edge25_Node000022_Node000026" title=" " alt="" coords="254,871,203,822,170,795,136,772,109,759,111,754,139,767,174,791,206,818,257,867"/>
+<area shape="rect" id="Node000027" href="$namespaceasio.html#abc0bc3183df1291c7b2a35ec30d5428c" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,782,110,808"/>
+<area shape="poly" id="edge26_Node000022_Node000027" title=" " alt="" coords="240,875,137,821,109,810,111,805,139,817,243,870"/>
+<area shape="rect" id="Node000028" href="$namespaceasio.html#aeadfb55ae835155abb8b6dc11a063b54" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,832,110,857"/>
+<area shape="poly" id="edge27_Node000022_Node000028" title=" " alt="" coords="225,884,110,856,111,851,226,879"/>
+<area shape="rect" id="Node000029" href="$namespaceasio.html#a6038b695e95ef357b104f35a28edfe3d" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,881,110,906"/>
+<area shape="poly" id="edge28_Node000022_Node000029" title=" " alt="" coords="225,896,110,896,110,891,225,891"/>
+<area shape="rect" id="Node000030" href="$namespaceasio.html#afff9ff31b97492c326e599398599366b" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,930,110,956"/>
+<area shape="poly" id="edge29_Node000022_Node000030" title=" " alt="" coords="226,909,111,937,110,931,225,904"/>
+<area shape="rect" id="Node000031" href="$namespaceasio.html#ae08771e9fbf8a4e92e8b4d2cf801a428" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,980,110,1005"/>
+<area shape="poly" id="edge30_Node000022_Node000031" title=" " alt="" coords="243,917,139,971,111,982,109,977,137,966,240,912"/>
+<area shape="rect" id="Node000032" href="$namespaceasio.html#a6139ae5217bdda60c94939c37f6971b6" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,1029,110,1054"/>
+<area shape="poly" id="edge31_Node000022_Node000032" title=" " alt="" coords="257,920,206,970,174,996,139,1020,111,1033,109,1028,136,1015,170,992,203,966,254,916"/>
+<area shape="rect" id="Node000033" href="$namespaceasio.html#a2cb13f54d15172a2e93b73c1ea9fb1b5" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,1078,110,1104"/>
+<area shape="poly" id="edge32_Node000022_Node000033" title=" " alt="" coords="265,922,215,994,180,1034,139,1069,111,1083,109,1079,136,1065,176,1030,211,991,260,919"/>
+<area shape="rect" id="Node000034" href="$namespaceasio.html#a1a384fd2010fdaf4d6047b4426d3199f" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,1128,110,1153"/>
+<area shape="poly" id="edge33_Node000022_Node000034" title=" " alt="" coords="270,922,251,964,223,1017,186,1071,139,1118,111,1134,109,1129,136,1114,181,1068,218,1014,246,962,265,919"/>
+<area shape="rect" id="Node000035" href="$namespaceasio.html#a5588d6732ebb692217a10f639db11f0e" title="Attempt to read a certain amount of data from a stream before returning." alt="" coords="33,1177,110,1202"/>
+<area shape="poly" id="edge34_Node000022_Node000035" title=" " alt="" coords="273,923,257,974,230,1040,191,1108,167,1140,139,1168,111,1183,109,1179,136,1164,163,1136,187,1105,225,1037,252,972,268,921"/>
+<area shape="rect" id="Node000037" href="$namespaceasio.html#a51133c1e260b8abeeed55646e765fdd6" title="Write a certain amount of data at a specified offset before returning." alt="" coords="230,1350,328,1376"/>
+<area shape="poly" id="edge36_Node000036_Node000037" title=" " alt="" coords="465,1205,297,1352,294,1348,461,1201"/>
+<area shape="rect" id="Node000038" href="$namespaceasio.html#a1db1f75a907c17918092b41f2f242104" title="Write all of the supplied data at the specified offset before returning." alt="" coords="23,1226,120,1252"/>
+<area shape="poly" id="edge37_Node000037_Node000038" title=" " alt="" coords="249,1342,198,1304,136,1265,113,1255,115,1250,139,1261,201,1300,252,1338"/>
+<area shape="rect" id="Node000039" href="$namespaceasio.html#aa6f42435acf937c35ee4c81af44ee6ce" title="Write all of the supplied data at the specified offset before returning." alt="" coords="23,1276,120,1301"/>
+<area shape="poly" id="edge38_Node000037_Node000039" title=" " alt="" coords="226,1347,109,1304,111,1299,228,1342"/>
+<area shape="rect" id="Node000040" href="$namespaceasio.html#a2e23f5418309ba130d75f6757b7b8e15" title="Write a certain amount of data at a specified offset before returning." alt="" coords="23,1325,120,1350"/>
+<area shape="poly" id="edge39_Node000037_Node000040" title=" " alt="" coords="214,1358,120,1346,121,1341,215,1353"/>
+<area shape="rect" id="Node000041" href="$namespaceasio.html#a431966af634f0701ceac7f54fc1b0371" title="Write a certain amount of data at a specified offset before returning." alt="" coords="23,1374,120,1400"/>
+<area shape="poly" id="edge40_Node000037_Node000041" title=" " alt="" coords="215,1373,121,1384,120,1379,214,1368"/>
+<area shape="rect" id="Node000042" href="$namespaceasio.html#add67a05a29d183782491d14aceec7d41" title="Write all of the supplied data at the specified offset before returning." alt="" coords="23,1424,120,1449"/>
+<area shape="poly" id="edge41_Node000037_Node000042" title=" " alt="" coords="227,1384,111,1425,110,1420,225,1379"/>
+<area shape="rect" id="Node000043" href="$namespaceasio.html#a8c1abcb5870505ea2a0c524a59638da0" title="Write all of the supplied data at the specified offset before returning." alt="" coords="23,1473,120,1498"/>
+<area shape="poly" id="edge42_Node000037_Node000043" title=" " alt="" coords="252,1388,201,1426,139,1464,115,1475,113,1470,136,1459,198,1421,248,1384"/>
+<area shape="rect" id="Node000044" href="$namespaceasio.html#a3e6b2f5dd13f4273695fbf0cdec0314a" title="Write a certain amount of data at a specified offset before returning." alt="" coords="23,1522,120,1548"/>
+<area shape="poly" id="edge43_Node000037_Node000044" title=" " alt="" coords="261,1390,211,1451,177,1484,139,1513,119,1524,116,1519,136,1509,173,1480,207,1447,257,1387"/>
+<area shape="rect" id="Node000046" href="$namespaceasio.html#a0836b66664a36ebc7ca74f0441fc4188" title="Write a certain amount of data to a stream before returning." alt="" coords="239,1998,318,2024"/>
+<area shape="poly" id="edge45_Node000045_Node000046" title=" " alt="" coords="475,1765,292,2000,288,1996,471,1762"/>
+<area shape="rect" id="Node000047" href="$classasio_1_1buffered__write__stream.html#a2974f1b010b5fae2e7c1a359de8a9630" title=" " alt="" coords="5,1572,138,1613"/>
+<area shape="poly" id="edge46_Node000046_Node000047" title=" " alt="" coords="272,1983,260,1913,236,1820,218,1769,196,1719,168,1671,136,1627,121,1615,125,1611,140,1624,173,1668,200,1716,223,1767,241,1818,265,1912,277,1982"/>
+<area shape="rect" id="Node000050" href="$classasio_1_1buffered__write__stream.html#a8bcdf1dae02dc31c3cc8f190e38ded58" title=" " alt="" coords="5,1637,138,1678"/>
+<area shape="poly" id="edge47_Node000046_Node000050" title=" " alt="" coords="269,1983,255,1924,229,1847,190,1765,165,1726,136,1692,122,1681,126,1676,140,1688,169,1723,194,1762,234,1845,260,1923,275,1982"/>
+<area shape="rect" id="Node000051" href="$namespaceasio_1_1ssl_1_1detail.html#abd5ed3f43e67677cec6a431e47c9028d" title=" " alt="" coords="11,1702,132,1728"/>
+<area shape="poly" id="edge48_Node000046_Node000051" title=" " alt="" coords="268,1984,252,1932,225,1867,187,1800,163,1769,136,1741,120,1730,123,1726,139,1737,167,1765,191,1797,230,1865,257,1930,273,1982"/>
+<area shape="rect" id="Node000057" href="$namespaceasio.html#a038641314390c2f3f4164457eecdf0ee" title="Write all of the supplied data to a stream before returning." alt="" coords="32,1752,111,1777"/>
+<area shape="poly" id="edge49_Node000046_Node000057" title=" " alt="" coords="265,1985,246,1943,218,1891,181,1837,136,1790,110,1776,113,1772,139,1786,186,1834,223,1888,251,1940,270,1983"/>
+<area shape="rect" id="Node000058" href="$namespaceasio.html#abf7e8df8ce570b07f32acd0a3cc0c4e3" title="Write a certain amount of data to a stream before returning." alt="" coords="32,1801,111,1826"/>
+<area shape="poly" id="edge50_Node000046_Node000058" title=" " alt="" coords="260,1986,211,1914,176,1874,136,1840,110,1827,113,1822,139,1835,180,1870,215,1910,265,1983"/>
+<area shape="rect" id="Node000059" href="$namespaceasio.html#ad0706de491271959e2b811fc011b2c53" title="Write a certain amount of data to a stream before returning." alt="" coords="32,1850,111,1876"/>
+<area shape="poly" id="edge51_Node000046_Node000059" title=" " alt="" coords="254,1989,203,1939,170,1913,136,1889,110,1877,113,1872,139,1885,174,1908,206,1935,257,1985"/>
+<area shape="rect" id="Node000060" href="$namespaceasio.html#a3a85a48308f812d037cd64c368e69329" title="Write all of the supplied data to a stream before returning." alt="" coords="32,1900,111,1925"/>
+<area shape="poly" id="edge52_Node000046_Node000060" title=" " alt="" coords="240,1993,137,1939,111,1928,113,1923,139,1934,243,1988"/>
+<area shape="rect" id="Node000061" href="$namespaceasio.html#a85807d13da87adf48b62979f65f41152" title="Write all of the supplied data to a stream before returning." alt="" coords="32,1949,111,1974"/>
+<area shape="poly" id="edge53_Node000046_Node000061" title=" " alt="" coords="223,2001,111,1974,112,1968,224,1995"/>
+<area shape="rect" id="Node000062" href="$namespaceasio.html#af72f7eddd7d4629ea2e2b7f5b7f355bc" title="Write all of the supplied data to a stream before returning." alt="" coords="32,1998,111,2024"/>
+<area shape="poly" id="edge54_Node000046_Node000062" title=" " alt="" coords="224,2014,112,2014,112,2008,224,2008"/>
+<area shape="rect" id="Node000063" href="$namespaceasio.html#aa80988391fb309ee53cc557d0065550a" title="Write a certain amount of data to a stream before returning." alt="" coords="32,2048,111,2073"/>
+<area shape="poly" id="edge55_Node000046_Node000063" title=" " alt="" coords="224,2027,112,2054,111,2048,223,2021"/>
+<area shape="rect" id="Node000064" href="$namespaceasio.html#a393e12e427f89cb932c6a2bd800236fb" title="Write a certain amount of data to a stream before returning." alt="" coords="32,2097,111,2122"/>
+<area shape="poly" id="edge56_Node000046_Node000064" title=" " alt="" coords="243,2034,139,2088,113,2099,111,2094,137,2083,240,2029"/>
+<area shape="rect" id="Node000065" href="$namespaceasio.html#a76bea26a365e2db58363090c667ae763" title="Write all of the supplied data to a stream before returning." alt="" coords="32,2146,111,2172"/>
+<area shape="poly" id="edge57_Node000046_Node000065" title=" " alt="" coords="257,2037,206,2087,174,2114,139,2137,113,2150,110,2145,136,2133,170,2109,203,2083,254,2033"/>
+<area shape="rect" id="Node000066" href="$namespaceasio.html#a8386d6d624c52cc30eb22aa0021c66eb" title="Write a certain amount of data to a stream before returning." alt="" coords="32,2196,111,2221"/>
+<area shape="poly" id="edge58_Node000046_Node000066" title=" " alt="" coords="265,2039,215,2112,180,2152,139,2187,113,2200,110,2195,136,2182,176,2148,211,2108,260,2036"/>
+<area shape="rect" id="Node000067" href="$namespaceasio.html#a700a5a376b28c391c478707a8dec6b83" title="Write all of the supplied data to a stream before returning." alt="" coords="32,2245,111,2270"/>
+<area shape="poly" id="edge59_Node000046_Node000067" title=" " alt="" coords="270,2039,251,2082,223,2134,186,2188,139,2236,113,2250,110,2246,136,2232,181,2185,218,2131,246,2079,265,2037"/>
+<area shape="rect" id="Node000068" href="$namespaceasio.html#aa78968a00365a30471fc734c91890491" title="Write all of the supplied data to a stream before returning." alt="" coords="32,2294,111,2320"/>
+<area shape="poly" id="edge60_Node000046_Node000068" title=" " alt="" coords="273,2040,257,2092,230,2157,191,2225,167,2257,139,2285,113,2300,110,2296,136,2281,163,2253,187,2222,225,2155,252,2090,268,2038"/>
+<area shape="rect" id="Node000069" href="$namespaceasio.html#ad5cee1a0dd40e2cc9a61c6386123edd5" title="Write a certain amount of data to a stream before returning." alt="" coords="32,2344,111,2369"/>
+<area shape="poly" id="edge61_Node000046_Node000069" title=" " alt="" coords="275,2040,262,2100,236,2179,218,2221,197,2262,170,2300,139,2334,113,2350,110,2345,136,2330,166,2297,192,2259,214,2218,231,2177,257,2099,270,2039"/>
+<area shape="rect" id="Node000070" href="$namespaceasio.html#a25da8d99e8028b80391f7c683f1cd4b6" title="Write a certain amount of data to a stream before returning." alt="" coords="32,2393,111,2418"/>
+<area shape="poly" id="edge62_Node000046_Node000070" title=" " alt="" coords="277,2040,266,2108,243,2200,225,2249,202,2297,174,2343,139,2384,113,2400,110,2395,136,2380,170,2340,197,2295,220,2247,238,2198,261,2107,272,2039"/>
+<area shape="rect" id="Node000071" href="$namespaceasio.html#a2e11be64adb48357a70afd0970b8b89f" title="Write all of the supplied data to a stream before returning." alt="" coords="32,2442,111,2468"/>
+<area shape="poly" id="edge63_Node000046_Node000071" title=" " alt="" coords="279,2040,271,2116,249,2221,231,2278,208,2333,177,2386,139,2433,113,2449,110,2445,136,2429,173,2383,203,2331,226,2276,244,2220,265,2115,274,2039"/>
+</map>

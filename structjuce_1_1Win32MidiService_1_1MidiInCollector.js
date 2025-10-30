@@ -1,0 +1,28 @@
+var structjuce_1_1Win32MidiService_1_1MidiInCollector =
+[
+    [ "MidiHeader", "structjuce_1_1Win32MidiService_1_1MidiInCollector_1_1MidiHeader.html", "structjuce_1_1Win32MidiService_1_1MidiInCollector_1_1MidiHeader" ],
+    [ "Ptr", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a3eeac943d259c68e0c67fe3db255ddaf", null ],
+    [ "MidiInCollector", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a6cec95923aa6d1e0551f08504c1c1296", null ],
+    [ "~MidiInCollector", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a0b8e0a0a2ac5d9ee3dbeb306ed935e29", null ],
+    [ "addClient", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a2db5860f49edb19fd54adfb5173c618d", null ],
+    [ "convertTimeStamp", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#aa1eab04f3e95951d85bcfff6b344e03d", null ],
+    [ "countRunningClients", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#adf92412da0d3fde60838b6af65825036", null ],
+    [ "handleMessage", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#abce7adabcfb39ca257239c7a08d634fc", null ],
+    [ "handleSysEx", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a4f640b6ee79cc750e74446cb9ad4bf8d", null ],
+    [ "midiInCallback", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a200a6a165f4b487b13676cf10d09fbff", null ],
+    [ "removeClient", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#af1a7cdec642c39fe9509558ad2357250", null ],
+    [ "start", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a5136a994e7b4bc9a4a9b0fe62b0bba6e", null ],
+    [ "startOrStop", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a8996b07dfd9eeeca853523e7b2731db4", null ],
+    [ "stop", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#ab5d602649a95cf08c5189c2f1560a03c", null ],
+    [ "unprepareAllHeaders", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a564a9c65d1bd1c2244e0aaca151c6653", null ],
+    [ "writeFinishedBlocks", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#acd8fdb482f00f2a40cc6d3714e667aff", null ],
+    [ "activeMidiCollectors", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#ab1ce2d6a7b6350bde79d4a93ff370a94", null ],
+    [ "clientLock", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#aa94ef4413e050d03ee9dcb6e8baf4894", null ],
+    [ "clients", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#af2fb24437228a779df12ba75cf5b804f", null ],
+    [ "deviceHandle", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a878b111fcfda223e8399bc514f73fbac", null ],
+    [ "deviceInfo", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#aaf4b0f340159cb0f7b9d780a5f9552d0", null ],
+    [ "headers", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a7e8f49bab50664d8c25283addbedeac1", null ],
+    [ "isStarted", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a1027afcdbc01122654ec946300d09adc", null ],
+    [ "midiService", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#a43fc9816193d45a9886ecb01efd3e18f", null ],
+    [ "startTime", "structjuce_1_1Win32MidiService_1_1MidiInCollector.html#ab12b1434ecb7ee156426ff0262abfde0", null ]
+];

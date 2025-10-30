@@ -1,0 +1,27 @@
+var struct__nekobee__voice__t =
+[
+    [ "accent_slug", "struct__nekobee__voice__t.html#a2d5ddfbe4e27b69e2e1cdf7f46e4c53f", null ],
+    [ "c5", "struct__nekobee__voice__t.html#a42d1a18acc086a8697bfeb423a7ce38b", null ],
+    [ "delay1", "struct__nekobee__voice__t.html#a1f2a18fd27b3ef86a32fdd54ff9713cd", null ],
+    [ "delay2", "struct__nekobee__voice__t.html#a470c18452229fea9176354593757e397", null ],
+    [ "delay3", "struct__nekobee__voice__t.html#a0bce2f2922247faef60bffda20923e06", null ],
+    [ "delay4", "struct__nekobee__voice__t.html#a90503a9d840b82dd9901c075655d4a85", null ],
+    [ "freqcut_buf", "struct__nekobee__voice__t.html#a46cc5b7684aec55d013279c60a1f2160", null ],
+    [ "key", "struct__nekobee__voice__t.html#a10be84738a42be333d478a9d0c00be22", null ],
+    [ "lfo_pos", "struct__nekobee__voice__t.html#af5643b5ec41fa0d4f040e5c14ef3e4ba", null ],
+    [ "note_id", "struct__nekobee__voice__t.html#af621dec4506810c610c826d96182c4c0", null ],
+    [ "osc1", "struct__nekobee__voice__t.html#a19b68ebaf13d6a81f19fe55e84255338", null ],
+    [ "osc_audio", "struct__nekobee__voice__t.html#ab3ebd74a53d109fb88f5e81581749dd8", null ],
+    [ "osc_index", "struct__nekobee__voice__t.html#a48020c1a6b50c8b7b13da93f67f8f693", null ],
+    [ "pressure", "struct__nekobee__voice__t.html#ab28c9b0f985e8da0f93b799c6b6371c6", null ],
+    [ "prev_pitch", "struct__nekobee__voice__t.html#a04f72a67d7200d8765f6588499691d71", null ],
+    [ "rvelocity", "struct__nekobee__voice__t.html#a3e6552a1aaaf1c41a22c83a27dea8131", null ],
+    [ "status", "struct__nekobee__voice__t.html#a0e4d50cc308766ac54a7c1178b778aa4", null ],
+    [ "target_pitch", "struct__nekobee__voice__t.html#a7981327f963bd203906cb23ac1759060", null ],
+    [ "vca_buf", "struct__nekobee__voice__t.html#a5c32983da3ac53fb9dfc522f070db7cb", null ],
+    [ "vca_eg", "struct__nekobee__voice__t.html#a883bbc308218d478f5b7b181c25714e3", null ],
+    [ "vca_eg_phase", "struct__nekobee__voice__t.html#a243625152ea42ae7cb772ed5d08e48f3", null ],
+    [ "vcf_eg", "struct__nekobee__voice__t.html#a1990a5d523f281d8e705a47b9082c574", null ],
+    [ "vcf_eg_phase", "struct__nekobee__voice__t.html#a26856f4dc6b8301954467cf2e9c228a3", null ],
+    [ "velocity", "struct__nekobee__voice__t.html#a7c677587f0693a5938881327bf2e5e9b", null ]
+];

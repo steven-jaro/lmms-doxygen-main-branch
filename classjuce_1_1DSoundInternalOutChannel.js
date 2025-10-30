@@ -1,0 +1,27 @@
+var classjuce_1_1DSoundInternalOutChannel =
+[
+    [ "DSoundInternalOutChannel", "classjuce_1_1DSoundInternalOutChannel.html#ace987f481c5555af0e45f23314d03639", null ],
+    [ "~DSoundInternalOutChannel", "classjuce_1_1DSoundInternalOutChannel.html#abc7d2c25b140b66cdbbc3bea65bdbcda", null ],
+    [ "close", "classjuce_1_1DSoundInternalOutChannel.html#a8401c2bb3ce06b3d2b6cc0090f3469a3", null ],
+    [ "convertInputValues", "classjuce_1_1DSoundInternalOutChannel.html#ae4a7a3a0f6b5bdfb1662a3524ea772b0", null ],
+    [ "open", "classjuce_1_1DSoundInternalOutChannel.html#a06d3c363a51b4c8f40b2fd53bf94e39e", null ],
+    [ "service", "classjuce_1_1DSoundInternalOutChannel.html#a90d33a3eadd1cdda611437905356b756", null ],
+    [ "synchronisePosition", "classjuce_1_1DSoundInternalOutChannel.html#a1ca279207c92f63604875b1a38f37e6a", null ],
+    [ "bitDepth", "classjuce_1_1DSoundInternalOutChannel.html#a2c89114097c3a1a97b2e2addc19cb761", null ],
+    [ "bufferSizeSamples", "classjuce_1_1DSoundInternalOutChannel.html#ad273e49314d74768827621808efbe42e", null ],
+    [ "bytesPerBuffer", "classjuce_1_1DSoundInternalOutChannel.html#a53c0a6fcaf4b6bf05c94a4040b1daf89", null ],
+    [ "doneFlag", "classjuce_1_1DSoundInternalOutChannel.html#a16589e68203b3181b128ff73568629dd", null ],
+    [ "firstPlayTime", "classjuce_1_1DSoundInternalOutChannel.html#a5e883506e8d32c9d904473452a1bdcf4", null ],
+    [ "guid", "classjuce_1_1DSoundInternalOutChannel.html#af86277859b8f33be8acc576e088f3151", null ],
+    [ "lastPlayTime", "classjuce_1_1DSoundInternalOutChannel.html#ac0250286ae1dabc52e95c832b6f4e1a1", null ],
+    [ "leftBuffer", "classjuce_1_1DSoundInternalOutChannel.html#a9e7f421563bfadda6d1821c82b09d561", null ],
+    [ "name", "classjuce_1_1DSoundInternalOutChannel.html#a88f16c135e4889c3713dd4d0467866ce", null ],
+    [ "pDirectSound", "classjuce_1_1DSoundInternalOutChannel.html#a8b59b89a560fc99b9aa7b9d33b3981f8", null ],
+    [ "pOutputBuffer", "classjuce_1_1DSoundInternalOutChannel.html#af09baebe7900dbd683c9449919710528", null ],
+    [ "rightBuffer", "classjuce_1_1DSoundInternalOutChannel.html#aee989ee82ef591c78ffab2604e9a1859", null ],
+    [ "sampleRate", "classjuce_1_1DSoundInternalOutChannel.html#ab6728c2e99c7f181b20d500f98cf6ca0", null ],
+    [ "ticksPerBuffer", "classjuce_1_1DSoundInternalOutChannel.html#abb8b0862ad003805bcf79253056e8ca0", null ],
+    [ "totalBytesPerBuffer", "classjuce_1_1DSoundInternalOutChannel.html#aece07bd1369573fa0a890c5ae2650427", null ],
+    [ "writeOffset", "classjuce_1_1DSoundInternalOutChannel.html#a12ccca76c90f83121da8f9c536ee7818", null ],
+    [ "xruns", "classjuce_1_1DSoundInternalOutChannel.html#a7539d361881f27e504e5d2dede6d867e", null ]
+];

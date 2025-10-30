@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['eacn_20entry_20is_20centred_20meaning_20the_20num_5fpsy_5fbins_202_20th_20value_20is_20the_20peak_20of_20the_20tent_20shaped_20function_0',['Eacn entry is centred, meaning the num_psy_bins/2&apos;th value is the peak of the tent-shaped function.',['../classshaping__clipper.html#autotoc_md4',1,'']]],
+  ['embedded_20developers_1',['Embedded Developers',['../index.html#embedded_developers',1,'']]],
+  ['entry_20is_20centred_20meaning_20the_20num_5fpsy_5fbins_202_20th_20value_20is_20the_20peak_20of_20the_20tent_20shaped_20function_2',['Eacn entry is centred, meaning the num_psy_bins/2&apos;th value is the peak of the tent-shaped function.',['../classshaping__clipper.html#autotoc_md4',1,'']]],
+  ['example_3',['Example',['../classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html#IChannelContextExample',1,'Example'],['../classSteinberg_1_1Vst_1_1IProgress.html#IProgressExample',1,'Example'],['../classSteinberg_1_1Vst_1_1IMidiMapping.html#IMidiMappingExample',1,'Example'],['../classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html#IEditControllerExample',1,'Example'],['../classSteinberg_1_1Vst_1_1IParameterFunctionName.html#IParameterFunctionNameExample',1,'Example'],['../classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html#INoteExpressionPhysicalUIMappingExample',1,'Example'],['../classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html#IPlugInterfaceSupportExample',1,'Example'],['../classSteinberg_1_1Vst_1_1IPrefetchableSupport.html#IPrefetchableSupportExample',1,'Example']]],
+  ['examples_4',['Examples',['../classSteinberg_1_1Vst_1_1IComponentHandler3.html#IContextMenuExample',1,'']]],
+  ['examples_20of_20different_20use_20cases_5',['Examples of different use cases',['../classSteinberg_1_1Vst_1_1IComponentHandler2.html#IComponentHandler2Example',1,'']]]
+];

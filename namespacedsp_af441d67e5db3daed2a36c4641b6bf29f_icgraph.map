@@ -1,0 +1,40 @@
+<map id="dsp::amp2dB" name="dsp::amp2dB">
+<area shape="rect" id="Node000001" title="convert amplitude value to dB" alt="" coords="907,141,1003,167"/>
+<area shape="rect" id="Node000002" href="$ctl__meterscale_8cpp.html#a9b2a94db5cb5ab48343bc91e2f06085c" title=" " alt="" coords="690,15,859,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,132,897,101,857,70,808,43,811,39,860,65,900,97,933,129"/>
+<area shape="rect" id="Node000005" href="$ctl__vumeter_8cpp.html#a13efc91ca18f908fbd4f1abf4efa84fa" title=" " alt="" coords="702,80,847,106"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="899,138,814,109,816,104,901,133"/>
+<area shape="rect" id="Node000008" href="$namespacecalf__plugins.html#a6317c2fd7fb2012c7d3594c7c745d302" title=" " alt="" coords="698,162,851,202"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="892,167,851,173,851,168,891,161"/>
+<area shape="rect" id="Node000015" href="$structcalf__plugins_1_1parameter__properties.html#adf2f2d4e1b8170d746b2801dad685499" title="stringify (in sensible way)" alt="" coords="697,335,852,376"/>
+<area shape="poly" id="edge12_Node000001_Node000015" title=" " alt="" coords="934,180,796,337,792,333,930,177"/>
+<area shape="rect" id="Node000003" href="$ctl__meterscale_8cpp.html#ad7f6f1a1e9717047c01a27f9185127f3" title=" " alt="" coords="438,5,620,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="675,26,621,24,621,19,675,21"/>
+<area shape="rect" id="Node000004" href="$ctl__meterscale_8cpp.html#adb7ccb7d584bd7c0f6dcda8a0c490e96" title=" " alt="" coords="189,5,365,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="422,21,365,21,365,16,422,16"/>
+<area shape="rect" id="Node000006" href="$ctl__vumeter_8cpp.html#a4899ece697b87ec33735c5d6dd5557c8" title=" " alt="" coords="450,55,608,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="686,86,608,78,609,73,687,81"/>
+<area shape="rect" id="Node000007" href="$ctl__vumeter_8cpp.html#a98e37b2772707cb0819a6cf257128fd0" title=" " alt="" coords="201,55,353,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="435,70,354,70,354,65,435,65"/>
+<area shape="rect" id="Node000009" href="$ctl__linegraph_8cpp.html#ac0c3c7791b54ffd7e1303875280808a8" title=" " alt="" coords="458,104,601,145"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="682,163,601,144,602,139,684,158"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1equalizerNband__audio__module.html#ae49cbf88140a7ea0dea8b78f6c606bf3" title=" " alt="" coords="416,170,642,210"/>
+<area shape="poly" id="edge10_Node000008_Node000013" title=" " alt="" coords="683,188,643,189,643,184,683,182"/>
+<area shape="rect" id="Node000014" href="$classcalf__plugins_1_1frequency__response__line__graph.html#ad2f6f9ea452fcfa66594ce29962b088d" title=" " alt="" coords="452,234,606,290"/>
+<area shape="poly" id="edge11_Node000008_Node000014" title=" " alt="" coords="696,210,607,240,605,235,695,205"/>
+<area shape="rect" id="Node000010" href="$ctl__linegraph_8cpp.html#a9be32d13c6aad6fe08eda6ede929d5a0" title=" " alt="" coords="199,112,355,138"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="442,128,355,128,355,122,442,122"/>
+<area shape="rect" id="Node000016" href="$classcalf__plugins_1_1param__control.html#a701590ae3358a6666fc1d2c21dc8cfda" title=" " alt="" coords="186,306,368,346"/>
+<area shape="poly" id="edge13_Node000015_Node000016" title=" " alt="" coords="682,353,368,334,369,329,682,347"/>
+<area shape="rect" id="Node000020" href="$structcalf__plugins_1_1parameter__properties.html#a48aa295168871c33eb61481f526b790d" title="get required width (for reserving GUI space)" alt="" coords="439,364,619,405"/>
+<area shape="poly" id="edge15_Node000015_Node000020" title=" " alt="" coords="682,369,620,377,620,371,682,364"/>
+<area shape="rect" id="Node000022" href="$structcalf__plugins_1_1hscale__param__control.html#ae5406e9697f0852f643ea52e36af7d76" title=" " alt="" coords="452,429,606,485"/>
+<area shape="poly" id="edge18_Node000015_Node000022" title=" " alt="" coords="719,385,643,419,608,433,606,428,641,414,716,381"/>
+<area shape="rect" id="Node000017" href="$classcalf__plugins_1_1param__control.html#a557a113b7a74b9ec13021048887b7c94" title=" " alt="" coords="5,298,138,354"/>
+<area shape="poly" id="edge14_Node000016_Node000017" title=" " alt="" coords="170,329,138,329,138,324,170,324"/>
+<area shape="poly" id="edge17_Node000020_Node000016" title=" " alt="" coords="423,363,367,350,368,344,424,358"/>
+<area shape="rect" id="Node000021" href="$structcalf__plugins_1_1value__param__control.html#a937b892eaab3ee2df16c44474d1e2e74" title="called to create a widget for a control" alt="" coords="201,371,353,412"/>
+<area shape="poly" id="edge16_Node000020_Node000021" title=" " alt="" coords="423,390,353,392,353,387,423,385"/>
+<area shape="rect" id="Node000023" href="$structcalf__plugins_1_1hscale__param__control.html#a8489c8e651dab2a41f6702702213c61d" title="called to create a widget for a control" alt="" coords="201,436,353,477"/>
+<area shape="poly" id="edge19_Node000022_Node000023" title=" " alt="" coords="436,460,354,460,354,454,436,454"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="calf_plugins::rotary_speaker_audio_module::update_speed" name="calf_plugins::rotary_speaker_audio_module::update_speed">
+<area shape="rect" id="Node000001" title="Set delta&#45;phase variables based on current calculated (and interpolated) RPM speed." alt="" coords="424,85,585,141"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#acca7646f77dd6e00043060ab605fe36f" title=" " alt="" coords="215,85,376,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,116,376,116,376,110,408,110"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#af26c45892d0bb4919a2d664780e99740" title="Handle MIDI Control Change." alt="" coords="5,5,167,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,82,160,64,162,59,207,77"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#ae908aabdaa432089a3701c6e0eecdc8d" title="Called when params are changed (before processing)." alt="" coords="5,85,167,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,116,167,116,167,110,199,110"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1rotary__speaker__audio__module.html#a235748beabc90ad39c8c8204729eb290" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,165,167,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="207,150,162,167,160,162,205,145"/>
+</map>

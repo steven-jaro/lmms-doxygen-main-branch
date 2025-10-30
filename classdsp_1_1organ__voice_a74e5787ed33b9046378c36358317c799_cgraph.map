@@ -1,0 +1,39 @@
+<map id="dsp::organ_voice::render_block" name="dsp::organ_voice::render_block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,300,166,341"/>
+<area shape="rect" id="Node000002" href="$classdsp_1_1organ__voice__base.html#ac750e4e5dbdd22235d42c3ce6143dcc8" title=" " alt="" coords="219,5,372,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,299,102,250,126,185,162,117,185,84,212,56,214,53,218,57,216,60,189,88,167,119,131,187,107,252,94,300"/>
+<area shape="rect" id="Node000004" href="$namespacedsp.html#ad310e31e6431e2004822d08b40ee5111" title="Clip a value to [min, max]." alt="" coords="261,70,330,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,299,108,260,134,211,169,159,212,113,245,94,248,99,215,117,173,162,139,213,113,262,97,301"/>
+<area shape="rect" id="Node000005" href="$namespacedsp.html#aa7895889a13d54d21ea6855e30cc4568" title="fast float to int conversion using default rounding mode" alt="" coords="454,200,567,225"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="93,298,110,265,136,225,170,186,190,170,213,157,247,145,282,140,319,141,354,146,421,166,474,190,472,194,419,171,353,151,318,146,283,145,248,150,215,161,193,174,174,190,140,228,115,268,98,301"/>
+<area shape="rect" id="Node000006" href="$classdsp_1_1fixed__point.html#a8ef0029d6bac55f19f8bf66584bc24ad" title=" " alt="" coords="229,172,362,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,298,150,252,180,227,212,206,223,201,225,206,215,211,183,232,153,256,107,301"/>
+<area shape="rect" id="Node000007" href="$unzipfx-carla-control_2unzip_8h.html#a6146ec4ac32d62cf01b4c4c6587d5131" title=" " alt="" coords="276,221,315,246"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="125,297,213,257,260,240,262,245,215,261,127,302"/>
+<area shape="rect" id="Node000008" href="$classdsp_1_1organ__voice__base.html#a35a6e7be6af97c9f43d03a5c82c1131e" title=" " alt="" coords="219,385,372,426"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="139,339,230,376,228,381,136,344"/>
+<area shape="rect" id="Node000009" href="$namespacedsp.html#a870586ac5ee3dd8c04e793905875a536" title="&#39;Small value&#39; for integer and other types" alt="" coords="452,365,569,390"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="167,328,437,365,437,370,166,334"/>
+<area shape="rect" id="Node000010" href="$classdsp_1_1organ__voice__base.html#aa1c5a47d5562ec1f143292f206e3a0ba" title=" " alt="" coords="434,465,587,506"/>
+<area shape="poly" id="edge19_Node000001_Node000010" title=" " alt="" coords="98,340,114,375,139,416,173,456,193,472,215,486,264,503,317,510,369,510,418,504,419,510,370,515,317,516,263,508,213,491,190,477,169,459,135,419,109,377,93,342"/>
+<area shape="rect" id="Node000012" href="$classdsp_1_1fixed__point.html#a1c8b3eb628e40cee7ccb52d80d41306d" title=" " alt="" coords="229,450,362,476"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="106,339,152,387,182,413,215,435,227,442,225,446,212,440,179,417,149,391,102,343"/>
+<area shape="rect" id="Node000013" href="$classdsp_1_1organ__voice.html#aebb22a4880609cfab94003f6189ff834" title=" " alt="" coords="214,551,377,591"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="97,340,114,379,139,430,173,483,215,530,228,540,225,544,212,534,169,486,135,432,109,382,92,342"/>
+<area shape="rect" id="Node000016" href="$classdsp_1_1organ__voice.html#a72b9d79c85ae84c8dff9fc49dd7b058d" title=" " alt="" coords="223,271,368,311"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="165,307,207,301,207,306,166,312"/>
+<area shape="rect" id="Node000017" href="$namespacedsp.html#a3c28527ad9c78172345c5ff2175d2e1b" title="Set a float to zero." alt="" coords="259,616,332,641"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="93,341,105,393,127,463,143,501,163,537,187,571,215,601,245,617,243,622,212,605,183,575,159,540,139,503,122,465,99,394,88,342"/>
+<area shape="rect" id="Node000003" href="$classdsp_1_1fixed__point.html#a398c78f3affbe1dbd3c7f8c7f49e8a1b" title=" " alt="" coords="425,5,596,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,23,409,23,409,28,372,28"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="372,393,436,385,437,390,373,398"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="353,424,440,457,439,462,351,429"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1fixed__point.html#a9fe160e134900a8dd506f49d8cd4d541" title=" " alt="" coords="658,465,795,506"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="588,483,643,483,643,488,588,488"/>
+<area shape="rect" id="Node000014" href="$namespacedsp.html#a49c5a7f8ff36f25978666c587e14fc06" title=" " alt="" coords="644,558,809,584"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="377,566,425,566,596,566,629,566,628,571,596,571,425,571,377,572"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1organ__voice__base.html#af234745170580eb50c98e398660a71e4" title=" " alt="" coords="434,580,587,621"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="377,579,419,585,418,590,377,585"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="587,587,629,582,629,587,588,593"/>
+<area shape="poly" id="edge18_Node000016_Node000005" title=" " alt="" coords="352,268,458,228,460,233,354,273"/>
+</map>

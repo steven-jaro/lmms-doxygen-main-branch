@@ -1,0 +1,25 @@
+var structSearchPluginsThread_1_1PrivateData =
+[
+    [ "PrivateData", "structSearchPluginsThread_1_1PrivateData.html#a0531b7eac609c46f2f3fda483f718ac8", null ],
+    [ "fCheckAU", "structSearchPluginsThread_1_1PrivateData.html#a8480fc77085a2123a8924af63edc9752", null ],
+    [ "fCheckDSSI", "structSearchPluginsThread_1_1PrivateData.html#af4342354327f1d6c8889a753dda26ba6", null ],
+    [ "fCheckLADSPA", "structSearchPluginsThread_1_1PrivateData.html#a1a681b2b06642b2908a7b852609758fe", null ],
+    [ "fCheckLV2", "structSearchPluginsThread_1_1PrivateData.html#a9bd42affeac72fc49d5d0f20e93bb2dc", null ],
+    [ "fCheckNative", "structSearchPluginsThread_1_1PrivateData.html#a2d038d151e709bd177bfa5df64f76270", null ],
+    [ "fCheckPosix32", "structSearchPluginsThread_1_1PrivateData.html#a80a8a0785d41e1520ff4b563894ad51b", null ],
+    [ "fCheckPosix64", "structSearchPluginsThread_1_1PrivateData.html#a63396fc93038070828cfba358bcfd4d7", null ],
+    [ "fCheckSF2", "structSearchPluginsThread_1_1PrivateData.html#aad92effc5031121ee9629ec10da77fae", null ],
+    [ "fCheckSFZ", "structSearchPluginsThread_1_1PrivateData.html#a38bad99d8535683f51267df16962854a", null ],
+    [ "fCheckVST2", "structSearchPluginsThread_1_1PrivateData.html#a0123dfc60b0e15ae5e0ca119c3e7b16e", null ],
+    [ "fCheckVST3", "structSearchPluginsThread_1_1PrivateData.html#a968bfcf818ad0d7538771173a3617f46", null ],
+    [ "fCheckWin32", "structSearchPluginsThread_1_1PrivateData.html#ac0b961e1256c2856514b7394279df11a", null ],
+    [ "fCheckWin64", "structSearchPluginsThread_1_1PrivateData.html#aa5b845acb9ee8ba7fd407bec2c27e429", null ],
+    [ "fContinueChecking", "structSearchPluginsThread_1_1PrivateData.html#a22096a1bdbc4c713693b82de4c4b1179", null ],
+    [ "fCurCount", "structSearchPluginsThread_1_1PrivateData.html#a5699080e9d28b5a9facb38dc2fbdaf30", null ],
+    [ "fCurPercentValue", "structSearchPluginsThread_1_1PrivateData.html#a65d28e95b22b6a036a7ebcf4375b781c", null ],
+    [ "fLastCheckValue", "structSearchPluginsThread_1_1PrivateData.html#a44a181f7f897f2ae3a8918754cfe1566", null ],
+    [ "fPathBinaries", "structSearchPluginsThread_1_1PrivateData.html#a0bef13e1b3a4b642f103e6ef3d316a1a", null ],
+    [ "fSomethingChanged", "structSearchPluginsThread_1_1PrivateData.html#af07f94d5ce3a224b0a47b12dd688f3e1", null ],
+    [ "fToolNative", "structSearchPluginsThread_1_1PrivateData.html#ae8e7ec18f2a6e6d910271ce99b642f06", null ],
+    [ "fWineSettings", "structSearchPluginsThread_1_1PrivateData.html#ac061912eb4e9f3c3c83d4f9e068ce2b6", null ]
+];

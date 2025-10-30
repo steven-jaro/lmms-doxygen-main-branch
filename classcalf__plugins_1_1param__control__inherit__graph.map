@@ -1,0 +1,57 @@
+<map id="calf_plugins::param_control" name="calf_plugins::param_control">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2190,404,2380,974"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1button__param__control.html" title="Push button." alt="" coords="5,1083,151,1245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2176,698,1746,726,1458,750,1151,784,847,827,702,853,566,881,442,912,332,946,239,984,165,1024,136,1051,113,1084,109,1081,132,1047,162,1020,236,979,330,941,440,907,565,876,701,848,846,822,1151,779,1458,745,1746,720,2175,693"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1check__param__control.html" title="Check box (Markus Schmidt)." alt="" coords="175,1093,336,1235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2175,700,1779,734,1518,761,1240,797,965,840,712,892,600,922,500,954,416,988,349,1024,314,1056,288,1095,284,1092,310,1052,346,1019,414,983,498,949,598,917,711,887,964,835,1240,791,1518,756,1779,728,2175,695"/>
+<area shape="rect" id="Node000005" href="$structcalf__plugins_1_1combo__box__param__control.html" title="Combo list box." alt="" coords="360,1032,525,1296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2175,703,1815,741,1580,771,1332,808,1087,851,861,902,762,930,673,960,598,991,538,1024,525,1034,522,1030,536,1019,596,986,671,955,760,925,860,897,1086,846,1331,802,1579,765,1814,736,2175,697"/>
+<area shape="rect" id="Node000006" href="$structcalf__plugins_1_1curve__param__control.html" title="Curve editor." alt="" coords="550,1093,668,1235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2176,703,1839,741,1624,771,1396,807,1173,851,969,901,879,929,800,959,733,991,681,1024,652,1056,632,1094,627,1092,648,1053,678,1020,731,986,798,954,878,924,968,896,1172,846,1395,802,1623,765,1839,736,2175,698"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1entry__param__control.html" title="Text entry." alt="" coords="692,1083,846,1245"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2176,707,1875,752,1685,785,1487,823,1291,867,1113,916,1034,941,964,968,905,996,859,1024,829,1051,806,1084,802,1081,825,1048,855,1020,903,991,962,963,1032,936,1111,910,1290,862,1485,818,1685,780,1874,747,2175,702"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1filechooser__param__control.html" title="File chooser button." alt="" coords="870,1083,1058,1245"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2175,699,2078,708,1957,723,1820,746,1671,778,1516,820,1361,874,1285,906,1210,941,1139,981,1071,1024,1038,1052,1011,1084,1007,1081,1035,1048,1067,1020,1136,976,1208,937,1282,901,1359,869,1515,815,1670,773,1819,741,1957,718,2077,703,2175,694"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1hscale__param__control.html" title="Horizontal slider." alt="" coords="1082,1083,1246,1245"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2176,704,1988,735,1872,760,1749,793,1621,835,1494,886,1371,949,1314,985,1259,1024,1229,1052,1205,1085,1201,1081,1225,1048,1255,1020,1311,980,1369,944,1491,882,1619,830,1747,788,1871,755,1987,729,2175,699"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1keyboard__param__control.html" title="Static keyboard image." alt="" coords="1270,1093,1407,1235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2176,710,2014,746,1918,773,1816,807,1712,848,1608,897,1510,956,1420,1024,1391,1057,1368,1094,1364,1092,1386,1054,1417,1020,1507,951,1606,893,1709,843,1814,802,1917,768,2013,741,2175,705"/>
+<area shape="rect" id="Node000011" href="$structcalf__plugins_1_1knob__param__control.html" title="Knob." alt="" coords="1431,1093,1585,1235"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2177,724,2049,769,1898,834,1819,873,1742,918,1667,968,1599,1024,1568,1057,1544,1095,1539,1092,1564,1054,1595,1020,1664,964,1739,914,1817,869,1896,829,2047,764,2175,719"/>
+<area shape="rect" id="Node000012" href="$structcalf__plugins_1_1label__param__control.html" title="Display&#45;only control: static text." alt="" coords="1609,1103,1721,1225"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2177,735,2074,783,1957,848,1898,886,1840,928,1785,974,1735,1023,1707,1062,1687,1104,1682,1102,1703,1060,1731,1020,1781,970,1836,924,1895,881,1955,843,2072,778,2175,731"/>
+<area shape="rect" id="Node000013" href="$structcalf__plugins_1_1led__param__control.html" title="Display&#45;only control: LED." alt="" coords="1746,1103,1891,1225"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2180,770,2043,884,1972,952,1906,1023,1876,1063,1851,1105,1846,1102,1872,1060,1902,1020,1968,948,2040,880,2177,766"/>
+<area shape="rect" id="Node000014" href="$structcalf__plugins_1_1line__graph__param__control.html" title="Line graph." alt="" coords="1916,1072,2102,1256"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2185,867,2064,1074,2059,1071,2180,865"/>
+<area shape="rect" id="Node000015" href="$structcalf__plugins_1_1listview__param__control.html" title="List view used for variable&#45;length tabular data." alt="" coords="2126,1022,2276,1306"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2235,989,2229,1022,2223,1021,2229,988"/>
+<area shape="rect" id="Node000016" href="$structcalf__plugins_1_1meter__scale__param__control.html" title="Meter scale." alt="" coords="2300,1093,2438,1235"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2341,988,2359,1093,2354,1094,2335,989"/>
+<area shape="rect" id="Node000017" href="$structcalf__plugins_1_1notebook__param__control.html" title=" " alt="" coords="2462,1062,2638,1266"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2389,871,2496,1061,2492,1064,2385,873"/>
+<area shape="rect" id="Node000018" href="$structcalf__plugins_1_1pattern__param__control.html" title="Pattern." alt="" coords="2662,1072,2809,1256"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2393,771,2523,884,2590,950,2652,1020,2689,1071,2684,1074,2648,1023,2586,954,2519,888,2390,775"/>
+<area shape="rect" id="Node000019" href="$structcalf__plugins_1_1phase__graph__param__control.html" title="Phase graph." alt="" coords="2834,1075,2982,1253"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2395,736,2493,786,2605,851,2719,930,2773,973,2823,1020,2845,1046,2865,1074,2861,1077,2841,1049,2819,1024,2769,977,2715,934,2602,856,2490,791,2392,741"/>
+<area shape="rect" id="Node000020" href="$structcalf__plugins_1_1radio__param__control.html" title="Radio button." alt="" coords="3006,1093,3119,1235"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="2395,714,2529,755,2607,784,2688,818,2770,859,2851,906,2927,959,2996,1020,3023,1054,3042,1092,3037,1094,3018,1057,2992,1023,2924,964,2848,910,2768,864,2686,823,2605,789,2527,760,2394,719"/>
+<area shape="rect" id="Node000021" href="$structcalf__plugins_1_1spin__param__control.html" title="Spin button." alt="" coords="3143,1093,3262,1235"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="2395,705,2554,740,2649,767,2749,800,2851,842,2952,892,3047,951,3134,1020,3161,1054,3182,1092,3177,1094,3157,1057,3130,1024,3044,955,2949,896,2849,847,2747,805,2647,772,2553,745,2394,710"/>
+<area shape="rect" id="Node000022" href="$structcalf__plugins_1_1tap__button__param__control.html" title="Tap Button." alt="" coords="3286,1042,3460,1286"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="2395,702,2576,735,2687,761,2805,794,2927,836,3049,887,3167,948,3276,1020,3299,1040,3296,1044,3273,1024,3164,953,3047,892,2925,841,2803,799,2685,766,2575,740,2394,707"/>
+<area shape="rect" id="Node000023" href="$structcalf__plugins_1_1toggle__param__control.html" title="Toggle Button." alt="" coords="3483,1093,3644,1235"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="2395,693,2492,701,2611,716,2745,738,2891,769,3042,811,3193,866,3267,899,3339,935,3408,975,3473,1020,3507,1053,3534,1092,3529,1095,3503,1056,3470,1024,3405,980,3336,940,3265,903,3191,871,3041,816,2890,774,2744,743,2610,721,2491,707,2395,698"/>
+<area shape="rect" id="Node000024" href="$structcalf__plugins_1_1tube__param__control.html" title="Display&#45;only control: tube." alt="" coords="3668,1103,3779,1225"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="2395,702,2686,746,2869,778,3060,816,3247,859,3417,908,3492,934,3558,962,3614,990,3657,1020,3675,1037,3690,1058,3711,1102,3706,1104,3685,1061,3671,1041,3654,1024,3611,995,3556,966,3490,939,3415,913,3246,864,3059,821,2868,783,2685,751,2394,707"/>
+<area shape="rect" id="Node000025" href="$structcalf__plugins_1_1tuner__param__control.html" title="Tuner." alt="" coords="3802,1083,3960,1245"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="2395,701,2710,744,2911,776,3123,814,3330,858,3520,907,3605,933,3679,961,3743,990,3793,1020,3824,1048,3847,1081,3843,1084,3820,1051,3790,1024,3740,994,3677,966,3603,938,3519,912,3329,863,3122,819,2911,781,2710,749,2394,706"/>
+<area shape="rect" id="Node000026" href="$structcalf__plugins_1_1value__param__control.html" title="Display&#45;only control: value text." alt="" coords="3984,1093,4101,1235"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="2395,697,2746,732,2974,761,3214,797,3450,841,3666,892,3762,921,3846,952,3917,984,3973,1020,4004,1053,4024,1092,4020,1094,3999,1056,3970,1024,3915,989,3844,956,3760,926,3665,897,3449,846,3213,802,2973,766,2746,738,2394,702"/>
+<area shape="rect" id="Node000027" href="$structcalf__plugins_1_1vscale__param__control.html" title="Vertical slider." alt="" coords="4124,1093,4288,1235"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="2395,696,2770,732,3016,761,3277,797,3535,841,3773,893,3878,921,3972,952,4051,985,4115,1019,4150,1052,4177,1091,4173,1094,4146,1056,4111,1024,4049,990,3970,957,3877,927,3772,898,3534,847,3277,803,3016,767,2770,738,2394,702"/>
+<area shape="rect" id="Node000028" href="$structcalf__plugins_1_1vumeter__param__control.html" title="Display&#45;only control: volume meter." alt="" coords="4312,1103,4445,1225"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="2395,693,2807,722,3080,747,3372,781,3660,824,3796,850,3925,878,4042,909,4146,943,4233,979,4303,1020,4322,1037,4338,1057,4362,1102,4357,1104,4334,1060,4318,1040,4299,1024,4231,984,4144,948,4040,914,3923,883,3795,855,3659,829,3371,786,3080,752,2807,727,2395,699"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1control__base.html" title=" " alt="" coords="2205,5,2365,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2288,371,2288,405,2282,405,2282,371"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="dsp::simple_flanger&lt; T, MaxDelay &gt;" name="dsp::simple_flanger&lt; T, MaxDelay &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="521,1637,673,1942"/>
+<area shape="rect" id="Node000002" href="$classdsp_1_1chorus__base.html" title=" " alt="" coords="437,1322,581,1510"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="537,1524,564,1636,559,1638,532,1525"/>
+<area shape="rect" id="Node000003" href="$classdsp_1_1modulation__effect.html" title=" " alt="" coords="295,824,435,1195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,1208,479,1321,474,1323,433,1210"/>
+<area shape="rect" id="Node000004" href="$classdsp_1_1audio__effect.html" title=" " alt="" coords="5,414,114,501"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="68,515,88,619,105,676,129,731,166,792,209,849,254,900,297,944,294,947,250,904,205,852,161,795,124,734,100,678,83,620,63,516"/>
+<area shape="rect" id="Node000005" href="$classdsp_1_1gain__smoothing.html" title=" " alt="" coords="138,414,267,501"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="216,500,281,732,304,807,299,808,276,733,211,502"/>
+<area shape="rect" id="Node000009" href="$classdsp_1_1fixed__point.html" title=" " alt="" coords="291,183,453,732"/>
+<area shape="poly" id="edge5_Node000003_Node000009" title=" " alt="" coords="371,732,370,807,365,807,366,732"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="466,958,592,1060"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="529,1060,517,1305,512,1304,524,1060"/>
+<area shape="rect" id="Node000012" href="$classdsp_1_1sine__table.html" title=" " alt="" coords="477,407,597,509"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="539,524,533,959,527,959,534,524"/>
+<area shape="rect" id="Node000013" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="605,1266,770,1566"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="654,1566,641,1621,636,1620,649,1565"/>
+<area shape="rect" id="Node000014" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="663,414,812,501"/>
+<area shape="poly" id="edge9_Node000013_Node000014" title=" " alt="" coords="733,501,715,644,697,824,689,1046,688,1249,683,1249,684,1046,692,823,709,643,728,501"/>
+<area shape="rect" id="Node000019" href="$structdsp_1_1simple__delay.html" title=" " alt="" coords="748,860,913,1159"/>
+<area shape="poly" id="edge13_Node000019_Node000014" title=" " alt="" coords="747,500,805,842,800,843,742,501"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1fixed__size__buffer.html" title=" " alt="" coords="588,18,721,100"/>
+<area shape="poly" id="edge10_Node000014_Node000015" title=" " alt="" coords="668,113,731,414,726,415,663,114"/>
+<area shape="rect" id="Node000017" href="$classdsp_1_1auto__buffer.html" title=" " alt="" coords="746,5,894,112"/>
+<area shape="poly" id="edge11_Node000014_Node000017" title=" " alt="" coords="809,127,748,415,743,414,803,126"/>
+<area shape="poly" id="edge12_Node000013_Node000019" title=" " alt="" coords="776,1174,743,1267,738,1265,771,1172"/>
+</map>

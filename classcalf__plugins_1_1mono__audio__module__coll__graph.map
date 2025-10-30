@@ -1,0 +1,29 @@
+<map id="calf_plugins::mono_audio_module" name="calf_plugins::mono_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="511,2134,669,2602"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="287,1397,495,2063"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,2077,520,2133,514,2135,497,2078"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1mono__metadata.html" title="Markus&#39;s Mono Module &#45; metadata." alt="" coords="522,953,639,1034"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="571,1049,504,1327,486,1398,481,1397,499,1326,566,1048"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="483,36,670,559"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,574,583,953,577,953,575,574"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="5,5,171,590"/>
+<area shape="poly" id="edge4_Node000002_Node000009" title=" " alt="" coords="57,605,51,772,57,956,66,1050,79,1144,98,1236,123,1325,155,1404,196,1480,242,1549,289,1611,285,1614,238,1553,191,1482,150,1406,118,1327,93,1237,74,1145,60,1050,52,956,46,772,52,604"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="132,661,340,1326"/>
+<area shape="poly" id="edge8_Node000011_Node000009" title=" " alt="" coords="156,603,168,661,163,662,151,604"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1progress__report__iface.html" title=" " alt="" coords="292,247,456,348"/>
+<area shape="poly" id="edge5_Node000002_Node000010" title=" " alt="" coords="377,348,389,1380,384,1380,372,348"/>
+<area shape="poly" id="edge9_Node000011_Node000010" title=" " alt="" coords="359,349,305,502,269,614,263,644,258,643,264,613,300,501,354,347"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="246,1340,252,1373,268,1437,290,1501,285,1502,263,1438,247,1374,241,1341"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="196,264,261,331"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="232,345,235,661,230,661,226,345"/>
+<area shape="rect" id="Node000013" href="$classdsp_1_1bypass.html" title=" " alt="" coords="545,1666,634,1794"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="592,1794,592,2117,587,2117,587,1794"/>
+<area shape="rect" id="Node000014" href="$classdsp_1_1inertia.html" title=" " alt="" coords="690,861,801,1126"/>
+<area shape="poly" id="edge11_Node000013_Node000014" title=" " alt="" coords="714,1126,650,1398,604,1651,599,1650,644,1397,709,1125"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1linear__ramp.html" title="Algorithm for a constant time linear ramp." alt="" coords="693,193,798,402"/>
+<area shape="poly" id="edge12_Node000014_Node000015" title=" " alt="" coords="748,402,748,845,743,845,743,402"/>
+<area shape="rect" id="Node000016" href="$classdsp_1_1inertia.html" title=" " alt="" coords="823,152,951,442"/>
+<area shape="poly" id="edge13_Node000014_Node000016" title=" " alt="" coords="857,458,775,862,770,861,852,457"/>
+<area shape="rect" id="Node000017" href="$classcalf__plugins_1_1vumeters.html" title=" " alt="" coords="658,1666,798,1794"/>
+<area shape="poly" id="edge14_Node000001_Node000017" title=" " alt="" coords="718,1794,651,2111,649,2118,644,2117,646,2109,713,1793"/>
+</map>

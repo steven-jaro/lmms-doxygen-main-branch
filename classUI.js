@@ -1,0 +1,28 @@
+var classUI =
+[
+    [ "PrivateData", "structUI_1_1PrivateData.html", "structUI_1_1PrivateData" ],
+    [ "UI", "classUI.html#a844584caf362e72c0def15ff3477187f", null ],
+    [ "~UI", "classUI.html#a9b9e41e6021cc07a25b50539e74daaae", null ],
+    [ "editParameter", "classUI.html#a2efcd4f21af0470e91fb6a342d7667a0", null ],
+    [ "getBackgroundColor", "classUI.html#a3c47bc4cb3dcc558bbd05791d1cc83f5", null ],
+    [ "getBundlePath", "classUI.html#a09ac25d3537e05869bc618db6444719f", null ],
+    [ "getClipboardDataOfferTypes", "classUI.html#a63f98437d37170f7a75e436f717329ac", null ],
+    [ "getForegroundColor", "classUI.html#a607ea9f2978605808d8ef5dc3531fae7", null ],
+    [ "getSampleRate", "classUI.html#a97d880182254652f94e7bed355370c07", null ],
+    [ "isResizable", "classUI.html#a8fe940d56a0c283095e28bbc5806af31", null ],
+    [ "onResize", "classUI.html#a8de15be030bbdf0eb81461349cb1cc77", null ],
+    [ "openFileBrowser", "classUI.html#a6b7f89e7f8a1ea155843e11737a00549", null ],
+    [ "parameterChanged", "classUI.html#ab3086d302a9685b25abf144ade3e88f6", null ],
+    [ "requestSizeChange", "classUI.html#a0a082a1cce77b28c300ec5db72d17dc6", null ],
+    [ "sampleRateChanged", "classUI.html#a27fc3d0e9abd65fa471ed90b8905167d", null ],
+    [ "setParameterValue", "classUI.html#a973db6e8805f0aa9be3457685564ab8a", null ],
+    [ "uiClipboardDataOffer", "classUI.html#a7d95561ecf5a6850e3c3f4c083d9e018", null ],
+    [ "uiFileBrowserSelected", "classUI.html#ac957f4ba8879807f7dfd0e429009c744", null ],
+    [ "uiFocus", "classUI.html#a9955fc5a95cab3c0c1645b2aec3da6ae", null ],
+    [ "uiIdle", "classUI.html#af8de639088f3b2d42c266a2d2d6719da", null ],
+    [ "uiReshape", "classUI.html#a1d756542a6785b76ce489db0c3a59cbe", null ],
+    [ "uiScaleFactorChanged", "classUI.html#a6a481038e2b67d0935e3c09c4af54516", null ],
+    [ "PluginWindow", "classUI.html#a248da0691bb4a09193e912d67ab7552e", null ],
+    [ "UIExporter", "classUI.html#aaf9db2e4a604d26b79f28734659b7409", null ],
+    [ "uiData", "classUI.html#a2fab9cc05e8bd47182e25584f970e0c7", null ]
+];

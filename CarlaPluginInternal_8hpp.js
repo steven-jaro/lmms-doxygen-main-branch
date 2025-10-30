@@ -1,0 +1,47 @@
+var CarlaPluginInternal_8hpp =
+[
+    [ "PluginPostRtEvent", "structPluginPostRtEvent.html", "structPluginPostRtEvent" ],
+    [ "ExternalMidiNote", "structExternalMidiNote.html", "structExternalMidiNote" ],
+    [ "PluginAudioPort", "structPluginAudioPort.html", "structPluginAudioPort" ],
+    [ "PluginAudioData", "structPluginAudioData.html", "structPluginAudioData" ],
+    [ "PluginCVPort", "structPluginCVPort.html", "structPluginCVPort" ],
+    [ "PluginCVData", "structPluginCVData.html", "structPluginCVData" ],
+    [ "PluginEventData", "structPluginEventData.html", "structPluginEventData" ],
+    [ "PluginParameterData", "structPluginParameterData.html", "structPluginParameterData" ],
+    [ "PluginProgramData", "structPluginProgramData.html", "structPluginProgramData" ],
+    [ "PluginMidiProgramData", "structPluginMidiProgramData.html", "structPluginMidiProgramData" ],
+    [ "CarlaPlugin::ProtectedData", "structCarlaPlugin_1_1ProtectedData.html", "structCarlaPlugin_1_1ProtectedData" ],
+    [ "CarlaPlugin::ProtectedData::ExternalNotes", "structCarlaPlugin_1_1ProtectedData_1_1ExternalNotes.html", "structCarlaPlugin_1_1ProtectedData_1_1ExternalNotes" ],
+    [ "CarlaPlugin::ProtectedData::Latency", "structCarlaPlugin_1_1ProtectedData_1_1Latency.html", "structCarlaPlugin_1_1ProtectedData_1_1Latency" ],
+    [ "CarlaPlugin::ProtectedData::PostRtEvents", "classCarlaPlugin_1_1ProtectedData_1_1PostRtEvents.html", "classCarlaPlugin_1_1ProtectedData_1_1PostRtEvents" ],
+    [ "CarlaPlugin::ProtectedData::PostRtEvents::Access", "structCarlaPlugin_1_1ProtectedData_1_1PostRtEvents_1_1Access.html", "structCarlaPlugin_1_1ProtectedData_1_1PostRtEvents_1_1Access" ],
+    [ "CarlaPlugin::ProtectedData::PostUiEvents", "structCarlaPlugin_1_1ProtectedData_1_1PostUiEvents.html", "structCarlaPlugin_1_1ProtectedData_1_1PostUiEvents" ],
+    [ "CarlaPlugin::ProtectedData::PostProc", "structCarlaPlugin_1_1ProtectedData_1_1PostProc.html", "structCarlaPlugin_1_1ProtectedData_1_1PostProc" ],
+    [ "CARLA_SAFE_ASSERT_RETURN_ERR", "CarlaPluginInternal_8hpp.html#a6ec2382f879616c7b16c0a759ac71bda", null ],
+    [ "CARLA_SAFE_ASSERT_RETURN_ERRN", "CarlaPluginInternal_8hpp.html#a8330abd8594c23eda3607f098027a725", null ],
+    [ "CARLA_SAFE_EXCEPTION_RETURN_ERR", "CarlaPluginInternal_8hpp.html#a7e5c79c3eedb2bb270f683750c45941e", null ],
+    [ "CARLA_SAFE_EXCEPTION_RETURN_ERRN", "CarlaPluginInternal_8hpp.html#a0fd6a96a5157b829380419c0be297521", null ],
+    [ "ProgramName", "CarlaPluginInternal_8hpp.html#ad9b4c2379a6f023c258f0aec8eb2128c", null ],
+    [ "PluginPostRtEventType", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0", [
+      [ "kPluginPostRtEventNull", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0a5693f833e9c91a529e63906777b7ac4e", null ],
+      [ "kPluginPostRtEventParameterChange", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0a24ab1afd3d315ad27154a8bba23ad231", null ],
+      [ "kPluginPostRtEventProgramChange", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0a9f21c38ef5195486076348e1605dcdee", null ],
+      [ "kPluginPostRtEventMidiProgramChange", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0a1dbc05f8986f19a03729e8dfc1665614", null ],
+      [ "kPluginPostRtEventNoteOn", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0aa4e1f2513ae1db57e13616c01b4a6455", null ],
+      [ "kPluginPostRtEventNoteOff", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0ad1943e00873fa3fa1af1e8465a6856e5", null ],
+      [ "kPluginPostRtEventMidiLearn", "CarlaPluginInternal_8hpp.html#a234805057de3340700d90fe1885730c0a581f125bb92367765ad0d69fa75b0173", null ]
+    ] ],
+    [ "SpecialParameterType", "CarlaPluginInternal_8hpp.html#a013324732748b544cc8f56edf92ae816", [
+      [ "PARAMETER_SPECIAL_NULL", "CarlaPluginInternal_8hpp.html#a013324732748b544cc8f56edf92ae816aa17570f94c5fd90c6eae5b6a488cd7f5", null ],
+      [ "PARAMETER_SPECIAL_FREEWHEEL", "CarlaPluginInternal_8hpp.html#a013324732748b544cc8f56edf92ae816af19100bae4a05841586ce241d25ccf89", null ],
+      [ "PARAMETER_SPECIAL_LATENCY", "CarlaPluginInternal_8hpp.html#a013324732748b544cc8f56edf92ae816a00ef31a5c1269436484bb2eea4bc6b26", null ],
+      [ "PARAMETER_SPECIAL_SAMPLE_RATE", "CarlaPluginInternal_8hpp.html#a013324732748b544cc8f56edf92ae816acc44b12daeccc9bf45342c3efd58d84a", null ],
+      [ "PARAMETER_SPECIAL_TIME", "CarlaPluginInternal_8hpp.html#a013324732748b544cc8f56edf92ae816a5b496cd7eb0be6c950da53b3a31283c4", null ]
+    ] ],
+    [ "kPluginMaxMidiEvents", "CarlaPluginInternal_8hpp.html#a6fb750032b21e3de0dbddcf7fd88ed25", null ],
+    [ "PARAMETER_IS_STRICT_BOUNDS", "CarlaPluginInternal_8hpp.html#af5923b4414853184d7c1d242ecc113f9", null ],
+    [ "PARAMETER_IS_TRIGGER", "CarlaPluginInternal_8hpp.html#a2710174d55d078c9de187f2f49582ab0", null ],
+    [ "PARAMETER_MAPPED_RANGES_SET", "CarlaPluginInternal_8hpp.html#a59d0ca75902a7ecc41ab0c576f69e157", null ],
+    [ "PLUGIN_EXTRA_HINT_HAS_MIDI_IN", "CarlaPluginInternal_8hpp.html#a054764513a0f4862831d1b8e8db47de4", null ],
+    [ "PLUGIN_EXTRA_HINT_HAS_MIDI_OUT", "CarlaPluginInternal_8hpp.html#a662804952a332a3c0147e1decc5f33f9", null ]
+];

@@ -1,0 +1,54 @@
+<map id="juce::dsp::ConvolutionEngineQueue" name="juce::dsp::ConvolutionEngineQueue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1646,2470,1824,2714"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1150,2229,1339,2326"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1290,2335,1319,2367,1353,2397,1426,2447,1504,2491,1580,2527,1648,2556,1646,2561,1578,2532,1502,2495,1423,2452,1349,2401,1316,2371,1286,2338"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1dsp_1_1BackgroundMessageQueue.html" title=" " alt="" coords="1363,2176,1555,2379"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1549,2377,1637,2476,1633,2480,1545,2381"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1Thread.html" title=" " alt="" coords="728,1291,902,2084"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="913,1810,984,1890,1070,1976,1166,2058,1217,2096,1270,2129,1291,2138,1310,2140,1330,2143,1352,2153,1380,2174,1377,2178,1350,2158,1328,2148,1310,2146,1290,2143,1267,2134,1214,2100,1163,2063,1066,1980,980,1894,909,1813"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1String.html" title=" " alt="" coords="791,366,993,1200"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="859,1200,853,1275,848,1274,854,1200"/>
+<area shape="rect" id="Node000006" href="$structjuce_1_1Atomic.html" title=" " alt="" coords="427,628,585,938"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="535,937,563,1066,600,1199,659,1354,724,1500,719,1502,654,1356,595,1201,557,1067,529,939"/>
+<area shape="rect" id="Node000008" href="$structjuce_1_1Atomic.html" title=" " alt="" coords="609,628,767,938"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="713,938,760,1274,755,1275,707,938"/>
+<area shape="rect" id="Node000009" href="$classjuce_1_1CriticalSection.html" title=" " alt="" coords="1191,709,1316,857"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="1258,857,1273,1548,1286,1905,1294,2026,1301,2083,1321,2112,1361,2161,1357,2164,1317,2116,1297,2085,1288,2026,1281,1906,1268,1548,1252,857"/>
+<area shape="poly" id="edge7_Node000004_Node000009" title=" " alt="" coords="1249,857,1237,943,1217,1048,1186,1160,1167,1215,1144,1269,1094,1359,1035,1444,973,1522,915,1589,911,1586,969,1519,1031,1441,1090,1356,1139,1266,1162,1214,1181,1158,1212,1047,1232,942,1244,856"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1WaitableEvent.html" title=" " alt="" coords="1017,689,1141,877"/>
+<area shape="poly" id="edge8_Node000004_Node000010" title=" " alt="" coords="1071,878,1047,1030,1029,1116,1008,1201,962,1342,910,1478,905,1476,957,1341,1003,1199,1024,1115,1041,1029,1065,877"/>
+<area shape="rect" id="Node000011" href="$structjuce_1_1Atomic.html" title=" " alt="" coords="5,628,163,938"/>
+<area shape="poly" id="edge9_Node000004_Node000011" title=" " alt="" coords="95,938,105,1002,121,1070,145,1137,177,1199,233,1275,298,1345,369,1410,443,1469,517,1521,589,1567,715,1636,712,1641,587,1571,514,1526,439,1473,365,1414,294,1349,229,1278,173,1201,140,1139,116,1072,100,1003,90,938"/>
+<area shape="rect" id="Node000012" href="$classjuce_1_1ListenerList.html" title=" " alt="" coords="188,606,402,961"/>
+<area shape="poly" id="edge10_Node000004_Node000012" title=" " alt="" coords="332,960,367,1080,390,1141,417,1199,485,1311,564,1416,645,1511,719,1590,715,1594,641,1515,560,1420,481,1314,413,1201,385,1143,362,1082,326,961"/>
+<area shape="rect" id="Node000029" href="$classjuce_1_1dsp_1_1Queue.html" title=" " alt="" coords="1379,1589,1539,1787"/>
+<area shape="poly" id="edge12_Node000003_Node000029" title=" " alt="" coords="1462,1787,1462,2158,1456,2158,1456,1787"/>
+<area shape="rect" id="Node000030" href="$classjuce_1_1AbstractFifo.html" title=" " alt="" coords="1482,5,1602,295"/>
+<area shape="poly" id="edge13_Node000029_Node000030" title=" " alt="" coords="1550,295,1551,319,1562,772,1567,1224,1569,1246,1567,1268,1560,1281,1553,1292,1529,1363,1509,1437,1480,1573,1474,1572,1504,1435,1524,1362,1549,1290,1556,1278,1562,1267,1564,1246,1562,1224,1557,772,1546,319,1545,295"/>
+<area shape="rect" id="Node000032" href="$classjuce_1_1dsp_1_1Queue.html" title=" " alt="" coords="1353,699,1528,867"/>
+<area shape="poly" id="edge15_Node000032_Node000030" title=" " alt="" coords="1521,295,1459,683,1454,682,1516,295"/>
+<area shape="poly" id="edge14_Node000029_Node000032" title=" " alt="" coords="1419,882,1403,964,1390,1061,1382,1164,1385,1267,1409,1438,1439,1588,1433,1589,1403,1439,1380,1268,1377,1164,1384,1060,1398,963,1414,881"/>
+<area shape="rect" id="Node000033" href="$classjuce_1_1dsp_1_1ConvolutionEngineFactory.html" title=" " alt="" coords="1865,2155,2047,2399"/>
+<area shape="poly" id="edge16_Node000001_Node000033" title=" " alt="" coords="1873,2401,1832,2458,1828,2455,1869,2397"/>
+<area shape="rect" id="Node000034" href="$structjuce_1_1dsp_1_1ProcessSpec.html" title=" " alt="" coords="1789,1634,1934,1741"/>
+<area shape="poly" id="edge17_Node000033_Node000034" title=" " alt="" coords="1861,1741,1859,1818,1860,1916,1870,2024,1890,2131,1892,2138,1886,2140,1884,2132,1864,2025,1855,1916,1853,1818,1856,1741"/>
+<area shape="rect" id="Node000035" href="$classjuce_1_1AudioBuffer.html" title=" " alt="" coords="1958,1342,2136,2034"/>
+<area shape="poly" id="edge18_Node000033_Node000035" title=" " alt="" coords="1997,2033,1980,2139,1975,2138,1991,2033"/>
+<area shape="rect" id="Node000036" href="$classjuce_1_1AudioBuffer.html" title=" " alt="" coords="1958,448,2136,1119"/>
+<area shape="poly" id="edge19_Node000035_Node000036" title=" " alt="" coords="2050,1133,2050,1342,2044,1342,2044,1133"/>
+<area shape="rect" id="Node000038" href="$structjuce_1_1dsp_1_1Convolution_1_1Latency.html" title=" " alt="" coords="2160,1647,2296,1728"/>
+<area shape="poly" id="edge20_Node000033_Node000038" title=" " alt="" coords="2230,1728,2226,1799,2214,1890,2190,1990,2172,2039,2151,2086,2110,2145,2062,2196,2058,2193,2106,2141,2146,2083,2167,2037,2185,1988,2208,1889,2221,1798,2225,1728"/>
+<area shape="rect" id="Node000039" href="$structjuce_1_1dsp_1_1Convolution_1_1NonUniform.html" title=" " alt="" coords="2320,1647,2459,1728"/>
+<area shape="poly" id="edge21_Node000033_Node000039" title=" " alt="" coords="2395,1728,2394,1801,2384,1894,2374,1944,2358,1994,2338,2042,2310,2086,2286,2115,2258,2142,2195,2187,2128,2222,2064,2247,2062,2243,2126,2217,2192,2182,2254,2138,2282,2112,2306,2083,2333,2040,2353,1992,2368,1943,2379,1894,2389,1801,2389,1728"/>
+<area shape="rect" id="Node000040" href="$classjuce_1_1dsp_1_1TryLockedPtr.html" title=" " alt="" coords="1564,1637,1765,1739"/>
+<area shape="poly" id="edge22_Node000033_Node000040" title=" " alt="" coords="1673,1738,1685,1809,1706,1897,1737,1992,1756,2039,1779,2083,1814,2135,1855,2183,1851,2186,1810,2138,1774,2086,1751,2041,1732,1994,1701,1898,1680,1810,1668,1739"/>
+<area shape="rect" id="Node000041" href="$classjuce_1_1SpinLock.html" title=" " alt="" coords="1644,76,1740,224"/>
+<area shape="poly" id="edge23_Node000040_Node000041" title=" " alt="" coords="1688,224,1677,366,1666,738,1662,1101,1666,1620,1660,1620,1657,1101,1661,738,1672,366,1682,224"/>
+<area shape="rect" id="Node000042" href="$classjuce_1_1dsp_1_1TryLockedPtr.html" title=" " alt="" coords="1734,732,1880,834"/>
+<area shape="poly" id="edge25_Node000042_Node000041" title=" " alt="" coords="1708,223,1798,715,1792,716,1703,224"/>
+<area shape="poly" id="edge24_Node000040_Node000042" title=" " alt="" coords="1800,849,1675,1638,1669,1637,1794,848"/>
+<area shape="rect" id="Node000043" href="$classjuce_1_1dsp_1_1FixedSizeFunction.html" title=" " alt="" coords="2364,2237,2538,2318"/>
+<area shape="poly" id="edge26_Node000001_Node000043" title=" " alt="" coords="2365,2319,1840,2548,1838,2543,2363,2314"/>
+<area shape="rect" id="Node000044" href="$classjuce_1_1dsp_1_1FixedSizeFunction.html" title=" " alt="" coords="2483,1647,2656,1728"/>
+<area shape="poly" id="edge27_Node000043_Node000044" title=" " alt="" coords="2561,1743,2462,2237,2456,2236,2556,1742"/>
+</map>

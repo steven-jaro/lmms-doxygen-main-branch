@@ -1,0 +1,24 @@
+<map id="zyncarla::LFO" name="zyncarla::LFO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="308,1393,466,1846"/>
+<area shape="rect" id="Node000002" href="$classzyncarla_1_1RelTime.html" title=" " alt="" coords="332,982,443,1129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,1129,390,1376,385,1376,385,1129"/>
+<area shape="rect" id="Node000003" href="$classzyncarla_1_1AbsTime.html" title=" " alt="" coords="314,458,452,646"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,646,389,964,384,964,382,646"/>
+<area shape="rect" id="Node000007" href="$classzyncarla_1_1LFOParams.html" title=" " alt="" coords="148,788,307,1322"/>
+<area shape="poly" id="edge6_Node000007_Node000003" title=" " alt="" coords="357,647,314,784,309,782,352,645"/>
+<area shape="rect" id="Node000004" href="$structzyncarla_1_1SYNTH__T.html" title=" " alt="" coords="321,5,446,316"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="386,316,386,441,381,441,381,316"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="306,1322,321,1376,316,1378,301,1323"/>
+<area shape="rect" id="Node000008" href="$classzyncarla_1_1Presets.html" title=" " alt="" coords="5,458,148,646"/>
+<area shape="poly" id="edge5_Node000007_Node000008" title=" " alt="" coords="112,659,151,789,146,791,106,661"/>
+<area shape="rect" id="Node000009" href="$structrtosc_1_1Ports.html" title=" " alt="" coords="173,387,285,717"/>
+<area shape="poly" id="edge7_Node000007_Node000009" title=" " alt="" coords="231,717,231,772,226,772,226,717"/>
+<area shape="rect" id="Node000010" href="$classrtosc_1_1Port__Matcher.html" title=" " alt="" coords="161,66,297,255"/>
+<area shape="poly" id="edge8_Node000009_Node000010" title=" " alt="" coords="232,254,232,370,226,370,226,254"/>
+<area shape="rect" id="Node000011" href="$structzyncarla_1_1VecWatchPoint.html" title=" " alt="" coords="468,1012,622,1099"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="537,1099,466,1370,464,1378,459,1376,461,1369,532,1098"/>
+<area shape="rect" id="Node000012" href="$structzyncarla_1_1WatchPoint.html" title=" " alt="" coords="480,488,610,616"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="548,630,548,1012,542,1012,542,630"/>
+<area shape="rect" id="Node000013" href="$structzyncarla_1_1WatchManager.html" title=" " alt="" coords="470,16,620,306"/>
+<area shape="poly" id="edge11_Node000012_Node000013" title=" " alt="" coords="548,305,548,472,542,472,542,305"/>
+</map>

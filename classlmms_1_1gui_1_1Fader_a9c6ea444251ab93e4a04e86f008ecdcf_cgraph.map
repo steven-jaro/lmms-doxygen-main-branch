@@ -1,0 +1,21 @@
+<map id="lmms::gui::Fader::paintLevels" name="lmms::gui::Fader::paintLevels">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,194,138"/>
+<area shape="rect" id="Node000002" href="$namespacelmms.html#a69e54bd4606a7d68f3a4948e4a4a4379" title="Converts linear amplitude (&gt;0&#45;1.0) to dBFS scale." alt="" coords="274,5,400,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,109,172,75,241,40,258,33,260,38,243,45,174,80,121,114"/>
+<area shape="rect" id="Node000004" href="$namespacelmms.html#a11f769823c82d42abf3167cabd60dd24" title="Converts dBFS&#45;scale to linear amplitude with 0dBFS = 1.0." alt="" coords="274,55,400,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,109,265,82,266,87,156,114"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1gui_1_1Fader.html#aaacdc28f957baf97530f916a19ea7d95" title=" " alt="" coords="247,104,427,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="194,122,231,122,231,128,194,128"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1LinearMap.html#a2946d01d9291df5a74ea938999ff353a" title=" " alt="" coords="261,169,412,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,136,266,163,265,168,155,141"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1AutomatableModelView.html#ac8a51586bfd0fde6a6e839caf6615470" title=" " alt="" coords="242,219,432,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,136,176,169,243,205,256,211,253,216,241,210,173,174,119,140"/>
+<area shape="rect" id="Node000003" href="$namespacelmms.html#a8a63084bc3758f5c712b2f5cde503061" title=" " alt="" coords="514,5,636,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,16,499,16,499,21,400,21"/>
+<area shape="rect" id="Node000005" href="$namespacelmms.html#afcda7a70293fe10671e0495f34569678" title=" " alt="" coords="512,55,638,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,65,497,65,497,70,400,70"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1AutomatableModelView.html#a7f3811e6c0e2c4ff6c7b215693677d2f" title=" " alt="" coords="480,219,670,260"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="433,237,465,237,465,242,433,242"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1ModelView.html#ae2777d2efcf0f85a69623a93d574a9d9" title=" " alt="" coords="718,219,865,260"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="671,237,703,237,703,242,671,242"/>
+</map>

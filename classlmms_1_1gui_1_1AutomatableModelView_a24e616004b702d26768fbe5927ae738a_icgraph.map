@@ -1,0 +1,42 @@
+<map id="lmms::gui::AutomatableModelView::setModel" name="lmms::gui::AutomatableModelView::setModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="797,361,988,402"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1gui_1_1AmplifierControlDialog.html#ad8c9b8264f1bb5ed5187234807b17cc6" title=" " alt="" coords="540,5,730,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,347,869,285,843,208,826,168,804,129,778,93,748,61,729,48,732,44,751,57,782,89,808,126,830,165,848,206,874,283,888,345"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1gui_1_1LadspaMatrixControlDialog.html#a7cdeb0ca54787fcc7395a180e69c1365" title="Arranges widgets for the current controls in a grid/matrix layout." alt="" coords="534,71,735,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="879,347,861,297,834,238,796,178,773,150,748,126,728,114,731,109,751,122,777,147,801,174,839,235,866,295,884,345"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1BarModelEditor.html#a2d5bc7e6872b637bdd0c537242b7604e" title=" " alt="" coords="550,136,720,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="872,349,852,312,824,269,789,227,748,192,719,177,721,172,751,187,793,224,828,266,856,309,877,346"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1gui_1_1LOMMControlDialog.html#a1dc4ed1468744f9e361619b70e834148" title=" " alt="" coords="535,201,734,242"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="862,352,812,303,781,279,748,257,721,245,723,240,751,253,784,274,815,299,865,348"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1gui_1_1LOMMControlDialog.html#a44e74e11c4d4040db0dc8b5b99d80875" title=" " alt="" coords="535,267,734,307"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="832,357,748,323,711,310,713,305,750,318,834,352"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1gui_1_1Draggable.html#afcbb4e25f1f710c54f5e3e93e7d67ab8" title=" " alt="" coords="564,332,705,373"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="781,372,705,363,705,358,782,366"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1gui_1_1Fader.html#a3a8e65c0b8a32aca27678b7d88796a8c" title=" " alt="" coords="558,397,712,422"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="782,396,713,404,712,399,781,391"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1gui_1_1GranularPitchShifterControlDialog.html#aa3cac7b0b81bb02466282c354d9868f9" title=" " alt="" coords="527,447,742,503"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="823,410,750,438,718,449,716,444,748,432,821,405"/>
+<area shape="rect" id="Node000018" href="$classlmms_1_1gui_1_1GroupBox.html#a03469c455eb9c1403b7516effb1d6915" title=" " alt="" coords="565,527,704,567"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="867,416,816,468,785,495,751,517,706,536,704,531,748,513,782,490,813,464,863,412"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1gui_1_1LadspaControlView.html#a43ac48ef659e74824fc6c514c89258d1" title=" " alt="" coords="550,592,719,633"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="878,417,857,456,829,500,793,544,751,581,721,597,718,592,748,577,789,540,824,497,853,453,873,415"/>
+<area shape="rect" id="Node000020" href="$classlmms_1_1gui_1_1SlewDistortionControlDialog.html#a23926f541e8366340e0052c0e3c96f05" title=" " alt="" coords="520,656,749,712"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="884,418,866,468,838,530,800,592,777,621,751,646,734,658,731,654,748,642,773,617,796,589,834,527,861,466,879,416"/>
+<area shape="rect" id="Node000021" href="$classlmms_1_1gui_1_1AutomatableModelView.html#aa27c7faa88e4eb5f1a76bbae4516914f" title=" " alt="" coords="540,736,730,777"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="889,418,876,484,851,567,833,610,811,653,784,692,751,726,731,740,728,735,748,722,780,689,806,650,829,608,846,565,871,483,884,417"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1gui_1_1LadspaMatrixControlDialog.html#a3c7bc567fbd801cbf17cae57ac197798" title="Creates a widget that holds the widgets of the current controls in a matrix arrangement." alt="" coords="263,71,464,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="519,94,465,94,465,88,519,88"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1gui_1_1LadspaMatrixControlDialog.html#a8210fd363fbc51798595ad7168aad6ea" title=" " alt="" coords="5,71,207,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,94,207,94,207,88,247,88"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="148,58,132,52,106,49,81,51,66,56,61,62,63,69,58,71,55,61,63,52,80,46,106,44,134,46,150,53"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1TempoSyncBarModelEditor.html#a0da6c466bda1dba948db3427b77bb18b" title=" " alt="" coords="255,136,472,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="534,159,472,159,472,154,534,154"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1gui_1_1LOMMControlDialog.html#ab997b254da77d02c0f20267274d16428" title=" " alt="" coords="264,267,463,307"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="520,290,463,290,463,284,520,284"/>
+<area shape="rect" id="Node000014" href="$classlmms_1_1gui_1_1EqFader.html#a8d3302d0398808d634916d6b451d06e1" title=" " alt="" coords="298,332,428,373"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="555,396,429,369,430,363,556,390"/>
+<area shape="rect" id="Node000015" href="$classlmms_1_1gui_1_1Fader.html#aade1c6493aa3c829cb39e13c59964515" title=" " alt="" coords="286,397,440,422"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="542,412,441,412,441,407,542,407"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1gui_1_1Fader.html#ad77aefe38a169f5c551d7cbcc0aed612" title=" " alt="" coords="303,447,424,487"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="556,429,425,457,424,452,555,424"/>
+</map>

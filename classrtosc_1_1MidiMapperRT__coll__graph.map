@@ -1,0 +1,21 @@
+<map id="rtosc::MidiMapperRT" name="rtosc::MidiMapperRT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="180,1072,316,1342"/>
+<area shape="rect" id="Node000002" href="$structrtosc_1_1Ports.html" title=" " alt="" coords="37,671,149,1001"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,969,188,1056,183,1058,147,971"/>
+<area shape="rect" id="Node000003" href="$classrtosc_1_1Port__Matcher.html" title=" " alt="" coords="5,386,141,574"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,574,86,654,80,654,76,575"/>
+<area shape="rect" id="Node000004" href="$classrtosc_1_1MidiMapperRT_1_1PendingQueue.html" title=" " alt="" coords="183,734,313,938"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,938,251,1056,245,1056,245,938"/>
+<area shape="rect" id="Node000005" href="$classrtosc_1_1MidiMapperStorage.html" title=" " alt="" coords="342,782,500,890"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="399,890,320,1058,315,1056,394,888"/>
+<area shape="rect" id="Node000006" href="$classrtosc_1_1MidiMapperStorage_1_1TinyVector.html" title=" " alt="" coords="165,361,323,600"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="305,598,390,766,385,768,301,600"/>
+<area shape="rect" id="Node000007" href="$classrtosc_1_1MidiMapperStorage_1_1TinyVector.html" title=" " alt="" coords="348,5,506,270"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="342,263,324,295,291,362,287,360,319,292,338,260"/>
+<area shape="rect" id="Node000008" href="$classrtosc_1_1MidiMapperStorage_1_1TinyVector.html" title=" " alt="" coords="347,368,506,592"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="429,284,429,369,424,369,424,284"/>
+<area shape="rect" id="Node000009" href="$classrtosc_1_1MidiMapperStorage_1_1TinyVector.html" title=" " alt="" coords="530,368,688,592"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="515,277,524,292,562,368,557,370,519,295,510,279"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="428,592,425,766,420,765,422,592"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="553,593,459,769,454,767,548,591"/>
+</map>

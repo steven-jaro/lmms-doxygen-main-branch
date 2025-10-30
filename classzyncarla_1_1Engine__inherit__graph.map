@@ -1,0 +1,27 @@
+<map id="zyncarla::Engine" name="zyncarla::Engine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="438,5,541,133"/>
+<area shape="rect" id="Node000002" href="$classzyncarla_1_1AudioOut.html" title=" " alt="" coords="510,181,631,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,146,527,180,522,182,511,148"/>
+<area shape="rect" id="Node000011" href="$classzyncarla_1_1MidiIn.html" title=" " alt="" coords="357,272,461,379"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="468,148,428,273,423,271,463,146"/>
+<area shape="rect" id="Node000003" href="$classzyncarla_1_1AlsaEngine.html" title=" " alt="" coords="345,519,474,1195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,468,488,520,476,557,471,555,483,518,502,466"/>
+<area shape="rect" id="Node000004" href="$classzyncarla_1_1JackEngine.html" title=" " alt="" coords="498,529,644,1185"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="573,485,573,529,568,529,568,485"/>
+<area shape="rect" id="Node000005" href="$classzyncarla_1_1JackMultiEngine.html" title=" " alt="" coords="667,752,826,961"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="639,468,659,518,696,638,726,752,721,753,691,640,653,520,634,470"/>
+<area shape="rect" id="Node000006" href="$classzyncarla_1_1NulEngine.html" title=" " alt="" coords="5,722,128,992"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="502,451,475,473,428,494,383,500,341,496,300,489,260,482,221,482,182,493,162,504,142,521,123,541,108,563,84,614,71,668,64,722,59,722,65,667,79,612,103,561,119,538,138,517,159,500,180,488,220,477,260,477,301,484,341,491,383,495,426,489,472,468,499,447"/>
+<area shape="rect" id="Node000007" href="$classzyncarla_1_1OssEngine.html" title=" " alt="" coords="152,620,320,1093"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="503,447,475,473,455,485,436,491,401,494,368,499,352,507,335,520,300,568,275,622,270,619,296,565,331,517,349,502,366,494,400,489,435,486,453,480,472,469,499,443"/>
+<area shape="rect" id="Node000008" href="$classzyncarla_1_1OssMultiEngine.html" title=" " alt="" coords="850,620,1019,1093"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="646,360,695,388,747,424,798,467,841,517,870,566,892,620,887,622,865,569,836,520,794,471,744,428,692,392,643,364"/>
+<area shape="rect" id="Node000009" href="$classzyncarla_1_1PaEngine.html" title=" " alt="" coords="1043,752,1162,961"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="646,334,736,353,841,387,894,411,945,440,992,476,1033,517,1051,543,1067,571,1089,632,1102,694,1107,752,1102,753,1097,695,1084,633,1062,574,1047,546,1029,520,988,480,942,445,891,416,839,392,734,358,645,339"/>
+<area shape="rect" id="Node000010" href="$classzyncarla_1_1WavEngine.html" title=" " alt="" coords="1186,681,1315,1032"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="646,325,763,336,833,348,907,366,981,391,1052,423,1119,465,1177,517,1204,553,1224,594,1238,637,1248,681,1243,682,1233,639,1219,596,1199,556,1173,520,1115,469,1050,428,979,396,905,371,832,354,763,342,646,331"/>
+<area shape="poly" id="edge11_Node000011_Node000003" title=" " alt="" coords="412,394,412,519,407,519,407,394"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="440,392,488,518,500,558,495,559,483,520,435,394"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="346,358,294,386,239,423,186,467,142,520,117,568,98,619,84,672,76,723,71,722,79,670,92,617,112,565,138,517,182,464,236,418,292,381,343,354"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="384,394,336,520,303,621,298,620,331,518,379,392"/>
+</map>

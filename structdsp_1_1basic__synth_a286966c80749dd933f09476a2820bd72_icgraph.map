@@ -1,0 +1,10 @@
+<map id="dsp::basic_synth::control_change" name="dsp::basic_synth::control_change">
+<area shape="rect" id="Node000001" title=" " alt="" coords="596,29,759,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="709,16,697,10,677,8,659,10,648,15,644,20,645,28,640,29,638,19,644,10,658,5,678,3,699,5,712,11"/>
+<area shape="rect" id="Node000002" href="$structdsp_1_1drawbar__organ.html#a2a9596190edb1e05e2bb1eb0070f4947" title=" " alt="" coords="415,29,548,70"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="581,52,549,52,549,47,581,47"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1organ__audio__module.html#a2b400f38411c9006694e6fe03557ca2b" title="Handle MIDI Control Change." alt="" coords="214,22,367,78"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="399,52,368,52,368,47,399,47"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1organ__audio__module.html#a7a93ab41fcd612485c6da00f32234a7d" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,29,166,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="198,52,166,52,166,47,198,47"/>
+</map>

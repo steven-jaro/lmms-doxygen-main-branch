@@ -1,0 +1,46 @@
+<map id="asio::detail::strand_executor_service" name="asio::detail::strand_executor_service">
+<area shape="rect" id="Node000001" title=" " alt="" coords="394,1773,566,1997"/>
+<area shape="rect" id="Node000015" href="$classasio_1_1detail_1_1strand__executor__service_1_1strand__impl.html" title=" " alt="" coords="520,2068,709,2170"/>
+<area shape="poly" id="edge28_Node000015_Node000001" title=" " alt="" coords="479,1996,485,2020,496,2043,510,2060,506,2064,491,2045,480,2022,474,1997"/>
+<area shape="rect" id="Node000002" href="$classasio_1_1detail_1_1execution__context__service__base.html" title=" " alt="" coords="69,1527,246,1639"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,1647,396,1802,392,1806,225,1651"/>
+<area shape="rect" id="Node000003" href="$classasio_1_1execution__context_1_1service.html" title="Base class for all io_context services." alt="" coords="218,916,363,1079"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,1063,183,1094,162,1129,145,1181,134,1235,128,1291,127,1345,134,1447,147,1527,142,1528,129,1447,122,1345,123,1290,129,1235,140,1180,158,1127,178,1091,206,1060"/>
+<area shape="poly" id="edge9_Node000003_Node000003" title=" " alt="" coords="364,976,382,983,390,997,387,1007,381,1013,377,1009,383,1004,384,998,378,987,362,981"/>
+<area shape="rect" id="Node000012" href="$classasio_1_1detail_1_1execution__context__service__base.html" title=" " alt="" coords="172,1195,348,1306"/>
+<area shape="poly" id="edge15_Node000012_Node000003" title=" " alt="" coords="282,1094,269,1195,264,1194,276,1093"/>
+<area shape="rect" id="Node000004" href="$classasio_1_1detail_1_1noncopyable.html" title=" " alt="" coords="453,5,603,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="532,147,533,312,526,516,519,617,508,710,492,789,472,847,450,880,424,910,364,957,361,953,420,906,446,877,467,844,487,787,502,709,513,617,521,515,527,312,527,147"/>
+<area shape="rect" id="Node000006" href="$classasio_1_1execution__context_1_1id.html" title="Class used to uniquely identify a service." alt="" coords="104,271,264,337"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="442,131,233,273,230,269,439,127"/>
+<area shape="rect" id="Node000007" href="$classasio_1_1execution__context.html" title="A context for function object execution." alt="" coords="338,450,483,598"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="490,147,487,158,463,234,445,313,422,451,417,450,440,312,458,233,481,156,485,146"/>
+<area shape="rect" id="Node000009" href="$classasio_1_1detail_1_1null__mutex.html" title=" " alt="" coords="516,1179,617,1322"/>
+<area shape="poly" id="edge17_Node000009_Node000004" title=" " alt="" coords="543,147,552,222,556,303,556,999,564,1179,558,1180,551,999,551,303,547,222,538,147"/>
+<area shape="rect" id="Node000016" href="$classasio_1_1detail_1_1op__queue.html" title=" " alt="" coords="634,622,782,845"/>
+<area shape="poly" id="edge24_Node000016_Node000004" title=" " alt="" coords="570,145,575,156,597,230,608,289,617,349,632,425,681,621,676,623,627,427,612,350,603,290,592,231,569,158,565,147"/>
+<area shape="rect" id="Node000017" href="$classasio_1_1detail_1_1op__queue.html" title=" " alt="" coords="641,182,775,426"/>
+<area shape="poly" id="edge26_Node000017_Node000004" title=" " alt="" coords="613,141,625,155,644,181,640,184,621,158,609,145"/>
+<area shape="rect" id="Node000005" href="$structasio_1_1execution__context_1_1service_1_1key.html" title=" " alt="" coords="218,693,363,774"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="293,774,293,900,288,900,288,774"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,336,279,676,274,677,189,338"/>
+<area shape="rect" id="Node000010" href="$classasio_1_1detail_1_1service__id.html" title=" " alt="" coords="5,950,136,1046"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="163,351,110,472,84,546,65,622,57,684,58,733,65,845,70,950,65,950,60,845,52,733,52,684,60,621,79,544,105,470,158,349"/>
+<area shape="rect" id="Node000011" href="$classasio_1_1detail_1_1service__id.html" title=" " alt="" coords="75,693,194,774"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="181,353,142,693,137,693,176,352"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="413,598,404,716,394,782,377,846,353,903,348,901,372,844,389,781,399,715,408,597"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="72,1045,74,1192,80,1282,93,1372,110,1444,132,1511,127,1513,105,1446,87,1373,75,1283,68,1192,67,1045"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="124,789,85,950,79,949,119,788"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="235,1321,208,1397,172,1528,167,1527,202,1396,230,1319"/>
+<area shape="poly" id="edge16_Node000001_Node000009" title=" " alt="" coords="574,1321,576,1408,574,1516,565,1634,544,1750,542,1758,537,1756,539,1749,559,1633,569,1516,571,1408,569,1321"/>
+<area shape="rect" id="Node000013" href="$classasio_1_1detail_1_1scoped__ptr.html" title=" " alt="" coords="388,1464,519,1702"/>
+<area shape="poly" id="edge19_Node000013_Node000009" title=" " alt="" coords="545,1322,502,1449,497,1447,540,1320"/>
+<area shape="poly" id="edge22_Node000015_Node000009" title=" " alt="" coords="596,1320,618,1389,635,1463,646,1547,652,1619,652,1741,646,1864,643,2021,643,2044,641,2052,636,2051,637,2044,637,2021,641,1864,647,1741,647,1619,641,1548,629,1464,613,1390,591,1322"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="466,1702,471,1756,466,1757,461,1703"/>
+<area shape="rect" id="Node000014" href="$classasio_1_1detail_1_1scoped__ptr.html" title=" " alt="" coords="372,1128,492,1372"/>
+<area shape="poly" id="edge20_Node000013_Node000014" title=" " alt="" coords="385,1387,384,1413,387,1439,394,1463,389,1465,382,1440,379,1414,380,1387"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="584,2070,551,2013,555,2010,588,2067"/>
+<area shape="poly" id="edge27_Node000015_Node000015" title=" " alt="" coords="710,2102,728,2107,736,2119,728,2130,723,2127,730,2119,725,2112,708,2107"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="726,845,733,919,736,996,736,1887,730,1933,715,1978,694,2020,670,2056,665,2053,689,2017,710,1976,725,1932,731,1886,731,996,728,920,721,846"/>
+<area shape="poly" id="edge25_Node000016_Node000017" title=" " alt="" coords="711,441,711,622,705,622,705,441"/>
+</map>

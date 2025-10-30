@@ -1,0 +1,26 @@
+var classzyncarla_1_1SynthNote_1_1Legato =
+[
+    [ "Legato", "classzyncarla_1_1SynthNote_1_1Legato.html#aa19fea0e4eb3d669f38a6ddeb39870da", null ],
+    [ "apply", "classzyncarla_1_1SynthNote_1_1Legato.html#aa2710f11f9f36113814c0abcf7f40bb4", null ],
+    [ "getFreq", "classzyncarla_1_1SynthNote_1_1Legato.html#a2d7477bf665d704984847ab7a0f6b41d", null ],
+    [ "getMidinote", "classzyncarla_1_1SynthNote_1_1Legato.html#a031cd725cc7cbfa1b50a5f8d67f73639", null ],
+    [ "getPortamento", "classzyncarla_1_1SynthNote_1_1Legato.html#a2b960389ab92f0a8f8aad679b35f0569", null ],
+    [ "getVelocity", "classzyncarla_1_1SynthNote_1_1Legato.html#a498c3795c9c6dcf18bf1bcf8dbdbb82f", null ],
+    [ "setDecounter", "classzyncarla_1_1SynthNote_1_1Legato.html#aefc7a486e82915ceec186d95bc231f49", null ],
+    [ "setSilent", "classzyncarla_1_1SynthNote_1_1Legato.html#a9937a3e2de3012e0e263c34fa5de24a6", null ],
+    [ "update", "classzyncarla_1_1SynthNote_1_1Legato.html#a392d991eb1c2faadc0c1092a14d62404", null ],
+    [ "decounter", "classzyncarla_1_1SynthNote_1_1Legato.html#a53184cc389305cf40722b5bbe56f1976", null ],
+    [ "fade", "classzyncarla_1_1SynthNote_1_1Legato.html#a3e0efabfcde60d02ab2462590ae5fda0", null ],
+    [ "freq", "classzyncarla_1_1SynthNote_1_1Legato.html#a6f0ec682abb92a1e91a2f1af4afdb581", null ],
+    [ "lastfreq", "classzyncarla_1_1SynthNote_1_1Legato.html#a53b4502662f45b15398011f407f7573e", null ],
+    [ "length", "classzyncarla_1_1SynthNote_1_1Legato.html#ac97a217928a544ec29902ce495a33cae", null ],
+    [ "m", "classzyncarla_1_1SynthNote_1_1Legato.html#a40e4f8f66c7349be3e8d0ff9c4bd22eb", null ],
+    [ "midinote", "classzyncarla_1_1SynthNote_1_1Legato.html#aacc255c8fe8cfb0b72f82138fe2ff9cf", null ],
+    [ "msg", "classzyncarla_1_1SynthNote_1_1Legato.html#a646c777701319c6199c7f6a24c41558e", null ],
+    [ "param", "classzyncarla_1_1SynthNote_1_1Legato.html#a15c560ab450dbdff579e71af40cf1408", null ],
+    [ "portamento", "classzyncarla_1_1SynthNote_1_1Legato.html#ae6a319298898b2a7fc09e03c9fe86c96", null ],
+    [ "silent", "classzyncarla_1_1SynthNote_1_1Legato.html#a64f1759c72b60e1d1339e3dc67c68f08", null ],
+    [ "step", "classzyncarla_1_1SynthNote_1_1Legato.html#a7c9b35eefeb72bc2dac58d32ab888f90", null ],
+    [ "synth", "classzyncarla_1_1SynthNote_1_1Legato.html#a3c34a34fc1e950a329cdb228bf43552c", null ],
+    [ "vel", "classzyncarla_1_1SynthNote_1_1Legato.html#aecbc76370c361e206f963a74ac5f1c2f", null ]
+];

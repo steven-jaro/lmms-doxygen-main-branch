@@ -1,0 +1,26 @@
+var classjuce_1_1MouseInactivityDetector =
+[
+    [ "Listener", "classjuce_1_1MouseInactivityDetector_1_1Listener.html", "classjuce_1_1MouseInactivityDetector_1_1Listener" ],
+    [ "MouseInactivityDetector", "classjuce_1_1MouseInactivityDetector.html#a0c659ca284994cfd081e35a43cd3ec1d", null ],
+    [ "~MouseInactivityDetector", "classjuce_1_1MouseInactivityDetector.html#a7f11f5a1df1c058d553ea3def2420893", null ],
+    [ "addListener", "classjuce_1_1MouseInactivityDetector.html#a2a6ea2ee2059eff4d052e5f4406a79a6", null ],
+    [ "mouseDown", "classjuce_1_1MouseInactivityDetector.html#ab7e1b65816731af062811f35c6e3d508", null ],
+    [ "mouseDrag", "classjuce_1_1MouseInactivityDetector.html#a3021d319be4002d056cb1dc7a2c2da9c", null ],
+    [ "mouseEnter", "classjuce_1_1MouseInactivityDetector.html#af5c472c44d6dd97d6af7e59059196854", null ],
+    [ "mouseExit", "classjuce_1_1MouseInactivityDetector.html#a7681f009667f6c6bcecf0d80aaf0f401", null ],
+    [ "mouseMove", "classjuce_1_1MouseInactivityDetector.html#a7cdaef03603f452fbcbf3ae8218db67f", null ],
+    [ "mouseUp", "classjuce_1_1MouseInactivityDetector.html#ad1234456e14100d1f2089e3139cff232", null ],
+    [ "mouseWheelMove", "classjuce_1_1MouseInactivityDetector.html#a169f6c504700fc73b31df3e55fbbd10b", null ],
+    [ "removeListener", "classjuce_1_1MouseInactivityDetector.html#aa6fb23074aba6e89e09aa945a4266fab", null ],
+    [ "setActive", "classjuce_1_1MouseInactivityDetector.html#a78dc6d367f5fea58a1fe1b7541037424", null ],
+    [ "setDelay", "classjuce_1_1MouseInactivityDetector.html#acd3ebb08e489dda0e9fbfcdd13b14e89", null ],
+    [ "setMouseMoveTolerance", "classjuce_1_1MouseInactivityDetector.html#a7ebfd63aaa0fea70164a6c9826bbd005", null ],
+    [ "timerCallback", "classjuce_1_1MouseInactivityDetector.html#a82d20ceb2d3c14012bf66fbe502fc497", null ],
+    [ "wakeUp", "classjuce_1_1MouseInactivityDetector.html#a664e843fcf3c321d9e4b6e8bc3290f67", null ],
+    [ "delayMs", "classjuce_1_1MouseInactivityDetector.html#afa03257498007db6ff778f4c38e434d6", null ],
+    [ "isActive", "classjuce_1_1MouseInactivityDetector.html#a2f5cb46509e7b6d5b50726fe94d1747f", null ],
+    [ "lastMousePos", "classjuce_1_1MouseInactivityDetector.html#abf1588b165a741fb99fc75fed6c03274", null ],
+    [ "listenerList", "classjuce_1_1MouseInactivityDetector.html#a09c5a03d7230da4d23f4e76af26efbd9", null ],
+    [ "targetComp", "classjuce_1_1MouseInactivityDetector.html#a1397170f478e575986ddabb5e8b9177a", null ],
+    [ "toleranceDistance", "classjuce_1_1MouseInactivityDetector.html#aabc3351bc1f761a41e9899b95498ada6", null ]
+];

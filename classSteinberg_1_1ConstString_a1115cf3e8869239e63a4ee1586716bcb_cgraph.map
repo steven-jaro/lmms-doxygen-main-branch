@@ -1,0 +1,26 @@
+<map id="Steinberg::ConstString::getTrailingNumber" name="Steinberg::ConstString::getTrailingNumber">
+<area shape="rect" id="Node000001" title="Returns result of scanInt64 or the fallback." alt="" coords="5,117,156,158"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1ConstString.html#a859e5e354c0adebdf06b855d27832966" title="Returns start index of trailing number." alt="" coords="204,67,368,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,117,188,108,189,114,157,122"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1ConstString.html#ad41b9a77cf58e868ad8b4adc19315a03" title="Converts string to int64 value starting at offset." alt="" coords="211,149,361,190"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="157,147,196,153,195,158,156,152"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1ConstString.html#a419365fc771b5e5a3c04820c5cd6c970" title="Returns true if character at position is a digit." alt="" coords="416,9,566,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,64,401,52,402,57,362,69"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1ConstString.html#a8e8b648b8ad28ab72c1d07aab4ae9921" title="Return true if string is empty." alt="" coords="614,71,765,111"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="368,85,599,87,599,93,368,90"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1ConstString.html#ac55c5f1168ae1021efdcfc9cf34f0d4f" title="Returns true if character is a number." alt="" coords="614,5,765,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,25,599,25,599,30,567,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="560,48,608,63,606,68,558,53"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="361,152,598,106,599,111,362,158"/>
+<area shape="rect" id="Node000007" href="$classSteinberg_1_1ConstString.html#abc09b4af810bcfa2d154fdc8711b5e62" title="Converts string of type char16 to int64 value." alt="" coords="416,225,566,266"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="344,188,421,217,419,222,342,193"/>
+<area shape="rect" id="Node000008" href="$classSteinberg_1_1ConstString.html#aa82581355cbeed8b878d86bd8ea77a66" title="Converts string of type char8 to int64 value." alt="" coords="614,168,765,209"/>
+<area shape="poly" id="edge14_Node000006_Node000008" title=" " alt="" coords="362,170,599,181,598,187,362,176"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="563,222,602,211,603,216,564,227"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1ConstString.html#a18050a57ffa710b3962e6aa36757a046" title="Returns pointer to string of type tchar." alt="" coords="813,197,963,238"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="566,238,797,221,797,227,567,243"/>
+<area shape="rect" id="Node000012" href="$classSteinberg_1_1String.html#afcf4981a4e1a14f75620f039d89d8c01" title=" " alt="" coords="628,307,751,347"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="544,264,625,298,623,303,542,269"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="765,197,798,202,797,207,764,202"/>
+<area shape="poly" id="edge13_Node000012_Node000012" title=" " alt="" coords="652,307,650,297,656,288,669,282,690,280,711,282,724,289,722,293,710,288,689,285,671,287,659,292,655,298,657,305"/>
+</map>

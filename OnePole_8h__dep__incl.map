@@ -1,0 +1,43 @@
+<map id="plugins/LadspaEffect/caps/dsp/OnePole.h" name="plugins/LadspaEffect/caps/dsp/OnePole.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="847,5,989,46"/>
+<area shape="rect" id="Node000002" href="$Amp_8h.html" title=" " alt="" coords="343,94,485,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="831,42,502,97,486,100,485,95,501,91,831,37"/>
+<area shape="rect" id="Node000007" href="$LadspaEffect_2caps_2Chorus_8h.html" title=" " alt="" coords="513,94,656,135"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="832,52,657,97,655,92,831,47"/>
+<area shape="rect" id="Node000009" href="$Click_8h.html" title=" " alt="" coords="680,94,822,135"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="868,56,790,96,788,91,865,51"/>
+<area shape="rect" id="Node000011" href="$Pan_8h.html" title=" " alt="" coords="847,94,989,135"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="920,62,920,94,915,94,915,62"/>
+<area shape="rect" id="Node000013" href="$LadspaEffect_2caps_2Reverb_8h.html" title=" " alt="" coords="1013,94,1156,135"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="970,51,1048,91,1046,96,968,56"/>
+<area shape="rect" id="Node000015" href="$Scape_8h.html" title=" " alt="" coords="1180,94,1322,135"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="1005,47,1180,92,1179,97,1003,52"/>
+<area shape="rect" id="Node000017" href="$SweepVF_8h.html" title=" " alt="" coords="1347,94,1489,135"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="1005,37,1159,60,1334,91,1347,94,1346,99,1333,97,1158,66,1004,42"/>
+<area shape="rect" id="Node000003" href="$Amp_8cc.html" title=" " alt="" coords="5,183,148,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,140,149,186,147,181,327,135"/>
+<area shape="rect" id="Node000004" href="$Preamp_8cc.html" title=" " alt="" coords="172,183,314,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,144,283,185,281,180,361,140"/>
+<area shape="rect" id="Node000005" href="$ToneControls_8cc.html" title=" " alt="" coords="338,183,490,223"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,150,416,182,411,182,411,150"/>
+<area shape="rect" id="Node000006" href="$interface_8cc.html" title=" " alt="" coords="847,183,989,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="501,132,502,132,595,147,668,156,741,165,834,180,847,182,846,188,833,185,740,170,668,161,595,152,501,137,500,137"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="671,135,847,181,846,186,670,140"/>
+<area shape="rect" id="Node000008" href="$Chorus_8cc.html" title=" " alt="" coords="513,183,656,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="587,150,587,182,582,182,582,150"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="804,140,881,180,879,185,801,144"/>
+<area shape="rect" id="Node000010" href="$Click_8cc.html" title=" " alt="" coords="680,183,822,223"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="754,150,754,182,748,182,748,150"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="920,150,920,182,915,182,915,150"/>
+<area shape="rect" id="Node000012" href="$Pan_8cc.html" title=" " alt="" coords="1013,183,1156,223"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="970,140,1048,180,1046,185,968,144"/>
+<area shape="poly" id="edge17_Node000013_Node000006" title=" " alt="" coords="1035,144,957,185,954,180,1032,140"/>
+<area shape="rect" id="Node000014" href="$Reverb_8cc.html" title=" " alt="" coords="1180,183,1322,223"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1137,140,1215,180,1212,185,1134,144"/>
+<area shape="poly" id="edge20_Node000015_Node000006" title=" " alt="" coords="1166,140,990,186,989,181,1164,135"/>
+<area shape="rect" id="Node000016" href="$Scape_8cc.html" title=" " alt="" coords="1347,183,1489,223"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1304,140,1381,180,1379,185,1301,144"/>
+<area shape="poly" id="edge23_Node000017_Node000006" title=" " alt="" coords="1332,138,1165,162,1093,170,1002,185,990,188,989,182,1001,180,1092,165,1164,156,1331,132"/>
+<area shape="rect" id="Node000018" href="$SweepVF_8cc.html" title=" " alt="" coords="1513,183,1656,223"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="1470,140,1548,180,1546,185,1468,144"/>
+</map>

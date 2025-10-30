@@ -1,0 +1,26 @@
+var classjuce_1_1SparseSet =
+[
+    [ "SparseSet", "classjuce_1_1SparseSet.html#aa05b72efaa353faf90279a0df5d10bc3", null ],
+    [ "SparseSet", "classjuce_1_1SparseSet.html#a105f973fb5d0c3a971ba27ad6b3043db", null ],
+    [ "SparseSet", "classjuce_1_1SparseSet.html#af3f18564ea04a6cbc3a3811ac90c2ac5", null ],
+    [ "addRange", "classjuce_1_1SparseSet.html#a60aa577785e13a50d3ffb5d1d8c4da84", null ],
+    [ "clear", "classjuce_1_1SparseSet.html#a0faf03a122c192a6215fef8ee4a9f0af", null ],
+    [ "contains", "classjuce_1_1SparseSet.html#a7bc637051d82d7d263ac85f7fc5f4c6f", null ],
+    [ "containsRange", "classjuce_1_1SparseSet.html#ae983aea611f7655d04b69c6af1710406", null ],
+    [ "getNumRanges", "classjuce_1_1SparseSet.html#a7eb3d8e3f2135614e0a20923e62ab618", null ],
+    [ "getRange", "classjuce_1_1SparseSet.html#a0911075b8e811f4249991b98fdf248a9", null ],
+    [ "getRanges", "classjuce_1_1SparseSet.html#a8452149a69152b2e56544109c2b5d914", null ],
+    [ "getTotalRange", "classjuce_1_1SparseSet.html#a8f2d47ad4039028314b8f681751629bc", null ],
+    [ "invertRange", "classjuce_1_1SparseSet.html#a0de1733a38eee7c0abc5c5e5e71ed25f", null ],
+    [ "isEmpty", "classjuce_1_1SparseSet.html#a71fee60f0a62981a81590974d08c93be", null ],
+    [ "operator!=", "classjuce_1_1SparseSet.html#a665ee0dc90884e061a3533563afe6221", null ],
+    [ "operator=", "classjuce_1_1SparseSet.html#abbd7f7c7f5ba616cf2fc117870307b22", null ],
+    [ "operator=", "classjuce_1_1SparseSet.html#acb8b1cc8c76c456e14693bbc2c556c72", null ],
+    [ "operator==", "classjuce_1_1SparseSet.html#a339c53472871df3fdcf6efbe35463298", null ],
+    [ "operator[]", "classjuce_1_1SparseSet.html#a771241abe641e7870530385b72a992b2", null ],
+    [ "overlapsRange", "classjuce_1_1SparseSet.html#a169ed24fecfee36bccaa1edc7b0fedb4", null ],
+    [ "removeRange", "classjuce_1_1SparseSet.html#af6e692fcbe1f542c27e42d5c76c9d1c4", null ],
+    [ "simplify", "classjuce_1_1SparseSet.html#a1b93d8c7dd4f5eb33bff48c776d3988d", null ],
+    [ "size", "classjuce_1_1SparseSet.html#a2c3e78689651f0394110d0a77d6dc851", null ],
+    [ "ranges", "classjuce_1_1SparseSet.html#acf486ad25d77dffa8dbd900270446071", null ]
+];

@@ -1,0 +1,27 @@
+var classdsp_1_1simple__phaser =
+[
+    [ "simple_phaser", "classdsp_1_1simple__phaser.html#aa7499952ff58bd83575817fefebc22df", null ],
+    [ "control_step", "classdsp_1_1simple__phaser.html#abb6ee7c0847efcaeae2299af23d39e7f", null ],
+    [ "freq_gain", "classdsp_1_1simple__phaser.html#a0281188bf6bac5efa044540cc0a8dc16", null ],
+    [ "get_base_frq", "classdsp_1_1simple__phaser.html#a79612dc0435592f870fba9b35b7a0da3", null ],
+    [ "get_fb", "classdsp_1_1simple__phaser.html#a7a199bc890eabd5081739a758d686356", null ],
+    [ "get_mod_depth", "classdsp_1_1simple__phaser.html#ade73c13d8d254ae247a0f96029461ac5", null ],
+    [ "get_stages", "classdsp_1_1simple__phaser.html#acc949cbb29c910fc3c9a5fac36a0d975", null ],
+    [ "process", "classdsp_1_1simple__phaser.html#a1e9185376ebb8a73efae2c25b80ebe17", null ],
+    [ "reset", "classdsp_1_1simple__phaser.html#a673f581def12e7f690b0c25b3ea31685", null ],
+    [ "set_base_frq", "classdsp_1_1simple__phaser.html#af9f0a1c77d8e2fbd1a35c4caee8e1b99", null ],
+    [ "set_fb", "classdsp_1_1simple__phaser.html#a9b93ee8dec2c6c46ac35e38cde59edb4", null ],
+    [ "set_mod_depth", "classdsp_1_1simple__phaser.html#a5ed251d78645c9655d48310ee9a68303", null ],
+    [ "set_stages", "classdsp_1_1simple__phaser.html#a69d145d2aef34bc3787fc3b5cf1e55a4", null ],
+    [ "setup", "classdsp_1_1simple__phaser.html#a1649eaed5514584c5ae4b528f6e05c81", null ],
+    [ "base_frq", "classdsp_1_1simple__phaser.html#ad4a33d75845a3234dc2a7a94d1464bb4", null ],
+    [ "cnt", "classdsp_1_1simple__phaser.html#a8390de00424dd2298db7feda510d5e96", null ],
+    [ "fb", "classdsp_1_1simple__phaser.html#a91ee339e448e67d84beaba9cac30d177", null ],
+    [ "max_stages", "classdsp_1_1simple__phaser.html#ac6c9a3479a6fa310719b7b7bce70142a", null ],
+    [ "mod_depth", "classdsp_1_1simple__phaser.html#a9e7c16a008e7130e6b97ccc7dc855008", null ],
+    [ "stage1", "classdsp_1_1simple__phaser.html#ada8cd39547b7a28d9a525f06cc59d192", null ],
+    [ "stages", "classdsp_1_1simple__phaser.html#a895a900fcd7e7824f47b3d934df8d92d", null ],
+    [ "state", "classdsp_1_1simple__phaser.html#a1b0680535f4fd0f86a9d21df48780403", null ],
+    [ "x1", "classdsp_1_1simple__phaser.html#a69a57e9d7efa9f537c7a7800390dbfd5", null ],
+    [ "y1", "classdsp_1_1simple__phaser.html#a57d19ec52d598fb0fdb68ea41fff9313", null ]
+];

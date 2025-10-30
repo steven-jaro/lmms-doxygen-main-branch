@@ -1,0 +1,32 @@
+<map id="plugins/CarlaBase/carla/source/modules/water/processors/AudioProcessorGraph.cpp" name="plugins/CarlaBase/carla/source/modules/water/processors/AudioProcessorGraph.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="757,5,1002,61"/>
+<area shape="rect" id="Node000002" href="$AudioProcessorGraph_8h.html" title=" " alt="" coords="708,109,867,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="853,63,813,100,810,96,849,59"/>
+<area shape="rect" id="Node000042" href="$SortedSet_8h.html" title=" " alt="" coords="955,109,1118,135"/>
+<area shape="poly" id="edge14_Node000001_Node000042" title=" " alt="" coords="930,59,1003,99,1000,104,928,64"/>
+<area shape="rect" id="Node000003" href="$AudioProcessor_8h.html" title=" " alt="" coords="252,190,376,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="715,138,392,192,391,186,714,133"/>
+<area shape="rect" id="Node000033" href="$OwnedArray_8h.html" title=" " alt="" coords="486,190,662,216"/>
+<area shape="poly" id="edge6_Node000002_Node000033" title=" " alt="" coords="756,138,622,187,620,182,754,133"/>
+<area shape="rect" id="Node000037" href="$ReferenceCountedArray_8h.html" title=" " alt="" coords="686,183,889,223"/>
+<area shape="poly" id="edge9_Node000002_Node000037" title=" " alt="" coords="790,135,790,167,785,167,785,135"/>
+<area shape="rect" id="Node000039" href="$MidiBuffer_8h.html" title=" " alt="" coords="913,190,1040,216"/>
+<area shape="poly" id="edge11_Node000002_Node000039" title=" " alt="" coords="818,133,935,181,933,186,816,138"/>
+<area shape="rect" id="Node000004" href="$String_8h.html" title=" " alt="" coords="5,279,106,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,219,107,276,105,271,277,214"/>
+<area shape="rect" id="Node000026" href="$AudioSampleBuffer_8h.html" title=" " alt="" coords="130,279,325,304"/>
+<area shape="poly" id="edge4_Node000003_Node000026" title=" " alt="" coords="304,218,252,270,248,266,300,214"/>
+<area shape="rect" id="Node000031" href="$CarlaMutex_8hpp.html" title=" " alt="" coords="350,279,460,304"/>
+<area shape="poly" id="edge5_Node000003_Node000031" title=" " alt="" coords="329,214,383,266,380,270,325,218"/>
+<area shape="rect" id="Node000034" href="$ArrayAllocationBase_8h.html" title=" " alt="" coords="663,360,811,386"/>
+<area shape="poly" id="edge7_Node000033_Node000034" title=" " alt="" coords="562,218,544,237,526,261,518,287,519,299,524,310,542,324,572,336,648,355,646,360,570,341,540,329,520,314,514,300,512,286,522,259,540,234,559,214"/>
+<area shape="rect" id="Node000035" href="$CarlaScopeUtils_8hpp.html" title=" " alt="" coords="534,279,673,304"/>
+<area shape="poly" id="edge8_Node000033_Node000035" title=" " alt="" coords="581,215,597,263,592,265,576,217"/>
+<area shape="rect" id="Node000038" href="$ReferenceCountedObject_8h.html" title=" " alt="" coords="697,271,886,312"/>
+<area shape="poly" id="edge10_Node000037_Node000038" title=" " alt="" coords="791,224,793,256,787,256,786,224"/>
+<area shape="rect" id="Node000040" href="$Array_8h.html" title=" " alt="" coords="909,279,1044,304"/>
+<area shape="poly" id="edge12_Node000039_Node000040" title=" " alt="" coords="980,216,980,263,974,263,974,216"/>
+<area shape="poly" id="edge13_Node000040_Node000034" title=" " alt="" coords="941,308,789,357,787,352,939,303"/>
+<area shape="rect" id="Node000008" href="$water_8h.html" title=" " alt="" coords="1064,190,1138,216"/>
+<area shape="poly" id="edge15_Node000042_Node000008" title=" " alt="" coords="1049,133,1083,176,1079,179,1044,137"/>
+</map>

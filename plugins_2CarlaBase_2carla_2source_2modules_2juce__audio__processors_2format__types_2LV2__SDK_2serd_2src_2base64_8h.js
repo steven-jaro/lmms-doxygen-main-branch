@@ -1,0 +1,5 @@
+var plugins_2CarlaBase_2carla_2source_2modules_2juce__audio__processors_2format__types_2LV2__SDK_2serd_2src_2base64_8h =
+[
+    [ "serd_base64_encode", "plugins_2CarlaBase_2carla_2source_2modules_2juce__audio__processors_2format__types_2LV2__SDK_2serd_2src_2base64_8h.html#af8ac8189c51554a2644214b8a087539b", null ],
+    [ "serd_base64_get_length", "plugins_2CarlaBase_2carla_2source_2modules_2juce__audio__processors_2format__types_2LV2__SDK_2serd_2src_2base64_8h.html#ad11ff75d0e0a395cad52fb09d3e7ba05", null ]
+];

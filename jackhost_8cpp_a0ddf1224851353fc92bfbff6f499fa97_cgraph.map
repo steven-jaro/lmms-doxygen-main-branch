@@ -1,0 +1,70 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,389,55,414"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1host__session.html#acf60a3b3fc9c4999ae18bfa3ac928c14" title=" " alt="" coords="133,5,254,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,388,37,321,51,224,72,128,85,90,101,63,117,48,121,52,105,66,90,92,77,130,56,225,42,322,35,389"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1host__session.html#a4ec62c251557a35242a6a6c97bc7c7e4" title=" " alt="" coords="131,128,256,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="29,388,33,348,44,293,65,233,81,205,101,180,115,168,119,172,105,184,85,208,70,235,49,294,38,349,34,389"/>
+<area shape="rect" id="Node000021" href="$structcalf__plugins_1_1preset__exception.html#a6df760550569180eb30faf3dc4ef7ace" title=" " alt="" coords="571,88,704,129"/>
+<area shape="poly" id="edge36_Node000001_Node000021" title=" " alt="" coords="30,388,37,329,51,246,71,166,85,135,101,114,135,97,183,86,241,80,305,78,439,84,556,95,555,101,439,89,305,84,241,85,184,91,137,102,104,118,90,137,77,167,56,247,42,330,35,389"/>
+<area shape="rect" id="Node000023" href="$interposer-safe_8cpp.html#a8e8c8847873e162d9a0bfd5ee9fd6241" title=" " alt="" coords="173,504,214,529"/>
+<area shape="poly" id="edge9_Node000001_Node000023" title=" " alt="" coords="40,413,65,451,83,471,104,489,130,502,158,509,157,514,129,507,101,493,80,475,61,454,36,416"/>
+<area shape="rect" id="Node000007" href="$namespacecalf__plugins.html#ab9476259a86c99bc1d83a8772992854b" title="Return the current list of built&#45;in (factory) presets (these are loaded from system&#45;wide file)." alt="" coords="116,259,271,299"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="37,387,62,349,80,328,101,310,109,305,112,309,104,314,84,332,66,353,41,390"/>
+<area shape="rect" id="Node000008" href="$namespacecalf__plugins.html#a68c4f4a6d463ffc6b8ea95d46b3e0246" title="Return the current list of user&#45;defined presets (these are loaded from ~/.calfpresets)." alt="" coords="120,324,266,365"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="54,391,118,368,120,373,56,396"/>
+<area shape="rect" id="Node000026" href="$mygetopt_8h.html#a8616b8a74ae6c01a7ad95ad2876226ec" title=" " alt="" coords="149,389,238,414"/>
+<area shape="poly" id="edge14_Node000001_Node000026" title=" " alt="" coords="55,399,134,399,134,404,55,404"/>
+<area shape="rect" id="Node000027" href="$structcalf__plugins_1_1session__environment__iface.html#a0ebd6900e09a409629eaf8f8577c3343" title="Called to initialise the UI libraries." alt="" coords="103,439,284,479"/>
+<area shape="poly" id="edge15_Node000001_Node000027" title=" " alt="" coords="56,408,120,431,118,436,54,413"/>
+<area shape="rect" id="Node000028" href="$structcalf__plugins_1_1preset__list.html#a5f285f5e245cd3d57575a870751d939e" title="Load default preset list (built&#45;in or user&#45;defined)." alt="" coords="127,193,260,234"/>
+<area shape="poly" id="edge16_Node000001_Node000028" title=" " alt="" coords="31,388,39,359,52,321,72,280,101,245,112,237,115,241,105,249,77,283,57,323,44,360,36,389"/>
+<area shape="rect" id="Node000030" href="$classcalf__plugins_1_1host__session.html#a46be41ed1f1d16a16f9a6f25b92d98ce" title=" " alt="" coords="133,553,254,594"/>
+<area shape="poly" id="edge19_Node000001_Node000030" title=" " alt="" coords="37,414,59,474,78,509,104,540,120,551,117,555,101,544,74,512,54,476,32,416"/>
+<area shape="rect" id="Node000053" href="$jackhost_8cpp.html#a14295a4e6a894825f205a1ecf85f64ea" title=" " alt="" coords="155,618,232,644"/>
+<area shape="poly" id="edge32_Node000001_Node000053" title=" " alt="" coords="35,415,39,452,49,503,70,557,86,582,104,604,121,615,140,622,138,627,119,620,101,608,81,585,66,560,44,504,33,453,29,415"/>
+<area shape="rect" id="Node000054" href="$classcalf__plugins_1_1host__session.html#aeec407c9dc41906e5cc390d8863278f0" title="Set handlers for SIGUSR1 (that LADISH uses to invoke Save function), SIGTERM and SIGHUP." alt="" coords="124,668,262,724"/>
+<area shape="poly" id="edge33_Node000001_Node000054" title=" " alt="" coords="34,415,36,460,46,523,67,592,84,625,105,655,114,663,110,667,101,658,79,628,62,594,41,524,31,460,29,415"/>
+<area shape="rect" id="Node000056" href="$structcalf__plugins_1_1session__environment__iface.html#a5da876480ec8893dacb71a4955f69871" title="Called to start the UI loop." alt="" coords="110,748,276,804"/>
+<area shape="poly" id="edge35_Node000001_Node000056" title=" " alt="" coords="35,415,43,481,57,577,78,672,90,709,105,735,106,736,102,739,100,738,86,711,72,673,51,578,37,482,30,415"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1host__session.html#a705a380de274c7cb76cc5d2092b66e57" title="Implementation of open file functionality (TODO)." alt="" coords="356,200,487,241"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,165,342,193,341,198,256,171"/>
+<area shape="rect" id="Node000022" href="$classcalf__plugins_1_1host__session.html#a935d25aa7084c25458e2206de4ffba8a" title="Set the file name of the current rack." alt="" coords="350,120,494,176"/>
+<area shape="poly" id="edge8_Node000003_Node000022" title=" " alt="" coords="256,146,334,146,334,151,256,151"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1host__session.html#a1e3951f15e24596bcc8044cdc4ec0cdf" title=" " alt="" coords="567,381,708,422"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="450,239,513,301,527,320,536,337,545,352,561,368,565,371,562,375,558,372,541,355,531,339,523,323,509,305,446,243"/>
+<area shape="rect" id="Node000015" href="$structcalf__plugins_1_1preset__list.html#a23c12defc9393aa794018680fb13365e" title="Load preset list from XML file." alt="" coords="571,257,704,298"/>
+<area shape="poly" id="edge5_Node000004_Node000015" title=" " alt="" coords="488,235,557,254,555,259,486,240"/>
+<area shape="rect" id="Node000020" href="$classcalf__plugins_1_1host__session.html#a64fed1fe7e90ae1855840c207e3db8bc" title=" " alt="" coords="566,178,709,234"/>
+<area shape="poly" id="edge6_Node000004_Node000020" title=" " alt="" coords="487,213,551,209,551,214,487,219"/>
+<area shape="poly" id="edge7_Node000004_Node000021" title=" " alt="" coords="485,197,510,186,554,162,594,136,597,140,557,166,513,191,487,202"/>
+<area shape="rect" id="Node000024" href="$CarlaUtils_8hpp.html#adcbd5a9383b671ccea31bef34e761928" title=" " alt="" coords="374,386,470,412"/>
+<area shape="poly" id="edge10_Node000023_Node000024" title=" " alt="" coords="214,511,248,504,283,489,297,476,306,462,315,448,330,433,361,416,363,421,334,437,319,451,311,465,301,479,285,493,249,509,215,517"/>
+<area shape="rect" id="Node000025" href="$CarlaUtils_8hpp.html#a72c98b79b4bafee47a1e9249e83368f3" title=" " alt="" coords="586,332,689,357"/>
+<area shape="poly" id="edge11_Node000024_Node000025" title=" " alt="" coords="470,384,571,358,572,363,471,389"/>
+<area shape="poly" id="edge18_Node000028_Node000015" title=" " alt="" coords="260,232,332,250,449,265,556,273,556,278,449,270,332,255,259,237"/>
+<area shape="rect" id="Node000029" href="$structcalf__plugins_1_1preset__list.html#ad3e18f1dffaf1a1261363dafe4b4f34d" title="Return the name of the built&#45;in or user&#45;defined preset file." alt="" coords="338,315,505,355"/>
+<area shape="poly" id="edge17_Node000028_Node000029" title=" " alt="" coords="261,232,285,245,301,257,310,270,319,282,334,294,352,305,349,310,330,298,316,285,306,273,297,261,283,249,259,236"/>
+<area shape="rect" id="Node000031" href="$classcalf__plugins_1_1host__session.html#a5c9116b07065ee9e353c7dd2ca86e1bd" title=" " alt="" coords="340,447,503,503"/>
+<area shape="poly" id="edge20_Node000030_Node000031" title=" " alt="" coords="254,551,283,539,352,507,354,512,285,544,256,556"/>
+<area shape="rect" id="Node000032" href="$group__SessionClientFunctions.html#ga27846b86d11b2a8682b5d5220c87baa9" title=" " alt="" coords="333,649,510,674"/>
+<area shape="poly" id="edge22_Node000030_Node000032" title=" " alt="" coords="255,592,285,603,376,640,374,645,283,608,253,597"/>
+<area shape="rect" id="Node000040" href="$classcalf__plugins_1_1host__session.html#a789d2b0e300ae05bc27fe3ac9adcfc08" title=" " alt="" coords="332,548,511,589"/>
+<area shape="poly" id="edge28_Node000030_Node000040" title=" " alt="" coords="254,570,316,568,316,573,255,575"/>
+<area shape="poly" id="edge21_Node000031_Node000005" title=" " alt="" coords="503,445,561,425,562,430,504,450"/>
+<area shape="rect" id="Node000033" href="$ZynAddSubFx_2zynaddsubfx_2src_2Synth_2OscilGen_8cpp.html#a8ba7098a5809423372cf8cbbe6f3b504" title=" " alt="" coords="618,616,657,641"/>
+<area shape="poly" id="edge23_Node000032_Node000033" title=" " alt="" coords="509,646,602,631,603,636,510,651"/>
+<area shape="rect" id="Node000034" href="$structJack_1_1JackGlobals.html#adf4bc0472a237936fd3c5a974c49ffbc" title=" " alt="" coords="571,665,704,706"/>
+<area shape="poly" id="edge25_Node000032_Node000034" title=" " alt="" coords="511,669,556,674,555,679,511,674"/>
+<area shape="rect" id="Node000035" href="$testSem_8cpp.html#a5cbf99e8849f2e3ea613ea0a2df2f272" title=" " alt="" coords="611,730,664,756"/>
+<area shape="poly" id="edge26_Node000032_Node000035" title=" " alt="" coords="480,673,513,685,537,700,561,715,597,729,595,734,558,720,534,704,510,689,478,678"/>
+<area shape="rect" id="Node000039" href="$group__ControlAPI.html#ga35f69faaee3bb9b958ed8c9a5f62246c" title=" " alt="" coords="603,780,672,805"/>
+<area shape="poly" id="edge27_Node000032_Node000039" title=" " alt="" coords="492,673,513,685,531,706,538,727,545,747,561,766,589,781,586,785,558,770,540,750,533,728,526,708,510,689,489,677"/>
+<area shape="poly" id="edge24_Node000033_Node000033" title=" " alt="" coords="616,625,598,614,595,601,609,592,637,589,662,591,676,597,680,607,673,617,669,614,675,606,673,601,660,596,638,594,611,597,600,603,602,611,619,620"/>
+<area shape="poly" id="edge29_Node000040_Node000033" title=" " alt="" coords="498,587,604,616,602,622,497,592"/>
+<area shape="rect" id="Node000041" href="$classcalf__plugins_1_1host__session.html#a70ac1062b72ea3b8ecd157b775e03098" title=" " alt="" coords="563,511,712,567"/>
+<area shape="poly" id="edge30_Node000040_Node000041" title=" " alt="" coords="511,554,548,548,548,554,512,559"/>
+<area shape="rect" id="Node000052" href="$classcalf__plugins_1_1host__session.html#a93a5d7042b85b7cac97fe2cc92fe50f4" title=" " alt="" coords="559,447,716,487"/>
+<area shape="poly" id="edge31_Node000040_Node000052" title=" " alt="" coords="461,545,558,497,569,492,572,496,560,501,463,550"/>
+<area shape="rect" id="Node000055" href="$classcalf__plugins_1_1host__session.html#ab0caf78d49fc64b813fcbbd3c1d35a07" title="unix signal handler" alt="" coords="340,699,503,739"/>
+<area shape="poly" id="edge34_Node000054_Node000055" title=" " alt="" coords="263,701,325,707,325,712,263,706"/>
+</map>

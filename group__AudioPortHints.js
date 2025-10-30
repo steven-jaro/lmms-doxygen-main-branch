@@ -1,0 +1,10 @@
+var group__AudioPortHints =
+[
+    [ "AUDIO_PORT_IS_SIDECHAIN", "group__AudioPortHints.html#ga3b8c9ed3ccfb30c3f3c14c4c8f526eb9", null ],
+    [ "kAudioPortIsCV", "group__AudioPortHints.html#ga92c8a0135d1b6dacd22df25295c15ff3", null ],
+    [ "kAudioPortIsSidechain", "group__AudioPortHints.html#gafbf1a5255d0a19f35ae21480ab2c7433", null ],
+    [ "kCVPortHasBipolarRange", "group__AudioPortHints.html#ga7133899b77b31caa1eae3fe77409e69e", null ],
+    [ "kCVPortHasNegativeUnipolarRange", "group__AudioPortHints.html#gafa444d8a3d5244e107c2ddb19f60105d", null ],
+    [ "kCVPortHasPositiveUnipolarRange", "group__AudioPortHints.html#ga0919fac232ec9c6999057b09d54e3919", null ],
+    [ "kCVPortHasScaledRange", "group__AudioPortHints.html#gae36eb55fe0813af0dd6cdfe4f7baae97", null ]
+];

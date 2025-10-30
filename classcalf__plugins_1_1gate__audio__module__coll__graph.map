@@ -1,0 +1,33 @@
+<map id="calf_plugins::gate_audio_module" name="calf_plugins::gate_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="638,2302,782,2587"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="224,1481,432,2147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,2159,447,2230,489,2282,539,2329,591,2369,639,2401,636,2405,588,2373,535,2333,485,2286,442,2232,404,2162"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1gate__metadata.html" title=" " alt="" coords="526,953,637,1034"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="580,1049,573,1108,560,1180,539,1255,509,1328,494,1350,478,1364,462,1378,447,1399,408,1482,404,1480,442,1396,458,1374,474,1360,490,1346,505,1325,534,1253,555,1178,568,1108,575,1048"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="490,36,673,559"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="584,574,584,953,579,953,579,574"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="5,5,171,590"/>
+<area shape="poly" id="edge4_Node000002_Node000009" title=" " alt="" coords="74,605,73,771,80,953,97,1142,111,1235,128,1326,147,1398,171,1471,227,1608,222,1610,166,1473,142,1400,123,1327,106,1236,92,1142,74,954,68,771,68,605"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="138,661,346,1326"/>
+<area shape="poly" id="edge8_Node000011_Node000009" title=" " alt="" coords="158,603,171,661,166,662,153,604"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1progress__report__iface.html" title=" " alt="" coords="293,247,457,348"/>
+<area shape="poly" id="edge5_Node000002_Node000010" title=" " alt="" coords="378,348,380,614,388,994,388,1160,380,1373,374,1465,368,1464,375,1373,383,1160,383,994,375,614,373,348"/>
+<area shape="poly" id="edge9_Node000011_Node000010" title=" " alt="" coords="357,349,314,468,292,541,274,614,269,644,264,643,269,613,287,539,309,467,352,347"/>
+<area shape="poly" id="edge6_Node000002_Node000011" title=" " alt="" coords="261,1341,264,1373,277,1481,272,1482,259,1374,256,1342"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="196,264,261,331"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="232,345,238,661,233,661,227,346"/>
+<area shape="rect" id="Node000013" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="456,1712,600,1916"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="547,1930,574,2075,593,2153,615,2230,642,2301,637,2303,610,2232,587,2155,569,2076,542,1931"/>
+<area shape="rect" id="Node000014" href="$classcalf__plugins_1_1expander__audio__module.html" title=" " alt="" coords="624,1397,795,2231"/>
+<area shape="poly" id="edge11_Node000001_Node000014" title=" " alt="" coords="712,2231,712,2285,707,2285,707,2231"/>
+<area shape="rect" id="Node000015" href="$classdsp_1_1bypass.html" title=" " alt="" coords="820,1750,909,1878"/>
+<area shape="poly" id="edge12_Node000001_Node000015" title=" " alt="" coords="864,1878,848,2040,832,2136,810,2232,790,2287,785,2285,804,2230,827,2135,843,2039,859,1877"/>
+<area shape="rect" id="Node000016" href="$classdsp_1_1inertia.html" title=" " alt="" coords="809,861,920,1126"/>
+<area shape="poly" id="edge13_Node000015_Node000016" title=" " alt="" coords="867,1125,867,1734,862,1734,862,1125"/>
+<area shape="rect" id="Node000017" href="$classdsp_1_1linear__ramp.html" title="Algorithm for a constant time linear ramp." alt="" coords="755,193,859,402"/>
+<area shape="poly" id="edge14_Node000016_Node000017" title=" " alt="" coords="818,401,855,844,849,845,813,402"/>
+<area shape="rect" id="Node000018" href="$classdsp_1_1inertia.html" title=" " alt="" coords="884,152,1013,442"/>
+<area shape="poly" id="edge15_Node000016_Node000018" title=" " alt="" coords="932,458,883,862,878,861,926,457"/>
+<area shape="rect" id="Node000019" href="$classcalf__plugins_1_1vumeters.html" title=" " alt="" coords="933,1750,1073,1878"/>
+<area shape="poly" id="edge16_Node000001_Node000019" title=" " alt="" coords="1004,1878,998,1953,985,2044,961,2140,944,2187,923,2232,896,2275,864,2314,796,2381,792,2377,860,2310,892,2271,918,2230,939,2185,956,2139,980,2043,993,1952,999,1877"/>
+</map>

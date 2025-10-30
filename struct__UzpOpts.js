@@ -1,0 +1,26 @@
+var struct__UzpOpts =
+[
+    [ "aflag", "struct__UzpOpts.html#a45bf9a7ea428556d1d18e4f6fdb69f50", null ],
+    [ "C_flag", "struct__UzpOpts.html#aeffd26c4f7b4bda6f0aa3e5dfd86ce82", null ],
+    [ "cflag", "struct__UzpOpts.html#a11eb7228593441acbd11d84744a6bf30", null ],
+    [ "D_flag", "struct__UzpOpts.html#a8ec29e94940b721bb5ef86c040d0232d", null ],
+    [ "ddotflag", "struct__UzpOpts.html#a7dac08d798ac44282a9190a813cf2a66", null ],
+    [ "exdir", "struct__UzpOpts.html#a0839256affa9672b8c911f6bad94c60b", null ],
+    [ "fflag", "struct__UzpOpts.html#a86feceea5ab095429ccf216d138387ac", null ],
+    [ "hflag", "struct__UzpOpts.html#a98e9e891c4e3773b4bf799a7c7c9bfc1", null ],
+    [ "jflag", "struct__UzpOpts.html#ad50ac16002f197cf1f02f6d3b4028e32", null ],
+    [ "L_flag", "struct__UzpOpts.html#ae77657c9032b944543944fc443e12110", null ],
+    [ "lflag", "struct__UzpOpts.html#a038339786475e01a2ef96e75614e1b7d", null ],
+    [ "overwrite_all", "struct__UzpOpts.html#a46e677231a2905cb0bb484b029898e44", null ],
+    [ "overwrite_none", "struct__UzpOpts.html#a5a4789dd670c08e9951a2220959a9bee", null ],
+    [ "pwdarg", "struct__UzpOpts.html#acb16584842c21bee70ccc274890678ba", null ],
+    [ "qflag", "struct__UzpOpts.html#a2f527088d60c586c7ddc911f845b51c1", null ],
+    [ "T_flag", "struct__UzpOpts.html#ac3da84ba83b57707079801cd1fc093a1", null ],
+    [ "tflag", "struct__UzpOpts.html#ac5820e15cdcb956ae71522f49771aa59", null ],
+    [ "uflag", "struct__UzpOpts.html#a48fd058cf9e819bf35bdb414a70b9c6c", null ],
+    [ "V_flag", "struct__UzpOpts.html#a8979f61195b30c7af07058357dff0cf3", null ],
+    [ "vflag", "struct__UzpOpts.html#a19fb0fbd3978ab9b9d20bf2bac5f0050", null ],
+    [ "W_flag", "struct__UzpOpts.html#a01265ba6006abaef87f71d32df168905", null ],
+    [ "zflag", "struct__UzpOpts.html#a087a064eab34915901362101a2d8e5a8", null ],
+    [ "zipinfo_mode", "struct__UzpOpts.html#a4d999f21e6b9caac71ce6ff7a8f86210", null ]
+];

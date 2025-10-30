@@ -1,0 +1,28 @@
+var classzyncarla_1_1MiddleWare =
+[
+    [ "MiddleWare", "classzyncarla_1_1MiddleWare.html#a3b38dbd5824aa8f3e816e518da737631", null ],
+    [ "~MiddleWare", "classzyncarla_1_1MiddleWare.html#ad3fdf69f76ca4f6c732ba607b016e3a3", null ],
+    [ "activeUrl", "classzyncarla_1_1MiddleWare.html#ab1bebbfb7247e7af9cbf880caee8b6ac", null ],
+    [ "activeUrl", "classzyncarla_1_1MiddleWare.html#ad099b384a422e3d037cf3aa4af712a0c", null ],
+    [ "checkAutoSave", "classzyncarla_1_1MiddleWare.html#a1740e4b7c9d97fc8c6ac98ac74f3f1d2", null ],
+    [ "doReadOnlyOp", "classzyncarla_1_1MiddleWare.html#a1aed1148ebdb8384e980f5691fd43d09", null ],
+    [ "enableAutoSave", "classzyncarla_1_1MiddleWare.html#a3e7cc9ef8d9d3067a2ff7e0d1ba941e5", null ],
+    [ "getPresetsStore", "classzyncarla_1_1MiddleWare.html#a1a5f8e2dc5062c90bfa1fa8465e8e741", null ],
+    [ "getPresetsStore", "classzyncarla_1_1MiddleWare.html#a1cf1ca91f5fb5f3967b9807ba434f38e", null ],
+    [ "getServerAddress", "classzyncarla_1_1MiddleWare.html#a221af7079819e98b60aa13e1e8923520", null ],
+    [ "getSynth", "classzyncarla_1_1MiddleWare.html#a8d03bd1ea0aac37d93a915b576979cc3", null ],
+    [ "messageAnywhere", "classzyncarla_1_1MiddleWare.html#a29032e42df498a3cc25de11b2256d0b3", null ],
+    [ "pendingSetBank", "classzyncarla_1_1MiddleWare.html#ad1bee5b5cb116f360162bc658ccc07a5", null ],
+    [ "pendingSetProgram", "classzyncarla_1_1MiddleWare.html#ae92d45a59ddefcfa0633584c5fc27bec", null ],
+    [ "removeAutoSave", "classzyncarla_1_1MiddleWare.html#a7c013d40422420e70d80055f0a6f6695", null ],
+    [ "setIdleCallback", "classzyncarla_1_1MiddleWare.html#a5bb384f7833765c5c4865c42ed19b504", null ],
+    [ "setUiCallback", "classzyncarla_1_1MiddleWare.html#acf1990f97463aee948a54cb05d5606fd", null ],
+    [ "spawnMaster", "classzyncarla_1_1MiddleWare.html#a9e7c1ca985f2099dfd1315b9d9b53469", null ],
+    [ "spawnUiApi", "classzyncarla_1_1MiddleWare.html#adc6c5d97fa50520ccb754d5b2bf407c9", null ],
+    [ "tick", "classzyncarla_1_1MiddleWare.html#a0a13493d5d3e397e6275c0a950e30bbb", null ],
+    [ "transmitMsg", "classzyncarla_1_1MiddleWare.html#a68a1498e2e0565c79f7668d27930ab92", null ],
+    [ "transmitMsg", "classzyncarla_1_1MiddleWare.html#ad3b7d4a7c7bf8ba79cdb77ed878909f0", null ],
+    [ "transmitMsg_va", "classzyncarla_1_1MiddleWare.html#ab62246f3317f31bf28b8e44956b1cd2d", null ],
+    [ "updateResources", "classzyncarla_1_1MiddleWare.html#a6d35af82d82bb87a7c104e0f8e454dcb", null ],
+    [ "impl", "classzyncarla_1_1MiddleWare.html#aa94b47aa10bc112ebc2c2cabe7ad80e8", null ]
+];

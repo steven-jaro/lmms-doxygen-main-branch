@@ -1,0 +1,25 @@
+<map id="Steinberg::ConstString::scanHex" name="Steinberg::ConstString::scanHex">
+<area shape="rect" id="Node000001" title="Converts string of type tchar to hex/unit8 value." alt="" coords="5,24,156,65"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1ConstString.html#a49caab114c5f94791365d593a65febd5" title="Converts string of type char16 to hex/unit8 value." alt="" coords="204,81,354,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,63,192,74,191,79,152,68"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1ConstString.html#a66e789682b26e6eb95ddfc2e97fb068c" title="Converts string of type char8 to hex/unit8 value." alt="" coords="402,24,552,65"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="156,42,386,42,386,47,156,47"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1ConstString.html#a18050a57ffa710b3962e6aa36757a046" title="Returns pointer to string of type tchar." alt="" coords="604,24,754,65"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="156,28,237,16,337,6,445,3,553,10,594,17,593,23,552,15,445,8,337,12,238,21,157,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,78,389,67,391,72,352,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="354,95,449,87,552,74,589,66,590,71,553,79,449,93,355,101"/>
+<area shape="rect" id="Node000007" href="$classSteinberg_1_1String.html#afcf4981a4e1a14f75620f039d89d8c01" title=" " alt="" coords="416,163,538,203"/>
+<area shape="poly" id="edge5_Node000002_Node000007" title=" " alt="" coords="332,120,412,154,410,159,330,125"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,42,588,42,588,47,553,47"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="439,163,438,153,444,144,457,138,477,136,499,138,512,145,509,149,497,144,477,141,458,143,447,148,443,154,445,161"/>
+<area shape="rect" id="Node000008" href="$unzipfx-carla-control_2unzpriv_8h.html#ae8006e5e5b63d623442f5d3286fe9117" title=" " alt="" coords="837,177,896,203"/>
+<area shape="poly" id="edge6_Node000007_Node000008" title=" " alt="" coords="539,181,822,186,822,192,539,187"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1String.html#ab7ff56bfbf85c51b6689d09762c52a08" title="Converts to wide string according to sourceCodePage." alt="" coords="618,212,740,253"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="539,195,604,211,602,216,538,201"/>
+<area shape="rect" id="Node000012" href="$classSteinberg_1_1String.html#a754a071c1391462485013db342caaa89" title="Call this when the string is truncated outside (not recommended though)." alt="" coords="806,241,928,282"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="502,202,546,235,573,250,601,262,649,272,698,276,790,272,790,277,698,281,648,277,600,267,570,255,543,239,499,206"/>
+<area shape="rect" id="Node000022" href="$classSteinberg_1_1ConstString.html#a2e56eb34a957c16780db47f45ff81787" title="If dest is zero, this returns the maximum number of bytes needed to convert source." alt="" coords="600,97,758,138"/>
+<area shape="poly" id="edge12_Node000007_Node000022" title=" " alt="" coords="538,161,599,141,600,146,540,166"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="740,216,821,197,822,202,741,221"/>
+<area shape="poly" id="edge10_Node000009_Node000012" title=" " alt="" coords="741,239,791,247,790,252,740,245"/>
+</map>

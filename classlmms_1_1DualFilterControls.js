@@ -1,0 +1,25 @@
+var classlmms_1_1DualFilterControls =
+[
+    [ "DualFilterControls", "classlmms_1_1DualFilterControls.html#a1fe33133333fa5c3d03cc83829849ee6", null ],
+    [ "~DualFilterControls", "classlmms_1_1DualFilterControls.html#a4cbf7d0b429b80dfa9402a906586ee4d", null ],
+    [ "controlCount", "classlmms_1_1DualFilterControls.html#a72c5132d7bda8cea8e5db5b7cc0e5bca", null ],
+    [ "createView", "classlmms_1_1DualFilterControls.html#a5e1a56272284bf917fa52c361bf818eb", null ],
+    [ "loadSettings", "classlmms_1_1DualFilterControls.html#a1bb29b1f3a015ec909e80437948e30d3", null ],
+    [ "nodeName", "classlmms_1_1DualFilterControls.html#a3b34b43c6508498a57645f332d82d761", null ],
+    [ "saveSettings", "classlmms_1_1DualFilterControls.html#a8c2dcef4a0b0787ce9eb4c47383d001c", null ],
+    [ "updateFilters", "classlmms_1_1DualFilterControls.html#aa6d64a806b9a27d2ca1b7cce6f667ef6", null ],
+    [ "DualFilterEffect", "classlmms_1_1DualFilterControls.html#a9e71bdb5f51a7d5966ed063cfd1b4bc8", null ],
+    [ "gui::DualFilterControlDialog", "classlmms_1_1DualFilterControls.html#aa2bb7aebd3e28b0de581b50b4f9850d3", null ],
+    [ "m_cut1Model", "classlmms_1_1DualFilterControls.html#a3589d000652b964aa40a1eaee026f91a", null ],
+    [ "m_cut2Model", "classlmms_1_1DualFilterControls.html#a943c1c2a567d3056f8211ff934e93dc6", null ],
+    [ "m_effect", "classlmms_1_1DualFilterControls.html#abafa0e66080dd1b8fc08cdf1bd785036", null ],
+    [ "m_enabled1Model", "classlmms_1_1DualFilterControls.html#a2f0174e13035211ab4bb73192cf85ad9", null ],
+    [ "m_enabled2Model", "classlmms_1_1DualFilterControls.html#aeb1af5334e6db0880bcd2cdae0cf963e", null ],
+    [ "m_filter1Model", "classlmms_1_1DualFilterControls.html#aa65246e14dce50f23c9ae91512a54f44", null ],
+    [ "m_filter2Model", "classlmms_1_1DualFilterControls.html#af6f66f6011384c991439de443c4efd3d", null ],
+    [ "m_gain1Model", "classlmms_1_1DualFilterControls.html#a99ac064cd2d77efa85f28158d75a5545", null ],
+    [ "m_gain2Model", "classlmms_1_1DualFilterControls.html#a715fc9f2b0f5b1dbe2b48d0098d4a25b", null ],
+    [ "m_mixModel", "classlmms_1_1DualFilterControls.html#a09bc8c979f0580b30702b1df43d4855b", null ],
+    [ "m_res1Model", "classlmms_1_1DualFilterControls.html#a1ffc4775911a5fe0bcdc158b6fab7dfc", null ],
+    [ "m_res2Model", "classlmms_1_1DualFilterControls.html#adebbd8e12bd790cb1cad08db1a4004fd", null ]
+];

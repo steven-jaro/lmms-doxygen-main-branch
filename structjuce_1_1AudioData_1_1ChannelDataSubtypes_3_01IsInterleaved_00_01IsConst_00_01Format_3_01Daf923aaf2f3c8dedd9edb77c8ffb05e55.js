@@ -1,0 +1,6 @@
+var structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01Format_3_01Daf923aaf2f3c8dedd9edb77c8ffb05e55 =
+[
+    [ "DataType", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01Format_3_01Daf923aaf2f3c8dedd9edb77c8ffb05e55.html#a7f7e2871b0d9eea72cc8629cf4751645", null ],
+    [ "PointerType", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01Format_3_01Daf923aaf2f3c8dedd9edb77c8ffb05e55.html#a2094b7feaf5f65511ac7ac2cd468c4b4", null ],
+    [ "Subtypes", "structjuce_1_1AudioData_1_1ChannelDataSubtypes_3_01IsInterleaved_00_01IsConst_00_01Format_3_01Daf923aaf2f3c8dedd9edb77c8ffb05e55.html#a35b139dfde97f5fe88aeab630bc98f65", null ]
+];

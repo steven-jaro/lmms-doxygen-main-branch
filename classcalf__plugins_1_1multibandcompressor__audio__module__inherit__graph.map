@@ -1,0 +1,20 @@
+<map id="calf_plugins::multibandcompressor_audio_module" name="calf_plugins::multibandcompressor_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,2167,552,2746"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="245,1416,453,2117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,2132,409,2167,403,2167,398,2132"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1multibandcompressor__metadata.html" title="Markus&#39;s multibandcompressor &#45; metadata." alt="" coords="21,941,231,1023"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,1036,252,1416,247,1417,139,1038"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1plugin__metadata.html" title=" " alt="" coords="5,8,212,587"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,602,128,941,122,942,114,602"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="236,5,402,590"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="321,604,323,950,330,1325,333,1417,328,1417,325,1325,318,950,316,604"/>
+<area shape="rect" id="Node000008" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="339,639,547,1325"/>
+<area shape="poly" id="edge7_Node000008_Node000007" title=" " alt="" coords="377,604,384,639,379,640,372,605"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="403,1340,394,1417,388,1416,398,1339"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="427,264,492,331"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="461,345,454,639,449,639,456,345"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1frequency__response__line__graph.html" title="Line graph interface implementation for frequency response graphs." alt="" coords="523,1686,667,1848"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="578,1863,512,2167,507,2166,572,1862"/>
+<area shape="rect" id="Node000011" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="571,880,715,1084"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="639,1099,603,1686,598,1686,634,1099"/>
+</map>

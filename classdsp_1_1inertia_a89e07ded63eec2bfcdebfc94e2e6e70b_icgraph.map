@@ -1,0 +1,11 @@
+<map id="dsp::inertia::get" name="dsp::inertia::get">
+<area shape="rect" id="Node000001" title="Get smoothed value of given source value." alt="" coords="362,44,469,70"/>
+<area shape="rect" id="Node000002" href="$modules__delay_8cpp.html#a046f42b7ec655f21c14bde316a2c6920" title="Single delay line with tap output." alt="" coords="205,19,314,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,49,314,43,315,38,347,43"/>
+<area shape="rect" id="Node000004" href="$modules__delay_8cpp.html#a5b913e13befe50a25375e0b6838e6391" title="Single delay line with feedback at the same tap." alt="" coords="208,68,310,94"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="347,70,311,76,311,71,346,65"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1vintage__delay__audio__module.html#ae22c8b0eff6c8c3e0335839b39479e5b" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,29,157,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,44,157,49,157,44,189,39"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="109,17,98,10,81,8,66,10,56,14,51,21,51,29,45,29,46,19,52,10,64,5,81,3,100,5,112,12"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="192,75,157,70,157,65,193,70"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="hiir::Upsampler2xNeon::process_block" name="hiir::Upsampler2xNeon::process_block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,157,96"/>
+<area shape="rect" id="Node000002" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="252,5,309,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,52,236,28,238,33,155,57"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1Upsampler2xNeon.html#a35c4e3d241108e0024926f76ec0aec54" title=" " alt="" coords="205,55,356,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,73,189,73,189,78,157,78"/>
+<area shape="rect" id="Node000011" href="$classhiir_1_1Upsampler2xNeon.html#a1273db132ea5811f3ec8b4110814c7bb" title=" " alt="" coords="205,120,356,161"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="146,94,203,113,201,118,144,99"/>
+<area shape="rect" id="Node000004" href="$namespacehiir.html#a5afe10070cb6f3d3b2a5ca298e618539" title=" " alt="" coords="439,16,521,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="356,55,423,39,424,44,357,60"/>
+<area shape="rect" id="Node000005" href="$classhiir_1_1StageProcNeonV2.html#adea57d04d23053dd41ace3e4e002ac33" title=" " alt="" coords="404,116,556,157"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="350,94,398,109,396,114,348,99"/>
+<area shape="rect" id="Node000010" href="$namespacehiir.html#af46cace5bd3fa30c594a0c32053fbab4" title=" " alt="" coords="440,65,520,91"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="356,74,424,75,424,80,356,79"/>
+<area shape="rect" id="Node000006" href="$classhiir_1_1StageProcNeonV2.html#a30ee8413ada93d70cb3f1a8e49f14ddf" title=" " alt="" coords="604,87,780,128"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="556,124,589,119,589,124,557,129"/>
+<area shape="rect" id="Node000009" href="$namespacehiir.html#a67ca25eb4100731059e1d36c561a16c8" title=" " alt="" coords="828,124,908,150"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="557,136,604,137,780,137,812,136,812,141,780,142,604,142,557,141"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="658,87,657,77,662,68,674,63,692,61,711,63,723,69,720,74,710,68,692,66,676,68,666,72,662,78,663,86"/>
+<area shape="poly" id="edge7_Node000006_Node000009" title=" " alt="" coords="780,120,813,125,812,130,779,125"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="356,137,388,136,388,141,356,142"/>
+</map>

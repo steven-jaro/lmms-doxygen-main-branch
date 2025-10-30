@@ -1,0 +1,22 @@
+<map id="src/3rdparty/hiir/hiir/StageData3dnow.h" name="src/3rdparty/hiir/hiir/StageData3dnow.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="48,5,182,46"/>
+<area shape="rect" id="Node000002" href="$Downsampler2x3dnow_8h.html" title=" " alt="" coords="9,360,174,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,57,50,75,36,95,14,153,8,202,17,251,36,311,51,337,70,358,66,362,47,340,31,313,11,253,3,202,9,152,32,93,46,71,65,53"/>
+<area shape="rect" id="Node000003" href="$PhaseHalfPi3dnow_8h.html" title=" " alt="" coords="546,360,692,401"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,33,310,54,374,72,439,96,503,127,562,166,614,213,655,270,661,294,658,319,648,342,636,361,632,358,643,339,653,317,656,294,650,272,610,217,559,170,500,132,437,101,372,77,309,59,198,38"/>
+<area shape="rect" id="Node000004" href="$StageProc3dnow_8hpp.html" title=" " alt="" coords="196,94,344,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,51,236,91,234,96,162,56"/>
+<area shape="rect" id="Node000009" href="$Upsampler2x3dnow_8h.html" title=" " alt="" coords="250,360,399,401"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="100,61,76,114,58,180,54,215,55,249,64,281,80,310,106,329,148,344,250,366,249,371,147,349,103,333,76,314,59,283,50,249,49,214,53,179,71,112,95,59"/>
+<area shape="rect" id="Node000005" href="$StageProc3dnow_8h.html" title=" " alt="" coords="209,183,344,223"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="275,150,278,182,272,182,270,150"/>
+<area shape="rect" id="Node000006" href="$Downsampler2x3dnow_8hpp.html" title=" " alt="" coords="90,271,269,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="245,236,203,273,199,269,242,232"/>
+<area shape="rect" id="Node000007" href="$PhaseHalfPi3dnow_8hpp.html" title=" " alt="" coords="480,271,641,312"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="357,226,497,268,495,273,355,231"/>
+<area shape="rect" id="Node000008" href="$Upsampler2x3dnow_8hpp.html" title=" " alt="" coords="294,271,457,312"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="312,232,355,269,351,273,308,236"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="150,325,113,361,109,358,147,321"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="585,323,608,358,604,361,580,326"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="358,327,338,361,334,358,354,324"/>
+</map>

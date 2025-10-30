@@ -1,0 +1,30 @@
+<map id="hiir::StageProc16Avx512::process_sample_pos" name="hiir::StageProc16Avx512::process_sample_pos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="697,193,860,234"/>
+<area shape="poly" id="edge15_Node000001_Node000001" title=" " alt="" coords="815,180,802,174,778,172,757,174,744,179,739,185,741,192,736,193,734,183,741,174,756,169,779,167,803,169,817,175"/>
+<area shape="rect" id="Node000002" href="$classhiir_1_1HalfBand16Avx512.html#a1124c0f60ffb9125b6e33fcf71c7cbde" title=" " alt="" coords="475,128,630,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="690,191,625,172,626,167,692,186"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1HalfBand16Avx512.html#ae22d4b289102bbe6476d14a1758d860f" title=" " alt="" coords="237,5,402,46"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="743,185,699,150,648,119,586,92,521,71,402,42,403,37,522,65,588,87,651,114,702,146,746,181"/>
+<area shape="rect" id="Node000008" href="$classhiir_1_1Downsampler2x16Avx512.html#a0d10defd9e5654c6bf04c84657e59209" title=" " alt="" coords="456,193,649,234"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="682,216,650,216,650,211,682,211"/>
+<area shape="rect" id="Node000009" href="$classhiir_1_1Upsampler2x16Avx512.html#a70f3bad562660483ebc32342fbe29521" title=" " alt="" coords="464,259,641,299"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="692,241,626,261,625,255,690,236"/>
+<area shape="rect" id="Node000012" href="$classhiir_1_1Downsampler2x16Avx512.html#a4da833693292d84084495598b4468a60" title=" " alt="" coords="456,324,649,365"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="745,246,701,281,651,313,623,326,621,321,648,309,698,276,741,242"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="508,121,460,91,407,61,379,49,381,44,409,57,463,86,511,117"/>
+<area shape="rect" id="Node000004" href="$classhiir_1_1HalfBand16Avx512.html#a05dc7a7a096a564b91cefda986c74465" title=" " alt="" coords="242,71,397,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="459,128,397,113,398,108,460,123"/>
+<area shape="rect" id="Node000006" href="$classhiir_1_1HalfBand16Avx512.html#a9f6fb53cf4373f0730dc74ff6eea9f14" title=" " alt="" coords="242,136,397,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="460,154,398,156,397,151,460,149"/>
+<area shape="rect" id="Node000007" href="$classhiir_1_1HalfBand16Avx512.html#a2b43c9205f987da2a92e9b730d473bc1" title=" " alt="" coords="242,201,397,242"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="472,176,388,203,386,198,470,171"/>
+<area shape="rect" id="Node000005" href="$classhiir_1_1HalfBand16Avx512.html#afa9c30ceceb553bf6a75644ae919be70" title=" " alt="" coords="16,136,172,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,119,168,138,166,133,231,114"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="226,159,172,159,172,154,226,154"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="231,199,166,180,168,175,233,194"/>
+<area shape="rect" id="Node000010" href="$classhiir_1_1Upsampler2x16Avx512.html#ac0399841d613eaa5121d52ffd5322307" title=" " alt="" coords="5,287,183,327"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="449,288,183,304,183,299,448,283"/>
+<area shape="rect" id="Node000011" href="$classhiir_1_1Upsampler2x16Avx512.html#a6956c3ceedffc65d5bed6e732fa38d60" title=" " alt="" coords="231,316,408,357"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="454,306,406,318,404,313,452,301"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="215,325,183,321,184,316,216,320"/>
+</map>

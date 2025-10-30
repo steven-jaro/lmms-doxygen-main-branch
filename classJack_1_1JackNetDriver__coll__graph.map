@@ -1,0 +1,25 @@
+<map id="Jack::JackNetDriver" name="Jack::JackNetDriver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="372,2021,584,2657"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackWaiterDriver.html" title=" " alt="" coords="314,1692,458,1799"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,1813,432,2021,426,2022,394,1814"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackTimedDriver.html" title="The timed driver." alt="" coords="42,986,184,1195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,1208,367,1691,362,1693,159,1210"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackAudioDriver.html" title="The base class for audio drivers: drivers with audio ports." alt="" coords="5,56,196,570"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,585,114,987,109,987,102,585"/>
+<area shape="rect" id="Node000057" href="$classJack_1_1JackNetSlaveInterface.html" title=" " alt="" coords="505,1519,683,1972"/>
+<area shape="poly" id="edge4_Node000001_Node000057" title=" " alt="" coords="550,1987,543,2022,538,2021,545,1986"/>
+<area shape="rect" id="Node000058" href="$classJack_1_1JackNetInterface.html" title=" " alt="" coords="572,712,730,1470"/>
+<area shape="poly" id="edge5_Node000057_Node000058" title=" " alt="" coords="620,1485,617,1520,611,1519,614,1484"/>
+<area shape="rect" id="Node000059" href="$structJack_1_1__session__params.html" title="This structure contains master/slave connection parameters, it&#39;s used to setup the whole system." alt="" coords="220,97,373,529"/>
+<area shape="poly" id="edge6_Node000058_Node000059" title=" " alt="" coords="355,528,389,620,429,708,475,796,566,953,562,956,470,798,424,711,384,622,350,530"/>
+<area shape="rect" id="Node000060" href="$classJack_1_1JackNetUnixSocket.html" title=" " alt="" coords="398,36,558,590"/>
+<area shape="poly" id="edge7_Node000058_Node000060" title=" " alt="" coords="542,589,571,719,566,720,537,590"/>
+<area shape="rect" id="Node000061" href="$structJack_1_1__packet__header.html" title=" " alt="" coords="583,178,720,448"/>
+<area shape="poly" id="edge8_Node000058_Node000061" title=" " alt="" coords="654,448,654,695,649,695,649,448"/>
+<area shape="rect" id="Node000062" href="$structJack_1_1__net__transport__data.html" title=" " alt="" coords="744,260,903,366"/>
+<area shape="poly" id="edge9_Node000058_Node000062" title=" " alt="" coords="815,367,737,717,732,716,809,366"/>
+<area shape="rect" id="Node000063" href="$classJack_1_1NetMidiBuffer.html" title=" " alt="" coords="928,117,1090,509"/>
+<area shape="poly" id="edge10_Node000058_Node000063" title=" " alt="" coords="954,510,918,621,907,656,894,689,820,830,742,959,737,956,815,827,889,687,902,654,913,620,949,508"/>
+<area shape="rect" id="Node000066" href="$classJack_1_1NetAudioBuffer.html" title=" " alt="" coords="1114,5,1293,621"/>
+<area shape="poly" id="edge11_Node000058_Node000066" title=" " alt="" coords="1117,594,1105,622,1071,686,1030,748,985,806,936,860,836,955,746,1027,742,1023,832,951,932,856,981,803,1026,745,1066,684,1100,620,1112,592"/>
+</map>

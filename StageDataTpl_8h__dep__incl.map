@@ -1,0 +1,39 @@
+<map id="src/3rdparty/hiir/hiir/StageDataTpl.h" name="src/3rdparty/hiir/hiir/StageDataTpl.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="577,5,709,46"/>
+<area shape="rect" id="Node000002" href="$Downsampler2xTpl_8h.html" title=" " alt="" coords="162,271,308,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,30,509,35,450,46,392,66,339,96,318,115,300,137,272,186,253,234,242,272,237,270,248,232,267,183,296,134,314,111,336,92,390,61,449,41,508,30,562,24"/>
+<area shape="rect" id="Node000010" href="$HalfBandTpl_8h.html" title=" " alt="" coords="457,271,589,312"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="563,41,496,58,424,86,389,105,357,127,328,153,304,184,296,205,300,222,314,237,336,250,394,269,457,281,456,286,393,274,333,255,311,241,295,224,291,204,299,181,324,150,353,123,386,100,422,81,494,53,561,36"/>
+<area shape="rect" id="Node000013" href="$PhaseHalfPiTpl_8h.html" title=" " alt="" coords="704,271,835,312"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="724,37,789,55,858,83,892,102,923,125,951,151,975,181,983,203,974,225,956,236,923,249,836,275,835,270,921,244,954,231,970,222,977,203,970,184,947,154,920,129,889,107,856,88,787,60,723,43"/>
+<area shape="rect" id="Node000016" href="$StageProcTpl_8h.html" title=" " alt="" coords="577,94,709,135"/>
+<area shape="poly" id="edge11_Node000001_Node000016" title=" " alt="" coords="646,62,646,94,640,94,640,62"/>
+<area shape="rect" id="Node000021" href="$Upsampler2xTpl_8h.html" title=" " alt="" coords="861,271,993,312"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="725,30,772,38,823,50,874,68,922,92,961,118,991,147,1000,164,1005,182,1004,202,997,224,980,251,958,273,954,269,976,248,993,222,999,201,999,183,995,166,986,150,958,122,919,96,872,72,821,55,771,43,724,36"/>
+<area shape="rect" id="Node000003" href="$Downsampler2xF64Fpu_8h.html" title=" " alt="" coords="5,360,177,401"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,322,125,362,122,357,188,318"/>
+<area shape="rect" id="Node000004" href="$Downsampler2xFpu_8h.html" title=" " alt="" coords="200,360,350,401"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="253,325,268,358,264,361,248,327"/>
+<area shape="rect" id="Node000005" href="$OversamplingHelpers_8h.html" title=" " alt="" coords="174,449,376,474"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,416,278,448,272,448,272,416"/>
+<area shape="rect" id="Node000011" href="$HalfBandF64Fpu_8h.html" title=" " alt="" coords="379,360,512,401"/>
+<area shape="poly" id="edge6_Node000010_Node000011" title=" " alt="" coords="497,326,465,361,461,358,493,322"/>
+<area shape="rect" id="Node000012" href="$HalfBandFpu_8h.html" title=" " alt="" coords="536,360,667,401"/>
+<area shape="poly" id="edge7_Node000010_Node000012" title=" " alt="" coords="553,322,586,358,582,361,549,326"/>
+<area shape="rect" id="Node000014" href="$PhaseHalfPiF64Fpu_8h.html" title=" " alt="" coords="694,360,846,401"/>
+<area shape="poly" id="edge9_Node000013_Node000014" title=" " alt="" coords="772,328,772,360,767,360,767,328"/>
+<area shape="rect" id="Node000015" href="$PhaseHalfPiFpu_8h.html" title=" " alt="" coords="869,360,1001,401"/>
+<area shape="poly" id="edge10_Node000013_Node000015" title=" " alt="" coords="822,317,899,357,896,362,819,322"/>
+<area shape="rect" id="Node000017" href="$Downsampler2xTpl_8hpp.html" title=" " alt="" coords="314,183,473,223"/>
+<area shape="poly" id="edge12_Node000016_Node000017" title=" " alt="" coords="573,143,451,185,450,180,571,138"/>
+<area shape="rect" id="Node000018" href="$HalfBandTpl_8hpp.html" title=" " alt="" coords="497,183,629,223"/>
+<area shape="poly" id="edge14_Node000016_Node000018" title=" " alt="" coords="617,148,583,184,579,180,613,144"/>
+<area shape="rect" id="Node000019" href="$PhaseHalfPiTpl_8hpp.html" title=" " alt="" coords="653,183,793,223"/>
+<area shape="poly" id="edge16_Node000016_Node000019" title=" " alt="" coords="673,144,707,180,703,184,669,148"/>
+<area shape="rect" id="Node000020" href="$Upsampler2xTpl_8hpp.html" title=" " alt="" coords="817,183,960,223"/>
+<area shape="poly" id="edge18_Node000016_Node000020" title=" " alt="" coords="714,138,833,180,832,185,712,143"/>
+<area shape="poly" id="edge13_Node000017_Node000002" title=" " alt="" coords="346,233,272,273,270,269,343,229"/>
+<area shape="poly" id="edge15_Node000018_Node000010" title=" " alt="" coords="550,239,534,272,530,270,545,236"/>
+<area shape="poly" id="edge17_Node000019_Node000013" title=" " alt="" coords="743,236,761,270,757,272,738,238"/>
+<area shape="poly" id="edge19_Node000020_Node000021" title=" " alt="" coords="906,237,921,270,916,272,901,239"/>
+</map>

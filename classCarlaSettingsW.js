@@ -1,0 +1,28 @@
+var classCarlaSettingsW =
+[
+    [ "PrivateData", "structCarlaSettingsW_1_1PrivateData.html", "structCarlaSettingsW_1_1PrivateData" ],
+    [ "CarlaSettingsW", "classCarlaSettingsW.html#a08a539f5bb7488450bb1da04c0959f27", null ],
+    [ "~CarlaSettingsW", "classCarlaSettingsW.html#a26d59e62bd8d813018bcff58d621e5ea", null ],
+    [ "slot_addFilePath", "classCarlaSettingsW.html#a2ef7d95382e93cf9af73daba6e2becc8", null ],
+    [ "slot_addPluginPath", "classCarlaSettingsW.html#a605d7db0000d16a7af4b4023097f84ab", null ],
+    [ "slot_canvasEyeCandyToggled", "classCarlaSettingsW.html#aaf1e8b5c968fdf480b85aaff28af9805", null ],
+    [ "slot_canvasFancyEyeCandyToggled", "classCarlaSettingsW.html#a1c51d370ff25fc07b51ad0e16d28c035", null ],
+    [ "slot_canvasOpenGLToggled", "classCarlaSettingsW.html#a08d4732f0214674d0d272e06df2c1634", null ],
+    [ "slot_changeFilePath", "classCarlaSettingsW.html#ac230243ff7f389480446b85886330359", null ],
+    [ "slot_changePluginPath", "classCarlaSettingsW.html#a4d1db0c4b03ebfb8627658af7b097a29", null ],
+    [ "slot_enableExperimental", "classCarlaSettingsW.html#ac01460ad3a972c416095ed4d2eed5d2e", null ],
+    [ "slot_enableWineBridges", "classCarlaSettingsW.html#a264781059433e3e538682b4162b85b34", null ],
+    [ "slot_engineAudioDriverChanged", "classCarlaSettingsW.html#a1984690c5ee76ba10f8b86058acab1ab", null ],
+    [ "slot_filePathRowChanged", "classCarlaSettingsW.html#a5b71343477915b68719a9ce7a5499d7d", null ],
+    [ "slot_filePathTabChanged", "classCarlaSettingsW.html#af9a71e448e9f71554d53f513c45682b0", null ],
+    [ "slot_getAndSetProjectPath", "classCarlaSettingsW.html#a6fde980d540b799c8ebccc979a263e4d", null ],
+    [ "slot_pluginBridgesToggled", "classCarlaSettingsW.html#a97619a8f6d6a5645b2da36379b38b534", null ],
+    [ "slot_pluginPathRowChanged", "classCarlaSettingsW.html#a01fb116609152e0c3ec573d4219b2bf1", null ],
+    [ "slot_pluginPathTabChanged", "classCarlaSettingsW.html#a2ba5427ba78c18ea45c60924698ed1ce", null ],
+    [ "slot_removeFilePath", "classCarlaSettingsW.html#a426dddc938fb8a57a3452e3e57235c4c", null ],
+    [ "slot_removePluginPath", "classCarlaSettingsW.html#aa50abc7e64a7acecb226867e9230899c", null ],
+    [ "slot_resetSettings", "classCarlaSettingsW.html#a9d96d07e9bea94950eaeaae60214604f", null ],
+    [ "slot_saveSettings", "classCarlaSettingsW.html#a098b669605d51fe789c474fb4cf8186b", null ],
+    [ "slot_showAudioDriverSettings", "classCarlaSettingsW.html#aa35326732d542377f4bcc91beadb6fa9", null ],
+    [ "self", "classCarlaSettingsW.html#acc1cd3f4d1b34c7494a6615f6ca35981", null ]
+];

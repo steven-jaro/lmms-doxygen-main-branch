@@ -1,0 +1,24 @@
+<map id="juce::dsp::ConvolutionEngineFactory" name="juce::dsp::ConvolutionEngineFactory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,2592,536,2836"/>
+<area shape="rect" id="Node000002" href="$structjuce_1_1dsp_1_1ProcessSpec.html" title=" " alt="" coords="5,2122,151,2229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,2229,89,2292,103,2367,127,2446,144,2484,164,2520,201,2565,245,2604,293,2638,340,2665,337,2669,290,2642,242,2609,197,2569,160,2523,139,2487,122,2448,98,2368,84,2292,78,2229"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1AudioBuffer.html" title=" " alt="" coords="174,1830,352,2521"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,2520,327,2567,346,2602,342,2605,322,2569,304,2522"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1AudioBuffer.html" title=" " alt="" coords="174,1068,352,1739"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,1753,266,1830,261,1830,261,1753"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1HeapBlock.html" title=" " alt="" coords="175,387,352,997"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,996,266,1050,261,1050,261,996"/>
+<area shape="rect" id="Node000007" href="$structjuce_1_1dsp_1_1Convolution_1_1Latency.html" title=" " alt="" coords="377,2135,513,2216"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="448,2216,448,2575,442,2575,442,2216"/>
+<area shape="rect" id="Node000008" href="$structjuce_1_1dsp_1_1Convolution_1_1NonUniform.html" title=" " alt="" coords="537,2135,676,2216"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="602,2217,573,2353,552,2438,527,2522,508,2577,502,2576,522,2521,547,2436,568,2352,596,2216"/>
+<area shape="rect" id="Node000009" href="$classjuce_1_1dsp_1_1TryLockedPtr.html" title=" " alt="" coords="700,2125,902,2226"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="796,2227,784,2290,763,2366,732,2447,712,2486,690,2523,659,2560,625,2595,551,2653,548,2649,621,2591,655,2557,685,2520,708,2484,727,2445,758,2365,779,2288,791,2226"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1SpinLock.html" title=" " alt="" coords="752,618,847,766"/>
+<area shape="poly" id="edge8_Node000009_Node000010" title=" " alt="" coords="793,766,779,905,767,1068,760,1256,757,1403,767,1739,780,1941,796,2108,791,2109,775,1941,762,1739,752,1403,754,1256,762,1068,774,905,788,765"/>
+<area shape="rect" id="Node000013" href="$classjuce_1_1dsp_1_1TryLockedPtr.html" title=" " alt="" coords="824,1352,970,1454"/>
+<area shape="poly" id="edge11_Node000013_Node000010" title=" " alt="" coords="812,765,890,1335,885,1336,807,765"/>
+<area shape="rect" id="Node000011" href="$structjuce_1_1Atomic.html" title=" " alt="" coords="720,5,878,316"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="802,315,802,601,797,601,797,315"/>
+<area shape="poly" id="edge10_Node000009_Node000013" title=" " alt="" coords="891,1469,810,2125,804,2125,886,1469"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="calf_plugins::expander_audio_module::_get_graph" name="calf_plugins::expander_audio_module::_get_graph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,184,145"/>
+<area shape="rect" id="Node000002" href="$namespacecalf__plugins.html#a2dfe1003b61b844b59815a66e01197fe" title="convert amplitude value to normalized grid&#45;ish value" alt="" coords="254,5,394,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,102,172,70,231,40,246,34,248,39,233,45,175,75,126,106"/>
+<area shape="rect" id="Node000003" href="$namespacecalf__plugins.html#a3cfa68eb98e3b4b2733ac4332f89ed1c" title="convert normalized grid&#45;ish value back to amplitude value" alt="" coords="242,55,406,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,101,254,82,255,87,179,107"/>
+<area shape="rect" id="Node000004" href="$classcalf__plugins_1_1expander__audio__module.html#ad2c248415849db943df36500aa5eef38" title=" " alt="" coords="232,104,416,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,122,216,122,216,128,184,128"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1cairo__iface.html#a71ea612f0071078b34b797261f6c61a4" title=" " alt="" coords="251,170,396,210"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="169,143,237,163,236,168,167,148"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1cairo__iface.html#a3746ca75552485841cd245395e8f38e4" title=" " alt="" coords="245,235,403,276"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,144,172,181,233,220,246,226,244,231,230,224,169,186,119,148"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1expander__audio__module.html#a4a61241461f992e0eabeb94a65d4dfec" title=" " alt="" coords="464,104,645,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="417,122,449,122,449,128,417,128"/>
+<area shape="rect" id="Node000006" href="$namespacedsp.html#ac0207ae3cdfdaabef07e1ee2d54b86c9" title=" " alt="" coords="693,112,862,138"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="646,122,678,122,678,128,646,128"/>
+</map>

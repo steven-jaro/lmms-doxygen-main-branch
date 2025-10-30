@@ -1,0 +1,25 @@
+var classjuce_1_1MidiInput_1_1Pimpl =
+[
+    [ "Pimpl", "classjuce_1_1MidiInput_1_1Pimpl.html#a902a809a7e3b8e1c46ad207230f624ce", null ],
+    [ "~Pimpl", "classjuce_1_1MidiInput_1_1Pimpl.html#a44601cfcd46367b634470225ced9ad82", null ],
+    [ "~Pimpl", "classjuce_1_1MidiInput_1_1Pimpl.html#aba836ab227ab3928cbf3370062fd5979", null ],
+    [ "findAllALSACardIDs", "classjuce_1_1MidiInput_1_1Pimpl.html#a2a7403b9d72ac7e7e2ecc5ca7f5b1092", null ],
+    [ "findMidiDevices", "classjuce_1_1MidiInput_1_1Pimpl.html#a3546a9a74b236db82de0f950c9d69187", null ],
+    [ "getDeviceIdentifier", "classjuce_1_1MidiInput_1_1Pimpl.html#a9fddaad5f26acb69a1865ea24b9fa4ab", null ],
+    [ "getDeviceName", "classjuce_1_1MidiInput_1_1Pimpl.html#ae5a5d492c297a415812751f1bac9f011", null ],
+    [ "getDevices", "classjuce_1_1MidiInput_1_1Pimpl.html#a1def46d792505c66817b1723fade557f", null ],
+    [ "poll", "classjuce_1_1MidiInput_1_1Pimpl.html#a11e35f75eeb7db91fe64887ef3cccffc", null ],
+    [ "pushMidiData", "classjuce_1_1MidiInput_1_1Pimpl.html#a11dc9379b46589a574928fef273f19e5", null ],
+    [ "pushMidiMessage", "classjuce_1_1MidiInput_1_1Pimpl.html#aa5a2cfae310b168e86fc4ded2a8f3b7c", null ],
+    [ "start", "classjuce_1_1MidiInput_1_1Pimpl.html#ad16e7e410949697e2c7018279a8eb144", null ],
+    [ "start", "classjuce_1_1MidiInput_1_1Pimpl.html#a1c92047d6782b232b9e2912ee2f18cbd", null ],
+    [ "stop", "classjuce_1_1MidiInput_1_1Pimpl.html#a3137e2256660e8da93c53548f497ea72", null ],
+    [ "stop", "classjuce_1_1MidiInput_1_1Pimpl.html#abb6c5475a528721b8008ba52afb369ac", null ],
+    [ "buffer", "classjuce_1_1MidiInput_1_1Pimpl.html#a5a6c0d6fd1f8f0cca64bd3516a5a0bfd", null ],
+    [ "concatenator", "classjuce_1_1MidiInput_1_1Pimpl.html#a147fb466bce8abb0b352108a968de45b", null ],
+    [ "midi", "classjuce_1_1MidiInput_1_1Pimpl.html#a52c7ba35af3c2247f2a1e82a444f6736", null ],
+    [ "midiCallback", "classjuce_1_1MidiInput_1_1Pimpl.html#a264b83986f762b091130424f70d21af3", null ],
+    [ "midiInput", "classjuce_1_1MidiInput_1_1Pimpl.html#ad4c24a0ac04f9b4e2f4abe4ead3a13c6", null ],
+    [ "midiInputs", "classjuce_1_1MidiInput_1_1Pimpl.html#a15fe491bc86ec1f6a28ae2dd133a757e", null ],
+    [ "midiPort", "classjuce_1_1MidiInput_1_1Pimpl.html#a310e92de0702588a9854f63aed8ef442", null ]
+];

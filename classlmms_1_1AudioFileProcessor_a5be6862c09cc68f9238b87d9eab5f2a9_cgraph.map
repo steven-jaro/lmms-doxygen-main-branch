@@ -1,0 +1,31 @@
+<map id="lmms::AudioFileProcessor::loadFile" name="lmms::AudioFileProcessor::loadFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,178,252"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1AudioFileProcessor.html#a11e554c4f230114c1c84d4ddc4b9495a" title=" " alt="" coords="226,211,398,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,229,210,229,210,234,178,234"/>
+<area shape="rect" id="Node000003" href="$namespacelmms_1_1PathUtil.html#a30e48b81fa18dfc8812d1f04a623c9a4" title="Get the filename for a path, handling prefixed paths correctly." alt="" coords="451,39,629,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,209,379,156,444,99,493,69,496,74,448,103,382,160,333,212"/>
+<area shape="rect" id="Node000007" href="$classlmms_1_1gui_1_1SampleLoader.html#a37caf962ec15d7ecef21393054860c7a" title=" " alt="" coords="457,112,623,153"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="352,208,445,164,463,157,465,162,447,169,354,213"/>
+<area shape="rect" id="Node000056" href="$classlmms_1_1Instrument.html#a0190782643cb68d41739520dd3451242" title=" " alt="" coords="446,178,634,218"/>
+<area shape="poly" id="edge8_Node000002_Node000056" title=" " alt="" coords="398,216,430,212,431,217,399,222"/>
+<area shape="rect" id="Node000057" href="$classlmms_1_1AudioFileProcessor.html#a5a4ece2dfd056ecc238c913821198f54" title=" " alt="" coords="454,243,626,284"/>
+<area shape="poly" id="edge9_Node000002_Node000057" title=" " alt="" coords="399,241,439,247,438,252,398,246"/>
+<area shape="rect" id="Node000060" href="$classlmms_1_1AudioFileProcessor.html#a276d5afaeb92acca8ae72482728b6e3a" title=" " alt="" coords="454,308,626,349"/>
+<area shape="poly" id="edge11_Node000002_Node000060" title=" " alt="" coords="354,250,447,293,465,300,463,305,445,298,352,255"/>
+<area shape="rect" id="Node000061" href="$classlmms_1_1InstrumentTrack.html#a5820c282ac63e7cb2b4839580e744834" title=" " alt="" coords="463,374,617,414"/>
+<area shape="poly" id="edge12_Node000002_Node000061" title=" " alt="" coords="331,250,380,304,412,333,447,359,457,364,455,369,445,363,409,337,376,308,328,254"/>
+<area shape="rect" id="Node000004" href="$namespacelmms_1_1PathUtil.html#ab2f28c94cc70333f674eadaa6944a191" title="Remove the prefix from a path, iff there is one." alt="" coords="684,5,853,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="629,36,668,30,669,35,630,41"/>
+<area shape="rect" id="Node000008" href="$classlmms_1_1gui_1_1SampleLoader.html#a170f67d7c7ece70117df27d8e8190972" title=" " alt="" coords="685,55,852,96"/>
+<area shape="poly" id="edge5_Node000007_Node000008" title=" " alt="" coords="623,109,669,98,671,103,624,115"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1SampleBuffer.html#ac68f5453951576da0174eeeff33ebc71" title=" " alt="" coords="700,120,837,161"/>
+<area shape="poly" id="edge6_Node000007_Node000010" title=" " alt="" coords="624,133,684,135,684,141,624,138"/>
+<area shape="rect" id="Node000011" href="$namespacelmms_1_1gui.html#a0f9bd49bea2bc61619a8b3966223cce5" title=" " alt="" coords="706,185,831,211"/>
+<area shape="poly" id="edge7_Node000007_Node000011" title=" " alt="" coords="614,151,707,178,706,183,613,156"/>
+<area shape="rect" id="Node000058" href="$classlmms_1_1AudioFileProcessor.html#a4f1e7a997c0baf266766c4e4209f90d3" title=" " alt="" coords="682,243,855,284"/>
+<area shape="poly" id="edge10_Node000057_Node000058" title=" " alt="" coords="627,261,667,261,667,266,627,266"/>
+<area shape="rect" id="Node000062" href="$classlmms_1_1Track.html#a02c11d1e451334fe608c82c135dc9f01" title=" " alt="" coords="703,356,834,382"/>
+<area shape="poly" id="edge13_Node000061_Node000062" title=" " alt="" coords="618,383,688,375,689,380,618,388"/>
+<area shape="rect" id="Node000063" href="$classlmms_1_1Track.html#a94a393326f28141895b87640a71309d7" title=" " alt="" coords="693,405,844,431"/>
+<area shape="poly" id="edge14_Node000061_Node000063" title=" " alt="" coords="618,400,678,406,677,411,618,405"/>
+</map>

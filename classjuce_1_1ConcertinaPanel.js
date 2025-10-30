@@ -1,0 +1,28 @@
+var classjuce_1_1ConcertinaPanel =
+[
+    [ "LookAndFeelMethods", "structjuce_1_1ConcertinaPanel_1_1LookAndFeelMethods.html", "structjuce_1_1ConcertinaPanel_1_1LookAndFeelMethods" ],
+    [ "PanelSizes", "structjuce_1_1ConcertinaPanel_1_1PanelSizes.html", "structjuce_1_1ConcertinaPanel_1_1PanelSizes" ],
+    [ "PanelHolder", "classjuce_1_1ConcertinaPanel_1_1PanelHolder.html", "classjuce_1_1ConcertinaPanel_1_1PanelHolder" ],
+    [ "ConcertinaPanel", "classjuce_1_1ConcertinaPanel.html#ac5a735529c983d7c1830bafcb6bd2db4", null ],
+    [ "~ConcertinaPanel", "classjuce_1_1ConcertinaPanel.html#aad128dc752843f268a74ef755a0077a3", null ],
+    [ "addPanel", "classjuce_1_1ConcertinaPanel.html#a4afb65b4b0358fe95f41444dbe8aa1c7", null ],
+    [ "applyLayout", "classjuce_1_1ConcertinaPanel.html#ac667b39c9e38d49d9f57a5b4b1e1becf", null ],
+    [ "createAccessibilityHandler", "classjuce_1_1ConcertinaPanel.html#adea7e5b54812d7907789dac02de28b4b", null ],
+    [ "expandPanelFully", "classjuce_1_1ConcertinaPanel.html#aa6be70c98e48fb9f58312bbe817cedf3", null ],
+    [ "getFittedSizes", "classjuce_1_1ConcertinaPanel.html#a5647fb145635d5d7c2a364eaf3da6781", null ],
+    [ "getNumPanels", "classjuce_1_1ConcertinaPanel.html#a0cbb8de72ee594634ce86da56a4527e7", null ],
+    [ "getPanel", "classjuce_1_1ConcertinaPanel.html#a9f5731f85346324ae1b11d8f9e0fef8b", null ],
+    [ "indexOfComp", "classjuce_1_1ConcertinaPanel.html#ad7c103f43d095cee5af5b231e82d52b2", null ],
+    [ "panelHeaderDoubleClicked", "classjuce_1_1ConcertinaPanel.html#a0bf2b23e0847d07252b5d7ceab3105cf", null ],
+    [ "removePanel", "classjuce_1_1ConcertinaPanel.html#af00b9734866f0eb2d38ad2d33c0b3d24", null ],
+    [ "resized", "classjuce_1_1ConcertinaPanel.html#ad94036e8b346379eb032774071571102", null ],
+    [ "setCustomPanelHeader", "classjuce_1_1ConcertinaPanel.html#a11272ee330ffeefe729947df47614d56", null ],
+    [ "setLayout", "classjuce_1_1ConcertinaPanel.html#a89e1db1b69cfa547eb049def787773d9", null ],
+    [ "setMaximumPanelSize", "classjuce_1_1ConcertinaPanel.html#a08239b8c410b53214e3c26b3911b416c", null ],
+    [ "setPanelHeaderSize", "classjuce_1_1ConcertinaPanel.html#a38ddc2e46f82fc62a5c5a5829ef70ff4", null ],
+    [ "setPanelSize", "classjuce_1_1ConcertinaPanel.html#aab8a1f43de1e46b9fbaffadfce546a74", null ],
+    [ "animator", "classjuce_1_1ConcertinaPanel.html#a5cdde594798275e4d2a4cd0d0af749ee", null ],
+    [ "currentSizes", "classjuce_1_1ConcertinaPanel.html#a3266c9cb1096832cf714929c41e63eb1", null ],
+    [ "headerHeight", "classjuce_1_1ConcertinaPanel.html#a2d23142e6cb03ce3afc516664a26c817", null ],
+    [ "holders", "classjuce_1_1ConcertinaPanel.html#ae2bfb7d2c1104b29c711c3fdfd327e93", null ]
+];

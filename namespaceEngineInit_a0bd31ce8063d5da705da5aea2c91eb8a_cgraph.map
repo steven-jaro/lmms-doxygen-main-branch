@@ -1,0 +1,19 @@
+<map id="EngineInit::getRtAudioDeviceInfo" name="EngineInit::getRtAudioDeviceInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,216,121"/>
+<area shape="rect" id="Node000002" href="$classRtAudio.html#a3a3f3dbe13ea696b521e49cdaaa357bc" title="A function that returns the index of the default output device." alt="" coords="264,5,435,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,92,273,49,275,54,151,97"/>
+<area shape="rect" id="Node000003" href="$classRtAudio.html#a747ce2d73803641bbb66d6e78092aa1a" title="A public function that queries for the number of audio devices available." alt="" coords="267,70,432,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,94,251,91,252,96,216,100"/>
+<area shape="rect" id="Node000004" href="$classRtAudio.html#a02d7ff44ad1d7eae22283a052f3dfda8" title="Return an RtAudio::DeviceInfo structure for a specified device number." alt="" coords="273,120,426,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,116,258,120,257,126,216,122"/>
+<area shape="rect" id="Node000005" href="$CarlaEngineRtAudio_8cpp.html#a89bd483deff7b98ab852f17a30452fe8" title=" " alt="" coords="266,169,432,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,119,264,155,286,161,284,167,263,160,151,124"/>
+<area shape="rect" id="Node000006" href="$classRtAudio.html#a1df0b60d45637f65dab961b658056503" title="A static function to determine the available compiled audio APIs." alt="" coords="483,144,647,169"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="433,169,467,165,468,170,433,175"/>
+<area shape="rect" id="Node000007" href="$JackBridgeExport_8cpp.html#a202092156c0b0fd4b56a23dd3d643587" title=" " alt="" coords="506,193,624,218"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="433,188,491,195,490,200,433,194"/>
+<area shape="rect" id="Node000008" href="$JackBridge1_8cpp.html#a6b2147f1b721f3b08c283a1cd897ee12" title=" " alt="" coords="695,168,822,193"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="624,195,679,188,680,193,625,201"/>
+<area shape="rect" id="Node000009" href="$JackBridgeExport_8cpp.html#adee3844cf738d3cb8a9a94adf3ddb4af" title=" " alt="" coords="695,217,822,242"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="625,210,680,217,679,223,624,216"/>
+</map>

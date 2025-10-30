@@ -1,0 +1,41 @@
+<map id="lmms::Track::clipAdded" name="lmms::Track::clipAdded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="935,319,1090,344"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1Track.html#a0796d64ad587058c0fa96228548dd6a2" title="Add another Clip into this track." alt="" coords="745,319,887,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="919,334,887,334,887,329,919,329"/>
+<area shape="rect" id="Node000003" href="$classlmms_1_1Clip.html#a58d43b6c188eab2341958249e6fbaa77" title="Copy a Clip." alt="" coords="295,5,404,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="790,309,734,255,652,184,554,110,501,76,447,46,404,31,406,26,449,41,504,71,557,105,656,180,737,251,793,306"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1Clip.html#a726ed6a977a95e92af7e4950a961cc6e" title="Create a new Clip." alt="" coords="542,319,651,344"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="730,334,652,334,652,329,730,329"/>
+<area shape="rect" id="Node000114" href="$classlmms_1_1Track.html#a9ac95f1a5fbc42fb9b2172486c01037a" title=" " alt="" coords="496,530,697,570"/>
+<area shape="poly" id="edge20_Node000002_Node000114" title=" " alt="" coords="793,357,621,531,617,527,789,353"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="575,307,536,246,494,170,481,133,476,102,468,74,446,45,426,33,404,25,405,20,429,28,450,42,473,71,481,100,486,132,498,168,540,243,580,304"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1AutomationClip.html#a7e465e7477f43aba9b711b64c8f6741e" title=" " alt="" coords="276,55,423,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="578,307,514,203,477,150,446,116,417,99,420,94,450,112,481,147,518,200,583,304"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1AutomationClip.html#ab1ed2fa94e3a9909df44225f24cbea62" title=" " alt="" coords="30,84,178,125"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="579,306,557,272,528,232,490,192,447,161,398,144,328,130,178,113,178,108,329,125,400,138,449,156,494,188,532,228,562,269,583,304"/>
+<area shape="rect" id="Node000070" href="$classlmms_1_1Clip.html#a00f433f09abd4ec53b18d0a6a4bffc6c" title=" " alt="" coords="290,171,408,196"/>
+<area shape="poly" id="edge8_Node000004_Node000070" title=" " alt="" coords="572,309,518,259,484,232,447,210,408,196,410,191,449,205,487,228,521,255,575,306"/>
+<area shape="rect" id="Node000071" href="$classlmms_1_1Clip.html#a6e6f1b6cf525c038ec1b638296203e35" title=" " alt="" coords="266,220,432,246"/>
+<area shape="poly" id="edge9_Node000004_Node000071" title=" " alt="" coords="559,313,507,286,447,259,413,249,415,244,449,254,509,281,561,308"/>
+<area shape="rect" id="Node000078" href="$classlmms_1_1Clip.html#a24a41bb223388199d8f2a3482ec56fff" title="Returns true if and only if a&#45;&gt;startPosition() &lt; b&#45;&gt;startPosition()." alt="" coords="257,269,442,295"/>
+<area shape="poly" id="edge10_Node000004_Node000078" title=" " alt="" coords="526,320,417,298,418,293,527,315"/>
+<area shape="rect" id="Node000062" href="$classlmms_1_1Clip.html#afbd562fb8301bf901d136429cd7b6dd1" title="Copies the state of a Clip to another Clip." alt="" coords="269,319,430,344"/>
+<area shape="poly" id="edge11_Node000004_Node000062" title=" " alt="" coords="526,334,430,334,430,329,526,329"/>
+<area shape="rect" id="Node000099" href="$classlmms_1_1Clip.html#acd393988777b287c3c4ff506a11f1730" title=" " alt="" coords="254,368,444,409"/>
+<area shape="poly" id="edge12_Node000004_Node000099" title=" " alt="" coords="527,350,440,371,439,365,526,345"/>
+<area shape="rect" id="Node000100" href="$classlmms_1_1MidiClip.html#ad0b600c4fda14401c9a3575e2a16ea38" title=" " alt="" coords="25,459,183,484"/>
+<area shape="poly" id="edge13_Node000004_Node000100" title=" " alt="" coords="568,356,514,392,449,423,380,444,310,458,183,471,183,466,309,452,379,438,447,418,512,387,565,352"/>
+<area shape="rect" id="Node000101" href="$classlmms_1_1MidiClip.html#a2b4ae739af67e7c5c057a89ba0730835" title=" " alt="" coords="271,484,428,510"/>
+<area shape="poly" id="edge14_Node000004_Node000101" title=" " alt="" coords="576,358,522,413,487,442,449,467,406,486,404,481,447,462,484,437,518,409,572,354"/>
+<area shape="rect" id="Node000107" href="$classlmms_1_1PatternClip.html#afea292789c881dffa67d1d15920a02e1" title=" " alt="" coords="285,534,414,574"/>
+<area shape="poly" id="edge16_Node000004_Node000107" title=" " alt="" coords="584,359,562,396,532,441,494,485,449,524,416,542,413,537,447,520,490,482,528,437,558,393,579,357"/>
+<area shape="rect" id="Node000109" href="$classlmms_1_1SampleClip.html#a081b9fe1a1c0c363b3b66641da2417b3" title=" " alt="" coords="5,624,203,650"/>
+<area shape="poly" id="edge17_Node000004_Node000109" title=" " alt="" coords="584,360,513,492,476,555,450,588,406,606,344,619,203,634,203,629,343,614,405,601,446,584,471,552,508,489,579,357"/>
+<area shape="rect" id="Node000110" href="$classlmms_1_1SampleClip.html#a5ebcc7013382751faf527958efc6ba7c" title=" " alt="" coords="251,649,448,675"/>
+<area shape="poly" id="edge18_Node000004_Node000110" title=" " alt="" coords="583,359,498,519,487,552,481,579,471,605,450,632,418,651,416,646,446,628,467,603,476,578,482,550,494,517,578,357"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="260,89,178,99,178,93,260,83"/>
+<area shape="poly" id="edge15_Node000101_Node000100" title=" " alt="" coords="255,490,183,482,183,477,256,484"/>
+<area shape="poly" id="edge19_Node000110_Node000109" title=" " alt="" coords="235,653,203,650,203,644,236,648"/>
+<area shape="rect" id="Node000115" href="$classlmms_1_1Track.html#af60eb069d7dd7bf53a293de7daf225a6" title="Load the settings from a file." alt="" coords="272,699,427,724"/>
+<area shape="poly" id="edge21_Node000114_Node000115" title=" " alt="" coords="571,584,519,639,485,666,449,690,424,701,422,696,447,685,482,662,515,635,567,581"/>
+</map>

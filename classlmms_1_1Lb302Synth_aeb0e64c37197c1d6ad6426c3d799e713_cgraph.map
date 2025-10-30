@@ -1,0 +1,43 @@
+<map id="lmms::Lb302Synth::process" name="lmms::Lb302Synth::process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,312,186,338"/>
+<area shape="rect" id="Node000002" href="$classlmms_1_1Engine.html#a6877e216489d342e0d50925d47b56ae4" title=" " alt="" coords="480,44,654,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,312,105,258,127,180,145,138,168,98,197,63,232,34,268,16,306,7,345,3,385,4,460,17,521,36,519,41,458,22,384,10,345,8,307,12,270,21,235,38,201,66,172,101,150,141,132,182,110,259,101,313"/>
+<area shape="rect" id="Node000003" href="$namespacelmms.html#a29c7d43c11874b693f5046cc8090911d" title=" " alt="" coords="240,98,422,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,311,119,277,148,231,186,183,232,140,256,127,258,132,235,145,190,186,152,234,124,280,105,313"/>
+<area shape="rect" id="Node000004" href="$classlmms_1_1AudioEngine.html#ae54878acfbb31b2dc25f92855e038e4a" title=" " alt="" coords="498,94,636,135"/>
+<area shape="poly" id="edge18_Node000001_Node000004" title=" " alt="" coords="104,310,153,249,190,214,232,184,278,167,342,151,483,124,484,130,344,156,280,172,235,189,193,218,157,253,108,314"/>
+<area shape="rect" id="Node000005" href="$classlmms_1_1Lb302Filter.html#a8f7c4a50ff256185ebf7c00058e4cb2e" title=" " alt="" coords="266,198,396,239"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="117,310,169,280,233,248,250,241,252,246,235,253,171,284,120,314"/>
+<area shape="rect" id="Node000006" href="$classlmms_1_1Oscillator.html#a252ba5d14184a7ccd6e7dc2d3e1fa587" title=" " alt="" coords="239,263,424,289"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="160,309,251,290,252,295,161,314"/>
+<area shape="rect" id="Node000008" href="$namespacelmms.html#a1d974c732f1d01ddc76cd2742cbdfe54" title=" " alt="" coords="274,48,389,74"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="98,311,112,267,139,205,178,139,203,109,232,83,258,70,260,74,235,87,207,113,182,142,143,207,117,269,103,313"/>
+<area shape="rect" id="Node000009" href="$classlmms_1_1Lb302Synth.html#a7690c9a425f60f0f7052f5c28ce11f42" title=" " alt="" coords="242,312,421,338"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="186,323,226,323,226,328,186,328"/>
+<area shape="rect" id="Node000012" href="$classlmms_1_1Oscillator.html#a7346293fb53de8d8813b6d17d3178e38" title=" " alt="" coords="234,362,429,387"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="161,336,252,355,251,361,160,341"/>
+<area shape="rect" id="Node000013" href="$classlmms_1_1BandLimitedWave.html#a2d1298d00728a284e883ad2dc4085d28" title="This method provides interpolated samples of bandlimited waveforms." alt="" coords="249,412,414,452"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="120,336,171,366,235,398,249,403,247,408,233,402,169,371,117,341"/>
+<area shape="rect" id="Node000016" href="$classlmms_1_1BandLimitedWave.html#ac983332c154618f01bf7a421da9b30f7" title="This method converts phase delta to wavelength. It assumes a phase scale of 0 to 1." alt="" coords="249,477,414,518"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="109,337,159,397,195,431,235,462,246,468,243,472,232,466,191,435,155,400,105,340"/>
+<area shape="rect" id="Node000017" href="$classlmms_1_1Lb302Filter.html#a3da3d7cd1f8439f385b6265a541780a4" title=" " alt="" coords="266,542,396,583"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="104,337,121,375,149,426,188,480,210,505,235,527,254,539,251,543,232,531,207,509,183,483,145,428,117,377,100,339"/>
+<area shape="rect" id="Node000018" href="$namespacestd.html#ad2308db019b27de37b041756737a1380" title=" " alt="" coords="300,607,363,633"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="102,338,115,386,140,455,158,493,179,529,205,563,235,592,259,606,285,613,284,619,257,611,232,597,201,567,175,532,153,495,135,457,110,388,97,339"/>
+<area shape="rect" id="Node000019" href="$classlmms_1_1Oscillator.html#ac3102c98c5865c25146fdfe8c200d273" title=" " alt="" coords="241,656,422,682"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="101,338,111,395,133,478,151,523,173,567,201,608,235,643,239,646,236,650,232,647,197,611,169,570,146,525,128,479,105,396,96,339"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="391,95,492,71,493,77,392,100"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="423,109,483,111,483,116,423,115"/>
+<area shape="rect" id="Node000007" href="$namespacelmms.html#a5249dbf3fce9e8677948ac63afdfff86" title="Returns the wrapped fractional part of a float, a value between 0.0f and 1.0f." alt="" coords="504,255,631,281"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="424,270,488,268,488,273,424,275"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="389,58,464,56,464,62,389,63"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="390,72,484,93,482,98,389,77"/>
+<area shape="rect" id="Node000010" href="$classlmms_1_1Lb302Synth.html#a4507ebd9e6c145377ae9fca51a2278d5" title=" " alt="" coords="477,370,657,395"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="388,336,497,363,496,368,387,341"/>
+<area shape="rect" id="Node000011" href="$classlmms_1_1Lb302Synth.html#a2cd8563bd2ae19d1723d9ce8ca68b10e" title=" " alt="" coords="482,305,652,346"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="421,323,467,323,467,328,421,328"/>
+<area shape="rect" id="Node000014" href="$namespacelmms.html#ae167b1a1145e9402f2203c90a0c1eafc" title="Returns the fractional part of a float, a value between &#45;1.0f and 1.0f." alt="" coords="516,468,618,494"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="415,447,501,465,500,470,414,452"/>
+<area shape="rect" id="Node000015" href="$namespacelmms.html#a63e987380716cf3a5c1f51d920081354" title=" " alt="" coords="479,419,655,445"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="414,429,463,429,463,435,414,435"/>
+</map>

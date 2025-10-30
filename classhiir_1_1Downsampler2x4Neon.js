@@ -1,0 +1,25 @@
+var classhiir_1_1Downsampler2x4Neon =
+[
+    [ "DataType", "classhiir_1_1Downsampler2x4Neon.html#aff29550c2e32b5674009c88f893d3d1f", null ],
+    [ "Filter", "classhiir_1_1Downsampler2x4Neon.html#ab9252db95858ba8de25fa1b43e49a65d", null ],
+    [ "Downsampler2x4Neon", "classhiir_1_1Downsampler2x4Neon.html#afa52ec1a70b27117444340b85b3aaa62", null ],
+    [ "Downsampler2x4Neon", "classhiir_1_1Downsampler2x4Neon.html#a85840aac5c97d221e2181be0bb81038e", null ],
+    [ "Downsampler2x4Neon", "classhiir_1_1Downsampler2x4Neon.html#a725e24e07a4b098015727c1dd7e72a9a", null ],
+    [ "~Downsampler2x4Neon", "classhiir_1_1Downsampler2x4Neon.html#ae652891ca67d99936c9cf996971f3630", null ],
+    [ "clear_buffers", "classhiir_1_1Downsampler2x4Neon.html#a57daeb89feab8d2110cee6dd46449ebf", null ],
+    [ "operator!=", "classhiir_1_1Downsampler2x4Neon.html#a3f02bb44d5ef8069de5e67dd6e0aeace", null ],
+    [ "operator=", "classhiir_1_1Downsampler2x4Neon.html#a9a8a7599a0dfa158d7dbaa5de2f6d18d", null ],
+    [ "operator=", "classhiir_1_1Downsampler2x4Neon.html#a98196d48501f6c7ae6cfd31abc17739c", null ],
+    [ "operator==", "classhiir_1_1Downsampler2x4Neon.html#a4f8063fb93f1121bc96830edcf007f11", null ],
+    [ "process_block", "classhiir_1_1Downsampler2x4Neon.html#acd666ed6e1eafe5d6dc00c74d3fa515c", null ],
+    [ "process_block_split", "classhiir_1_1Downsampler2x4Neon.html#af03c0e7f837a2392b0f940f360fdbfa5", null ],
+    [ "process_sample", "classhiir_1_1Downsampler2x4Neon.html#afb1c6c292febf3bc9a92a130c38140d5", null ],
+    [ "process_sample", "classhiir_1_1Downsampler2x4Neon.html#aa9557022af947ba131bb8206de5c52ae", null ],
+    [ "process_sample_split", "classhiir_1_1Downsampler2x4Neon.html#ade228b95fd3eeaed6a99df9540ee8b5e", null ],
+    [ "process_sample_split", "classhiir_1_1Downsampler2x4Neon.html#ac638d66001d70e8e2077226359718601", null ],
+    [ "set_coefs", "classhiir_1_1Downsampler2x4Neon.html#aa1a77e3edd5296959c96014d857bdaa9", null ],
+    [ "_delay", "classhiir_1_1Downsampler2x4Neon.html#a5654fc35574ea156fd154efe9b384512", null ],
+    [ "_filter", "classhiir_1_1Downsampler2x4Neon.html#a0d2df343fe0eae81d5e59ce6792ff94f", null ],
+    [ "_nbr_chn", "classhiir_1_1Downsampler2x4Neon.html#ada8563a3ae36d7bd8e388ca1697c07a2", null ],
+    [ "NBR_COEFS", "classhiir_1_1Downsampler2x4Neon.html#a002925ba5c61183b3d104a7dce4c734e", null ]
+];

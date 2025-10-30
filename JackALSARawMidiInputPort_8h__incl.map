@@ -1,0 +1,37 @@
+<map id="src/3rdparty/jack2/linux/alsarawmidi/JackALSARawMidiInputPort.h" name="src/3rdparty/jack2/linux/alsarawmidi/JackALSARawMidiInputPort.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="356,5,573,61"/>
+<area shape="rect" id="Node000002" href="$JackALSARawMidiPort_8h.html" title=" " alt="" coords="5,109,174,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,62,158,108,157,102,355,57"/>
+<area shape="rect" id="Node000006" href="$JackALSARawMidiReceiveQueue_8h.html" title=" " alt="" coords="198,109,427,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="418,64,348,103,345,99,415,59"/>
+<area shape="rect" id="Node000014" href="$JackMidiAsyncQueue_8h.html" title=" " alt="" coords="472,183,630,208"/>
+<area shape="poly" id="edge11_Node000001_Node000014" title=" " alt="" coords="470,61,477,97,492,133,507,154,524,171,521,175,503,157,487,136,472,98,464,62"/>
+<area shape="rect" id="Node000017" href="$JackMidiBufferWriteQueue_8h.html" title=" " alt="" coords="732,109,917,135"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="574,58,760,102,758,108,573,63"/>
+<area shape="rect" id="Node000018" href="$JackMidiRawInputWriteQueue_8h.html" title=" " alt="" coords="501,109,707,135"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="509,59,573,98,570,103,507,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,183,253,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,133,167,171,164,176,106,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="64,183,115,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="92,135,92,167,87,167,87,135"/>
+<area shape="rect" id="Node000005" href="$JackConstants_8h.html" title=" " alt="" coords="133,404,251,429"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="81,136,59,169,53,188,55,208,78,263,109,313,142,357,171,390,167,394,138,360,105,316,73,265,50,209,48,187,55,166,76,133"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="294,137,230,177,227,172,291,133"/>
+<area shape="rect" id="Node000007" href="$JackMidiReceiveQueue_8h.html" title=" " alt="" coords="277,183,446,208"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="323,133,347,168,342,171,318,136"/>
+<area shape="rect" id="Node000008" href="$JackMidiReadQueue_8h.html" title=" " alt="" coords="283,256,434,282"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="364,209,363,241,357,241,358,208"/>
+<area shape="rect" id="Node000009" href="$JackMidiPort_8h.html" title=" " alt="" coords="361,330,468,356"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="370,281,398,316,394,319,366,284"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="378,359,245,401,244,396,376,354"/>
+<area shape="poly" id="edge13_Node000014_Node000008" title=" " alt="" coords="519,211,407,253,405,248,517,206"/>
+<area shape="poly" id="edge12_Node000014_Node000009" title=" " alt="" coords="542,210,438,320,435,317,538,207"/>
+<area shape="rect" id="Node000015" href="$JackMidiWriteQueue_8h.html" title=" " alt="" coords="618,256,769,282"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="576,206,657,247,654,251,574,211"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="510,256,594,282"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="554,209,554,240,549,241,548,209"/>
+<area shape="poly" id="edge15_Node000015_Node000009" title=" " alt="" coords="647,285,478,328,476,323,646,280"/>
+<area shape="poly" id="edge18_Node000017_Node000015" title=" " alt="" coords="815,137,716,247,712,243,811,133"/>
+<area shape="poly" id="edge20_Node000018_Node000014" title=" " alt="" coords="597,136,571,172,567,168,593,133"/>
+<area shape="poly" id="edge21_Node000018_Node000015" title=" " alt="" coords="614,134,644,181,681,242,676,244,639,184,609,136"/>
+</map>

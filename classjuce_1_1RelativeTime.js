@@ -1,0 +1,27 @@
+var classjuce_1_1RelativeTime =
+[
+    [ "RelativeTime", "classjuce_1_1RelativeTime.html#aebe34a052a453f4fda85cc4d44408f57", null ],
+    [ "RelativeTime", "classjuce_1_1RelativeTime.html#a057d52f603bad4f1e68683986a5f6610", null ],
+    [ "~RelativeTime", "classjuce_1_1RelativeTime.html#a8b38486929497e44682cd958b899ae58", null ],
+    [ "days", "classjuce_1_1RelativeTime.html#a9249023ecda28dad68582726bc746c21", null ],
+    [ "getApproximateDescription", "classjuce_1_1RelativeTime.html#ac9bce42813acdea650b4a7e75f8fbc3c", null ],
+    [ "getDescription", "classjuce_1_1RelativeTime.html#a305214148a1aecdeacc1aed326fe6d81", null ],
+    [ "hours", "classjuce_1_1RelativeTime.html#a8b758463733939b071472596e8815939", null ],
+    [ "inDays", "classjuce_1_1RelativeTime.html#a41b371c819c566f863f9d0f04f4deb73", null ],
+    [ "inHours", "classjuce_1_1RelativeTime.html#a5b0b1f906cdf23301f3e62be71c7ec9b", null ],
+    [ "inMilliseconds", "classjuce_1_1RelativeTime.html#a041be94da4bf9f59d763734df9b88fa9", null ],
+    [ "inMinutes", "classjuce_1_1RelativeTime.html#aff5da2a45c5c16abd648f4321035ce0a", null ],
+    [ "inSeconds", "classjuce_1_1RelativeTime.html#a7fe88d298de6736faf8587ea20d728de", null ],
+    [ "inWeeks", "classjuce_1_1RelativeTime.html#a2aa5401990126545f4b417866fc9e8cc", null ],
+    [ "milliseconds", "classjuce_1_1RelativeTime.html#a762c6e2c070067f12c93b1760153a519", null ],
+    [ "milliseconds", "classjuce_1_1RelativeTime.html#aed7aa870346957340c890e458210ee0b", null ],
+    [ "minutes", "classjuce_1_1RelativeTime.html#a1efdf08c1b812c84998499a0c4135324", null ],
+    [ "operator+=", "classjuce_1_1RelativeTime.html#ad48328362276eb4881bd5306e6d274ad", null ],
+    [ "operator+=", "classjuce_1_1RelativeTime.html#aa14723163199576f8da2c70ea9085136", null ],
+    [ "operator-=", "classjuce_1_1RelativeTime.html#a1c624a75ff326f2348cba3bfbd716e16", null ],
+    [ "operator-=", "classjuce_1_1RelativeTime.html#ab49b7b28835c266f79dfbea6422ef293", null ],
+    [ "operator=", "classjuce_1_1RelativeTime.html#a9f10e7782fe3b1bc300461599663d3d7", null ],
+    [ "seconds", "classjuce_1_1RelativeTime.html#ae193423635cffcf0b3666060220adef7", null ],
+    [ "weeks", "classjuce_1_1RelativeTime.html#ac9e25e4a0f983423f17bd088d0f5ccc6", null ],
+    [ "numSeconds", "classjuce_1_1RelativeTime.html#a4d749897a32b51c3560ab2083f611cd4", null ]
+];

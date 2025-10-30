@@ -1,0 +1,26 @@
+var classcalf__plugins_1_1multichorus__audio__module =
+[
+    [ "multichorus_audio_module", "classcalf__plugins_1_1multichorus__audio__module.html#a9183931edb5573832eef3ae6d1952057", null ],
+    [ "activate", "classcalf__plugins_1_1multichorus__audio__module.html#a0d8ea4533cbae4bd87d7ccfe3024c6e1", null ],
+    [ "deactivate", "classcalf__plugins_1_1multichorus__audio__module.html#a363fe6ebc8ee45a483e27d78bb9e5cbd", null ],
+    [ "freq_gain", "classcalf__plugins_1_1multichorus__audio__module.html#a0d8b8afc2246bdd4854e12be345c6198", null ],
+    [ "get_dot", "classcalf__plugins_1_1multichorus__audio__module.html#ae36abb9e02eebb3c422c902567dccb4f", null ],
+    [ "get_graph", "classcalf__plugins_1_1multichorus__audio__module.html#a9eb37e09f3afe37046d3db01ed1b4176", null ],
+    [ "get_gridline", "classcalf__plugins_1_1multichorus__audio__module.html#ac57ea0fdbe50d4fe7777ecfd107e20d7", null ],
+    [ "get_layers", "classcalf__plugins_1_1multichorus__audio__module.html#a5447a6d0ce6a635bf0cd0cb629725af3", null ],
+    [ "params_changed", "classcalf__plugins_1_1multichorus__audio__module.html#a8d0071e107585e9d47537b76fda375b1", null ],
+    [ "process", "classcalf__plugins_1_1multichorus__audio__module.html#a784a72f4c3d02f0ec94565eb77bc44c5", null ],
+    [ "set_sample_rate", "classcalf__plugins_1_1multichorus__audio__module.html#a6c2861845f04ce137b57706c075f7b72", null ],
+    [ "bypass", "classcalf__plugins_1_1multichorus__audio__module.html#a9b2e3b45401c6d9ff042afa7b092abf7", null ],
+    [ "cutoff", "classcalf__plugins_1_1multichorus__audio__module.html#a74757a4d02210130a06e0a07036253c3", null ],
+    [ "freq2_old", "classcalf__plugins_1_1multichorus__audio__module.html#a4ce8c6b577c6198a1e4f67f46d0dc7f2", null ],
+    [ "freq_old", "classcalf__plugins_1_1multichorus__audio__module.html#aa28639f8b6f972f89b2bd2f6606de4e6", null ],
+    [ "is_active", "classcalf__plugins_1_1multichorus__audio__module.html#a2c49edb96b04321228f14205adc2406f", null ],
+    [ "last_r_phase", "classcalf__plugins_1_1multichorus__audio__module.html#a92042b00a172709a1453168cacd3db74", null ],
+    [ "left", "classcalf__plugins_1_1multichorus__audio__module.html#a41db656e12c9aeda8981d5b077cc1e0f", null ],
+    [ "meters", "classcalf__plugins_1_1multichorus__audio__module.html#a7138889ed2fdbf077d176253ada80306", null ],
+    [ "q_old", "classcalf__plugins_1_1multichorus__audio__module.html#a965fb603604c32b202b1102d3351c5ba", null ],
+    [ "redraw_sine", "classcalf__plugins_1_1multichorus__audio__module.html#a96bf2508ed9a691d71a13f8b509975ac", null ],
+    [ "right", "classcalf__plugins_1_1multichorus__audio__module.html#ab42d808078995e824172d8420045b320", null ],
+    [ "srate", "classcalf__plugins_1_1multichorus__audio__module.html#a38c8cf4e8926badbaf1bd96b7a3be513", null ]
+];

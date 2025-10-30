@@ -1,0 +1,26 @@
+var lofi_8cpp =
+[
+    [ "Pop", "classPop.html", "classPop" ],
+    [ "Record", "classRecord.html", "classRecord" ],
+    [ "Compressor", "classCompressor.html", "classCompressor" ],
+    [ "BandwidthLimit", "classBandwidthLimit.html", "classBandwidthLimit" ],
+    [ "LoFi", "classLoFi.html", "classLoFi" ],
+    [ "MAX", "lofi_8cpp.html#aacc3ee1a7f283f8ef65cea31f4436a95", null ],
+    [ "MIN", "lofi_8cpp.html#a74e75242132eaabbc1c512488a135926", null ],
+    [ "NUM_PORTS", "lofi_8cpp.html#af89985dbf9e670e3e7baebb0e05a0f46", null ],
+    [ "PI", "lofi_8cpp.html#a598a3330b3c21701223ee0ca14316eca", null ],
+    [ "PORT_BANDWIDTH", "lofi_8cpp.html#a998b673bd46be52904b1b8093b96dce2", null ],
+    [ "PORT_CRACKLING", "lofi_8cpp.html#a842b9b67da89bdac9950caeb9eab3cc9", null ],
+    [ "PORT_IN_LEFT", "lofi_8cpp.html#a61f63a70317caafe7448cbe0b7afd233", null ],
+    [ "PORT_IN_RIGHT", "lofi_8cpp.html#a68645ac047e37650ef7105c3d240f682", null ],
+    [ "PORT_OUT_LEFT", "lofi_8cpp.html#aebc6f9900e946f39ca2301275758a67f", null ],
+    [ "PORT_OUT_RIGHT", "lofi_8cpp.html#a89deeaa8143552a9c16a656fbda5ca09", null ],
+    [ "PORT_OVERLOADING", "lofi_8cpp.html#a13b6b2fbdef0a1b2d96ca35588acc841", null ],
+    [ "distort", "lofi_8cpp.html#a8b9580c611ac47db1a1a2591e4eeab00", null ],
+    [ "initialise_lofi", "lofi_8cpp.html#acb04fe3c4861a7af9762d351e77108ab", null ],
+    [ "record_pop_loud_new", "lofi_8cpp.html#a2a004d6a9d48bdef7cb010b5b6d20699", null ],
+    [ "record_pop_new", "lofi_8cpp.html#a51c3fcb7e44e46bc711c8370b25a5108", null ],
+    [ "g_psPortDescriptors", "lofi_8cpp.html#aeb0bc724814b15b16eef118a9f6dd68a", null ],
+    [ "g_psPortNames", "lofi_8cpp.html#a97824b6e94f67526e1216e4f90ccba4b", null ],
+    [ "g_psPortRangeHints", "lofi_8cpp.html#a999bb4b3ade5d75d808bda7b96d1dea9", null ]
+];

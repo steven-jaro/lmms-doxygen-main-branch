@@ -1,0 +1,26 @@
+var classjuce_1_1dsp_1_1LinkwitzRileyFilter =
+[
+    [ "Type", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#af3b4fac24ad761403c2bc3e716abaf11", null ],
+    [ "LinkwitzRileyFilter", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a6df348d094deb81171822ac42c591d42", null ],
+    [ "getCutoffFrequency", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a73c68cbf95eba3b290b49226309c52f4", null ],
+    [ "getType", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#ac56b012a07fd65e31fa659afae9be2bc", null ],
+    [ "prepare", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a06267fd116a8c525e021934588c68d8f", null ],
+    [ "process", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a268cf91c0c28eeae67718fde6da644d6", null ],
+    [ "processSample", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a77a4db3d1f2fb2481969fd43c9a6eb01", null ],
+    [ "processSample", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a78eb85f1e8c34afc66026f25c7bbdda3", null ],
+    [ "reset", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a3d7cfb0fa9b23afdbc5cab499c19bce1", null ],
+    [ "setCutoffFrequency", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a9e5898a504011fd3fb128c65a6edba1b", null ],
+    [ "setType", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a110f327b784eab8b8a3529d8f5572645", null ],
+    [ "snapToZero", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#adcc3146772d06b0a4ddc75684894dff7", null ],
+    [ "update", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a3bfd900305b7f03dbe23b7b454568855", null ],
+    [ "cutoffFrequency", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a93abe3abc752789f263ae6a3fe8c9db7", null ],
+    [ "filterType", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a943bcd4b2713934fa21015478267bcb4", null ],
+    [ "g", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#aaa6971e2780f8da41cf0b4902b2c3475", null ],
+    [ "h", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a6426d2916c203e757831a559d5f1bece", null ],
+    [ "R2", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a6ab877c0638abc863768916214d52ba3", null ],
+    [ "s1", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a93786b21ac719235f2460fac25ac1f6e", null ],
+    [ "s2", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a23265cf3f12b48d6223b5d0d1fb72cea", null ],
+    [ "s3", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a8472f3fa4b05bcbf27f5315cf1e93702", null ],
+    [ "s4", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#a9a021e49c46ce22ff518ea4f48343846", null ],
+    [ "sampleRate", "classjuce_1_1dsp_1_1LinkwitzRileyFilter.html#ae6fd327d6a3a66b21cce19f08ce8be7e", null ]
+];

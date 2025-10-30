@@ -1,0 +1,28 @@
+<map id="calf_plugins::xover_audio_module&lt; XoverBaseClass &gt;" name="calf_plugins::xover_audio_module&lt; XoverBaseClass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,2175,676,2622"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="92,1418,300,2104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,2006,361,2102,410,2179,461,2253,457,2256,405,2182,357,2105,305,2009"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,960,113,1027"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,1041,138,1418,133,1418,65,1041"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="68,5,234,590"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="159,605,178,1326,182,1418,176,1418,173,1326,154,605"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="187,661,395,1326"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="215,603,227,661,222,662,210,604"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="251,1342,241,1418,236,1418,246,1341"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="259,264,324,331"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="294,345,294,661,288,661,288,345"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1progress__report__iface.html" title=" " alt="" coords="348,247,512,348"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="423,349,363,645,358,644,417,348"/>
+<area shape="rect" id="Node000008" href="$classcalf__plugins_1_1frequency__response__line__graph.html" title="Line graph interface implementation for frequency response graphs." alt="" coords="371,1679,515,1842"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="464,1856,526,2174,521,2175,459,1857"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="419,892,563,1095"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="487,1110,451,1680,446,1680,481,1110"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1vumeters.html" title=" " alt="" coords="539,1697,678,1824"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="607,1824,585,2158,580,2157,602,1824"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1crossover.html" title=" " alt="" coords="702,1534,830,1987"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="724,1988,692,2104,673,2159,668,2158,687,2103,719,1986"/>
+<area shape="rect" id="Node000012" href="$structdsp_1_1biquad__d2.html" title=" " alt="" coords="718,899,814,1088"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="768,1087,768,1517,763,1517,763,1087"/>
+<area shape="rect" id="Node000013" href="$classdsp_1_1biquad__coeffs.html" title=" " alt="" coords="689,30,843,564"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="768,580,768,899,763,899,763,580"/>
+</map>

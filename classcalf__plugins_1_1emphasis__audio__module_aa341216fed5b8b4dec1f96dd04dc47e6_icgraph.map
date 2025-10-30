@@ -1,0 +1,8 @@
+<map id="calf_plugins::emphasis_audio_module::params_changed" name="calf_plugins::emphasis_audio_module::params_changed">
+<area shape="rect" id="Node000001" title="Called when params are changed (before processing)." alt="" coords="214,43,371,99"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1emphasis__audio__module.html#a2e72e2507d254d5ac4db9c47b3f698f4" title="LADSPA&#45;esque activate function, except it is called after ports are connected, not before." alt="" coords="5,5,166,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,53,166,46,167,41,199,48"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1emphasis__audio__module.html#a1adc253bbfee946f6bea147949c59075" title="The audio processing loop; assumes numsamples &lt;= MAX_SAMPLE_RUN, for larger buffers,..." alt="" coords="5,95,166,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,94,167,101,166,95,198,88"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="119,81,107,76,85,73,66,75,54,80,50,86,51,93,46,95,44,85,51,76,65,70,86,68,108,70,121,77"/>
+</map>

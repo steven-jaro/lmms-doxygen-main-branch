@@ -1,0 +1,46 @@
+<map id="zyncarla::ADnote::Voice" name="zyncarla::ADnote::Voice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,2923,372,3457"/>
+<area shape="rect" id="Node000002" href="$classzyncarla_1_1Envelope.html" title=" " alt="" coords="78,1930,195,2362"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,2362,140,2475,148,2599,161,2727,182,2852,200,2926,224,2999,219,3000,195,2927,177,2853,156,2727,142,2599,135,2475,131,2362"/>
+<area shape="rect" id="Node000018" href="$classzyncarla_1_1ModFilter.html" title=" " alt="" coords="448,2501,574,2852"/>
+<area shape="poly" id="edge25_Node000018_Node000002" title=" " alt="" coords="182,2360,211,2408,229,2428,248,2442,285,2458,326,2471,347,2483,371,2499,407,2534,440,2571,436,2575,403,2537,367,2503,345,2487,323,2476,283,2463,245,2446,226,2432,207,2412,177,2363"/>
+<area shape="rect" id="Node000003" href="$structzyncarla_1_1VecWatchPoint.html" title=" " alt="" coords="5,1256,159,1343"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,1342,71,1563,72,1709,81,1857,88,1912,83,1913,76,1858,66,1709,66,1563,76,1342"/>
+<area shape="rect" id="Node000008" href="$classzyncarla_1_1LFO.html" title=" " alt="" coords="220,1919,378,2372"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="89,1342,99,1429,116,1546,142,1678,177,1809,192,1845,210,1880,219,1903,214,1905,205,1882,187,1847,172,1811,136,1679,111,1547,93,1429,83,1343"/>
+<area shape="rect" id="Node000004" href="$structzyncarla_1_1WatchPoint.html" title=" " alt="" coords="17,488,148,616"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,630,85,1256,80,1256,80,630"/>
+<area shape="poly" id="edge4_Node000001_Node000008" title=" " alt="" coords="302,2372,302,2906,297,2906,297,2372"/>
+<area shape="poly" id="edge26_Node000018_Node000008" title=" " alt="" coords="372,2371,412,2476,443,2544,438,2546,407,2478,367,2373"/>
+<area shape="rect" id="Node000009" href="$classzyncarla_1_1RelTime.html" title=" " alt="" coords="370,1226,482,1373"/>
+<area shape="poly" id="edge5_Node000008_Node000009" title=" " alt="" coords="420,1373,395,1571,361,1811,346,1903,341,1902,356,1810,390,1570,415,1373"/>
+<area shape="rect" id="Node000010" href="$classzyncarla_1_1AbsTime.html" title=" " alt="" coords="537,458,675,646"/>
+<area shape="poly" id="edge6_Node000009_Node000010" title=" " alt="" coords="589,647,567,708,551,738,532,766,522,774,513,778,504,782,496,790,470,840,450,894,435,950,425,1006,417,1115,420,1208,414,1208,412,1115,420,1006,430,949,445,892,465,838,492,787,501,778,511,773,520,770,528,763,546,736,562,706,584,645"/>
+<area shape="rect" id="Node000014" href="$classzyncarla_1_1LFOParams.html" title=" " alt="" coords="187,1032,346,1566"/>
+<area shape="poly" id="edge10_Node000014_Node000010" title=" " alt="" coords="574,647,553,685,527,719,507,733,485,744,470,756,454,767,426,774,402,774,381,776,360,790,323,840,295,895,276,955,264,1016,259,1015,271,954,290,893,318,837,356,786,379,771,402,769,425,769,452,762,467,751,482,739,504,728,523,715,549,682,569,645"/>
+<area shape="poly" id="edge21_Node000018_Node000010" title=" " alt="" coords="638,645,659,683,688,715,706,726,723,730,742,732,764,739,810,755,827,767,843,787,851,818,858,877,868,1063,874,1314,876,1598,874,1882,868,2133,859,2320,853,2380,846,2411,823,2451,795,2488,763,2521,729,2552,657,2603,591,2642,588,2637,654,2599,725,2548,759,2517,791,2484,819,2448,841,2409,848,2379,854,2320,863,2133,869,1882,871,1598,869,1315,863,1064,853,877,846,819,838,790,824,771,807,760,763,744,741,737,722,735,704,731,684,719,655,686,633,647"/>
+<area shape="rect" id="Node000019" href="$classzyncarla_1_1FilterParams.html" title=" " alt="" coords="507,788,666,1810"/>
+<area shape="poly" id="edge18_Node000019_Node000010" title=" " alt="" coords="606,646,603,772,598,771,601,646"/>
+<area shape="rect" id="Node000011" href="$structzyncarla_1_1SYNTH__T.html" title=" " alt="" coords="781,5,906,316"/>
+<area shape="poly" id="edge7_Node000010_Node000011" title=" " alt="" coords="783,246,735,314,688,388,658,444,653,442,684,385,731,311,779,243"/>
+<area shape="poly" id="edge20_Node000018_Node000011" title=" " alt="" coords="897,315,922,429,930,490,933,551,933,2147,933,2248,931,2290,925,2330,915,2367,897,2403,871,2440,836,2479,777,2530,713,2575,649,2613,591,2643,589,2638,646,2608,710,2571,774,2526,832,2475,867,2437,892,2400,910,2365,920,2328,926,2290,928,2248,928,2147,928,551,925,491,917,430,891,316"/>
+<area shape="poly" id="edge8_Node000008_Node000014" title=" " alt="" coords="270,1566,279,1857,281,1902,276,1903,274,1857,265,1566"/>
+<area shape="rect" id="Node000015" href="$classzyncarla_1_1Presets.html" title=" " alt="" coords="199,66,342,255"/>
+<area shape="poly" id="edge9_Node000014_Node000015" title=" " alt="" coords="247,270,229,387,219,554,219,723,226,885,238,1033,232,1033,221,886,214,723,214,553,224,386,242,269"/>
+<area shape="rect" id="Node000020" href="$classzyncarla_1_1PresetsArray.html" title=" " alt="" coords="374,468,513,636"/>
+<area shape="poly" id="edge16_Node000020_Node000015" title=" " alt="" coords="320,267,409,468,404,470,315,269"/>
+<area shape="rect" id="Node000016" href="$structrtosc_1_1Ports.html" title=" " alt="" coords="238,387,350,717"/>
+<area shape="poly" id="edge11_Node000014_Node000016" title=" " alt="" coords="291,717,279,1015,274,1015,285,717"/>
+<area shape="poly" id="edge19_Node000019_Node000016" title=" " alt="" coords="352,695,364,716,381,742,404,762,428,771,451,770,474,772,496,786,498,788,494,792,492,790,472,777,451,776,427,776,401,767,377,746,360,719,348,697"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="451,2831,381,2999,376,2997,446,2829"/>
+<area shape="poly" id="edge14_Node000018_Node000019" title=" " alt="" coords="509,1764,497,1811,482,1847,469,1882,448,2029,446,2144,455,2261,469,2410,478,2484,473,2485,464,2410,449,2261,440,2145,443,2028,464,1881,477,1845,492,1809,504,1763"/>
+<area shape="poly" id="edge15_Node000019_Node000020" title=" " alt="" coords="438,650,445,708,453,737,464,763,471,770,479,774,488,778,496,787,509,809,504,811,492,790,485,783,477,779,468,775,460,766,448,738,440,709,433,651"/>
+<area shape="rect" id="Node000021" href="$structzyncarla_1_1FilterParams_1_1Pvowels__t.html" title=" " alt="" coords="699,511,836,593"/>
+<area shape="poly" id="edge17_Node000019_Node000021" title=" " alt="" coords="753,594,716,682,681,789,672,820,667,819,676,788,711,680,748,591"/>
+<area shape="rect" id="Node000023" href="$classzyncarla_1_1Allocator.html" title=" " alt="" coords="515,1881,687,2410"/>
+<area shape="poly" id="edge22_Node000018_Node000023" title=" " alt="" coords="559,2410,546,2485,541,2484,554,2409"/>
+<area shape="rect" id="Node000024" href="$structzyncarla_1_1AllocatorImpl.html" title=" " alt="" coords="690,1256,829,1343"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="756,1343,727,1545,681,1811,670,1865,664,1864,676,1810,722,1544,751,1342"/>
+<area shape="rect" id="Node000026" href="$classzyncarla_1_1Filter.html" title=" " alt="" coords="712,1960,832,2331"/>
+<area shape="poly" id="edge24_Node000018_Node000026" title=" " alt="" coords="732,2332,702,2411,677,2459,648,2506,587,2590,583,2587,643,2503,672,2457,697,2409,727,2330"/>
+</map>

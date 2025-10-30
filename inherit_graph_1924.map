@@ -1,0 +1,189 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classJack_1_1JackAudioAdapterInterface.html" title="Base class for audio adapters." alt="" coords="674,647,887,672"/>
+<area shape="rect" id="Node000001" href="$classJack_1_1JackAlsaAdapter.html" title="Audio adapter using ALSA API." alt="" coords="967,696,1122,722"/>
+<area shape="poly" id="edge1858_Node000000_Node000001" title=" " alt="" coords="869,673,972,693,971,698,868,678"/>
+<area shape="rect" id="Node000087" href="$classJack_1_1JackCoreAudioAdapter.html" title="Audio adapter using CoreAudio API." alt="" coords="950,548,1138,574"/>
+<area shape="poly" id="edge1859_Node000000_Node000087" title=" " alt="" coords="817,636,871,609,934,582,970,572,972,577,936,587,873,613,819,641"/>
+<area shape="rect" id="Node000028" href="$classJack_1_1JackNetAdapter.html" title="Net adapter." alt="" coords="970,647,1119,672"/>
+<area shape="poly" id="edge1860_Node000000_Node000028" title=" " alt="" coords="902,657,969,657,969,662,902,662"/>
+<area shape="rect" id="Node000067" href="$classJack_1_1JackOSSAdapter.html" title="The OSS adapter." alt="" coords="966,797,1122,823"/>
+<area shape="poly" id="edge1861_Node000000_Node000067" title=" " alt="" coords="819,678,1021,795,1019,799,817,683"/>
+<area shape="rect" id="Node000088" href="$classJack_1_1JackPortAudioAdapter.html" title="Audio adapter using PortAudio API." alt="" coords="952,597,1137,623"/>
+<area shape="poly" id="edge1862_Node000000_Node000088" title=" " alt="" coords="868,641,971,621,972,626,869,646"/>
+<area shape="rect" id="Node000071" href="$classJack_1_1detail_1_1JackClientChannelInterface.html" title="Inter process channel for server/client bidirectionnal communication : request and (receiving) notifi..." alt="" coords="472,1823,625,1864"/>
+<area shape="rect" id="Node000069" href="$classJack_1_1JackGenericClientChannel.html" title="Generic JackClientChannel class." alt="" coords="676,1753,885,1779"/>
+<area shape="poly" id="edge1863_Node000071_Node000069" title=" " alt="" coords="606,1814,673,1788,711,1777,713,1782,675,1793,608,1819"/>
+<area shape="rect" id="Node000072" href="$classJack_1_1JackInternalClientChannel.html" title="JackClientChannel for server internal clients." alt="" coords="701,1852,860,1893"/>
+<area shape="poly" id="edge1866_Node000071_Node000072" title=" " alt="" coords="641,1852,701,1860,700,1865,640,1858"/>
+<area shape="rect" id="Node000068" href="$classJack_1_1JackSocketClientChannel.html" title="JackClientChannel using sockets." alt="" coords="942,1700,1146,1726"/>
+<area shape="poly" id="edge1864_Node000069_Node000068" title=" " alt="" coords="862,1747,977,1724,978,1729,863,1752"/>
+<area shape="rect" id="Node000070" href="$classJack_1_1JackWinNamedPipeClientChannel.html" title="JackClientChannel using pipes." alt="" coords="941,1750,1148,1790"/>
+<area shape="poly" id="edge1865_Node000069_Node000070" title=" " alt="" coords="900,1765,941,1766,940,1771,900,1771"/>
+<area shape="rect" id="Node000056" href="$structJack_1_1JackClientHandlerInterface.html" title=" " alt="" coords="674,1576,887,1602"/>
+<area shape="rect" id="Node000055" href="$classJack_1_1JackClientPipeThread.html" title=" " alt="" coords="953,1552,1136,1578"/>
+<area shape="poly" id="edge1867_Node000056_Node000055" title=" " alt="" coords="902,1575,952,1570,953,1576,902,1580"/>
+<area shape="rect" id="Node000057" href="$classJack_1_1JackSocketServerChannel.html" title="JackServerChannel using sockets." alt="" coords="940,1601,1149,1627"/>
+<area shape="poly" id="edge1868_Node000056_Node000057" title=" " alt="" coords="903,1598,940,1601,939,1607,902,1603"/>
+<area shape="rect" id="Node000043" href="$classJack_1_1JackClientInterface.html" title="Client interface." alt="" coords="6,1781,173,1807"/>
+<area shape="rect" id="Node000044" href="$classJack_1_1JackClient.html" title="The base class for clients: share part of the implementation for JackInternalClient and JackLibClient..." alt="" coords="986,1913,1102,1939"/>
+<area shape="poly" id="edge1869_Node000043_Node000044" title=" " alt="" coords="160,1809,387,1858,530,1883,675,1902,844,1915,986,1922,986,1927,844,1920,674,1907,529,1888,386,1863,159,1814"/>
+<area shape="rect" id="Node000038" href="$classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="222,1651,423,1676"/>
+<area shape="poly" id="edge1876_Node000043_Node000038" title=" " alt="" coords="126,1771,296,1675,299,1679,129,1776"/>
+<area shape="rect" id="Node000051" href="$classJack_1_1JackExternalClient.html" title="Server side implementation of library clients." alt="" coords="241,1781,404,1807"/>
+<area shape="poly" id="edge1905_Node000043_Node000051" title=" " alt="" coords="188,1792,241,1792,241,1797,188,1797"/>
+<area shape="rect" id="Node000045" href="$classJack_1_1JackDebugClient.html" title="A &quot;decorator&quot; debug client to validate API use." alt="" coords="1224,1913,1377,1939"/>
+<area shape="poly" id="edge1870_Node000044_Node000045" title=" " alt="" coords="1118,1924,1223,1924,1223,1929,1118,1929"/>
+<area shape="rect" id="Node000046" href="$classJack_1_1JackInternalClient.html" title="Internal clients in the server." alt="" coords="1221,1963,1380,1988"/>
+<area shape="poly" id="edge1871_Node000044_Node000046" title=" " alt="" coords="1118,1937,1230,1959,1229,1965,1117,1943"/>
+<area shape="rect" id="Node000050" href="$classJack_1_1JackLibClient.html" title="Client on the library side." alt="" coords="1234,1864,1368,1890"/>
+<area shape="poly" id="edge1875_Node000044_Node000050" title=" " alt="" coords="1117,1910,1233,1887,1234,1892,1118,1915"/>
+<area shape="rect" id="Node000047" href="$classJack_1_1JackLoadableInternalClient.html" title=" " alt="" coords="1454,1955,1634,1996"/>
+<area shape="poly" id="edge1872_Node000046_Node000047" title=" " alt="" coords="1396,1973,1454,1973,1454,1978,1396,1978"/>
+<area shape="rect" id="Node000048" href="$classJack_1_1JackLoadableInternalClient1.html" title=" " alt="" coords="1689,1922,1868,1962"/>
+<area shape="poly" id="edge1873_Node000047_Node000048" title=" " alt="" coords="1649,1958,1688,1952,1689,1958,1650,1963"/>
+<area shape="rect" id="Node000049" href="$classJack_1_1JackLoadableInternalClient2.html" title=" " alt="" coords="1689,1987,1868,2028"/>
+<area shape="poly" id="edge1874_Node000047_Node000049" title=" " alt="" coords="1650,1987,1689,1993,1688,1998,1649,1993"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackDriver.html" title=" " alt="" coords="490,1199,607,1224"/>
+<area shape="poly" id="edge1877_Node000038_Node000011" title=" " alt="" coords="334,1636,538,1223,543,1226,339,1638"/>
+<area shape="rect" id="Node000039" href="$classJack_1_1JackThreadedDriver.html" title="The base class for threaded drivers using a &quot;decorator&quot; pattern. Threaded drivers are used with block..." alt="" coords="959,1651,1130,1676"/>
+<area shape="poly" id="edge1901_Node000038_Node000039" title=" " alt="" coords="438,1661,958,1661,958,1666,438,1666"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackAudioDriver.html" title="The base class for audio drivers: drivers with audio ports." alt="" coords="705,277,856,303"/>
+<area shape="poly" id="edge1878_Node000011_Node000012" title=" " alt="" coords="553,1183,598,955,632,796,672,633,729,436,772,302,777,304,734,437,677,635,638,797,603,957,558,1184"/>
+<area shape="rect" id="Node000037" href="$classJack_1_1JackFreewheelDriver.html" title="The FreeWheel driver : run Jack engine at full speed." alt="" coords="692,797,869,823"/>
+<area shape="poly" id="edge1896_Node000011_Node000037" title=" " alt="" coords="548,1183,554,1112,572,1017,588,967,609,918,637,872,673,832,690,820,693,825,676,836,641,875,614,920,593,969,577,1018,559,1112,553,1183"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackMidiDriver.html" title="The base class for MIDI drivers: drivers with MIDI ports." alt="" coords="710,1803,851,1828"/>
+<area shape="poly" id="edge1897_Node000011_Node000005" title=" " alt="" coords="555,1239,566,1358,589,1524,606,1609,626,1685,649,1748,662,1772,676,1790,692,1801,710,1808,708,1813,689,1806,672,1793,658,1775,644,1750,620,1687,601,1610,584,1525,561,1359,549,1240"/>
+<area shape="rect" id="Node000013" href="$classJack_1_1JackAlsaDriver.html" title="The ALSA driver." alt="" coords="973,55,1116,80"/>
+<area shape="poly" id="edge1879_Node000012_Node000013" title=" " alt="" coords="792,262,814,223,845,176,885,129,933,89,972,73,974,78,936,94,889,133,849,179,818,226,797,265"/>
+<area shape="rect" id="Node000014" href="$classJack_1_1JackBoomerDriver.html" title="The Boomer driver." alt="" coords="963,104,1126,130"/>
+<area shape="poly" id="edge1880_Node000012_Node000014" title=" " alt="" coords="798,263,854,200,891,167,933,138,962,127,964,132,936,143,895,171,857,204,802,267"/>
+<area shape="rect" id="Node000015" href="$classJack_1_1JackCoreAudioDriver.html" title=" " alt="" coords="956,153,1133,179"/>
+<area shape="poly" id="edge1881_Node000012_Node000015" title=" " alt="" coords="808,266,864,226,934,188,965,177,967,182,936,193,867,230,811,270"/>
+<area shape="rect" id="Node000016" href="$classJack_1_1JackFFADODriver.html" title="The FFADO driver." alt="" coords="964,203,1125,228"/>
+<area shape="poly" id="edge1882_Node000012_Node000016" title=" " alt="" coords="832,269,934,237,977,226,978,231,935,242,834,274"/>
+<area shape="rect" id="Node000017" href="$classJack_1_1JackGoldfishDriver.html" title="The goldfish driver." alt="" coords="962,252,1126,278"/>
+<area shape="poly" id="edge1883_Node000012_Node000017" title=" " alt="" coords="871,279,961,270,962,275,872,284"/>
+<area shape="rect" id="Node000018" href="$classJack_1_1JackIIODriver.html" title=" " alt="" coords="977,301,1112,327"/>
+<area shape="poly" id="edge1884_Node000012_Node000018" title=" " alt="" coords="872,296,977,305,976,311,871,301"/>
+<area shape="rect" id="Node000019" href="$classJack_1_1JackLoopbackDriver.html" title="The loopback driver : to be used to &quot;pipeline&quot; applications connected in sequence." alt="" coords="957,351,1132,376"/>
+<area shape="poly" id="edge1885_Node000012_Node000019" title=" " alt="" coords="835,306,935,337,978,347,977,353,934,342,833,311"/>
+<area shape="rect" id="Node000020" href="$classJack_1_1JackOSSDriver.html" title="The OSS driver." alt="" coords="972,400,1117,426"/>
+<area shape="poly" id="edge1886_Node000012_Node000020" title=" " alt="" coords="811,311,867,350,936,386,972,398,971,403,934,391,864,354,808,315"/>
+<area shape="rect" id="Node000021" href="$classJack_1_1JackOpenSLESDriver.html" title="The OpenSLES driver." alt="" coords="953,449,1136,475"/>
+<area shape="poly" id="edge1887_Node000012_Node000021" title=" " alt="" coords="802,313,858,376,895,408,936,436,961,446,959,451,933,441,891,413,854,379,798,317"/>
+<area shape="rect" id="Node000022" href="$classJack_1_1JackPortAudioDriver.html" title="The PortAudio driver." alt="" coords="957,5,1132,31"/>
+<area shape="poly" id="edge1888_Node000012_Node000022" title=" " alt="" coords="788,261,807,213,837,153,879,91,905,64,933,40,956,28,958,33,936,44,908,68,883,95,842,155,812,215,793,263"/>
+<area shape="rect" id="Node000023" href="$classJack_1_1JackTimedDriver.html" title="The timed driver." alt="" coords="968,499,1121,524"/>
+<area shape="poly" id="edge1889_Node000012_Node000023" title=" " alt="" coords="797,315,819,354,850,400,889,447,936,485,969,499,966,504,933,490,885,451,845,404,814,357,792,318"/>
+<area shape="rect" id="Node000024" href="$classJack_1_1JackDummyDriver.html" title="The dummy driver." alt="" coords="1220,499,1381,524"/>
+<area shape="poly" id="edge1890_Node000023_Node000024" title=" " alt="" coords="1137,509,1220,509,1220,514,1137,514"/>
+<area shape="rect" id="Node000025" href="$classJack_1_1JackWaiterDriver.html" title=" " alt="" coords="1224,597,1378,623"/>
+<area shape="poly" id="edge1891_Node000023_Node000025" title=" " alt="" coords="1134,526,1155,533,1224,564,1279,594,1276,599,1221,568,1153,538,1132,531"/>
+<area shape="rect" id="Node000026" href="$classJack_1_1JackNetDriver.html" title=" " alt="" coords="1475,721,1613,747"/>
+<area shape="poly" id="edge1892_Node000025_Node000026" title=" " alt="" coords="1343,628,1518,718,1516,723,1340,633"/>
+<area shape="rect" id="Node000034" href="$classJack_1_1JackNetOneDriver.html" title=" " alt="" coords="1463,623,1625,648"/>
+<area shape="poly" id="edge1893_Node000025_Node000034" title=" " alt="" coords="1393,617,1463,624,1462,630,1393,622"/>
+<area shape="rect" id="Node000035" href="$classJack_1_1JackRestarterDriver.html" title="A restartable driver." alt="" coords="1459,573,1629,599"/>
+<area shape="poly" id="edge1894_Node000025_Node000035" title=" " alt="" coords="1393,598,1458,592,1459,597,1394,604"/>
+<area shape="rect" id="Node000036" href="$classJack_1_1JackProxyDriver.html" title=" " alt="" coords="1704,573,1853,599"/>
+<area shape="poly" id="edge1895_Node000035_Node000036" title=" " alt="" coords="1644,584,1703,584,1703,589,1644,589"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackALSARawMidiDriver.html" title=" " alt="" coords="943,1815,1146,1840"/>
+<area shape="poly" id="edge1898_Node000005_Node000004" title=" " alt="" coords="867,1817,943,1820,943,1826,867,1822"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackCoreMidiDriver.html" title=" " alt="" coords="960,1963,1128,1988"/>
+<area shape="poly" id="edge1899_Node000005_Node000006" title=" " alt="" coords="867,1826,888,1839,901,1853,908,1867,913,1896,918,1924,925,1937,936,1949,961,1963,959,1968,933,1954,920,1940,913,1926,908,1897,903,1869,897,1856,885,1843,864,1830"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1JackWinMMEDriver.html" title=" " alt="" coords="960,1864,1129,1890"/>
+<area shape="poly" id="edge1900_Node000005_Node000010" title=" " alt="" coords="853,1830,887,1838,935,1850,982,1861,980,1866,934,1855,886,1843,852,1835"/>
+<area shape="rect" id="Node000040" href="$classJack_1_1JackRestartThreadedDriver.html" title="Restart a driver after an exception is thrown." alt="" coords="1211,1615,1390,1656"/>
+<area shape="poly" id="edge1902_Node000039_Node000040" title=" " alt="" coords="1145,1650,1210,1643,1211,1648,1146,1655"/>
+<area shape="rect" id="Node000041" href="$classJack_1_1JackWaitThreadedDriver.html" title="Wrapper for a restartable threaded driver (e.g. JackNetDriver)." alt="" coords="1202,1680,1399,1706"/>
+<area shape="poly" id="edge1903_Node000039_Node000041" title=" " alt="" coords="1146,1672,1202,1679,1201,1684,1145,1678"/>
+<area shape="rect" id="Node000042" href="$classJack_1_1JackWaitCallbackDriver.html" title="Wrapper for a restartable non&#45;threaded driver (e.g. JackProxyDriver)." alt="" coords="1447,1680,1641,1706"/>
+<area shape="poly" id="edge1904_Node000041_Node000042" title=" " alt="" coords="1415,1690,1447,1690,1447,1696,1415,1696"/>
+<area shape="rect" id="Node000061" href="$classJack_1_1JackCoreMidiPort.html" title=" " alt="" coords="701,2237,860,2263"/>
+<area shape="rect" id="Node000062" href="$classJack_1_1JackCoreMidiInputPort.html" title=" " alt="" coords="951,2267,1138,2292"/>
+<area shape="poly" id="edge1906_Node000061_Node000062" title=" " alt="" coords="875,2258,951,2266,950,2272,875,2263"/>
+<area shape="rect" id="Node000058" href="$classJack_1_1JackCoreMidiOutputPort.html" title=" " alt="" coords="946,2209,1143,2235"/>
+<area shape="poly" id="edge1909_Node000061_Node000058" title=" " alt="" coords="875,2238,945,2230,946,2235,875,2243"/>
+<area shape="rect" id="Node000063" href="$classJack_1_1JackCoreMidiPhysicalInputPort.html" title=" " alt="" coords="1209,2263,1392,2304"/>
+<area shape="poly" id="edge1907_Node000062_Node000063" title=" " alt="" coords="1154,2279,1209,2279,1209,2285,1154,2284"/>
+<area shape="rect" id="Node000064" href="$classJack_1_1JackCoreMidiVirtualInputPort.html" title=" " alt="" coords="1215,2328,1386,2369"/>
+<area shape="poly" id="edge1908_Node000062_Node000064" title=" " alt="" coords="1126,2294,1155,2301,1237,2325,1236,2330,1153,2306,1125,2299"/>
+<area shape="rect" id="Node000059" href="$classJack_1_1JackCoreMidiPhysicalOutputPort.html" title=" " alt="" coords="1209,2132,1392,2173"/>
+<area shape="poly" id="edge1910_Node000058_Node000059" title=" " alt="" coords="1125,2203,1153,2196,1236,2171,1237,2176,1155,2201,1126,2208"/>
+<area shape="rect" id="Node000060" href="$classJack_1_1JackCoreMidiVirtualOutputPort.html" title=" " alt="" coords="1215,2198,1386,2238"/>
+<area shape="poly" id="edge1911_Node000058_Node000060" title=" " alt="" coords="1158,2218,1214,2217,1215,2222,1158,2223"/>
+<area shape="rect" id="Node000052" href="$classJack_1_1JackDriverInterface.html" title="The base interface for drivers." alt="" coords="5,1651,174,1676"/>
+<area shape="poly" id="edge1912_Node000052_Node000038" title=" " alt="" coords="189,1661,221,1661,221,1666,189,1666"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackLockAble.html" title="Base class for &quot;lockable&quot; objects." alt="" coords="711,2111,850,2136"/>
+<area shape="poly" id="edge1913_Node000007_Node000006" title=" " alt="" coords="815,2100,885,2048,907,2021,917,2009,933,1997,959,1986,961,1991,936,2002,921,2013,911,2025,888,2052,818,2104"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackEngine.html" title="Engine description." alt="" coords="983,2160,1106,2186"/>
+<area shape="poly" id="edge1914_Node000007_Node000008" title=" " alt="" coords="865,2137,983,2159,982,2164,864,2142"/>
+<area shape="rect" id="Node000009" href="$structLockedObject.html" title=" " alt="" coords="993,2111,1096,2136"/>
+<area shape="poly" id="edge1915_Node000007_Node000009" title=" " alt="" coords="865,2121,993,2121,993,2126,865,2126"/>
+<area shape="rect" id="Node000030" href="$classJack_1_1JackNetInterface.html" title=" " alt="" coords="471,1725,626,1751"/>
+<area shape="rect" id="Node000031" href="$classJack_1_1JackNetMasterInterface.html" title=" " alt="" coords="683,2012,878,2038"/>
+<area shape="poly" id="edge1916_Node000030_Node000031" title=" " alt="" coords="580,1759,605,1783,628,1810,644,1835,653,1857,662,1878,677,1903,725,1964,767,2010,763,2013,721,1968,672,1906,657,1880,648,1859,640,1838,624,1813,601,1786,576,1763"/>
+<area shape="rect" id="Node000027" href="$classJack_1_1JackNetSlaveInterface.html" title=" " alt="" coords="686,847,875,872"/>
+<area shape="poly" id="edge1919_Node000030_Node000027" title=" " alt="" coords="555,1709,773,872,778,873,560,1711"/>
+<area shape="rect" id="Node000032" href="$structJack_1_1JackNetExtMaster.html" title=" " alt="" coords="963,2061,1126,2087"/>
+<area shape="poly" id="edge1917_Node000031_Node000032" title=" " alt="" coords="869,2039,972,2058,971,2063,868,2044"/>
+<area shape="rect" id="Node000033" href="$classJack_1_1JackNetMaster.html" title=" " alt="" coords="972,2012,1116,2038"/>
+<area shape="poly" id="edge1918_Node000031_Node000033" title=" " alt="" coords="894,2022,972,2022,972,2028,894,2028"/>
+<area shape="poly" id="edge1920_Node000027_Node000028" title=" " alt="" coords="882,836,885,834,899,816,906,798,908,759,910,720,917,700,933,682,950,670,968,663,970,667,952,675,936,685,922,703,915,721,913,760,911,799,904,818,889,837,886,840"/>
+<area shape="poly" id="edge1921_Node000027_Node000026" title=" " alt="" coords="876,838,885,833,900,821,908,808,917,794,933,782,978,767,1039,755,1188,740,1345,733,1475,731,1475,736,1345,738,1188,745,1040,761,980,772,936,787,921,798,913,811,904,825,888,838,878,843"/>
+<area shape="rect" id="Node000029" href="$structJack_1_1JackNetExtSlave.html" title=" " alt="" coords="967,847,1122,872"/>
+<area shape="poly" id="edge1922_Node000027_Node000029" title=" " alt="" coords="890,857,966,857,966,862,890,862"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="686,1351,875,1376"/>
+<area shape="poly" id="edge1925_Node000002_Node000001" title=" " alt="" coords="784,1335,806,1219,840,1056,884,895,908,830,932,783,950,763,971,745,1012,720,1015,724,974,750,954,767,937,786,913,832,889,897,846,1057,811,1220,789,1336"/>
+<area shape="poly" id="edge1934_Node000002_Node000028" title=" " alt="" coords="785,1335,867,963,932,682,949,669,968,662,970,667,952,674,937,685,872,964,791,1336"/>
+<area shape="poly" id="edge1936_Node000002_Node000067" title=" " alt="" coords="778,1335,781,1239,787,1174,799,1103,818,1030,845,958,883,891,906,860,933,832,948,821,965,814,967,819,950,826,936,836,910,864,888,894,850,960,823,1031,804,1104,792,1175,786,1239,783,1335"/>
+<area shape="poly" id="edge1937_Node000002_Node000068" title=" " alt="" coords="799,1389,841,1466,889,1563,901,1600,906,1631,914,1659,936,1687,952,1697,949,1702,933,1691,909,1662,900,1633,896,1601,884,1564,837,1468,795,1391"/>
+<area shape="poly" id="edge1942_Node000002_Node000070" title=" " alt="" coords="800,1388,843,1465,889,1563,897,1590,901,1614,903,1657,910,1696,920,1716,937,1736,950,1747,947,1751,933,1740,915,1719,905,1698,898,1658,896,1615,892,1591,884,1564,839,1467,796,1391"/>
+<area shape="poly" id="edge1929_Node000002_Node000055" title=" " alt="" coords="799,1388,821,1423,853,1464,891,1505,936,1539,959,1549,956,1554,933,1543,888,1509,849,1467,817,1426,794,1391"/>
+<area shape="poly" id="edge1938_Node000002_Node000057" title=" " alt="" coords="795,1389,815,1434,845,1488,886,1543,910,1567,936,1588,956,1598,954,1603,933,1592,906,1571,882,1546,841,1491,810,1436,790,1392"/>
+<area shape="poly" id="edge1928_Node000002_Node000044" title=" " alt="" coords="801,1388,846,1464,870,1512,889,1563,896,1596,899,1639,903,1739,911,1835,921,1874,937,1900,959,1916,987,1923,985,1929,957,1921,933,1904,916,1876,906,1836,897,1739,894,1639,891,1597,884,1564,865,1514,841,1467,797,1391"/>
+<area shape="poly" id="edge1924_Node000002_Node000004" title=" " alt="" coords="801,1389,845,1465,869,1513,889,1563,899,1599,901,1633,899,1692,899,1719,903,1746,915,1772,937,1800,952,1812,949,1816,933,1804,910,1775,898,1747,893,1720,893,1692,896,1633,893,1600,884,1564,864,1515,840,1467,797,1391"/>
+<area shape="poly" id="edge1930_Node000002_Node000006" title=" " alt="" coords="802,1388,846,1464,870,1512,889,1563,896,1601,900,1650,901,1764,903,1822,909,1875,919,1919,937,1950,961,1966,958,1971,933,1953,914,1921,904,1876,898,1823,896,1765,894,1650,891,1602,884,1564,865,1514,842,1466,797,1391"/>
+<area shape="poly" id="edge1939_Node000002_Node000039" title=" " alt="" coords="798,1389,877,1536,915,1605,936,1638,960,1650,957,1655,933,1641,911,1608,872,1538,793,1391"/>
+<area shape="poly" id="edge1931_Node000002_Node000058" title=" " alt="" coords="802,1388,847,1464,871,1512,889,1563,899,1625,900,1705,893,1892,892,1986,896,2073,910,2145,922,2174,937,2196,949,2207,945,2211,933,2200,917,2176,905,2147,891,2073,886,1986,888,1892,895,1705,893,1626,884,1564,866,1514,843,1466,797,1390"/>
+<area shape="poly" id="edge1935_Node000002_Node000029" title=" " alt="" coords="779,1335,784,1247,792,1188,805,1124,824,1058,851,994,887,934,933,882,948,871,965,863,967,868,951,875,936,885,891,937,856,996,829,1060,810,1125,797,1189,790,1247,784,1335"/>
+<area shape="rect" id="Node000003" href="$structClientThread.html" title=" " alt="" coords="997,1323,1092,1348"/>
+<area shape="poly" id="edge1923_Node000002_Node000003" title=" " alt="" coords="890,1349,996,1338,997,1343,891,1355"/>
+<area shape="rect" id="Node000053" href="$classJack_1_1JackBoomerDriver_1_1JackBoomerDriverInput.html" title=" " alt="" coords="963,1372,1126,1413"/>
+<area shape="poly" id="edge1926_Node000002_Node000053" title=" " alt="" coords="890,1373,963,1381,962,1386,890,1378"/>
+<area shape="rect" id="Node000054" href="$classJack_1_1JackBoomerDriver_1_1JackBoomerDriverOutput.html" title=" " alt="" coords="958,1438,1131,1478"/>
+<area shape="poly" id="edge1927_Node000002_Node000054" title=" " alt="" coords="828,1380,936,1422,973,1435,971,1440,934,1427,826,1385"/>
+<area shape="rect" id="Node000065" href="$classJack_1_1JackMachSemaphoreServer.html" title="A runnable thread which listens for IPC messages and replies with a semaphore send right." alt="" coords="935,1503,1154,1528"/>
+<area shape="poly" id="edge1932_Node000002_Node000065" title=" " alt="" coords="806,1386,862,1438,898,1465,936,1488,967,1500,965,1505,934,1493,895,1470,859,1442,803,1390"/>
+<area shape="rect" id="Node000066" href="$classJack_1_1JackMessageBuffer.html" title="Message buffer to be used from RT threads." alt="" coords="959,896,1130,922"/>
+<area shape="poly" id="edge1933_Node000002_Node000066" title=" " alt="" coords="780,1335,789,1255,798,1203,812,1146,832,1088,858,1031,891,978,933,932,958,917,960,922,936,936,895,981,862,1033,837,1090,817,1148,803,1204,794,1256,786,1335"/>
+<area shape="rect" id="Node000073" href="$structJack_1_1JackWaitThreadedDriver_1_1JackDriverStarter.html" title=" " alt="" coords="946,946,1143,986"/>
+<area shape="poly" id="edge1940_Node000002_Node000073" title=" " alt="" coords="783,1335,796,1267,823,1176,842,1128,867,1081,897,1036,933,997,951,985,954,989,936,1002,901,1040,872,1083,847,1130,828,1178,801,1268,788,1336"/>
+<area shape="rect" id="Node000074" href="$classJack_1_1JackWinMMEOutputPort.html" title=" " alt="" coords="945,2316,1144,2342"/>
+<area shape="poly" id="edge1941_Node000002_Node000074" title=" " alt="" coords="802,1388,848,1464,871,1512,889,1563,896,1615,899,1704,902,1940,904,2064,910,2174,921,2258,928,2286,937,2303,948,2313,945,2317,933,2306,923,2288,915,2259,905,2174,899,2064,896,1941,893,1704,890,1616,884,1564,866,1514,843,1466,797,1390"/>
+<area shape="rect" id="Node000078" href="$classJack_1_1JackWinNamedPipeServerChannel.html" title="JackServerChannel using pipe." alt="" coords="939,1011,1150,1052"/>
+<area shape="poly" id="edge1943_Node000002_Node000078" title=" " alt="" coords="786,1335,802,1278,831,1204,851,1165,874,1127,901,1092,933,1061,950,1050,953,1055,936,1066,905,1096,879,1130,855,1168,836,1206,807,1279,791,1336"/>
+<area shape="rect" id="Node000079" href="$structServerThread.html" title=" " alt="" coords="995,1076,1094,1102"/>
+<area shape="poly" id="edge1944_Node000002_Node000079" title=" " alt="" coords="788,1335,807,1286,837,1225,879,1163,904,1135,933,1111,963,1096,994,1089,995,1094,964,1101,936,1115,908,1139,883,1166,842,1227,812,1288,793,1336"/>
+<area shape="rect" id="Node000080" href="$classTest1.html" title=" " alt="" coords="977,1125,1112,1151"/>
+<area shape="poly" id="edge1945_Node000002_Node000080" title=" " alt="" coords="792,1335,814,1296,845,1248,885,1200,933,1160,954,1149,976,1143,978,1148,956,1154,936,1164,889,1204,849,1251,818,1298,797,1338"/>
+<area shape="rect" id="Node000081" href="$classTest2.html" title=" " alt="" coords="977,1175,1112,1200"/>
+<area shape="poly" id="edge1946_Node000002_Node000081" title=" " alt="" coords="798,1336,853,1272,891,1238,933,1209,976,1193,978,1198,936,1214,894,1242,857,1276,802,1340"/>
+<area shape="rect" id="Node000082" href="$structTestThread.html" title="Base class for reader/writer threads." alt="" coords="1001,1224,1088,1250"/>
+<area shape="poly" id="edge1947_Node000002_Node000082" title=" " alt="" coords="807,1339,863,1297,934,1258,967,1247,1000,1240,1001,1245,968,1252,936,1263,866,1302,810,1343"/>
+<area shape="rect" id="Node000086" href="$structTestThread1.html" title=" " alt="" coords="997,1273,1092,1299"/>
+<area shape="poly" id="edge1951_Node000002_Node000086" title=" " alt="" coords="830,1342,934,1308,996,1293,997,1298,935,1313,832,1347"/>
+<area shape="rect" id="Node000083" href="$structRTReaderThread.html" title="&quot;Real&#45;time&quot; reader thread." alt="" coords="1241,1273,1360,1299"/>
+<area shape="poly" id="edge1948_Node000082_Node000083" title=" " alt="" coords="1104,1245,1241,1272,1240,1277,1103,1251"/>
+<area shape="rect" id="Node000084" href="$structReaderThread.html" title="Non &quot;Real&#45;time&quot; reader thread." alt="" coords="1250,1175,1352,1200"/>
+<area shape="poly" id="edge1949_Node000082_Node000084" title=" " alt="" coords="1102,1223,1248,1195,1249,1200,1103,1228"/>
+<area shape="rect" id="Node000085" href="$structWriterThread.html" title="Writer thread." alt="" coords="1253,1224,1348,1250"/>
+<area shape="poly" id="edge1950_Node000082_Node000085" title=" " alt="" coords="1103,1234,1252,1234,1252,1240,1103,1240"/>
+<area shape="rect" id="Node000075" href="$classJack_1_1JackWinMMEPort.html" title=" " alt="" coords="701,2316,860,2342"/>
+<area shape="poly" id="edge1953_Node000075_Node000074" title=" " alt="" coords="876,2326,945,2326,945,2332,876,2332"/>
+<area shape="rect" id="Node000076" href="$classJack_1_1JackWinMMEInputPort.html" title=" " alt="" coords="950,2365,1138,2391"/>
+<area shape="poly" id="edge1952_Node000075_Node000076" title=" " alt="" coords="869,2343,972,2362,971,2367,868,2348"/>
+<area shape="rect" id="Node000077" href="$classJackWinMMEPort.html" title=" " alt="" coords="718,2365,843,2391"/>
+<area shape="poly" id="edge1955_Node000077_Node000074" title=" " alt="" coords="858,2361,971,2340,972,2345,859,2366"/>
+<area shape="poly" id="edge1954_Node000077_Node000076" title=" " alt="" coords="859,2376,950,2376,950,2381,859,2381"/>
+</map>

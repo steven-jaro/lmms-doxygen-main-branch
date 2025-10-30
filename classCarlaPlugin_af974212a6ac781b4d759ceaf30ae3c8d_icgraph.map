@@ -1,0 +1,39 @@
+<map id="CarlaPlugin::uiNoteOff" name="CarlaPlugin::uiNoteOff">
+<area shape="rect" id="Node000001" title=" " alt="" coords="653,333,802,358"/>
+<area shape="rect" id="Node000002" href="$classCarlaPlugin.html#a6ae43a1bebac4774704e46d11bf2d58f" title=" " alt="" coords="444,186,557,212"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,326,521,214,524,210,695,322"/>
+<area shape="rect" id="Node000012" href="$classCarlaPlugin.html#a329c161e026b4c05220980b62139a512" title=" " alt="" coords="199,333,338,358"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="638,348,338,348,338,343,638,343"/>
+<area shape="rect" id="Node000013" href="$classCarlaPlugin.html#a83c56f66cb1c5ff7301333fb53fd6414" title=" " alt="" coords="396,358,605,384"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="638,358,606,362,605,357,637,353"/>
+<area shape="rect" id="Node000014" href="$classCarlaPlugin.html#a9a1c1b33edabd84d9dc8cedeaca378be" title=" " alt="" coords="438,432,563,457"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="683,368,534,433,531,428,681,363"/>
+<area shape="rect" id="Node000003" href="$classCarlaPluginBridge.html#a234a229147319cfa6456ebc9d4e45293" title=" " alt="" coords="193,13,344,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,176,423,114,387,81,347,52,324,42,327,37,349,47,390,76,427,110,482,172"/>
+<area shape="rect" id="Node000007" href="$classCarlaPluginCLAP.html#a3b0581dc5da0ef53d0ffeef863d07913" title=" " alt="" coords="194,62,342,88"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="469,178,414,140,347,101,320,91,322,86,349,97,417,135,472,174"/>
+<area shape="rect" id="Node000008" href="$classCarlaPluginLV2.html#a18d27865db51f735315e821ff8081ce9" title=" " alt="" coords="200,112,337,137"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="445,183,347,151,313,140,315,135,349,146,447,178"/>
+<area shape="rect" id="Node000009" href="$classCarlaPluginNative.html#a2549c145b53f1be518abb7c19ea3c4bf" title=" " alt="" coords="193,161,344,186"/>
+<area shape="poly" id="edge6_Node000002_Node000009" title=" " alt="" coords="428,194,344,185,345,179,429,189"/>
+<area shape="rect" id="Node000010" href="$classCarlaPluginVST2.html#a3201190ca9192bc38948abfe34c82601" title=" " alt="" coords="195,210,342,236"/>
+<area shape="poly" id="edge7_Node000002_Node000010" title=" " alt="" coords="429,209,342,218,342,213,428,204"/>
+<area shape="rect" id="Node000011" href="$classCarlaPluginVST3.html#ae5e56a16b7f2c2fb0d3354f655be00fa" title=" " alt="" coords="195,260,342,285"/>
+<area shape="poly" id="edge8_Node000002_Node000011" title=" " alt="" coords="445,220,349,251,315,261,313,256,347,246,444,215"/>
+<area shape="poly" id="edge9_Node000002_Node000012" title=" " alt="" coords="468,223,349,300,293,334,291,330,347,295,465,218"/>
+<area shape="rect" id="Node000004" href="$classCarlaPluginBridge.html#a39a6751a39be1f329c7dffe9d0c48b07" title=" " alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,28,141,28,141,23,177,23"/>
+<area shape="poly" id="edge10_Node000012_Node000012" title=" " alt="" coords="302,320,291,314,268,311,248,313,237,318,234,324,240,331,236,334,229,324,233,314,246,308,268,306,292,309,305,316"/>
+<area shape="poly" id="edge13_Node000013_Node000012" title=" " alt="" coords="380,361,338,356,338,351,381,355"/>
+<area shape="poly" id="edge15_Node000014_Node000012" title=" " alt="" coords="455,427,395,399,347,372,318,362,320,357,349,367,397,394,457,423"/>
+<area shape="rect" id="Node000015" href="$classCarlaPluginCLAP.html#a22263b434adf8678944eaeec3cb40753" title=" " alt="" coords="189,382,348,408"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="423,431,332,411,333,406,424,425"/>
+<area shape="rect" id="Node000016" href="$classCarlaPluginLV2.html#a99b4e07fdcd38bec7a11c11e66ec356a" title=" " alt="" coords="194,432,342,457"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="423,447,343,447,343,442,423,442"/>
+<area shape="rect" id="Node000017" href="$classCarlaPluginNative.html#a0a7893f6a7aab159899d3e25f61489e6" title=" " alt="" coords="203,481,334,522"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="432,464,335,488,334,483,430,459"/>
+<area shape="rect" id="Node000018" href="$classCarlaPluginVST2.html#a47601fe757410169e3abd15e6f538375" title=" " alt="" coords="190,546,347,572"/>
+<area shape="poly" id="edge19_Node000014_Node000018" title=" " alt="" coords="469,468,414,502,349,536,318,548,316,543,347,531,411,498,466,464"/>
+<area shape="rect" id="Node000019" href="$classCarlaPluginVST3.html#a53c3de760e8cc05ff867b5fc3cec0c0a" title=" " alt="" coords="190,596,347,621"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="481,471,425,529,389,560,349,587,326,597,324,592,347,582,386,556,422,525,477,467"/>
+</map>

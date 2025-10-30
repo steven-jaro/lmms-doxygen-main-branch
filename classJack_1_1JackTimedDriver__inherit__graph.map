@@ -1,0 +1,21 @@
+<map id="Jack::JackTimedDriver" name="Jack::JackTimedDriver">
+<area shape="rect" id="Node000001" title="The timed driver." alt="" coords="165,1955,308,2163"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackDummyDriver.html" title="The dummy driver." alt="" coords="76,2211,227,2318"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="190,2178,176,2212,171,2210,185,2176"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1JackWaiterDriver.html" title=" " alt="" coords="250,2211,394,2318"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="288,2176,303,2210,298,2212,283,2178"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackAudioDriver.html" title="The base class for audio drivers: drivers with audio ports." alt="" coords="141,1393,332,1907"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,1922,239,1955,234,1955,234,1922"/>
+<area shape="rect" id="Node000003" href="$classJack_1_1JackDriver.html" title=" " alt="" coords="159,120,314,1345"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,1360,239,1393,234,1393,234,1360"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackDriverClientInterface.html" title="The base interface for drivers clients." alt="" coords="141,5,332,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,87,239,120,234,120,234,87"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1JackNetDriver.html" title=" " alt="" coords="5,2366,217,3002"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="259,2331,232,2368,220,2390,215,2387,228,2365,255,2328"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1JackNetOneDriver.html" title=" " alt="" coords="242,2458,402,2910"/>
+<area shape="poly" id="edge7_Node000008_Node000010" title=" " alt="" coords="325,2333,325,2458,319,2458,319,2333"/>
+<area shape="rect" id="Node000011" href="$classJack_1_1JackRestarterDriver.html" title="A restartable driver." alt="" coords="426,2620,586,2748"/>
+<area shape="poly" id="edge8_Node000008_Node000011" title=" " alt="" coords="390,2328,416,2365,447,2430,471,2498,488,2564,499,2620,494,2621,483,2565,466,2500,442,2432,412,2368,386,2331"/>
+<area shape="rect" id="Node000012" href="$classJack_1_1JackProxyDriver.html" title=" " alt="" coords="394,3050,618,4235"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="509,2763,509,3050,503,3050,503,2763"/>
+</map>

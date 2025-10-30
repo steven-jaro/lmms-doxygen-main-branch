@@ -1,0 +1,25 @@
+var namespacestd =
+[
+    [ "experimental", "namespacestd_1_1experimental.html", "namespacestd_1_1experimental" ],
+    [ "shared_ptr_count", "classstd_1_1shared__ptr__count.html", "classstd_1_1shared__ptr__count" ],
+    [ "shared_ptr", "classstd_1_1shared__ptr.html", "classstd_1_1shared__ptr" ],
+    [ "hash&lt; juce::Uuid &gt;", "structstd_1_1hash_3_01juce_1_1Uuid_01_4.html", "structstd_1_1hash_3_01juce_1_1Uuid_01_4" ],
+    [ "hash&lt; juce::String &gt;", "structstd_1_1hash_3_01juce_1_1String_01_4.html", "structstd_1_1hash_3_01juce_1_1String_01_4" ],
+    [ "tuple_size&lt;::juce::dsp::ProcessorChain&lt; Processors... &gt; &gt;", "structstd_1_1tuple__size_3_1_1juce_1_1dsp_1_1ProcessorChain_3_01Processors_8_8_8_01_4_01_4.html", null ],
+    [ "tuple_element&lt; I, ::juce::dsp::ProcessorChain&lt; Processors... &gt; &gt;", "structstd_1_1tuple__element_3_01I_00_01_1_1juce_1_1dsp_1_1ProcessorChain_3_01Processors_8_8_8_01_4_01_4.html", null ],
+    [ "complex", "structstd_1_1complex.html", null ],
+    [ "dynamic_pointer_cast", "namespacestd.html#af3a4f2d6b4a413de079b990c3a31fd84", null ],
+    [ "fmax", "namespacestd.html#aa4364e542bc38824b83ab3af80607577", null ],
+    [ "fmin", "namespacestd.html#afc11ffce8be3987f0efd7d889c02ee8b", null ],
+    [ "operator!=", "namespacestd.html#a800d8ae266931be9a92ed45358c67795", null ],
+    [ "operator!=", "namespacestd.html#adb38ec8c0c673c5da9294ec36de574e8", null ],
+    [ "operator<", "namespacestd.html#a37651b4ef2476c23ecd2f9ea12f6a46f", null ],
+    [ "operator<=", "namespacestd.html#a152513882bbc8f35f2bcf4ab71a36e1f", null ],
+    [ "operator==", "namespacestd.html#a4f3e2f2b8fe6109c5b307eee38ef437c", null ],
+    [ "operator==", "namespacestd.html#a7dc915a597d25309a4a3db5bd8f6aa36", null ],
+    [ "operator>", "namespacestd.html#a8f5db76b5ef24d9dd1f41a91b7aa471f", null ],
+    [ "operator>=", "namespacestd.html#a6b92f5d38d12bbbf86521b667446db15", null ],
+    [ "rint", "namespacestd.html#ad2308db019b27de37b041756737a1380", null ],
+    [ "round", "namespacestd.html#a68ac792afb5bde925f0d8444a4643fe5", null ],
+    [ "static_pointer_cast", "namespacestd.html#a631d4a5b7bb8dbf6881f9637e97e90d7", null ]
+];

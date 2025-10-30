@@ -1,0 +1,38 @@
+var classMidiFilePlugin =
+[
+    [ "Parameters", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cb", [
+      [ "kParameterRepeating", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cba5b0a88529fe5fbaa821d93ade3727623", null ],
+      [ "kParameterHostSync", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cbac712729591127294c655d01893e985d2", null ],
+      [ "kParameterEnabled", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cba6e3e483c45b08040f7853c963b6c56d9", null ],
+      [ "kParameterInfoNumTracks", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cba3bb3fe216b31a9a2a2480d4ea06ab18c", null ],
+      [ "kParameterInfoLength", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cba2331c9ef98674b444fa1ba929b46d98e", null ],
+      [ "kParameterInfoPosition", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cba9bec72b64b789eb7225bd6d13fd98619", null ],
+      [ "kParameterCount", "classMidiFilePlugin.html#a29e059224a2b970e32f4ad594a9ac2cba87d474288bcf3e2582b74a1928172abe", null ]
+    ] ],
+    [ "MidiFilePlugin", "classMidiFilePlugin.html#ae7fd1fc77a5fe81923a82871ae30b702", null ],
+    [ "_loadMidiFile", "classMidiFilePlugin.html#a7e0de9faada7d347404d6a48c61a6f0c", null ],
+    [ "getParameterCount", "classMidiFilePlugin.html#aa6d1edba06bc5648c5a600db3d822cf0", null ],
+    [ "getParameterInfo", "classMidiFilePlugin.html#ad3bcdc61a7d78584c2d43b51df1a5c3e", null ],
+    [ "getParameterValue", "classMidiFilePlugin.html#a3ef2180923a8ab170144c8a8dd2af181", null ],
+    [ "getState", "classMidiFilePlugin.html#a82282dfc012115f16e8bba6709d5bc17", null ],
+    [ "process2", "classMidiFilePlugin.html#a48e878764a9d8d8e931eb16e67a27122", null ],
+    [ "setCustomData", "classMidiFilePlugin.html#a1c454e49a9573421396840b9a5a09044", null ],
+    [ "setParameterValue", "classMidiFilePlugin.html#aca1a81dcf499facf9da259d4ff8d5af6", null ],
+    [ "setState", "classMidiFilePlugin.html#a482d12692d32dc0d724d63bd7313c14a", null ],
+    [ "setStateFromFile", "classMidiFilePlugin.html#aa9d612927d18a753e9d048b668b0b703", null ],
+    [ "uiShow", "classMidiFilePlugin.html#a22374c30ae68cec06eb7abb38457001a", null ],
+    [ "writeMidiEvent", "classMidiFilePlugin.html#a201d785b07eb97ce3b6ecdb819e5d392", null ],
+    [ "fEnabled", "classMidiFilePlugin.html#a2ed76f6a4fea7a75c65f932073e06807", null ],
+    [ "fFileLength", "classMidiFilePlugin.html#a77df52e63f3d73c9f2ec0b50c7960c7c", null ],
+    [ "fHostSync", "classMidiFilePlugin.html#a2b4b0ad9352ab6a006dbc568ca5ac139", null ],
+    [ "fInternalTransportFrame", "classMidiFilePlugin.html#a3840f8e8a9e032e4221b7b29ff438fa1", null ],
+    [ "fLastFrame", "classMidiFilePlugin.html#a24cfc1ed34bec8d382fd910af267931c", null ],
+    [ "fLastPosition", "classMidiFilePlugin.html#aefb28ab8d9b924348af57b56e5b45689", null ],
+    [ "fMaxFrame", "classMidiFilePlugin.html#a0d5cb22ceaec30b2eca5564650746c7c", null ],
+    [ "fMidiOut", "classMidiFilePlugin.html#afcfa681ffa8b51448674e8732d70d6d7", null ],
+    [ "fNeedsAllNotesOff", "classMidiFilePlugin.html#afadb4f01882ec9284162dc7cd7511b7b", null ],
+    [ "fNumTracks", "classMidiFilePlugin.html#a5ef4ad563db2eee6daec75d0d70d9e3c", null ],
+    [ "fPrograms", "classMidiFilePlugin.html#a22af40e477528f88e77fc7a0dd059153", null ],
+    [ "fRepeatMode", "classMidiFilePlugin.html#a22701aed0633395a08c45a212d6654d5", null ],
+    [ "fWasPlayingBefore", "classMidiFilePlugin.html#a4bb8f3afa2a8842ff3f5368a9b6e0e8f", null ]
+];

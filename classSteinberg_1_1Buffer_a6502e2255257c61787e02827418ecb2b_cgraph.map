@@ -1,0 +1,38 @@
+<map id="Steinberg::Buffer::toMultibyteString" name="Steinberg::Buffer::toMultibyteString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,251,128,291"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1Buffer.html#ab5cccd2a49c2b30bde101f01ec2a7259" title=" " alt="" coords="390,128,512,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,249,85,216,106,176,136,136,154,120,174,106,202,95,231,89,290,89,346,102,396,119,394,124,345,107,289,95,231,94,203,100,177,111,157,124,140,140,111,178,90,218,77,251"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1Buffer.html#acd09f6f3fa5ea932212eea948e561654" title=" " alt="" coords="193,5,316,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="71,249,85,211,106,162,136,109,174,62,186,53,189,57,178,66,140,112,111,164,90,213,76,251"/>
+<area shape="rect" id="Node000008" href="$classSteinberg_1_1Buffer.html#aa5d4132e7e58d3e5e7c2cefad860f711" title=" " alt="" coords="193,120,316,161"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="85,248,124,210,174,171,184,166,186,170,177,176,128,214,89,252"/>
+<area shape="rect" id="Node000009" href="$classSteinberg_1_1Buffer.html#a8cde48a4994761a80ae81e3b783bac5f" title=" " alt="" coords="193,185,316,226"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="126,248,179,229,180,234,128,253"/>
+<area shape="rect" id="Node000010" href="$classSteinberg_1_1Buffer.html#a41ce7c8449a361cd51ad97ccb7155d41" title="sets a new fill size, does not change any memory" alt="" coords="193,251,316,291"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="128,268,178,268,178,274,128,274"/>
+<area shape="rect" id="Node000011" href="$classSteinberg_1_1Buffer.html#a8650f22f9712e62b1a2cb56f386ef6ea" title="conversion" alt="" coords="193,316,316,357"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="128,289,180,308,179,313,126,294"/>
+<area shape="rect" id="Node000012" href="$classSteinberg_1_1Buffer.html#aba0bdd12532be5068333e24d9916e06b" title="conversion" alt="" coords="182,381,326,406"/>
+<area shape="poly" id="edge10_Node000001_Node000012" title=" " alt="" coords="88,290,127,328,177,366,189,372,187,377,174,371,123,332,84,294"/>
+<area shape="rect" id="Node000013" href="$classSteinberg_1_1Buffer.html#a1511e5b70102c6ad471d5914adee8263" title="takes another Buffer&#39;s memory, frees the current Buffer&#39;s memory" alt="" coords="181,430,328,456"/>
+<area shape="poly" id="edge11_Node000001_Node000013" title=" " alt="" coords="80,291,117,353,145,388,177,417,183,420,180,425,174,421,141,391,113,356,75,293"/>
+<area shape="rect" id="Node000014" href="$classSteinberg_1_1ConstString.html#a2e56eb34a957c16780db47f45ff81787" title="If dest is zero, this returns the maximum number of bytes needed to convert source." alt="" coords="176,480,333,521"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="77,291,90,328,111,375,140,424,178,466,181,469,177,473,174,470,136,427,106,377,85,330,72,293"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1Buffer.html#a2ce8fcd794d035acccf5c36aa1944c8f" title="append value at end, grows Buffer if necessary" alt="" coords="381,46,521,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,33,366,42,365,47,316,39"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1Buffer.html#aea99df48185fa1694327fa2a6e585ca0" title=" " alt="" coords="569,128,720,153"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,70,599,119,597,123,483,75"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1Buffer.html#ada304e3f52384aa315c2b287b18c0943" title=" " alt="" coords="768,185,890,226"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="684,151,756,177,754,182,682,156"/>
+<area shape="poly" id="edge12_Node000013_Node000002" title=" " alt="" coords="317,427,331,417,347,397,356,379,362,341,365,300,369,277,379,251,399,213,422,180,427,183,404,216,383,253,374,278,370,300,368,342,361,380,351,400,335,421,320,432"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="301,427,332,416,455,368,577,317,769,230,771,235,579,322,457,373,334,422,303,432"/>
+<area shape="rect" id="Node000015" href="$Spc__Cpu_8h.html#a2569713fe026f7b153bba6e89d64498f" title=" " alt="" coords="422,438,480,464"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="333,478,407,459,408,464,334,483"/>
+<area shape="rect" id="Node000016" href="$namespaceSteinberg.html#aae116b01b47bca8e67679337ef48d8d3" title=" " alt="" coords="387,488,515,513"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="334,498,372,498,372,503,334,503"/>
+<area shape="rect" id="Node000018" href="$namespaceSteinberg.html#ac8c92cfcd8901eb437b9df617e7e9a50" title=" " alt="" coords="392,537,510,562"/>
+<area shape="poly" id="edge18_Node000014_Node000018" title=" " alt="" coords="334,518,383,530,382,535,333,523"/>
+<area shape="rect" id="Node000017" href="$namespaceSteinberg.html#aaad70e7610886056aaa8406b5527f6e4" title=" " alt="" coords="582,512,707,537"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="516,506,567,512,566,517,516,511"/>
+<area shape="poly" id="edge19_Node000018_Node000017" title=" " alt="" coords="510,539,566,532,567,537,511,545"/>
+</map>

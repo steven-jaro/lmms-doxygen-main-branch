@@ -1,0 +1,21 @@
+<map id="juce::universal_midi_packets::U32ToBytestreamHandler" name="juce::universal_midi_packets::U32ToBytestreamHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="322,1545,542,1667"/>
+<area shape="rect" id="Node000002" href="$structjuce_1_1universal__midi__packets_1_1U32InputHandler.html" title=" " alt="" coords="5,1248,173,1370"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,1382,151,1429,187,1472,218,1499,252,1522,323,1560,321,1565,250,1527,215,1503,183,1476,147,1432,118,1384"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1MidiInput.html" title=" " alt="" coords="198,1144,360,1474"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,1465,395,1529,391,1531,357,1467"/>
+<area shape="rect" id="Node000004" href="$structjuce_1_1MidiDeviceInfo.html" title=" " alt="" coords="215,938,342,1065"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,1065,281,1127,276,1127,276,1065"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1String.html" title=" " alt="" coords="178,5,380,839"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,839,281,921,276,921,276,839"/>
+<area shape="rect" id="Node000006" href="$classjuce_1_1MidiInputCallback.html" title=" " alt="" coords="384,1256,584,1362"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="477,1363,448,1529,443,1528,472,1362"/>
+<area shape="rect" id="Node000007" href="$classjuce_1_1universal__midi__packets_1_1ToBytestreamDispatcher.html" title=" " alt="" coords="608,1248,821,1370"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="679,1371,642,1424,598,1476,530,1537,527,1533,594,1472,638,1421,675,1368"/>
+<area shape="rect" id="Node000008" href="$classjuce_1_1universal__midi__packets_1_1Dispatcher.html" title=" " alt="" coords="574,940,706,1062"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="657,1062,698,1231,693,1232,652,1063"/>
+<area shape="rect" id="Node000009" href="$structjuce_1_1universal__midi__packets_1_1ToBytestreamConverter.html" title=" " alt="" coords="730,930,936,1073"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="809,1073,746,1233,741,1231,804,1071"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1universal__midi__packets_1_1Midi1ToBytestreamTranslator.html" title=" " alt="" coords="732,234,934,610"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="836,610,836,914,830,914,830,610"/>
+</map>

@@ -1,0 +1,26 @@
+var classlmms_1_1VestigeInstrument =
+[
+    [ "VestigeInstrument", "classlmms_1_1VestigeInstrument.html#a7b6ed9107f82bb83c9688cab8d01a59d", null ],
+    [ "~VestigeInstrument", "classlmms_1_1VestigeInstrument.html#a59912a28359363ba75714539ee9623d8", null ],
+    [ "closePlugin", "classlmms_1_1VestigeInstrument.html#a91a8d25f001746c0b5da4f496cce7315", null ],
+    [ "handleConfigChange", "classlmms_1_1VestigeInstrument.html#aba384bf073642f72d51ee21ef30f779c", null ],
+    [ "handleMidiEvent", "classlmms_1_1VestigeInstrument.html#a4ece64c10974eee72547476eb072c46e", null ],
+    [ "instantiateView", "classlmms_1_1VestigeInstrument.html#a3f7f335bf517015f0af548b1ca7ea6db", null ],
+    [ "loadFile", "classlmms_1_1VestigeInstrument.html#a077d31c500ed5671503354a3675632a8", null ],
+    [ "loadSettings", "classlmms_1_1VestigeInstrument.html#a5e8126a21ec5e63116273c20a490b900", null ],
+    [ "nodeName", "classlmms_1_1VestigeInstrument.html#afff30e400ab3c318eab3acc1e87522d7", null ],
+    [ "play", "classlmms_1_1VestigeInstrument.html#aab9fd96ff8070f3f2574703d38b94fdd", null ],
+    [ "reloadPlugin", "classlmms_1_1VestigeInstrument.html#a1cbc63a8da3c227aa087059735d21e85", null ],
+    [ "saveSettings", "classlmms_1_1VestigeInstrument.html#a9695a94246c71578a2a0de148ad8dfc4", null ],
+    [ "setParameter", "classlmms_1_1VestigeInstrument.html#a6a3d3dc99cdda16f95ab7a7720e1d15f", null ],
+    [ "gui::ManageVestigeInstrumentView", "classlmms_1_1VestigeInstrument.html#aad2a4428371559cd292fc34b8c6f192d", null ],
+    [ "gui::VestigeInstrumentView", "classlmms_1_1VestigeInstrument.html#aafcea2ea64c2b6b2a76f67172b9d1e9d", null ],
+    [ "knobFModel", "classlmms_1_1VestigeInstrument.html#a23e973f52dea69595454e150ca2da38f", null ],
+    [ "m_plugin", "classlmms_1_1VestigeInstrument.html#aa3247a4d82ca676b0e4806cab1a76688", null ],
+    [ "m_pluginDLL", "classlmms_1_1VestigeInstrument.html#a575a902ea34638aaffb485b5db8b2486", null ],
+    [ "m_pluginMutex", "classlmms_1_1VestigeInstrument.html#a219dfc38715c0539157d5027507ad583", null ],
+    [ "m_scrollArea", "classlmms_1_1VestigeInstrument.html#a6442931a3fc3adcfa38a02eb2658ddea", null ],
+    [ "m_subWindow", "classlmms_1_1VestigeInstrument.html#ab62b9f5365065bb458bdefb86e6b7eb9", null ],
+    [ "p_subWindow", "classlmms_1_1VestigeInstrument.html#a5d390815efb833c7049c179df3a9cd19", null ],
+    [ "paramCount", "classlmms_1_1VestigeInstrument.html#acfe3c633dc571439dbd7159ec6f11ded", null ]
+];

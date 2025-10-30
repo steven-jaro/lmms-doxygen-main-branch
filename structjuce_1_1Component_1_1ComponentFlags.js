@@ -1,0 +1,26 @@
+var structjuce_1_1Component_1_1ComponentFlags =
+[
+    [ "accessibilityIgnoredFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a99f26c6364316208521a1c3b3580af9b", null ],
+    [ "allowChildMouseClicksFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a37abab23fd96656433846b46f28e8389", null ],
+    [ "alwaysOnTopFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a6a07362500eede4aff5aac1e86634669", null ],
+    [ "bringToFrontOnClickFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a562434ba4c33712fcdd82099037d1bde", null ],
+    [ "bufferToImageFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a8cae74eff9cc17b360b7e5c9792ee867", null ],
+    [ "cachedMouseInsideComponent", "structjuce_1_1Component_1_1ComponentFlags.html#a3f46a20a683ded0deeb869ccb3dd7097", null ],
+    [ "childKeyboardFocusedFlag", "structjuce_1_1Component_1_1ComponentFlags.html#aa122cb868b7d583260ea59ebcf0ba7e5", null ],
+    [ "dontClipGraphicsFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a25f4774236a1950bcb346edbdaddcf90", null ],
+    [ "dontFocusOnMouseClickFlag", "structjuce_1_1Component_1_1ComponentFlags.html#ac5e63f5b873a308d011591cec5a6c364", null ],
+    [ "hasFocusOutlineFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a6efd1e50f64cbe91c1af7f88abd3a23a", null ],
+    [ "hasHeavyweightPeerFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a88c7f32d271afe102b9586d7d11d663e", null ],
+    [ "ignoresMouseClicksFlag", "structjuce_1_1Component_1_1ComponentFlags.html#ac50e1849f02aadfe4974f37c6cda435a", null ],
+    [ "isDisabledFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a81515bf9dc7934f8272caf123bf036b8", null ],
+    [ "isFocusContainerFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a2a127e03d304aec71715e232d9b355b7", null ],
+    [ "isKeyboardFocusContainerFlag", "structjuce_1_1Component_1_1ComponentFlags.html#ae28f36b8b6ddf581ae7d4371104ce803", null ],
+    [ "isMoveCallbackPending", "structjuce_1_1Component_1_1ComponentFlags.html#a63fc16ebb978a4861a6f2fe4f337ec5e", null ],
+    [ "isResizeCallbackPending", "structjuce_1_1Component_1_1ComponentFlags.html#a1372d598986887a5dff2faef3b644222", null ],
+    [ "mouseDownWasBlocked", "structjuce_1_1Component_1_1ComponentFlags.html#aef110a1a09e7f9e8542f826f90596539", null ],
+    [ "opaqueFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a91296e88ee67778b09b53ac8c177cc35", null ],
+    [ "repaintOnMouseActivityFlag", "structjuce_1_1Component_1_1ComponentFlags.html#ace867ea3578bc5d246dc1e917266d751", null ],
+    [ "viewportIgnoreDragFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a4e2aef407f355d1cb43f2caf9a689761", null ],
+    [ "visibleFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a4cc7272506e4c1fc3e5744afb2543d12", null ],
+    [ "wantsKeyboardFocusFlag", "structjuce_1_1Component_1_1ComponentFlags.html#a59aea236b3fb7dfb8a80e34ebe55f04e", null ]
+];

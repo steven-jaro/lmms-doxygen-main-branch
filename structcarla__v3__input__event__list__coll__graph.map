@@ -1,0 +1,25 @@
+<map id="carla_v3_input_event_list" name="carla_v3_input_event_list">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,483,464,661"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="306,295,422,362"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,376,380,483,375,484,365,376"/>
+<area shape="rect" id="Node000003" href="$structv3__event.html" title=" " alt="" coords="446,244,820,412"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="550,414,478,484,474,481,546,410"/>
+<area shape="rect" id="Node000004" href="$structv3__event__note__on.html" title=" " alt="" coords="5,5,122,173"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,161,136,171,173,195,207,211,239,219,272,224,342,228,383,233,430,241,429,246,383,238,342,233,271,229,238,225,205,216,170,200,133,175,120,165"/>
+<area shape="rect" id="Node000005" href="$structv3__event__note__off.html" title=" " alt="" coords="147,16,263,163"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="265,160,277,171,315,198,357,218,392,230,431,241,430,246,391,235,355,223,312,203,274,175,261,164"/>
+<area shape="rect" id="Node000006" href="$structv3__event__data.html" title=" " alt="" coords="288,36,384,143"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="370,141,396,171,433,203,473,233,470,237,430,208,392,175,366,144"/>
+<area shape="rect" id="Node000007" href="$structv3__event__poly__pressure.html" title=" " alt="" coords="407,26,558,153"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="503,151,516,186,534,219,541,229,536,232,529,222,512,188,498,153"/>
+<area shape="rect" id="Node000008" href="$structv3__event__chord.html" title=" " alt="" coords="582,16,684,163"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="636,163,636,227,630,227,630,163"/>
+<area shape="rect" id="Node000009" href="$structv3__event__scale.html" title=" " alt="" coords="709,26,810,153"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="729,154,688,231,683,228,724,152"/>
+<area shape="rect" id="Node000010" href="$structv3__event__legacy__midi__cc__out.html" title=" " alt="" coords="834,18,973,160"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="838,162,824,175,754,236,750,232,821,171,835,158"/>
+<area shape="rect" id="Node000011" href="$structv3__event__note__expression__value.html" title=" " alt="" coords="997,28,1162,150"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="1018,152,986,176,913,218,837,255,834,250,911,213,984,171,1015,148"/>
+<area shape="rect" id="Node000012" href="$structv3__event__note__expression__text.html" title=" " alt="" coords="1186,36,1379,143"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1222,145,1176,176,1093,216,1007,249,920,275,837,295,836,290,918,270,1005,244,1091,211,1173,171,1219,141"/>
+</map>

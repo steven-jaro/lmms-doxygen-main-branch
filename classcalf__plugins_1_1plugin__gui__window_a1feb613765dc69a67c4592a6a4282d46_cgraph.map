@@ -1,0 +1,40 @@
+<map id="calf_plugins::plugin_gui_window::create" name="calf_plugins::plugin_gui_window::create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,300,144,341"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1plugin__gui__widget.html#a9f575b527349427be88d4f583a5586f7" title=" " alt="" coords="212,84,368,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,298,125,228,155,188,190,152,221,130,224,135,193,156,159,192,129,231,88,301"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1plugin__ctl__iface.html#ad0e2f34588a3dc555229953807f83215" title="Return metadata object." alt="" coords="437,149,634,190"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="88,298,130,250,158,226,191,206,247,185,307,171,366,164,421,162,422,167,367,170,308,177,249,190,193,211,162,230,134,254,92,301"/>
+<area shape="rect" id="Node000007" href="$classcalf__plugins_1_1plugin__gui__widget.html#a5bc47a1c30c67c6ba942e23b8399c313" title=" " alt="" coords="683,199,837,255"/>
+<area shape="poly" id="edge19_Node000001_Node000007" title=" " alt="" coords="101,297,142,271,191,250,253,234,318,223,447,211,568,210,667,215,667,220,568,216,448,217,319,228,255,239,193,255,144,276,104,302"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1plugin__gui__window.html#a712fdac45f2ec45095b8bc07e39e2ecd" title=" " alt="" coords="214,264,366,305"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="143,306,199,297,200,302,144,311"/>
+<area shape="rect" id="Node000010" href="$classcalf__plugins_1_1plugin__gui__window.html#a3550958c414d74bf7d46a68976409025" title=" " alt="" coords="221,488,360,544"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="89,339,129,405,159,442,193,474,209,485,206,489,190,478,155,445,125,408,84,342"/>
+<area shape="rect" id="Node000014" href="$classcalf__plugins_1_1plugin__gui__window.html#a182a968b557620ffadffbfcbd1a9e03d" title=" " alt="" coords="211,408,370,464"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="106,339,146,367,193,394,203,399,201,404,190,399,144,371,103,344"/>
+<area shape="rect" id="Node000017" href="$classcalf__plugins_1_1plugin__gui__widget.html#a5bc8480704c6466c6b82d8ec86d0e3b6" title=" " alt="" coords="210,328,371,384"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="144,329,195,338,194,343,143,334"/>
+<area shape="rect" id="Node000019" href="$classcalf__plugins_1_1plugin__gui__window.html#acba9e299d67cf8ce0a2fd60a063f5510" title=" " alt="" coords="192,568,389,609"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="83,340,95,385,117,442,149,502,170,530,193,554,197,557,193,561,190,558,166,534,145,505,112,444,90,386,78,342"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1plugin__metadata__iface.html#a2e13e302263715acb9e36ae7e7f20eab" title="Return custom XML." alt="" coords="465,70,606,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,100,449,97,450,103,369,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="370,123,442,142,441,147,368,128"/>
+<area shape="rect" id="Node000005" href="$classcalf__plugins_1_1plugin__gui__widget.html#a4a468dbab3ba3f083fae64b854d311e1" title=" " alt="" coords="467,5,604,46"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="355,81,454,49,456,54,357,86"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1plugin__gui.html#a3ce9dd5c1c6353e2e49ffc146e502837" title=" " alt="" coords="695,5,825,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="605,23,679,23,679,28,605,28"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="606,39,636,55,669,85,698,118,740,184,736,187,693,121,665,88,633,60,603,44"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1plugin__gui__window.html#a9aa0e12a0c1a0ebe725b63bf6c18c6f9" title=" " alt="" coords="456,539,615,595"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="360,528,442,545,441,550,359,533"/>
+<area shape="rect" id="Node000012" href="$namespacecalf__plugins.html#ab9476259a86c99bc1d83a8772992854b" title="Return the current list of built&#45;in (factory) presets (these are loaded from system&#45;wide file)." alt="" coords="682,513,838,554"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="615,553,667,545,667,550,616,558"/>
+<area shape="rect" id="Node000013" href="$namespacecalf__plugins.html#a68c4f4a6d463ffc6b8ea95d46b3e0246" title="Return the current list of user&#45;defined presets (these are loaded from ~/.calfpresets)." alt="" coords="687,579,833,619"/>
+<area shape="poly" id="edge11_Node000011_Node000013" title=" " alt="" coords="616,576,672,584,671,589,615,581"/>
+<area shape="rect" id="Node000015" href="$namespacecalf__plugins.html#a5b27db9477a5ab6fe729c30b0977231e" title=" " alt="" coords="464,475,607,515"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="371,453,450,472,448,477,369,458"/>
+<area shape="rect" id="Node000016" href="$structcalf__plugins_1_1plugin__metadata__iface.html#a21723ff3e99d38ca98be4b3b32aaf0e6" title=" " alt="" coords="465,395,606,451"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="370,429,449,425,449,430,370,435"/>
+<area shape="poly" id="edge18_Node000017_Node000007" title=" " alt="" coords="371,332,667,250,669,255,372,337"/>
+<area shape="rect" id="Node000018" href="$classcalf__plugins_1_1plugin__gui.html#a64613aba368d1fee42e1e84ddae92c58" title="Destroy all the widgets in the container." alt="" coords="446,331,625,371"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="371,352,431,351,431,356,372,357"/>
+</map>

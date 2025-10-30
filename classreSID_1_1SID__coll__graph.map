@@ -1,0 +1,20 @@
+<map id="reSID::SID" name="reSID::SID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="614,2735,803,3737"/>
+<area shape="rect" id="Node000002" href="$classreSID_1_1Voice.html" title=" " alt="" coords="327,1836,485,2004"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,2003,423,2128,439,2288,464,2466,499,2643,550,2822,611,2991,606,2993,545,2823,494,2645,459,2467,434,2289,417,2129,408,2003"/>
+<area shape="rect" id="Node000003" href="$classreSID_1_1WaveformGenerator.html" title=" " alt="" coords="5,163,180,1124"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,1000,384,1818,379,1819,178,1001"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="182,552,192,565,200,585,205,611,207,644,203,689,193,720,188,718,198,688,202,643,200,612,195,587,188,568,178,556"/>
+<area shape="rect" id="Node000004" href="$classreSID_1_1EnvelopeGenerator.html" title=" " alt="" coords="316,280,501,1007"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="411,1007,409,1819,404,1819,405,1007"/>
+<area shape="rect" id="Node000005" href="$structState.html" title=" " alt="" coords="383,5,435,72"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="412,71,412,263,406,263,406,71"/>
+<area shape="rect" id="Node000007" href="$classreSID_1_1Filter.html" title=" " alt="" coords="509,1195,664,2644"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="656,2643,663,2718,658,2719,651,2644"/>
+<area shape="rect" id="Node000008" href="$structreSID_1_1Filter_1_1model__filter__t.html" title=" " alt="" coords="526,450,647,837"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="589,836,589,1178,584,1178,584,836"/>
+<area shape="rect" id="Node000009" href="$classreSID_1_1ExternalFilter.html" title=" " alt="" coords="688,1795,812,2044"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="749,2044,728,2718,722,2718,744,2044"/>
+<area shape="rect" id="Node000010" href="$classreSID_1_1Potentiometer.html" title=" " alt="" coords="837,1886,968,1953"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="902,1953,877,2236,855,2438,827,2644,809,2758,804,2757,822,2644,850,2437,872,2236,897,1952"/>
+</map>

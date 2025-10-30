@@ -1,0 +1,25 @@
+var classNes__Namco__Apu =
+[
+    [ "Namco_Osc", "structNes__Namco__Apu_1_1Namco__Osc.html", "structNes__Namco__Apu_1_1Namco__Osc" ],
+    [ "Nes_Namco_Apu", "classNes__Namco__Apu.html#a996d7e92e6932f756360a4158b8f1828", null ],
+    [ "Nes_Namco_Apu", "classNes__Namco__Apu.html#a549f4bbde31349cc520847903d8c0664", null ],
+    [ "access", "classNes__Namco__Apu.html#a6540ecb8551d0188df510dafbb96377b", null ],
+    [ "end_frame", "classNes__Namco__Apu.html#a0fb97f37165b07fde2f408fcd179f652", null ],
+    [ "load_state", "classNes__Namco__Apu.html#ac45f34a8ed1ecbb7c1be8d0b22ad6808", null ],
+    [ "operator=", "classNes__Namco__Apu.html#a68163ff874dad2f329af0a308722bf21", null ],
+    [ "osc_output", "classNes__Namco__Apu.html#a4a3de07f38c9f1bc6fd31473ac8305f5", null ],
+    [ "output", "classNes__Namco__Apu.html#a1f69fe715fa13547f198730503908d43", null ],
+    [ "read_data", "classNes__Namco__Apu.html#ab3fbc34878fa1a7c5173eb6e209e666d", null ],
+    [ "reset", "classNes__Namco__Apu.html#a03cd6bb7ecdca5333042bb7310727bfb", null ],
+    [ "run_until", "classNes__Namco__Apu.html#a72b8de08ebf6ce7b9969a9d9531c4c4f", null ],
+    [ "save_state", "classNes__Namco__Apu.html#a4cebe72146c374dab39c304d3a25cb4b", null ],
+    [ "treble_eq", "classNes__Namco__Apu.html#a864f7390dee9bd80b3db5a732b82bf50", null ],
+    [ "volume", "classNes__Namco__Apu.html#a83acc6f33f0da5268f4e14884314b7d1", null ],
+    [ "write_addr", "classNes__Namco__Apu.html#a34c2b619db4075d93f06679308491e49", null ],
+    [ "write_data", "classNes__Namco__Apu.html#abf527e96ad9531a28a3fe0dc31daacc2", null ],
+    [ "addr_reg", "classNes__Namco__Apu.html#a73b9d1eef9056b07ccafdfdfc0b7ceec", null ],
+    [ "last_time", "classNes__Namco__Apu.html#a54f65dacf4a5006ccc60b35871cbdf74", null ],
+    [ "oscs", "classNes__Namco__Apu.html#a28a3996d960f9d83bbe1133ca9a972f3", null ],
+    [ "reg", "classNes__Namco__Apu.html#abba2670b097a987698f47110bc73c8ee", null ],
+    [ "synth", "classNes__Namco__Apu.html#af19fb983dda9757d5737b297a64af62c", null ]
+];

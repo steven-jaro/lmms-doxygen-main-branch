@@ -1,0 +1,26 @@
+var namespacejuce_1_1TypeHelpers =
+[
+    [ "ParameterType", "structjuce_1_1TypeHelpers_1_1ParameterType.html", "structjuce_1_1TypeHelpers_1_1ParameterType" ],
+    [ "ParameterType&lt; Type &amp; &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01Type_01_6_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01Type_01_6_01_4" ],
+    [ "ParameterType&lt; Type * &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01Type_01_5_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01Type_01_5_01_4" ],
+    [ "ParameterType&lt; char &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01char_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01char_01_4" ],
+    [ "ParameterType&lt; unsigned char &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01char_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01char_01_4" ],
+    [ "ParameterType&lt; short &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01short_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01short_01_4" ],
+    [ "ParameterType&lt; unsigned short &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01short_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01short_01_4" ],
+    [ "ParameterType&lt; int &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01int_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01int_01_4" ],
+    [ "ParameterType&lt; unsigned int &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01int_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01int_01_4" ],
+    [ "ParameterType&lt; long &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01long_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01long_01_4" ],
+    [ "ParameterType&lt; unsigned long &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01long_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01unsigned_01long_01_4" ],
+    [ "ParameterType&lt; int64 &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01int64_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01int64_01_4" ],
+    [ "ParameterType&lt; uint64 &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01uint64_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01uint64_01_4" ],
+    [ "ParameterType&lt; bool &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01bool_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01bool_01_4" ],
+    [ "ParameterType&lt; float &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01float_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01float_01_4" ],
+    [ "ParameterType&lt; double &gt;", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01double_01_4.html", "structjuce_1_1TypeHelpers_1_1ParameterType_3_01double_01_4" ],
+    [ "SmallestFloatType", "structjuce_1_1TypeHelpers_1_1SmallestFloatType.html", "structjuce_1_1TypeHelpers_1_1SmallestFloatType" ],
+    [ "SmallestFloatType&lt; double &gt;", "structjuce_1_1TypeHelpers_1_1SmallestFloatType_3_01double_01_4.html", "structjuce_1_1TypeHelpers_1_1SmallestFloatType_3_01double_01_4" ],
+    [ "UnsignedTypeWithSize", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize.html", null ],
+    [ "UnsignedTypeWithSize&lt; 1 &gt;", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_011_01_4.html", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_011_01_4" ],
+    [ "UnsignedTypeWithSize&lt; 2 &gt;", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_012_01_4.html", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_012_01_4" ],
+    [ "UnsignedTypeWithSize&lt; 4 &gt;", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_014_01_4.html", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_014_01_4" ],
+    [ "UnsignedTypeWithSize&lt; 8 &gt;", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_018_01_4.html", "structjuce_1_1TypeHelpers_1_1UnsignedTypeWithSize_3_018_01_4" ]
+];

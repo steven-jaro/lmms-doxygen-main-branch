@@ -1,0 +1,39 @@
+<map id="hiir::StageProc8Avx::StageProc8Avx" name="hiir::StageProc8Avx::StageProc8Avx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="827,184,961,225"/>
+<area shape="rect" id="Node000002" href="$classhiir_1_1StageProc8Avx.html#a5a3a6988497c139eb48a798c309f1ca5" title=" " alt="" coords="628,63,779,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="846,177,736,106,739,102,849,173"/>
+<area shape="rect" id="Node000006" href="$classhiir_1_1StageProc8Avx.html#ab2ef8558173e8637ffa12f279f2e0e18" title=" " alt="" coords="628,245,779,286"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="815,232,769,247,768,242,813,227"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="734,49,723,44,703,41,686,43,675,48,671,54,672,61,667,63,665,53,671,44,684,38,704,36,724,38,737,45"/>
+<area shape="rect" id="Node000003" href="$classhiir_1_1PhaseHalfPi8Avx.html#a869d8ef75b9cd2c0555d45c4117a01dc" title=" " alt="" coords="212,5,358,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="616,61,580,54,463,39,358,31,359,26,464,33,581,48,617,56"/>
+<area shape="rect" id="Node000005" href="$classhiir_1_1PhaseHalfPi8Avx.html#abdddff3633166759eb9ac8cd7ac3c85b" title=" " alt="" coords="424,63,571,103"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="612,86,571,86,571,80,612,80"/>
+<area shape="rect" id="Node000004" href="$classhiir_1_1PhaseHalfPi8Avx.html#af8dca327f01a6ded26952fb48a5f4409" title=" " alt="" coords="7,35,153,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,41,154,47,153,42,196,36"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="409,62,358,48,359,43,410,57"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="409,80,153,63,154,57,409,74"/>
+<area shape="poly" id="edge20_Node000006_Node000006" title=" " alt="" coords="734,232,723,226,703,224,686,226,675,231,671,236,672,244,667,245,665,235,671,226,684,221,704,219,724,221,737,227"/>
+<area shape="rect" id="Node000007" href="$classhiir_1_1HalfBand8Avx.html#ae411e498f589b591027947883d93497e" title=" " alt="" coords="434,213,561,254"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="612,254,561,246,562,241,613,249"/>
+<area shape="rect" id="Node000008" href="$classhiir_1_1HalfBand8Avx.html#a94b90e7b95f5d8016c9c9ab94c07ac82" title=" " alt="" coords="203,120,367,161"/>
+<area shape="poly" id="edge14_Node000006_Node000008" title=" " alt="" coords="654,240,618,221,579,204,469,173,367,154,368,148,471,168,581,199,621,216,657,235"/>
+<area shape="rect" id="Node000013" href="$classhiir_1_1Downsampler2x8Avx.html#a2b4b457582f11f56e7da8db47173bef8" title=" " alt="" coords="415,279,580,319"/>
+<area shape="poly" id="edge15_Node000006_Node000013" title=" " alt="" coords="613,283,581,288,580,283,612,278"/>
+<area shape="rect" id="Node000014" href="$classhiir_1_1Upsampler2x8Avx.html#a99716ed92ff1ff53ec20cdea161f53ce" title=" " alt="" coords="423,359,572,399"/>
+<area shape="poly" id="edge16_Node000006_Node000014" title=" " alt="" coords="653,296,538,360,535,356,651,291"/>
+<area shape="rect" id="Node000017" href="$classhiir_1_1Downsampler2x8Avx.html#a26478783ea1e21496eb0e544def8941e" title=" " alt="" coords="415,424,580,465"/>
+<area shape="poly" id="edge21_Node000006_Node000017" title=" " alt="" coords="683,301,641,357,613,387,582,413,561,426,558,421,579,409,609,383,636,354,679,297"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="438,209,366,176,337,164,339,159,368,171,440,204"/>
+<area shape="rect" id="Node000009" href="$classhiir_1_1HalfBand8Avx.html#a0514a984f4786f271d1aa31f433cdd08" title=" " alt="" coords="221,185,348,226"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="419,226,349,217,349,211,419,221"/>
+<area shape="rect" id="Node000011" href="$classhiir_1_1HalfBand8Avx.html#a35bc3fa3bdc9b2f4881f7e7a90e779a0" title=" " alt="" coords="211,251,358,291"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="420,250,360,261,359,255,419,245"/>
+<area shape="rect" id="Node000012" href="$classhiir_1_1HalfBand8Avx.html#a25863ca289cbd990fbe8256294b4445d" title=" " alt="" coords="208,316,362,357"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="427,263,416,269,393,287,368,305,343,318,341,313,366,301,389,283,414,265,425,259"/>
+<area shape="rect" id="Node000015" href="$classhiir_1_1Upsampler2x8Avx.html#a5b9e98d8e49fad86413e77b4c1d7a1fd" title=" " alt="" coords="5,401,155,442"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="408,391,155,417,155,411,407,385"/>
+<area shape="rect" id="Node000016" href="$classhiir_1_1Upsampler2x8Avx.html#a7078617ec07d33256dc335f8b1235123" title=" " alt="" coords="210,431,360,471"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="422,407,348,433,346,428,420,402"/>
+<area shape="poly" id="edge19_Node000016_Node000015" title=" " alt="" coords="195,441,155,435,156,430,195,436"/>
+</map>

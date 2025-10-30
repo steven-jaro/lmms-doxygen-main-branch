@@ -1,0 +1,27 @@
+var classjuce_1_1UIATextProvider_1_1UIATextRangeProvider =
+[
+    [ "UIATextRangeProvider", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#abb5247c9db23966d9f434bb863832be7", null ],
+    [ "AddToSelection", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#ad19faf5338e0f6c4e0d55f6526671ecb", null ],
+    [ "Clone", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a60fd9280938de85c0498d577363181d9", null ],
+    [ "Compare", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#afe5c715e9e0741b480bf6255d140b999", null ],
+    [ "CompareEndpoints", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a3a1ad2f2016b10783e3c7a251ca77cf0", null ],
+    [ "ExpandToEnclosingUnit", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#ac1fdd374c2bbf3af9d69e226929e27c7", null ],
+    [ "FindAttribute", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a0a6e6ced0a8ae4b64de1e5ecd85bd32f", null ],
+    [ "FindText", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#ae47409b40b20b698623fa03e0126b596", null ],
+    [ "GetAttributeValue", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a5438f51a1d0d3ad8531c1ce2023fc596", null ],
+    [ "getBoundaryType", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a39b69500c8bdf1e5a3f6102bc0cb0ac1", null ],
+    [ "GetBoundingRectangles", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a3e3296b198c1b1f5096616e17d653de0", null ],
+    [ "GetChildren", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a5d19f3abb91623ee8aa6888fc0c6754b", null ],
+    [ "GetEnclosingElement", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a3a60074b6f36fad379eb5aa8d4c38851", null ],
+    [ "getSelectionRange", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a80d38ca4d35f37d39d7e46f8bd4cd825", null ],
+    [ "GetText", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a118d44f22175a429c0cf9d7f7c4311da", null ],
+    [ "Move", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#aebc4fb7d20bd487c96063bf2d4db6bec", null ],
+    [ "MoveEndpointByRange", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a18adb3ee09ad81188680fd496364c058", null ],
+    [ "MoveEndpointByUnit", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#abe4ee742579d69f61ffbc261c53485e1", null ],
+    [ "RemoveFromSelection", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a54dc1853b5a09c69767c717bc64fa325", null ],
+    [ "ScrollIntoView", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a1d667f521d34526e42f33c2c45ae7ccf", null ],
+    [ "Select", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a756e4768cb98932e1794dfe8642b74e3", null ],
+    [ "setEndpointChecked", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a1d1f456316702d876e0353d98c334ed8", null ],
+    [ "owner", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#a46116930d89caaaa69c1631f4a3d2063", null ],
+    [ "selectionRange", "classjuce_1_1UIATextProvider_1_1UIATextRangeProvider.html#ac1912bc982a92b00420d0ad8cedaba52", null ]
+];

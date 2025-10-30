@@ -1,0 +1,19 @@
+<map id="calf_plugins::scrolled_container" name="calf_plugins::scrolled_container">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1001,136,1103"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1control__base.html" title=" " alt="" coords="10,81,169,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,427,74,1001,69,1001,83,427"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1plugin__gui.html" title=" " alt="" coords="266,559,480,1545"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="79,411,89,475,99,505,113,533,121,542,129,545,140,549,150,557,211,640,261,730,257,732,206,643,146,561,137,554,127,550,118,546,109,537,94,507,84,476,74,412"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,620,237,565,207,514,194,502,179,490,144,429,149,426,183,486,197,498,211,510,242,562,269,617"/>
+<area shape="rect" id="Node000006" href="$classcalf__plugins_1_1plugin__gui__widget.html" title=" " alt="" coords="292,1616,452,1982"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="337,1544,340,1591,341,1599,335,1599,335,1592,332,1545"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1send__configure__iface.html" title="&#39;may receive configure variables&#39; interface" alt="" coords="193,196,354,298"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,312,315,559,309,560,279,312"/>
+<area shape="rect" id="Node000005" href="$structcalf__plugins_1_1send__updates__iface.html" title="&#39;may receive new status values&#39; interface" alt="" coords="378,196,534,298"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="452,312,427,559,421,559,447,312"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="372,1616,372,1592,372,1561,378,1562,377,1592,377,1616"/>
+<area shape="rect" id="Node000013" href="$structcalf__plugins_1_1plugin__ctl__iface.html" title="Interface for host&#45;GUI&#45;plugin interaction (should be really split in two, but ... meh)." alt="" coords="558,5,754,488"/>
+<area shape="poly" id="edge8_Node000003_Node000013" title=" " alt="" coords="574,489,488,732,483,730,569,487"/>
+<area shape="rect" id="Node000014" href="$structcalf__plugins_1_1preset__access__iface.html" title=" " alt="" coords="779,186,938,308"/>
+<area shape="poly" id="edge9_Node000003_Node000014" title=" " alt="" coords="843,308,812,395,769,489,704,602,633,712,493,906,488,903,628,709,700,599,764,487,807,393,838,307"/>
+</map>

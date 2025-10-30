@@ -1,0 +1,16 @@
+<map id="plugins/LadspaEffect/caps/VCO.h" name="plugins/LadspaEffect/caps/VCO.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,5,242,46"/>
+<area shape="rect" id="Node000002" href="$LadspaEffect_2caps_2dsp_2util_8h.html" title=" " alt="" coords="42,168,115,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,41,51,61,30,76,13,95,9,112,15,128,29,143,46,157,43,161,25,147,10,131,3,112,8,93,26,72,49,56,98,36"/>
+<area shape="rect" id="Node000003" href="$dsp_2VCO_8h.html" title=" " alt="" coords="23,94,107,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,49,95,86,92,82,143,44"/>
+<area shape="rect" id="Node000004" href="$FIR_8h.html" title=" " alt="" coords="132,94,209,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,46,173,78,168,78,168,46"/>
+<area shape="rect" id="Node000005" href="$sinc_8h.html" title=" " alt="" coords="233,94,313,120"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="198,44,247,82,244,86,194,49"/>
+<area shape="rect" id="Node000007" href="$windows_8h.html" title=" " alt="" coords="337,94,444,120"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="226,44,343,86,341,91,225,49"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="157,122,107,160,104,156,153,118"/>
+<area shape="rect" id="Node000006" href="$Sine_8h.html" title=" " alt="" coords="245,168,302,193"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="276,120,276,152,271,152,271,120"/>
+</map>

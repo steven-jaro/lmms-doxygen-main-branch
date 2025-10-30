@@ -1,0 +1,35 @@
+var classMidiPatternPlugin =
+[
+    [ "Parameters", "classMidiPatternPlugin.html#a66c115449e8f67209f97d5e8807ed8bd", [
+      [ "kParameterTimeSig", "classMidiPatternPlugin.html#a66c115449e8f67209f97d5e8807ed8bda253bf50fd5e0a5bf9cad2d901d3a3aa1", null ],
+      [ "kParameterMeasures", "classMidiPatternPlugin.html#a66c115449e8f67209f97d5e8807ed8bdacb3a65652b6dd3399ca2df276268ccef", null ],
+      [ "kParameterDefLength", "classMidiPatternPlugin.html#a66c115449e8f67209f97d5e8807ed8bda3eac9827ab8401a5f80903acf2316025", null ],
+      [ "kParameterQuantize", "classMidiPatternPlugin.html#a66c115449e8f67209f97d5e8807ed8bda08389d227fa64b8ab615d7087a96ba1e", null ],
+      [ "kParameterCount", "classMidiPatternPlugin.html#a66c115449e8f67209f97d5e8807ed8bda1205aaa9a7f4216f4562e45dc21c653e", null ]
+    ] ],
+    [ "MidiPatternPlugin", "classMidiPatternPlugin.html#a272e0fee01c2355b8e60c461acf6f73c", null ],
+    [ "_sendEventsToUI", "classMidiPatternPlugin.html#a00d81b0e7140bfebdc2388846c3e6531", null ],
+    [ "getParameterCount", "classMidiPatternPlugin.html#a2bde766684a840ca5d6e199e4d2aefba", null ],
+    [ "getParameterInfo", "classMidiPatternPlugin.html#a3958a93be2706d8a9260c5bdb90d6e94", null ],
+    [ "getParameterValue", "classMidiPatternPlugin.html#a8ea46d79f92cfa0c4a38ccddd850fdf3", null ],
+    [ "getState", "classMidiPatternPlugin.html#a320639ed67a040379470290600259432", null ],
+    [ "msgReceived", "classMidiPatternPlugin.html#a33bf97dd6952772ac92c0d2e967a302c", null ],
+    [ "process", "classMidiPatternPlugin.html#aebce505e58523228e2c3b75d3cb4297a", null ],
+    [ "setParameterValue", "classMidiPatternPlugin.html#a402a1c5fea6a09ff68684539b38c0e74", null ],
+    [ "setState", "classMidiPatternPlugin.html#a9fd3d442af8e495db076fb40ee5cddc8", null ],
+    [ "uiIdle", "classMidiPatternPlugin.html#a7bd1e41656ac1f1a0bd0a19e738987fb", null ],
+    [ "uiShow", "classMidiPatternPlugin.html#ad79eab260b8661f20da94edbdc8d0189", null ],
+    [ "writeMidiEvent", "classMidiPatternPlugin.html#ad754934fbf47e21822b5a9d4598a09ca", null ],
+    [ "fLastFrame", "classMidiPatternPlugin.html#ab7b2286f2114a10f1b807a7b68b13011", null ],
+    [ "fLastPosition", "classMidiPatternPlugin.html#a439309b553fcffc3b1f7aaa41f94b037", null ],
+    [ "fMaxTicksPerSigNum", "classMidiPatternPlugin.html#ad1184eb36e2c09d9fe2e356dfe339e74", null ],
+    [ "fMidiOut", "classMidiPatternPlugin.html#a84f4da937d339e83f602834e96bc2a66", null ],
+    [ "fMidiQueue", "classMidiPatternPlugin.html#a9dec87d09e6d1147c914bfc8460d0cd6", null ],
+    [ "fMidiQueueRT", "classMidiPatternPlugin.html#acbba5183d1a10261fe581a21d4b20a54", null ],
+    [ "fNeedsAllNotesOff", "classMidiPatternPlugin.html#af285199e3b0defa2d577b69be446a373", null ],
+    [ "fParameters", "classMidiPatternPlugin.html#a8b157a6b66e3c8baacc911fa49c1854b", null ],
+    [ "fTicksPerFrame", "classMidiPatternPlugin.html#a8c2f3f97aa5f5694b958d957cb751ae9", null ],
+    [ "fTimeInfo", "classMidiPatternPlugin.html#ad525e4aebdc0f432b4382bd5a6603f24", null ],
+    [ "fTimeSigNum", "classMidiPatternPlugin.html#ad4e00c9360d672e82b0494e7717eff78", null ],
+    [ "fWasPlayingBefore", "classMidiPatternPlugin.html#a7656e7abc5cbefcb5636387c056d8256", null ]
+];

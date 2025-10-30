@@ -1,0 +1,22 @@
+<map id="Jack::JackAlsaAdapter" name="Jack::JackAlsaAdapter">
+<area shape="rect" id="Node000001" title="Audio adapter using ALSA API." alt="" coords="341,1856,484,2064"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackAudioAdapterInterface.html" title="Base class for audio adapters." alt="" coords="120,1027,322,1785"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,1756,356,1831,366,1855,361,1857,352,1833,324,1757"/>
+<area shape="rect" id="Node000003" href="$structJack_1_1JackPIControler.html" title=" " alt="" coords="5,448,161,834"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,833,134,1003,135,1010,130,1011,129,1003,103,834"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackResampler.html" title="Base class for Resampler." alt="" coords="185,557,320,725"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="245,725,234,836,225,960,223,1010,217,1010,219,960,228,836,240,724"/>
+<area shape="rect" id="Node000005" href="$classJack_1_1JackRingBuffer.html" title="Base class for RingBuffer in frames." alt="" coords="186,5,319,275"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,290,255,557,250,557,250,290"/>
+<area shape="rect" id="Node000006" href="$classJack_1_1JackRunnableInterface.html" title="The base class for runnable objects, that have an &#160;Init &#160;and &#160;Execute &#160;method to be called in a threa..." alt="" coords="370,76,548,204"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="434,218,416,280,402,346,377,563,364,784,360,1005,362,1217,370,1415,381,1591,404,1856,398,1856,375,1592,365,1415,357,1217,354,1005,359,784,372,562,397,346,410,279,429,217"/>
+<area shape="rect" id="Node000008" href="$classJack_1_1detail_1_1JackThreadInterface.html" title="The thread base class." alt="" coords="412,346,566,936"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="466,203,473,329,468,330,460,204"/>
+<area shape="rect" id="Node000007" href="$classJack_1_1JackAndroidThread.html" title="The POSIX thread base class." alt="" coords="410,1149,567,1663"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="456,1663,432,1839,427,1838,451,1662"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="491,951,491,1149,486,1149,486,951"/>
+<area shape="rect" id="Node000009" href="$classJack_1_1AudioInterface.html" title=" " alt="" coords="590,1037,766,1774"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="593,1765,582,1786,543,1841,499,1890,495,1886,539,1838,577,1783,588,1762"/>
+<area shape="rect" id="Node000010" href="$classJack_1_1AudioParam.html" title=" " alt="" coords="620,486,736,796"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="681,811,681,1037,675,1037,675,811"/>
+</map>

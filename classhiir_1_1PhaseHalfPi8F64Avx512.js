@@ -1,0 +1,25 @@
+var classhiir_1_1PhaseHalfPi8F64Avx512 =
+[
+    [ "DataType", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a2dcd44af5a0fb24810676cd285f1451f", null ],
+    [ "Filter", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a41eeae8790317d579ae452e984ccf31f", null ],
+    [ "FilterBiPhase", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a5900e35b79e1e912008169570b4e995e", null ],
+    [ "PhaseHalfPi8F64Avx512", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a9e11cd1d5497e3b32586490a863b44aa", null ],
+    [ "PhaseHalfPi8F64Avx512", "classhiir_1_1PhaseHalfPi8F64Avx512.html#aad11253c723ecc4abd52fae11b88a7d6", null ],
+    [ "PhaseHalfPi8F64Avx512", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a533a8cbca5dd3ecf86617cf23807c96a", null ],
+    [ "~PhaseHalfPi8F64Avx512", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a6fd2af44b899e4d22112aa70e5a89227", null ],
+    [ "clear_buffers", "classhiir_1_1PhaseHalfPi8F64Avx512.html#ae5a28dfff7ee5e2e84486fa23b9743aa", null ],
+    [ "operator!=", "classhiir_1_1PhaseHalfPi8F64Avx512.html#abcb0e8cfa223929f2612a393e3a3867d", null ],
+    [ "operator=", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a1452603da9ea718e8dca4de624e163c3", null ],
+    [ "operator=", "classhiir_1_1PhaseHalfPi8F64Avx512.html#abedb2629c45506366a68c96ce9812fa2", null ],
+    [ "operator==", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a3c7a2589c3795135c29f422d66c60721", null ],
+    [ "process_block", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a46147f977426085df3f893bf0f14edf9", null ],
+    [ "process_sample", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a1d2947ba74fd47559c11d95cac8491d1", null ],
+    [ "set_coefs", "classhiir_1_1PhaseHalfPi8F64Avx512.html#ab5f5149e045a379d77daba5d5c0925b3", null ],
+    [ "_bifilter", "classhiir_1_1PhaseHalfPi8F64Avx512.html#ad80c356be0b96871158e36a023283424", null ],
+    [ "_delay", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a2bb91768ff7f79d5fd6a7dd90acda5f3", null ],
+    [ "_nbr_chn", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a69828351e1247d94f4b04449226c3ed3", null ],
+    [ "_nbr_phases", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a5d3d54a1dc206a4827809d2e3acba9bb", null ],
+    [ "_phase", "classhiir_1_1PhaseHalfPi8F64Avx512.html#ac8c2c84cf9d96088fc359123eb7b8501", null ],
+    [ "_prev", "classhiir_1_1PhaseHalfPi8F64Avx512.html#a98a857e5c149b5997471210eecde1107", null ],
+    [ "NBR_COEFS", "classhiir_1_1PhaseHalfPi8F64Avx512.html#af05690507e225906711fdc3b441b677d", null ]
+];

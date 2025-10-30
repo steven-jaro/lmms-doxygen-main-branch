@@ -1,0 +1,45 @@
+<map id="juce::MPESynthesiserBase" name="juce::MPESynthesiserBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="322,4233,542,4757"/>
+<area shape="rect" id="Node000002" href="$classjuce_1_1MPEInstrument_1_1Listener.html" title=" " alt="" coords="218,3448,384,3672"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,3686,398,4233,393,4234,316,3687"/>
+<area shape="rect" id="Node000003" href="$classjuce_1_1MPEInstrument.html" title=" " alt="" coords="554,2979,774,4142"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="556,4067,537,4143,517,4218,512,4216,532,4141,551,4066"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1CriticalSection.html" title=" " alt="" coords="370,2508,494,2656"/>
+<area shape="poly" id="edge24_Node000001_Node000004" title=" " alt="" coords="435,2656,435,4217,429,4217,429,2656"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,2656,424,2724,431,2802,439,2842,450,2882,466,2919,487,2953,498,2962,510,2964,524,2967,537,2977,546,2989,542,2992,533,2981,521,2972,509,2969,496,2966,483,2956,461,2921,445,2883,433,2844,426,2803,419,2724,421,2656"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1Array.html" title=" " alt="" coords="16,890,224,1418"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="107,1418,106,1562,109,1726,120,1907,140,2098,172,2295,218,2492,247,2589,280,2684,317,2776,360,2866,377,2896,395,2917,417,2934,448,2952,472,2960,494,2961,515,2963,536,2977,545,2985,541,2989,533,2981,513,2968,493,2966,471,2965,446,2957,414,2938,392,2921,373,2899,355,2868,312,2778,275,2686,242,2590,213,2493,167,2296,135,2099,115,1907,104,1727,100,1562,102,1418"/>
+<area shape="rect" id="Node000006" href="$classjuce_1_1ArrayBase.html" title=" " alt="" coords="5,5,224,798"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="120,798,121,873,115,873,115,798"/>
+<area shape="rect" id="Node000014" href="$classjuce_1_1Array.html" title=" " alt="" coords="248,130,456,674"/>
+<area shape="poly" id="edge6_Node000005_Node000014" title=" " alt="" coords="272,688,239,799,210,891,205,889,233,798,267,687"/>
+<area shape="rect" id="Node000032" href="$classjuce_1_1Array.html" title=" " alt="" coords="248,890,456,1418"/>
+<area shape="poly" id="edge17_Node000032_Node000014" title=" " alt="" coords="355,688,355,890,349,890,349,688"/>
+<area shape="rect" id="Node000016" href="$classjuce_1_1MPEZoneLayout.html" title=" " alt="" coords="665,2298,887,2867"/>
+<area shape="poly" id="edge7_Node000003_Node000016" title=" " alt="" coords="746,2867,735,2962,730,2961,741,2866"/>
+<area shape="rect" id="Node000017" href="$structjuce_1_1MPEZone.html" title=" " alt="" coords="452,1652,684,2064"/>
+<area shape="poly" id="edge8_Node000016_Node000017" title=" " alt="" coords="629,2063,692,2281,687,2282,624,2064"/>
+<area shape="rect" id="Node000018" href="$classjuce_1_1MidiRPNDetector.html" title=" " alt="" coords="709,1794,881,1922"/>
+<area shape="poly" id="edge9_Node000016_Node000018" title=" " alt="" coords="796,1922,786,2281,781,2281,790,1921"/>
+<area shape="rect" id="Node000020" href="$classjuce_1_1ListenerList.html" title=" " alt="" coords="905,1688,1063,2028"/>
+<area shape="poly" id="edge10_Node000016_Node000020" title=" " alt="" coords="944,2029,896,2207,874,2283,869,2281,891,2206,939,2027"/>
+<area shape="rect" id="Node000025" href="$classjuce_1_1ListenerList_1_1WrappedIterator.html" title=" " alt="" coords="681,313,847,491"/>
+<area shape="poly" id="edge11_Node000020_Node000025" title=" " alt="" coords="790,490,828,644,867,822,925,1130,945,1267,965,1442,981,1671,976,1671,960,1443,940,1267,920,1131,861,823,822,646,784,491"/>
+<area shape="poly" id="edge12_Node000025_Node000025" title=" " alt="" coords="849,323,859,334,867,351,872,374,874,402,870,440,861,467,856,465,865,439,869,402,867,374,862,353,855,337,845,326"/>
+<area shape="rect" id="Node000027" href="$classjuce_1_1ListenerList.html" title=" " alt="" coords="675,910,853,1398"/>
+<area shape="poly" id="edge14_Node000027_Node000025" title=" " alt="" coords="767,491,767,893,761,893,761,491"/>
+<area shape="rect" id="Node000031" href="$classjuce_1_1ListenerList.html" title=" " alt="" coords="269,1688,427,2028"/>
+<area shape="poly" id="edge18_Node000031_Node000025" title=" " alt="" coords="725,492,647,673,606,781,570,890,549,969,534,1037,517,1153,501,1271,471,1419,443,1510,398,1672,393,1671,437,1509,465,1418,496,1270,511,1153,529,1036,544,968,565,889,601,779,642,671,720,489"/>
+<area shape="poly" id="edge13_Node000020_Node000027" title=" " alt="" coords="779,1411,796,1450,820,1484,837,1495,855,1495,875,1496,895,1508,926,1547,949,1592,965,1640,977,1688,971,1689,960,1641,944,1594,921,1550,892,1512,874,1501,855,1501,835,1500,816,1488,791,1452,774,1414"/>
+<area shape="poly" id="edge19_Node000031_Node000027" title=" " alt="" coords="670,1350,619,1420,583,1460,537,1488,509,1496,485,1496,464,1498,442,1512,411,1550,388,1594,371,1641,360,1689,354,1687,366,1639,383,1591,406,1547,438,1508,462,1493,485,1491,508,1491,535,1483,579,1456,615,1417,665,1347"/>
+<area shape="poly" id="edge15_Node000003_Node000031" title=" " alt="" coords="382,2027,408,2117,442,2205,459,2232,476,2250,494,2269,509,2297,524,2371,545,2526,599,2962,593,2962,540,2526,518,2372,504,2299,489,2272,473,2253,455,2235,438,2208,403,2119,377,2029"/>
+<area shape="poly" id="edge16_Node000031_Node000032" title=" " alt="" coords="353,1418,352,1671,346,1671,348,1418"/>
+<area shape="rect" id="Node000035" href="$structjuce_1_1MPEInstrument_1_1LegacyMode.html" title=" " alt="" coords="1012,2532,1143,2633"/>
+<area shape="poly" id="edge20_Node000003_Node000035" title=" " alt="" coords="1059,2634,784,3284,779,3282,1054,2632"/>
+<area shape="rect" id="Node000036" href="$classjuce_1_1Range.html" title=" " alt="" coords="1086,1510,1234,2206"/>
+<area shape="poly" id="edge21_Node000035_Node000036" title=" " alt="" coords="1123,2206,1088,2515,1082,2514,1118,2206"/>
+<area shape="rect" id="Node000038" href="$structjuce_1_1MPEInstrument_1_1MPEDimension.html" title=" " alt="" coords="1224,2542,1355,2623"/>
+<area shape="poly" id="edge22_Node000003_Node000038" title=" " alt="" coords="1276,2624,1226,2735,1157,2868,1066,3015,969,3159,787,3407,783,3404,964,3156,1062,3012,1152,2866,1221,2733,1271,2622"/>
+<area shape="rect" id="Node000010" href="$classjuce_1_1MPEValue.html" title=" " alt="" coords="1257,1682,1399,2034"/>
+<area shape="poly" id="edge23_Node000038_Node000010" title=" " alt="" coords="1321,2033,1295,2525,1290,2525,1316,2033"/>
+</map>

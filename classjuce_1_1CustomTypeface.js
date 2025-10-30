@@ -1,0 +1,27 @@
+var classjuce_1_1CustomTypeface =
+[
+    [ "GlyphInfo", "classjuce_1_1CustomTypeface_1_1GlyphInfo.html", "classjuce_1_1CustomTypeface_1_1GlyphInfo" ],
+    [ "CustomTypeface", "classjuce_1_1CustomTypeface.html#a2f073fde7e2e6a293d6275031ce68b01", null ],
+    [ "CustomTypeface", "classjuce_1_1CustomTypeface.html#a951f6e03025757bd5c4fa12a3df87bed", null ],
+    [ "~CustomTypeface", "classjuce_1_1CustomTypeface.html#ac1ae885ae241e3800e8c976bdad03bbd", null ],
+    [ "addGlyph", "classjuce_1_1CustomTypeface.html#af7451648584cc898c4a442419681f24d", null ],
+    [ "addGlyphsFromOtherTypeface", "classjuce_1_1CustomTypeface.html#a9829f8aea1299da63c8d3e025798666f", null ],
+    [ "addKerningPair", "classjuce_1_1CustomTypeface.html#a89fb3170d8752affc9a424d0c4c97788", null ],
+    [ "clear", "classjuce_1_1CustomTypeface.html#a1a59583411f2cfd0542d9ab75f1c9c86", null ],
+    [ "findGlyph", "classjuce_1_1CustomTypeface.html#a0fb801ab2d1a9b34b4cd7dea759365b8", null ],
+    [ "getAscent", "classjuce_1_1CustomTypeface.html#a4969ad2e6b5acfb36206a5fed16b8245", null ],
+    [ "getDescent", "classjuce_1_1CustomTypeface.html#a697a0dd0692ae287d9499ee0764d4dc2", null ],
+    [ "getEdgeTableForGlyph", "classjuce_1_1CustomTypeface.html#ae9b6c33924b1cd9532f670e34e221515", null ],
+    [ "getGlyphPositions", "classjuce_1_1CustomTypeface.html#ab332c204e422caa786d6df35c1f41e8b", null ],
+    [ "getHeightToPointsFactor", "classjuce_1_1CustomTypeface.html#a2a1a0f44dd124ff4b388141e917faef9", null ],
+    [ "getOutlineForGlyph", "classjuce_1_1CustomTypeface.html#ae2103cefd6a0add1dc5d0cdfd872e931", null ],
+    [ "getStringWidth", "classjuce_1_1CustomTypeface.html#abcb16fda9a4572b1adadfc850cf28b98", null ],
+    [ "loadGlyphIfPossible", "classjuce_1_1CustomTypeface.html#a6eb45583ae3efadf689e63cabdc5d67b", null ],
+    [ "setCharacteristics", "classjuce_1_1CustomTypeface.html#a352d552e6897c94db7c2c3cbde6af70e", null ],
+    [ "setCharacteristics", "classjuce_1_1CustomTypeface.html#aa40104b99454e5ace1f48879537f8355", null ],
+    [ "writeToStream", "classjuce_1_1CustomTypeface.html#afae41660191fc21b033f1545a1dc5b86", null ],
+    [ "ascent", "classjuce_1_1CustomTypeface.html#a25a7cb51a578507541553461c22ef7f2", null ],
+    [ "defaultCharacter", "classjuce_1_1CustomTypeface.html#a2aae496c9217625c719b40fd177ff6e9", null ],
+    [ "glyphs", "classjuce_1_1CustomTypeface.html#aa85d0483f49baf2fc358a4ff809a6b72", null ],
+    [ "lookupTable", "classjuce_1_1CustomTypeface.html#ae6ceb13a170c9f22195d95974d1d8579", null ]
+];

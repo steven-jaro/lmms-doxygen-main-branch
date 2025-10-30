@@ -1,0 +1,30 @@
+<map id="calf_plugins::filter_audio_module" name="calf_plugins::filter_audio_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="669,2674,812,2817"/>
+<area shape="rect" id="Node000002" href="$classcalf__plugins_1_1filter__module__with__inertia.html" title=" " alt="" coords="651,2173,829,2625"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,2640,743,2674,738,2674,738,2640"/>
+<area shape="rect" id="Node000003" href="$classcalf__plugins_1_1audio__module.html" title=" " alt="" coords="84,1396,292,2082"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,1874,653,2290,649,2294,300,1877"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1filter__metadata.html" title=" " alt="" coords="5,941,115,1023"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="72,1037,133,1396,128,1397,67,1037"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1audio__module__iface.html" title="Interface to audio processing plugins (the real things, not only metadata)." alt="" coords="210,5,376,590"/>
+<area shape="poly" id="edge4_Node000003_Node000008" title=" " alt="" coords="209,522,192,581,180,639,167,735,157,833,148,1030,149,1221,157,1396,152,1396,144,1221,142,1030,152,832,161,734,175,639,187,579,204,520"/>
+<area shape="rect" id="Node000009" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="190,639,398,1325"/>
+<area shape="poly" id="edge6_Node000009_Node000008" title=" " alt="" coords="296,605,296,639,291,639,291,605"/>
+<area shape="rect" id="Node000016" href="$classcalf__plugins_1_1audio__module.html" title="Empty implementations for plugin functions." alt="" coords="422,639,630,1325"/>
+<area shape="poly" id="edge13_Node000016_Node000008" title=" " alt="" coords="384,555,412,638,424,674,419,676,407,640,379,557"/>
+<area shape="poly" id="edge5_Node000003_Node000009" title=" " alt="" coords="246,1340,238,1397,233,1396,241,1339"/>
+<area shape="rect" id="Node000011" href="$classdsp_1_1biquad__filter__module.html" title=" " alt="" coords="888,1617,1038,1861"/>
+<area shape="poly" id="edge7_Node000002_Node000011" title=" " alt="" coords="935,1876,900,2010,856,2150,832,2213,827,2211,851,2148,895,2008,930,1875"/>
+<area shape="rect" id="Node000012" href="$classdsp_1_1filter__module__iface.html" title=" " alt="" coords="917,890,1064,1074"/>
+<area shape="poly" id="edge8_Node000011_Node000012" title=" " alt="" coords="990,1088,970,1617,965,1617,984,1088"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1frequency__response__line__graph.html" title="Line graph interface implementation for frequency response graphs." alt="" coords="750,901,894,1063"/>
+<area shape="poly" id="edge9_Node000002_Node000013" title=" " alt="" coords="833,1078,846,1274,855,1541,854,1690,849,1844,837,1999,819,2150,815,2174,809,2173,814,2149,832,1998,843,1844,849,1690,849,1541,841,1274,828,1078"/>
+<area shape="rect" id="Node000015" href="$classcalf__plugins_1_1filter__module__with__inertia.html" title=" " alt="" coords="572,1521,750,1957"/>
+<area shape="poly" id="edge15_Node000015_Node000013" title=" " alt="" coords="804,1078,710,1522,705,1521,799,1077"/>
+<area shape="rect" id="Node000014" href="$structcalf__plugins_1_1line__graph__iface.html" title="&#39;provides live line graph values&#39; interface" alt="" coords="750,196,894,399"/>
+<area shape="poly" id="edge10_Node000013_Node000014" title=" " alt="" coords="824,414,824,901,819,901,819,414"/>
+<area shape="poly" id="edge11_Node000002_Node000015" title=" " alt="" coords="640,1972,641,2061,651,2149,656,2173,651,2174,646,2150,636,2061,634,1972"/>
+<area shape="poly" id="edge12_Node000015_Node000016" title=" " alt="" coords="592,1339,625,1520,620,1521,587,1340"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="653,949,726,1015"/>
+<area shape="poly" id="edge14_Node000015_Node000017" title=" " alt="" coords="690,1030,672,1521,667,1521,685,1030"/>
+</map>

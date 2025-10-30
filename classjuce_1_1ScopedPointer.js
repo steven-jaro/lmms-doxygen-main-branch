@@ -1,0 +1,26 @@
+var classjuce_1_1ScopedPointer =
+[
+    [ "ScopedPointer", "classjuce_1_1ScopedPointer.html#aeb77f0e3dcca4b2cbaa48a56311a98c8", null ],
+    [ "ScopedPointer", "classjuce_1_1ScopedPointer.html#a03f4b75e45e959eb9f93b53747fcad4f", null ],
+    [ "ScopedPointer", "classjuce_1_1ScopedPointer.html#abb9f25a1765939baa7d335988df2cb7f", null ],
+    [ "ScopedPointer", "classjuce_1_1ScopedPointer.html#a1a5da4bcba18dd7cb1bbfc96bfbb8d82", null ],
+    [ "~ScopedPointer", "classjuce_1_1ScopedPointer.html#aca113aedb66775d4ea660da11fa22e84", null ],
+    [ "ScopedPointer", "classjuce_1_1ScopedPointer.html#ab24dbf7ad86983958b30b39defc68ad5", null ],
+    [ "ScopedPointer", "classjuce_1_1ScopedPointer.html#a42822aaba56563267da5c52583e07345", null ],
+    [ "createCopy", "classjuce_1_1ScopedPointer.html#afac4762fa3367424c7f3220bd87a59cf", null ],
+    [ "get", "classjuce_1_1ScopedPointer.html#a0a5d047c9a73b8d609f6ffacc8a2d1c0", null ],
+    [ "getAddress", "classjuce_1_1ScopedPointer.html#a305355132e3559fe7300811dee63ce3e", null ],
+    [ "operator ObjectType *", "classjuce_1_1ScopedPointer.html#a3c1071318f611d1f2bb3855aa181d748", null ],
+    [ "operator*", "classjuce_1_1ScopedPointer.html#a32ace64a1c9698c0113115c820368f30", null ],
+    [ "operator->", "classjuce_1_1ScopedPointer.html#a880dfb3e676444ba692c5fc491463385", null ],
+    [ "operator=", "classjuce_1_1ScopedPointer.html#a514fe8f53655ca94ee851a15ef011b8d", null ],
+    [ "operator=", "classjuce_1_1ScopedPointer.html#ac8ef9981a0ae748f76e76383be80ad38", null ],
+    [ "operator=", "classjuce_1_1ScopedPointer.html#a0b5b806c7ea22a5baac784d9abb8e0cb", null ],
+    [ "operator=", "classjuce_1_1ScopedPointer.html#a0b1133fc5a34d92ff5d9ef974360225e", null ],
+    [ "release", "classjuce_1_1ScopedPointer.html#af567a4f0fe5e36b5cdea7db12f713ca8", null ],
+    [ "reset", "classjuce_1_1ScopedPointer.html#af7a7b6943ff0af8f5ef5f814bfbbabd5", null ],
+    [ "reset", "classjuce_1_1ScopedPointer.html#afaddf527dcffe732b29c0d789608bc5a", null ],
+    [ "reset", "classjuce_1_1ScopedPointer.html#a8d519279c12df2ba9ae11e272c6d7648", null ],
+    [ "swapWith", "classjuce_1_1ScopedPointer.html#a8ac07378f46eaf9f74767d6472c8b7d6", null ],
+    [ "object", "classjuce_1_1ScopedPointer.html#a4c3093754823d3fd895bb1b88c27e28a", null ]
+];

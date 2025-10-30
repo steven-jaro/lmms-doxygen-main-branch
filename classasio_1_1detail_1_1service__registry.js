@@ -1,0 +1,28 @@
+var classasio_1_1detail_1_1service__registry =
+[
+    [ "auto_service_ptr", "structasio_1_1detail_1_1service__registry_1_1auto__service__ptr.html", "structasio_1_1detail_1_1service__registry_1_1auto__service__ptr" ],
+    [ "factory_type", "classasio_1_1detail_1_1service__registry.html#a0ef42cd6b850c8cd9e25947085824b73", null ],
+    [ "service_registry", "classasio_1_1detail_1_1service__registry.html#a9d70c9d860e77865cab7009a8276f42b", null ],
+    [ "~service_registry", "classasio_1_1detail_1_1service__registry.html#aa1529bef5f88bb6de1ebf60ad630957e", null ],
+    [ "add_service", "classasio_1_1detail_1_1service__registry.html#a770edbfcb15b3888f50a6481729318ec", null ],
+    [ "create", "classasio_1_1detail_1_1service__registry.html#a181a268356381000f70d112de690fcb8", null ],
+    [ "destroy", "classasio_1_1detail_1_1service__registry.html#ae3a620300ace736b489b796104ed0e26", null ],
+    [ "destroy_services", "classasio_1_1detail_1_1service__registry.html#a8f6a3315714e3e85ade2be0e25167f08", null ],
+    [ "do_add_service", "classasio_1_1detail_1_1service__registry.html#a089ce78912a079187e43a5f659a6b1cb", null ],
+    [ "do_has_service", "classasio_1_1detail_1_1service__registry.html#a7feb0b67b129fb9eaebe4f4f61058ee4", null ],
+    [ "do_use_service", "classasio_1_1detail_1_1service__registry.html#a8f4806143b441baa0e069358bc395f43", null ],
+    [ "has_service", "classasio_1_1detail_1_1service__registry.html#a98d275061914776011ff178a9ef71f44", null ],
+    [ "init_key", "classasio_1_1detail_1_1service__registry.html#a263fd1a145585a8214020650a2544662", null ],
+    [ "init_key", "classasio_1_1detail_1_1service__registry.html#a0f0419895d717000f993319964d4efe5", null ],
+    [ "init_key_from_id", "classasio_1_1detail_1_1service__registry.html#a1c3ff7dc69b55d1650bb1c759f297ad6", null ],
+    [ "init_key_from_id", "classasio_1_1detail_1_1service__registry.html#a35f065c9c1a160de0365621094b938b9", null ],
+    [ "keys_match", "classasio_1_1detail_1_1service__registry.html#a0652e95be3fd78f5fd92df02f99f88cf", null ],
+    [ "notify_fork", "classasio_1_1detail_1_1service__registry.html#a5930815f15137c4975480078fb25c072", null ],
+    [ "shutdown_services", "classasio_1_1detail_1_1service__registry.html#a5fe2894ac8ecc2b8e9df46c773894376", null ],
+    [ "use_service", "classasio_1_1detail_1_1service__registry.html#a5a242a3cc450e33376ea1ef156a787d3", null ],
+    [ "use_service", "classasio_1_1detail_1_1service__registry.html#a438db71b0ae4c65fca8393a8ea9dbafb", null ],
+    [ "auto_service_ptr", "classasio_1_1detail_1_1service__registry.html#a64b74d68589accc1f2296e4e9ebe0994", null ],
+    [ "first_service_", "classasio_1_1detail_1_1service__registry.html#aefc8a1dc151a44c2f4c046346c3de4a5", null ],
+    [ "mutex_", "classasio_1_1detail_1_1service__registry.html#a9f662a1676e128f87d146535b7fd81d7", null ],
+    [ "owner_", "classasio_1_1detail_1_1service__registry.html#a14a46d4bbb1c11f2e8c942bc907c2a69", null ]
+];

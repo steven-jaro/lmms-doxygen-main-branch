@@ -1,0 +1,25 @@
+var classzyncarla_1_1Unison =
+[
+    [ "UnisonVoice", "structzyncarla_1_1Unison_1_1UnisonVoice.html", "structzyncarla_1_1Unison_1_1UnisonVoice" ],
+    [ "Unison", "classzyncarla_1_1Unison.html#a0e0b4d1bfed09f41d1bd3fe5d497930c", null ],
+    [ "~Unison", "classzyncarla_1_1Unison.html#aba6ee12603c892c7192a28c28ba86f70", null ],
+    [ "process", "classzyncarla_1_1Unison.html#aaebfa981c64e070cffacc08d7c9eac03", null ],
+    [ "setBandwidth", "classzyncarla_1_1Unison.html#aa09b5eabc5f68c1ed6c355778cf20846", null ],
+    [ "setBaseFrequency", "classzyncarla_1_1Unison.html#a3f429e4a7d6982e0be33c62383e79980", null ],
+    [ "setSize", "classzyncarla_1_1Unison.html#a7cf3e3b88cb8cfd4c30b77981ab11c27", null ],
+    [ "updateParameters", "classzyncarla_1_1Unison.html#a91923b69b4d3a21fa2e3c24b0a8dc2cb", null ],
+    [ "updateUnisonData", "classzyncarla_1_1Unison.html#ac3e1cfa38cae6479eab841decd1a49e7", null ],
+    [ "alloc", "classzyncarla_1_1Unison.html#a539ecee18bf7aa490b4d9032bc8b68da", null ],
+    [ "base_freq", "classzyncarla_1_1Unison.html#a6bb6a2606aadb85856d4076318e9a585", null ],
+    [ "delay_buffer", "classzyncarla_1_1Unison.html#a336ca8f3053061e208b37d9221d0d8f7", null ],
+    [ "delay_k", "classzyncarla_1_1Unison.html#aac2833652a24fbbdbbe5b9ed8bb772bb", null ],
+    [ "first_time", "classzyncarla_1_1Unison.html#a676c63d24b548203dc2b31294b4bbd5f", null ],
+    [ "max_delay", "classzyncarla_1_1Unison.html#a01e1044e90eb35c739f0405f2755044a", null ],
+    [ "samplerate_f", "classzyncarla_1_1Unison.html#adc74ecf71f3042ef98fff93081c0f39f", null ],
+    [ "unison_amplitude_samples", "classzyncarla_1_1Unison.html#ae2e94b8fd2f56f84aeab39dbf7321fc0", null ],
+    [ "unison_bandwidth_cents", "classzyncarla_1_1Unison.html#a8385fedba2b688f0ea773a0a3b651bb0", null ],
+    [ "unison_size", "classzyncarla_1_1Unison.html#af33e00f7f260caf9f18f5ab14386ad59", null ],
+    [ "update_period_sample_k", "classzyncarla_1_1Unison.html#a57f33d10f41ac533a52c84a2f871e3c9", null ],
+    [ "update_period_samples", "classzyncarla_1_1Unison.html#a229ea154e29c6233a459613b2f4cae17", null ],
+    [ "uv", "classzyncarla_1_1Unison.html#aa1f4a99862930f515a45e19ccba04fab", null ]
+];

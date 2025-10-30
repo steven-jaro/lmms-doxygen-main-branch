@@ -1,0 +1,27 @@
+var DistrhoArtwork3BandEQ_8hpp =
+[
+    [ "DistrhoArtwork3BandEQ::aboutButtonHoverData", "namespaceDistrhoArtwork3BandEQ.html#a1e5f6776ed25c13dbf87dc0bfc00be64", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonHoverDataSize", "namespaceDistrhoArtwork3BandEQ.html#ac1e55889568892e7ac97c6ad4c68ac40", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonHoverHeight", "namespaceDistrhoArtwork3BandEQ.html#a2fdf692aacf1734b29072f3b850da540", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonHoverWidth", "namespaceDistrhoArtwork3BandEQ.html#a395aa2e41088a633c8f57c8952fda270", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonNormalData", "namespaceDistrhoArtwork3BandEQ.html#a6333429bc9f7630a20ac6bb921d042f8", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonNormalDataSize", "namespaceDistrhoArtwork3BandEQ.html#a8b4f3d86df524fd0a37a30f5158efc6b", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonNormalHeight", "namespaceDistrhoArtwork3BandEQ.html#a8639133da77a67acd7f0ed0b60b24cca", null ],
+    [ "DistrhoArtwork3BandEQ::aboutButtonNormalWidth", "namespaceDistrhoArtwork3BandEQ.html#a36066b3e3642179cd933b076a9111113", null ],
+    [ "DistrhoArtwork3BandEQ::aboutData", "namespaceDistrhoArtwork3BandEQ.html#ab24951206046bccfd5a6b6e37998738b", null ],
+    [ "DistrhoArtwork3BandEQ::aboutDataSize", "namespaceDistrhoArtwork3BandEQ.html#a9b19f4c0bf5325afbf54a4349ade7f79", null ],
+    [ "DistrhoArtwork3BandEQ::aboutHeight", "namespaceDistrhoArtwork3BandEQ.html#a9c722a7eb67995b84f7e9f6db2858674", null ],
+    [ "DistrhoArtwork3BandEQ::aboutWidth", "namespaceDistrhoArtwork3BandEQ.html#af538502b9769e22407c0135a6957be6b", null ],
+    [ "DistrhoArtwork3BandEQ::backgroundData", "namespaceDistrhoArtwork3BandEQ.html#a800a1fdf91011e0a799178f2e12d52dc", null ],
+    [ "DistrhoArtwork3BandEQ::backgroundDataSize", "namespaceDistrhoArtwork3BandEQ.html#a05898f57db32328e8946de94cfc89b8d", null ],
+    [ "DistrhoArtwork3BandEQ::backgroundHeight", "namespaceDistrhoArtwork3BandEQ.html#a84fba89910a90bb086db01b648661a20", null ],
+    [ "DistrhoArtwork3BandEQ::backgroundWidth", "namespaceDistrhoArtwork3BandEQ.html#afd8326346e96bb69c4023fe638537892", null ],
+    [ "DistrhoArtwork3BandEQ::knobData", "namespaceDistrhoArtwork3BandEQ.html#a1bfb32bbda552fa25b46e8865b375c83", null ],
+    [ "DistrhoArtwork3BandEQ::knobDataSize", "namespaceDistrhoArtwork3BandEQ.html#a06f8331bb05e3fd95eeaf722975af73d", null ],
+    [ "DistrhoArtwork3BandEQ::knobHeight", "namespaceDistrhoArtwork3BandEQ.html#a172c76b03f11536fca598d33b4e58786", null ],
+    [ "DistrhoArtwork3BandEQ::knobWidth", "namespaceDistrhoArtwork3BandEQ.html#a8d8ad71f7a2a556c83db89164bcffbe1", null ],
+    [ "DistrhoArtwork3BandEQ::sliderData", "namespaceDistrhoArtwork3BandEQ.html#aa39c4ca4035442cbe55124ce165bd053", null ],
+    [ "DistrhoArtwork3BandEQ::sliderDataSize", "namespaceDistrhoArtwork3BandEQ.html#aa28c0f98af028a38b1b1816a0b2f2025", null ],
+    [ "DistrhoArtwork3BandEQ::sliderHeight", "namespaceDistrhoArtwork3BandEQ.html#af6480144a84f6dd9c155b60679df0593", null ],
+    [ "DistrhoArtwork3BandEQ::sliderWidth", "namespaceDistrhoArtwork3BandEQ.html#aae6222a2512ad8e74f32fa022cb7acba", null ]
+];

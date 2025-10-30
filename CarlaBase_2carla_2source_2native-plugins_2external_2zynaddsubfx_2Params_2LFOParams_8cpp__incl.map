@@ -1,0 +1,71 @@
+<map id="plugins/CarlaBase/carla/source/native&#45;plugins/external/zynaddsubfx/Params/LFOParams.cpp" name="plugins/CarlaBase/carla/source/native&#45;plugins/external/zynaddsubfx/Params/LFOParams.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="957,5,1151,76"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,124,63,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="957,48,790,56,573,71,328,94,82,127,78,127,78,122,82,121,328,88,572,66,790,51,956,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="58,271,114,297"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="957,55,817,73,640,102,445,144,348,170,254,200,181,232,120,265,117,260,178,227,252,195,346,165,444,139,639,97,816,68,956,49"/>
+<area shape="rect" id="Node000004" href="$CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2globals_8h.html" title=" " alt="" coords="1556,271,1638,297"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1152,46,1246,60,1353,87,1408,107,1462,131,1512,161,1559,196,1580,224,1593,255,1588,257,1576,227,1555,200,1509,165,1459,136,1406,112,1352,93,1245,66,1151,51"/>
+<area shape="rect" id="Node000005" href="$CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Misc_2Util_8h.html" title=" " alt="" coords="681,124,774,150"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="957,72,785,122,784,117,956,67"/>
+<area shape="rect" id="Node000011" href="$ports_8h.html" title=" " alt="" coords="729,198,822,223"/>
+<area shape="poly" id="edge40_Node000001_Node000011" title=" " alt="" coords="998,79,810,192,807,187,995,74"/>
+<area shape="rect" id="Node000023" href="$port-sugar_8h.html" title=" " alt="" coords="993,198,1115,223"/>
+<area shape="poly" id="edge39_Node000001_Node000023" title=" " alt="" coords="1057,77,1057,182,1051,182,1051,77"/>
+<area shape="rect" id="Node000026" href="$CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Misc_2XMLwrapper_8h.html" title=" " alt="" coords="1139,198,1286,223"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="1089,75,1193,185,1189,188,1085,78"/>
+<area shape="rect" id="Node000030" href="$native-plugins_2external_2zynaddsubfx_2Misc_2Time_8h.html" title=" " alt="" coords="1324,198,1426,223"/>
+<area shape="poly" id="edge31_Node000001_Node000030" title=" " alt="" coords="1152,62,1223,87,1293,122,1330,152,1359,184,1355,188,1327,156,1290,126,1221,92,1151,67"/>
+<area shape="rect" id="Node000031" href="$CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Params_2LFOParams_8h.html" title=" " alt="" coords="1178,124,1280,150"/>
+<area shape="poly" id="edge34_Node000001_Node000031" title=" " alt="" coords="1120,74,1194,114,1192,119,1117,79"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="942,271,995,297"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="751,148,835,195,939,260,936,265,833,200,748,152"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="537,198,606,223"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="702,153,613,193,611,188,700,148"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="840,345,903,371"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="681,146,531,166,348,200,267,221,206,245,186,257,174,270,172,282,179,295,191,303,212,311,276,323,362,333,461,341,666,350,824,353,824,359,666,355,461,346,361,339,275,329,210,316,188,308,175,299,166,283,169,267,182,253,203,240,265,216,346,195,530,161,680,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="630,198,704,223"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="719,152,689,187,685,184,715,148"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="474,198,514,223"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="684,153,529,199,528,194,682,148"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="737,148,761,183,756,186,733,151"/>
+<area shape="poly" id="edge22_Node000005_Node000023" title=" " alt="" coords="775,146,984,191,983,196,774,151"/>
+<area shape="poly" id="edge20_Node000011_Node000003" title=" " alt="" coords="728,224,717,226,566,244,447,253,329,260,177,274,130,280,129,274,176,269,328,255,447,248,565,239,716,221,728,219"/>
+<area shape="poly" id="edge21_Node000011_Node000006" title=" " alt="" coords="809,221,928,265,926,270,807,226"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1020,271,1077,297"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="823,221,1006,268,1004,273,822,226"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="189,271,266,297"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="728,224,717,226,596,241,501,249,404,257,282,274,281,268,404,252,500,244,596,236,716,221,728,219"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="290,271,386,297"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="729,224,717,226,561,250,401,274,400,268,560,244,716,221,728,219"/>
+<area shape="rect" id="Node000015" href="$rtosc_8h.html" title=" " alt="" coords="825,271,918,297"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="793,222,845,260,842,264,790,226"/>
+<area shape="rect" id="Node000019" href="$rtosc-version_8h.html" title=" " alt="" coords="410,271,549,297"/>
+<area shape="poly" id="edge16_Node000011_Node000019" title=" " alt="" coords="729,226,545,270,544,265,728,220"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="573,271,634,297"/>
+<area shape="poly" id="edge17_Node000011_Node000020" title=" " alt="" coords="747,226,648,267,646,263,745,221"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="658,271,717,297"/>
+<area shape="poly" id="edge18_Node000011_Node000021" title=" " alt="" coords="762,226,716,264,712,259,759,222"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="742,271,801,297"/>
+<area shape="poly" id="edge19_Node000011_Node000022" title=" " alt="" coords="777,224,776,256,770,256,772,223"/>
+<area shape="poly" id="edge15_Node000015_Node000008" title=" " alt="" coords="874,297,874,329,869,329,869,297"/>
+<area shape="rect" id="Node000024" href="$assert_8h.html" title=" " alt="" coords="1207,271,1274,297"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="1087,221,1196,263,1194,268,1085,226"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="1101,271,1183,297"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="1071,222,1117,259,1114,264,1067,226"/>
+<area shape="poly" id="edge27_Node000026_Node000006" title=" " alt="" coords="1172,226,1011,273,1010,268,1171,221"/>
+<area shape="poly" id="edge28_Node000026_Node000012" title=" " alt="" coords="1186,226,1091,267,1089,262,1184,221"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="1299,271,1361,297"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="1234,222,1299,261,1296,265,1231,226"/>
+<area shape="rect" id="Node000028" href="$zyn-version_8h.html" title=" " alt="" coords="1435,271,1532,297"/>
+<area shape="poly" id="edge29_Node000026_Node000028" title=" " alt="" coords="1259,221,1423,264,1422,269,1258,226"/>
+<area shape="rect" id="Node000029" title=" " alt="" coords="1454,345,1513,371"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="1486,297,1486,329,1481,329,1481,297"/>
+<area shape="poly" id="edge33_Node000030_Node000004" title=" " alt="" coords="1414,221,1546,264,1544,269,1412,226"/>
+<area shape="poly" id="edge32_Node000030_Node000008" title=" " alt="" coords="1382,223,1387,260,1385,280,1375,299,1350,311,1306,322,1179,339,1036,350,919,357,918,352,1035,345,1178,333,1305,317,1348,306,1371,295,1380,279,1382,260,1377,224"/>
+<area shape="poly" id="edge36_Node000031_Node000011" title=" " alt="" coords="1178,149,838,202,837,197,1177,144"/>
+<area shape="poly" id="edge35_Node000031_Node000030" title=" " alt="" coords="1255,148,1338,188,1335,193,1252,153"/>
+<area shape="rect" id="Node000032" href="$CarlaBase_2carla_2source_2native-plugins_2external_2zynaddsubfx_2Params_2Presets_8h.html" title=" " alt="" coords="1468,198,1544,223"/>
+<area shape="poly" id="edge37_Node000031_Node000032" title=" " alt="" coords="1276,148,1454,193,1452,198,1275,153"/>
+<area shape="poly" id="edge38_Node000032_Node000004" title=" " alt="" coords="1523,222,1571,260,1568,264,1520,226"/>
+</map>

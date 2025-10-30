@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classJack_1_1JackAtomicState.html" title=" " alt="" coords="219,5,405,46"/>
+<area shape="rect" id="Node000001" href="$classJack_1_1JackGraphManager.html" title="Graph manager: contains the connection manager and the port array." alt="" coords="453,42,621,68"/>
+<area shape="poly" id="edge1850_Node000000_Node000001" title=" " alt="" coords="421,37,453,41,452,47,420,42"/>
+<area shape="rect" id="Node000004" href="$classJack_1_1JackShmMemAble.html" title="A class which objects possibly want to be allocated in shared memory derives from this class." alt="" coords="5,96,171,121"/>
+<area shape="rect" id="Node000005" href="$structJack_1_1JackClientControl.html" title="Client control possibly in shared memory." alt="" coords="233,70,390,96"/>
+<area shape="poly" id="edge1851_Node000004_Node000005" title=" " alt="" coords="186,95,232,89,233,95,186,100"/>
+<area shape="rect" id="Node000002" href="$classJack_1_1JackShmMem.html" title="The base class for shared memory management." alt="" coords="242,120,382,145"/>
+<area shape="poly" id="edge1852_Node000004_Node000002" title=" " alt="" coords="186,116,242,122,242,128,186,121"/>
+<area shape="poly" id="edge1854_Node000002_Node000001" title=" " alt="" coords="383,112,404,106,505,66,507,71,406,111,385,117"/>
+<area shape="rect" id="Node000003" href="$structJack_1_1JackEngineControl.html" title="Engine control in shared memory." alt="" coords="456,120,619,145"/>
+<area shape="poly" id="edge1853_Node000002_Node000003" title=" " alt="" coords="397,130,455,130,455,135,397,135"/>
+</map>

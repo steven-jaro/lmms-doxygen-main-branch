@@ -1,0 +1,43 @@
+<map id="plugins/LadspaEffect/LadspaEffect.h" name="plugins/LadspaEffect/LadspaEffect.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,5,359,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="75,94,141,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,49,150,90,148,85,242,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="165,94,230,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,48,224,86,221,82,264,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,94,323,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,46,291,78,285,78,285,46"/>
+<area shape="rect" id="Node000005" href="$LadspaControls_8h.html" title=" " alt="" coords="347,94,469,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="319,44,379,83,376,88,316,49"/>
+<area shape="rect" id="Node000062" href="$LadspaManager_8h.html" title=" " alt="" coords="555,241,680,267"/>
+<area shape="poly" id="edge15_Node000001_Node000062" title=" " alt="" coords="361,40,422,60,483,92,521,124,556,160,604,226,600,230,551,163,518,127,480,96,420,65,359,45"/>
+<area shape="rect" id="Node000006" href="$EffectControls_8h.html" title=" " alt="" coords="352,168,464,193"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="411,120,411,152,405,152,405,120"/>
+<area shape="rect" id="Node000057" href="$LadspaMatrixControlDialog_8h.html" title=" " alt="" coords="91,168,277,193"/>
+<area shape="poly" id="edge12_Node000005_Node000057" title=" " alt="" coords="371,123,237,165,236,160,369,118"/>
+<area shape="rect" id="Node000007" href="$Model_8h.html" title=" " alt="" coords="464,241,530,267"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="425,192,472,229,469,234,421,196"/>
+<area shape="rect" id="Node000011" href="$JournallingObject_8h.html" title=" " alt="" coords="221,241,352,267"/>
+<area shape="poly" id="edge9_Node000006_Node000011" title=" " alt="" coords="389,196,322,235,319,231,386,192"/>
+<area shape="rect" id="Node000017" href="$include_2Effect_8h.html" title=" " alt="" coords="376,241,440,267"/>
+<area shape="poly" id="edge11_Node000006_Node000017" title=" " alt="" coords="411,194,411,226,405,226,405,194"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="366,315,431,341"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="482,270,429,308,426,304,479,265"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="455,315,561,341"/>
+<area shape="poly" id="edge8_Node000007_Node000010" title=" " alt="" coords="502,267,507,299,501,300,496,268"/>
+<area shape="rect" id="Node000013" href="$LmmsTypes_8h.html" title=" " alt="" coords="235,315,338,341"/>
+<area shape="poly" id="edge10_Node000011_Node000013" title=" " alt="" coords="289,267,289,299,284,299,284,267"/>
+<area shape="poly" id="edge14_Node000057_Node000013" title=" " alt="" coords="188,193,195,228,212,266,231,287,253,304,250,309,227,291,207,268,190,229,183,194"/>
+<area shape="rect" id="Node000058" href="$EffectControlDialog_8h.html" title=" " alt="" coords="5,241,147,267"/>
+<area shape="poly" id="edge13_Node000057_Node000058" title=" " alt="" coords="167,196,109,235,106,230,164,192"/>
+<area shape="poly" id="edge19_Node000062_Node000008" title=" " alt="" coords="581,270,447,313,446,308,579,265"/>
+<area shape="poly" id="edge21_Node000062_Node000010" title=" " alt="" coords="600,270,541,309,538,304,597,265"/>
+<area shape="poly" id="edge22_Node000062_Node000013" title=" " alt="" coords="561,270,354,315,353,310,560,265"/>
+<area shape="rect" id="Node000063" href="$include_2ladspa_8h.html" title=" " alt="" coords="856,315,925,341"/>
+<area shape="poly" id="edge16_Node000062_Node000063" title=" " alt="" coords="664,265,841,311,840,316,663,270"/>
+<area shape="rect" id="Node000047" title=" " alt="" coords="585,315,642,341"/>
+<area shape="poly" id="edge17_Node000062_Node000047" title=" " alt="" coords="619,267,618,300,612,299,614,267"/>
+<area shape="rect" id="Node000064" title=" " alt="" coords="666,315,720,341"/>
+<area shape="poly" id="edge18_Node000062_Node000064" title=" " alt="" coords="632,266,671,302,668,306,628,269"/>
+<area shape="rect" id="Node000054" title=" " alt="" coords="744,315,832,341"/>
+<area shape="poly" id="edge20_Node000062_Node000054" title=" " alt="" coords="647,265,746,306,744,311,645,270"/>
+</map>

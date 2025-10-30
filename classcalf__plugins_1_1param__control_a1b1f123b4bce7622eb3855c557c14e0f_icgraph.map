@@ -1,0 +1,81 @@
+<map id="calf_plugins::param_control::get_props" name="calf_plugins::param_control::get_props">
+<area shape="rect" id="Node000001" title=" " alt="" coords="837,909,969,950"/>
+<area shape="rect" id="Node000002" href="$structcalf__plugins_1_1button__param__control.html#a449e0d638ebdf373b3c1de5676a006ea" title="called to create a widget for a control" alt="" coords="632,5,784,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="899,894,894,722,878,475,864,348,845,231,819,134,804,96,787,66,768,49,771,45,791,63,808,93,824,132,850,230,869,348,884,475,899,721,904,894"/>
+<area shape="rect" id="Node000003" href="$structcalf__plugins_1_1combo__box__param__control.html#a30283aa0903397dc88b1114369278027" title="called to create a widget for a control" alt="" coords="201,88,344,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="897,894,884,715,860,464,845,340,827,232,808,152,797,125,787,110,755,94,709,84,653,80,590,80,458,91,345,107,345,101,458,86,590,75,653,74,710,79,757,89,790,106,802,123,813,150,833,231,850,340,866,464,889,714,902,893"/>
+<area shape="rect" id="Node000004" href="$structcalf__plugins_1_1hscale__param__control.html#a8489c8e651dab2a41f6702702213c61d" title="called to create a widget for a control" alt="" coords="197,939,349,979"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="821,929,789,928,708,927,627,928,479,939,350,952,349,947,479,934,627,923,708,921,789,923,821,924"/>
+<area shape="rect" id="Node000005" href="$structcalf__plugins_1_1knob__param__control.html#a612e5e747654070c76007e2541b782a3" title="called to create a widget for a control" alt="" coords="632,185,784,226"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="897,894,889,753,870,558,856,459,837,368,814,293,801,263,787,241,773,228,777,225,791,237,806,261,819,291,842,366,861,458,876,557,895,752,903,894"/>
+<area shape="rect" id="Node000006" href="$structcalf__plugins_1_1label__param__control.html#a16aa7e030f4fe336fb4fd28fae87d9dd" title="called to create a widget for a control" alt="" coords="632,251,784,291"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="897,894,887,765,866,590,852,501,834,420,812,352,787,306,773,294,777,290,791,303,817,350,839,418,857,500,872,589,892,765,902,894"/>
+<area shape="rect" id="Node000007" href="$structcalf__plugins_1_1radio__param__control.html#a8ee870dcfff790bcaf0814abcb7c5850" title="called to create a widget for a control" alt="" coords="632,316,784,357"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="896,894,884,777,862,621,848,543,830,471,810,412,787,371,773,359,776,355,791,368,815,410,835,470,853,542,868,621,889,777,901,894"/>
+<area shape="rect" id="Node000008" href="$structcalf__plugins_1_1spin__param__control.html#a85ffe4c7bf52b3fbb7a66096c359579c" title="called to create a widget for a control" alt="" coords="632,381,784,422"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="895,894,881,790,858,654,827,523,808,472,787,437,773,425,776,421,791,433,812,470,832,522,864,653,887,789,900,894"/>
+<area shape="rect" id="Node000009" href="$structcalf__plugins_1_1value__param__control.html#a937b892eaab3ee2df16c44474d1e2e74" title="called to create a widget for a control" alt="" coords="632,447,784,487"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="900,894,896,815,881,710,867,654,847,599,821,547,787,501,774,490,778,486,791,497,825,545,852,597,872,653,886,709,902,814,905,894"/>
+<area shape="rect" id="Node000010" href="$structcalf__plugins_1_1vscale__param__control.html#aa179b62bf80b11e16330621ea591b397" title="called to create a widget for a control" alt="" coords="197,1161,349,1202"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="898,966,886,1012,865,1065,834,1117,814,1140,790,1159,756,1174,708,1184,590,1194,461,1194,349,1190,350,1184,461,1189,589,1189,708,1179,754,1169,787,1154,810,1136,830,1114,860,1063,881,1010,893,965"/>
+<area shape="rect" id="Node000011" href="$classcalf__plugins_1_1param__control.html#a701590ae3358a6666fc1d2c21dc8cfda" title=" " alt="" coords="397,577,579,618"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="896,894,888,836,869,766,855,730,837,696,814,665,787,638,764,623,740,611,686,596,631,589,580,589,580,584,632,584,687,590,741,606,767,619,790,634,819,661,842,693,860,728,875,764,893,835,902,893"/>
+<area shape="rect" id="Node000012" href="$classcalf__plugins_1_1param__control.html#a557a113b7a74b9ec13021048887b7c94" title=" " alt="" coords="207,599,339,655"/>
+<area shape="poly" id="edge28_Node000001_Node000012" title=" " alt="" coords="894,895,883,845,863,787,832,729,811,704,787,683,764,674,721,665,599,651,339,633,340,627,600,645,722,660,765,668,790,678,815,700,836,726,868,784,888,844,899,893"/>
+<area shape="rect" id="Node000015" href="$structcalf__plugins_1_1button__param__control.html#ab68eb3db1320baf636ab6c63894dcf69" title="called to transfer the value from control to parameter(s)" alt="" coords="641,692,775,733"/>
+<area shape="poly" id="edge13_Node000001_Node000015" title=" " alt="" coords="886,897,848,822,820,783,787,748,769,735,772,731,790,744,824,779,852,819,891,894"/>
+<area shape="rect" id="Node000016" href="$structcalf__plugins_1_1check__param__control.html#a4987c2eca599a4152f7dd7d421aad55b" title="called to transfer the value from control to parameter(s)" alt="" coords="641,757,775,798"/>
+<area shape="poly" id="edge14_Node000001_Node000016" title=" " alt="" coords="875,899,836,855,787,813,766,801,768,796,790,809,840,851,879,895"/>
+<area shape="rect" id="Node000017" href="$structcalf__plugins_1_1combo__box__param__control.html#acbbef54e6d5144742204fd4082c9d6a0" title="called to transfer the value from control to parameter(s)" alt="" coords="627,120,789,161"/>
+<area shape="poly" id="edge15_Node000001_Node000017" title=" " alt="" coords="898,894,891,741,874,527,860,417,841,316,816,233,802,200,787,175,773,163,777,159,791,172,807,198,821,231,846,315,865,416,879,526,897,741,903,894"/>
+<area shape="rect" id="Node000019" href="$structcalf__plugins_1_1hscale__param__control.html#a293e332d2c83e682dbf1985cfbbd518b" title="called to transfer the value from control to parameter(s)" alt="" coords="641,823,775,863"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="840,905,755,866,757,862,842,900"/>
+<area shape="rect" id="Node000021" href="$structcalf__plugins_1_1knob__param__control.html#a3db8ac1c30901543d00d68c5e99691de" title="called to transfer the value from control to parameter(s)" alt="" coords="641,937,775,978"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="822,944,776,951,775,945,821,939"/>
+<area shape="rect" id="Node000022" href="$structcalf__plugins_1_1toggle__param__control.html#ab4a9e7b7a28a2995e5042b1f9d577f94" title="called to transfer the value from control to parameter(s)" alt="" coords="641,1003,775,1043"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="852,960,790,992,762,1005,760,1000,788,987,850,955"/>
+<area shape="rect" id="Node000023" href="$structcalf__plugins_1_1vscale__param__control.html#a02e21533f5ccc8b0e1e447c4eae20cb0" title="called to transfer the value from control to parameter(s)" alt="" coords="641,1807,775,1847"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="904,965,900,1138,885,1384,871,1512,852,1629,825,1727,809,1765,791,1795,778,1808,774,1804,787,1792,804,1763,820,1725,846,1628,866,1511,880,1384,895,1137,899,965"/>
+<area shape="rect" id="Node000025" href="$structcalf__plugins_1_1hscale__param__control.html#ae5406e9697f0852f643ea52e36af7d76" title=" " alt="" coords="411,988,565,1044"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="885,965,846,1015,820,1039,790,1057,761,1068,730,1073,668,1073,608,1063,556,1047,557,1042,609,1058,668,1068,729,1068,759,1062,788,1053,817,1035,842,1012,880,962"/>
+<area shape="rect" id="Node000026" href="$gui__controls_8cpp.html#a1eb6b4bd4aa2ad70afe847791e3a92dd" title=" " alt="" coords="650,1118,766,1144"/>
+<area shape="poly" id="edge29_Node000001_Node000026" title=" " alt="" coords="889,965,850,1033,823,1069,790,1101,757,1120,755,1115,787,1097,819,1066,845,1030,884,963"/>
+<area shape="rect" id="Node000028" href="$structcalf__plugins_1_1button__param__control.html#aea07f4150b56465792d5bd108cde12a6" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1219,775,1259"/>
+<area shape="poly" id="edge33_Node000001_Node000028" title=" " alt="" coords="898,966,885,1017,864,1079,833,1144,813,1175,791,1202,767,1220,764,1216,787,1198,809,1171,828,1141,859,1077,880,1016,892,965"/>
+<area shape="rect" id="Node000029" href="$structcalf__plugins_1_1check__param__control.html#aea95294f98b5f86e8fcf3a4eab1b74c5" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1284,775,1325"/>
+<area shape="poly" id="edge34_Node000001_Node000029" title=" " alt="" coords="902,966,893,1030,875,1111,860,1154,842,1197,819,1237,791,1273,775,1286,772,1281,787,1269,814,1234,837,1194,855,1152,870,1110,888,1029,897,965"/>
+<area shape="rect" id="Node000030" href="$structcalf__plugins_1_1combo__box__param__control.html#a56d7272392765ddd381166f03b621740" title="called to transfer the value from parameter(s) to control" alt="" coords="627,1349,789,1390"/>
+<area shape="poly" id="edge35_Node000001_Node000030" title=" " alt="" coords="904,966,899,1041,883,1140,869,1192,849,1244,823,1294,791,1338,776,1351,772,1347,787,1335,819,1291,844,1242,864,1191,878,1138,894,1040,899,965"/>
+<area shape="rect" id="Node000031" href="$structcalf__plugins_1_1hscale__param__control.html#a89c20d30e86e4632f80748ef4a18eb31" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1415,775,1455"/>
+<area shape="poly" id="edge36_Node000001_Node000031" title=" " alt="" coords="900,965,886,1065,862,1195,830,1320,812,1369,791,1403,776,1416,773,1412,787,1400,807,1366,825,1318,857,1194,880,1065,895,965"/>
+<area shape="rect" id="Node000032" href="$structcalf__plugins_1_1knob__param__control.html#a995401a24728a3dd6766963c85f0cf71" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1480,775,1521"/>
+<area shape="poly" id="edge37_Node000001_Node000032" title=" " alt="" coords="901,966,889,1079,866,1228,851,1303,834,1372,814,1429,791,1469,776,1482,773,1478,787,1465,809,1426,829,1370,846,1302,861,1227,883,1078,896,965"/>
+<area shape="rect" id="Node000033" href="$structcalf__plugins_1_1radio__param__control.html#a2ad0a556a6e5d3e97df3d5b331b34a3a" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1545,775,1586"/>
+<area shape="poly" id="edge38_Node000001_Node000033" title=" " alt="" coords="902,966,891,1091,870,1260,856,1345,838,1423,816,1488,791,1534,777,1547,773,1543,787,1531,811,1486,832,1422,850,1344,865,1259,886,1090,897,965"/>
+<area shape="rect" id="Node000034" href="$structcalf__plugins_1_1toggle__param__control.html#aad3a3098e8f3c788a4f595342d8d0ce3" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1611,775,1651"/>
+<area shape="poly" id="edge39_Node000001_Node000034" title=" " alt="" coords="903,965,894,1102,874,1291,860,1387,841,1475,818,1548,805,1577,791,1599,777,1612,773,1608,787,1596,801,1574,813,1546,836,1473,854,1386,869,1290,888,1102,897,965"/>
+<area shape="rect" id="Node000035" href="$structcalf__plugins_1_1value__param__control.html#a5acd83e0803f25dc3ef0ac7c2bf53f09" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1676,775,1717"/>
+<area shape="poly" id="edge40_Node000001_Node000035" title=" " alt="" coords="903,966,896,1115,878,1323,864,1429,845,1527,821,1608,806,1640,791,1665,777,1677,773,1674,787,1661,802,1637,816,1606,839,1525,858,1428,873,1322,891,1115,898,966"/>
+<area shape="rect" id="Node000036" href="$structcalf__plugins_1_1vscale__param__control.html#a2a56899f3838f46ec5c128aa24af322b" title="called to transfer the value from parameter(s) to control" alt="" coords="641,1741,775,1782"/>
+<area shape="poly" id="edge41_Node000001_Node000036" title=" " alt="" coords="904,966,898,1127,882,1354,867,1471,848,1578,823,1667,808,1702,791,1730,777,1743,773,1739,787,1727,803,1700,818,1665,843,1577,862,1470,876,1353,893,1126,898,966"/>
+<area shape="rect" id="Node000037" href="$classcalf__plugins_1_1param__control.html#a29bccacdafd2045734149ec89c02c4ab" title=" " alt="" coords="638,511,778,567"/>
+<area shape="poly" id="edge42_Node000001_Node000037" title=" " alt="" coords="896,895,886,831,866,751,834,665,813,625,787,587,767,569,771,566,791,584,817,622,839,663,871,749,891,830,901,894"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="382,615,340,621,339,615,381,610"/>
+<area shape="rect" id="Node000013" href="$classcalf__plugins_1_1param__control.html#af76cd261ed5b8d37197bcf0fc97810b4" title="called from created() to add context menu handlers" alt="" coords="5,599,149,655"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="191,630,149,630,149,624,191,624"/>
+<area shape="rect" id="Node000018" href="$structcalf__plugins_1_1combo__box__param__control.html#a6693f1b5277da189f0d199b992b31767" title=" " alt="" coords="411,120,565,176"/>
+<area shape="poly" id="edge16_Node000017_Node000018" title=" " alt="" coords="612,146,566,148,566,143,612,141"/>
+<area shape="poly" id="edge17_Node000018_Node000003" title=" " alt="" coords="395,137,344,130,345,124,396,132"/>
+<area shape="rect" id="Node000020" href="$structcalf__plugins_1_1hscale__param__control.html#aa0dae34361560a9cdba7318090723426" title=" " alt="" coords="411,807,565,863"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="625,843,566,840,566,835,625,837"/>
+<area shape="poly" id="edge20_Node000020_Node000004" title=" " alt="" coords="418,873,398,884,307,941,304,936,396,879,416,868"/>
+<area shape="rect" id="Node000024" href="$structcalf__plugins_1_1vscale__param__control.html#aca26c9cc6a2fb8281888146d9b2a32ce" title=" " alt="" coords="411,1508,565,1564"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="631,1800,626,1796,600,1769,577,1739,539,1675,512,1614,495,1566,500,1564,517,1612,544,1673,581,1736,604,1765,629,1792,634,1796"/>
+<area shape="poly" id="edge25_Node000024_Node000010" title=" " alt="" coords="460,1497,284,1204,289,1201,464,1494"/>
+<area shape="poly" id="edge27_Node000025_Node000004" title=" " alt="" coords="395,994,349,982,350,977,397,989"/>
+<area shape="rect" id="Node000027" href="$gui__controls_8cpp.html#ade2d48c791cf35cde75794e78d887bf5" title=" " alt="" coords="421,1118,555,1144"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="634,1134,556,1134,556,1128,634,1128"/>
+<area shape="poly" id="edge31_Node000027_Node000004" title=" " alt="" coords="457,1110,298,982,301,978,460,1106"/>
+<area shape="poly" id="edge32_Node000027_Node000010" title=" " alt="" coords="417,1150,350,1166,349,1161,415,1145"/>
+<area shape="poly" id="edge43_Node000037_Node000011" title=" " alt="" coords="624,564,568,579,567,574,623,559"/>
+</map>

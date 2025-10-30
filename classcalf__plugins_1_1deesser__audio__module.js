@@ -1,0 +1,37 @@
+var classcalf__plugins_1_1deesser__audio__module =
+[
+    [ "CalfDeessModes", "classcalf__plugins_1_1deesser__audio__module.html#a4f95855933c0970f3df960df5820efdb", [
+      [ "WIDE", "classcalf__plugins_1_1deesser__audio__module.html#a4f95855933c0970f3df960df5820efdba5117332c6811f6d5f5ebe2c4a093d587", null ],
+      [ "SPLIT", "classcalf__plugins_1_1deesser__audio__module.html#a4f95855933c0970f3df960df5820efdba778fef32eb8694ecf286d2901f73c47b", null ]
+    ] ],
+    [ "deesser_audio_module", "classcalf__plugins_1_1deesser__audio__module.html#a7ff3cab5a963ee07884b9299e3c0f5df", null ],
+    [ "activate", "classcalf__plugins_1_1deesser__audio__module.html#a801e70503f0663a9d075c965ae2b34f8", null ],
+    [ "deactivate", "classcalf__plugins_1_1deesser__audio__module.html#ad80cb3b58fd3068ea1a93f74942af6f5", null ],
+    [ "freq_gain", "classcalf__plugins_1_1deesser__audio__module.html#a62a52a0cc9944d30245cd37b9c6472b9", null ],
+    [ "params_changed", "classcalf__plugins_1_1deesser__audio__module.html#aaa9315a0354c980e8397bc02b4c4465a", null ],
+    [ "process", "classcalf__plugins_1_1deesser__audio__module.html#aaa139ca0ef12c5eb739c6778b220f7af", null ],
+    [ "set_sample_rate", "classcalf__plugins_1_1deesser__audio__module.html#a371c6643b1e615c619272efce1db1167", null ],
+    [ "bypass", "classcalf__plugins_1_1deesser__audio__module.html#a7fad9291783bf97ed60df27749a17f29", null ],
+    [ "compressor", "classcalf__plugins_1_1deesser__audio__module.html#a3fd186907bb390e458b9a85bd0c9ca16", null ],
+    [ "detected", "classcalf__plugins_1_1deesser__audio__module.html#ae5480a9fe5e11d679ec4d01e44cedc31", null ],
+    [ "detected_led", "classcalf__plugins_1_1deesser__audio__module.html#a9c6df03b004a9d3dcced1b337d74f5c2", null ],
+    [ "f1_freq_old", "classcalf__plugins_1_1deesser__audio__module.html#a377adecb7313703f52e6056589d86f0b", null ],
+    [ "f1_freq_old1", "classcalf__plugins_1_1deesser__audio__module.html#aef754bcbbee3b09684d823f27d761975", null ],
+    [ "f1_level_old", "classcalf__plugins_1_1deesser__audio__module.html#a433f70ced60733ff369e4834a6f2c619", null ],
+    [ "f1_level_old1", "classcalf__plugins_1_1deesser__audio__module.html#a59b91284ad5e6050600ef6f207f5a41f", null ],
+    [ "f2_freq_old", "classcalf__plugins_1_1deesser__audio__module.html#a3fa0b0fc7ff41b5286aeeca4469b75a6", null ],
+    [ "f2_freq_old1", "classcalf__plugins_1_1deesser__audio__module.html#a1bff4d5f3c416ff5569092d0b9439a03", null ],
+    [ "f2_level_old", "classcalf__plugins_1_1deesser__audio__module.html#a8bbc1fbfea818607f2e469345531372a", null ],
+    [ "f2_level_old1", "classcalf__plugins_1_1deesser__audio__module.html#a1265f1c53646bbb50983010c8c187f72", null ],
+    [ "f2_q_old", "classcalf__plugins_1_1deesser__audio__module.html#adde9e611fdc274d80567b6e923f63107", null ],
+    [ "f2_q_old1", "classcalf__plugins_1_1deesser__audio__module.html#a711a4e7133083713c40a0a74e6da2cfa", null ],
+    [ "hpL", "classcalf__plugins_1_1deesser__audio__module.html#aa67b15255e2a1c82d3e563b848c7c182", null ],
+    [ "hpR", "classcalf__plugins_1_1deesser__audio__module.html#ae987cc11bdba07d0aa9a806e2bdddfe8", null ],
+    [ "is_active", "classcalf__plugins_1_1deesser__audio__module.html#a5b0cf804f05c52271ed987e3ca75f6ee", null ],
+    [ "lpL", "classcalf__plugins_1_1deesser__audio__module.html#a5681229e6ea0db6e03929080443fb177", null ],
+    [ "lpR", "classcalf__plugins_1_1deesser__audio__module.html#aa9fe3f5f6a43b0e9a0e3f3ecb5541684", null ],
+    [ "meters", "classcalf__plugins_1_1deesser__audio__module.html#a1f7402a2be82a51b61c07c6084c34c2f", null ],
+    [ "pL", "classcalf__plugins_1_1deesser__audio__module.html#a579682182d1573fa70fa62ea51cf3289", null ],
+    [ "pR", "classcalf__plugins_1_1deesser__audio__module.html#a9a759e39967a8ad0eacec67e368f7ab8", null ],
+    [ "srate", "classcalf__plugins_1_1deesser__audio__module.html#a114e6b9a21dc8432318e26a6329342d5", null ]
+];

@@ -1,0 +1,24 @@
+<map id="juce::AudioProcessorGraph::removeNode" name="juce::AudioProcessorGraph::removeNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,184,111"/>
+<area shape="rect" id="Node000002" href="$classAudioProcessorGraph.html#ad2b324738601e1427f17b04b6d238848" title=" " alt="" coords="247,5,395,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,68,233,48,234,53,168,73"/>
+<area shape="rect" id="Node000003" href="$classwater_1_1AudioProcessor.html#a32ed7f0e1f90544fbf1de5f2cdb7a56e" title=" " alt="" coords="245,71,396,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,88,229,88,229,94,184,94"/>
+<area shape="rect" id="Node000004" href="$classjuce_1_1AudioProcessorGraph.html#aff099d1225982f84a6c9d2408078a459" title=" " alt="" coords="232,160,410,201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,109,254,151,252,156,147,114"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="278,160,276,150,283,141,298,135,321,133,345,136,360,142,358,147,344,141,321,139,299,141,286,145,281,151,283,159"/>
+<area shape="rect" id="Node000005" href="$classjuce_1_1ChangeBroadcaster.html#a1903f8dec57627997bbbf3d042d3b670" title=" " alt="" coords="476,119,641,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="410,162,460,153,461,159,411,167"/>
+<area shape="rect" id="Node000006" href="$namespacejuce.html#aa26bf498e595631ef7395aa19a4b3954" title=" " alt="" coords="458,208,658,233"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="411,193,463,202,462,207,410,198"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="516,119,514,109,521,100,536,94,558,92,583,94,597,101,595,106,581,100,558,97,537,99,524,104,519,110,521,117"/>
+<area shape="poly" id="edge13_Node000006_Node000006" title=" " alt="" coords="521,209,513,199,518,189,533,183,558,181,586,184,600,190,597,195,584,189,558,186,534,188,521,193,519,198,525,205"/>
+<area shape="rect" id="Node000007" href="$classjuce_1_1MessageManager.html#afcdd74093b97dc37b02c91e0e413a15c" title=" " alt="" coords="706,135,861,175"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="604,204,696,178,697,183,606,210"/>
+<area shape="rect" id="Node000015" href="$classjuce_1_1AsyncUpdater.html#a47fe71171a1c9bca085edc5d36e37d94" title=" " alt="" coords="712,200,855,241"/>
+<area shape="poly" id="edge10_Node000006_Node000015" title=" " alt="" coords="658,218,697,218,697,223,658,223"/>
+<area shape="rect" id="Node000016" href="$classjuce_1_1AsyncUpdater.html#ad0efdd9d03210cede6c6a7886519cf31" title=" " alt="" coords="713,289,854,330"/>
+<area shape="poly" id="edge11_Node000006_Node000016" title=" " alt="" coords="594,231,717,281,715,286,592,236"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="741,135,739,125,746,116,761,110,784,108,808,110,822,117,820,122,807,116,783,113,762,115,749,120,744,126,746,133"/>
+<area shape="poly" id="edge12_Node000016_Node000016" title=" " alt="" coords="741,289,739,279,746,270,761,265,784,263,808,265,822,271,820,276,807,270,783,268,762,270,749,275,744,281,746,288"/>
+</map>
